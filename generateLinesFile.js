@@ -100,4 +100,6 @@ const generateLinesFile = async () => {
     }
 }
 
-generateLinesFile();
+module.exports = {
+    generateLinesFile,
+}

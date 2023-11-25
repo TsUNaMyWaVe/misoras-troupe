@@ -1,5 +1,5 @@
 const _ = require("lodash");
-require("../../generateLinesFile");
+const generateLinesFile = require("../../generateLinesFile");
 const backgroundsFetch = require("./backgroundsFetch");
 const charactersFetch = require("./charactersFetch");
 const linesFetcher = require("./linesFetch");
@@ -7,6 +7,7 @@ const dressesFetcher = require("./dressesFetch");
 const dressesNameById = require("./dressesNameById");
 
 const runModules = async () => {
+    await generateLinesFile.generateLinesFile();
     const backgrounds = await backgroundsFetch();
     const pickBackground = (backgrounds) => {
         return backgrounds[Math.floor(Math.random() * (backgrounds.length - 1))];
