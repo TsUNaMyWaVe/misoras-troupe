@@ -11,7 +11,9 @@ block layout-content
             div.Details We are finally up!
                 br
                 | Feel free to @tsunamy_wave at any Starlight Discord server she's at for feedback~
-        div.Message(style="top: 200px; right: 50px;")
+        div.Message(id='dynamicTop' style="top: 200px; right: 50px;")
+            script
+                include resizeScript.js
             div.Title
                 h1 Choose a character
                 h2 Seisho Music Academy
