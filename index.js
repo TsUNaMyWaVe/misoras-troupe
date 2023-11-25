@@ -6,13 +6,14 @@ const _ = require("lodash");
 const path = require("path");
 const modulesRunner = require("./App/Modules/index");
 
+(async () => {
 /**
 * App Variables
 */
 
 const app = express();
 const port = process.env.PORT || "3242";
-let appModules;
+const appModules = await modulesRunner.runModules();
 
 /**
 *  App Configuration
@@ -48,5 +49,4 @@ app.get("/chara/:name/:number", async (req, res) => {
 
 app.listen(port, async () => {
     console.log(`Listening to requests on http://localhost:${port}`);
-    appModules = await modulesRunner.runModules();
-})
+})})();
