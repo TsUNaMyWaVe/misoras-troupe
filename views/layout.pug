@@ -1,0 +1,16 @@
+block variables
+doctype html
+html
+    head
+        meta(charset="utf-8")
+        link(rel="shortcut icon", href="/favicon.ico")
+        meta(name="viewport", content="width=device-width, initial-scale=1, shrink-to-fit=no")
+        meta(name="theme-color", content="#000000")
+        title #{title} | Misora's Troupe
+        link(rel="stylesheet" href="/style.css")
+    body(style='background: url(' + backgrounds + ') left; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;')
+        div#root
+            block layout-content
+        footer
+            div.Footer
+                h3 Created by #[a(href="https://twitter.com/TsUNaMy_WaVe" target="_blank" style="padding: 0px;") TsUNaMy WaVe]

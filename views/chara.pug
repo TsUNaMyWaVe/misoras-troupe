@@ -1,0 +1,21 @@
+extends layout
+
+block layout-content
+    div.View
+        div.Banner
+            h1 #[a(href="/" style="padding: 0px;") Misora's Troupe]
+            h3 Relive Characters Lines Database
+        div.Message(style="top: 200px;")
+            h1(style="margin-bottom: 10px") #{title}
+            label.DressMenu Dresses
+            select(onChange="window.location.href=this.value") Dresses
+                each val, index in dresses
+                    if index == number
+                        option(value=`/chara/${name}/${index}` selected) #{val}
+                    else
+                        option(value=`/chara/${name}/${index}`) #{val}
+            each val in lines
+                div.Quotes
+                    h2(style="margin-bottom: 10px; margin-top: 10px") #{val.title}
+                    each line in val.lines
+                        p #{line}       

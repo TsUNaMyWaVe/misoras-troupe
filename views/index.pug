@@ -1,0 +1,52 @@
+extends layout
+
+block layout-content
+    div.View
+        div.Banner
+            h1 #[a(href="/" style="padding: 0px;") Misora's Troupe]
+            h3 Relive Characters Lines Database
+        div.Message(style="top: 200px;")
+            div.Title
+                h3 What's New
+            div.Details We are finally up!
+                br
+                | Feel free to @tsunamy_wave at any Starlight Discord server she's at for feedback~
+        div.Message(style="top: 200px; right: 50px;")
+            div.Title
+                h1 Choose a character
+                h2 Seisho Music Academy
+                    div.NavButtons
+                        each val in characters
+                            if val.school === 1
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
+                h2 Rinmeikan Girls School
+                    div.NavButtons
+                        each val in characters
+                            if val.school === 2
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
+                h2 Frontier School of Arts
+                    div.NavButtons
+                        each val in characters
+                            if val.school === 3
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
+                h2 Siegfeld Institute of Music
+                    div.NavButtons
+                        each val in characters
+                            if val.school === 4
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
+                h2 Seiran General Art Institute
+                    div.NavButtons
+                        each val in characters
+                            if val.school === 5
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
+                h2 Others
+                    div.NavButtons
+                        each val in characters
+                            if val.school > 5
+                                a(href="/chara/" + val.url + "/0")
+                                    div.NavButton #{val.name}
