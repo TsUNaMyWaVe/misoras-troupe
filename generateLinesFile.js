@@ -83,13 +83,15 @@ const formatLinesFile = (charaAction, dresses, characters, costumes) => {
 
 const generateLinesFile = async () => {
     try {
-        await downloadRequiredFiles();
+        if (!process.env.isRender) {
+            await downloadRequiredFiles();
+        }
         const charaAction = generalParsers.charaActionParser();
         const dresses = generalParsers.dressParser();
         const characters = generalParsers.charaParser();
         const costumes = generalParsers.costumeParsers();
         const file = formatLinesFile(charaAction, dresses, characters, costumes);
-        await fs.writeFile(path.join(__dirname, "/public", "chara_action_grouped_2.json"), JSON.stringify(file, null, 4), function(err) {
+        await fs.writeFile(path.join(__dirname, "/public", "chara_action_grouped.json"), JSON.stringify(file, null, 4), function(err) {
             if (err) {
                 console.log(err);
             }

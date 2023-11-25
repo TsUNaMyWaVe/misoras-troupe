@@ -2,7 +2,7 @@ const generalParsers = require("../generalParsers");
 const _ = require("lodash");
 
 module.exports = async (dress, charactersIdByName) => {
-    const linesjson = require("../../public/chara_action_grouped_2.json");
+    const linesjson = require("../../public/chara_action_grouped.json");
     let lines = [];
     let dressObj = _.find(linesjson, (value, key) => {
         return key === dress;

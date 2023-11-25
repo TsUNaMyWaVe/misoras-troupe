@@ -2,7 +2,7 @@ const _ = require("lodash");
 
 module.exports = (name) => {
     let dresses = [];
-    const linesjson = require("../../public/chara_action_grouped_2.json");
+    const linesjson = require("../../public/chara_action_grouped.json");
     _.mapKeys(linesjson, (value, key) => {
         switch (name) {
             case "Sakura":
