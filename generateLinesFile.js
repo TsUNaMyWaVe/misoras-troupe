@@ -19,7 +19,7 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
         if (dress == 0) {
             dressName = `GENERIC ${charaName}`;
         } else if (_.get(charaCostumes, `${dress}.name.en`)) {
-            dressName = `${charaCostumes[dress].name.en} ${charaName}`;
+            dressName = charaCostumes[dress].name.en.includes(charaName) ? `${charaCostumes[dress].name.en}` : `${charaCostumes[dress].name.en} ${charaName}`;
         } else {
             dressName = `UNKNOWN(${dress}) ${charaName}`;
         }
