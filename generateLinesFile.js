@@ -12,6 +12,9 @@ const downloadRequiredFiles = async () => {
 }
 
 const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, charaCostumes) => {
+    if (charaName === 'MeiFan Liu') {
+        charaName = 'Liu Mei Fan';
+    }
     const dresses = _.keys(actionsGroupedById);
     let file = {};
     dresses.map(dress => {

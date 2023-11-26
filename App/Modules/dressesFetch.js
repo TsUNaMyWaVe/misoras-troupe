@@ -11,6 +11,9 @@ module.exports = (name) => {
             case "Gemini":
                 name = "Gemini Sunrise";
                 break;
+            case "Mei fan":
+                name = "Mei Fan";
+                break;
             default:
                 break;
         }
