@@ -879,7 +879,7 @@
             "Renaissance... Renaissance... The more I think about it, the more confused I get."
         ]
     },
-    "UNKNOWN(10100081) Karen Aijo": {
+    "Apollo Karen Aijo (Skin)": {
         "quest_result": [
             "Fights among the gods are on a completely different scale..."
         ],
@@ -1644,7 +1644,7 @@
             "Do you like flowers, too? Then you should enjoy this performance."
         ]
     },
-    "UNKNOWN(10200051) Hikari Kagura": {
+    "Amaterasu Hikari Kagura (Skin)": {
         "quest_result": [
             "I hope I was able to shine the sunlight right."
         ],
@@ -2454,7 +2454,7 @@
             "I watched the cast dance in the parade, and their moves were really sharp. I learned a lot for my own dancing."
         ]
     },
-    "UNKNOWN(10300051) Mahiru Tsuyuzaki": {
+    "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
         "quest_result": [
             "\"Good thing I was able to keep the presents safe!\""
         ],
@@ -2477,7 +2477,7 @@
             "I hope it snows enough that we can all have a big snowball fight! That'd be so much fun!"
         ]
     },
-    "UNKNOWN(10300081) Mahiru Tsuyuzaki": {
+    "Ahiru Kurosawa Mahiru Tsuyuzaki (Skin)": {
         "quest_result": [
             "Everyone's swimming really came together!"
         ],
@@ -4153,7 +4153,7 @@
             "If I'm playing a maid on stage, I'll need to work on cooking and cleaning lessons."
         ]
     },
-    "UNKNOWN(10500051) Maya Tendo": {
+    "Tamamo-no-Mae Maya Tendo (Skin)": {
         "quest_result": [
             "Heh, do be careful of miasma."
         ],
@@ -5002,7 +5002,7 @@
             "I watched a pâtisserie contest on TV, and everything they made was a work of art! I don't think I could bring myself to eat it."
         ]
     },
-    "UNKNOWN(10600071) Junna Hoshimi": {
+    "Minamo Okino Junna Hoshimi (Skin)": {
         "quest_result": [
             "I wonder if the performance was up to scratch."
         ],
@@ -5753,7 +5753,7 @@
             "Yachiyo-chan was asking me all about how rehearsals were going when she was doing my costume fitting. She was really curious about Mei Fan-chan."
         ]
     },
-    "UNKNOWN(10700031) Nana Daiba": {
+    "Phantom Nana Daiba (Skin)": {
         "quest_result": [
             "\"Everything is for her...\""
         ],
@@ -5775,7 +5775,7 @@
             "When I start thinking about how to direct plays like this, I just can't stop♪"
         ]
     },
-    "UNKNOWN(10700071) Nana Daiba": {
+    "Momo Amami Nana Daiba (Skin)": {
         "quest_result": [
             "How was by-the-water Banana?"
         ],
@@ -6321,7 +6321,7 @@
             "I have the urge to practice fight scenes with Akikaze again. Maybe I should give her a call!"
         ]
     },
-    "UNKNOWN(1080018) Futaba Isurugi": {
+    "General Catalina Futaba Isurugi": {
         "quest_result": [
             "I wonder what she's going to say about my Catalina."
         ],
@@ -7230,7 +7230,7 @@
             "Huh? Why am I looking up how to make sweets? ...No reason. I was just curious."
         ]
     },
-    "UNKNOWN(10900031) Kaoruko Hanayagi": {
+    "Mischievous Bat Witch Kaoruko Hanayagi (Skin)": {
         "quest_result": [
             "The bats and I are the stars of the show."
         ],
@@ -8785,7 +8785,7 @@
             "Shiori is going to come watch the play. Heh heh, now I really can't put on a poor performance."
         ]
     },
-    "UNKNOWN(2030012) Fumi Yumeoji": {
+    "PONZU DEVIL Fumi Yumeoji": {
         "quest_result": [
             "I wonder if I got closer to PONZU DEVIL's powerful physique."
         ],
@@ -8983,7 +8983,7 @@
             "PAREO-san is really earnest about the things she likes. I really admire that about her."
         ]
     },
-    "UNKNOWN(20300041) Fumi Yumeoji": {
+    "Angel's Blessing Fumi Yumeoji (Skin)": {
         "quest_result": [
             "I need to get dinner started."
         ],
@@ -10620,7 +10620,7 @@
             "I'll have to think about when to end my etude... If I don't stop myself, I just go on forever."
         ]
     },
-    "UNKNOWN(30100041) Aruru Otsuki": {
+    "Easter Bunny Aruru Otsuki (Skin)": {
         "quest_result": [
             "The egg hunt goes on!"
         ],
@@ -12584,7 +12584,7 @@
             "It would be so fun to perform Hansel and Gretel at Frontier! We'd get along together, but probably end up devouring the candy house..."
         ]
     },
-    "UNKNOWN(30500041) Shizuha Kocho": {
+    "Easter Bunny Shizuha Kocho (Skin)": {
         "quest_result": [
             "Did you find any eggs?"
         ],
@@ -12606,7 +12606,7 @@
             "It's fun getting ready for a celebration like this. Everyone's smiling, and it's easy to get excited."
         ]
     },
-    "UNKNOWN(30500071) Shizuha Kocho": {
+    "Sailor Captain Marion Shizuha Kocho (Skin)": {
         "quest_result": [
             ""
         ],
@@ -13492,7 +13492,7 @@
             "The casting is settled, so we'll be making preparations soon. We'll be busy from tomorrow..."
         ]
     },
-    "UNKNOWN(4020007) Michiru Otori": {
+    "Pied Piper of Hamelin Michiru Otori": {
         "quest_result": [
             "Do you want Michiru to lead you?"
         ],
@@ -15401,28 +15401,6 @@
         "touch_normal": [
             "The costumes for this show were made by a professional designer. All the intricate decorations and fleshed-out concepts are so interesting♪",
             "Minku-chan and Kuina-chan are growing so fast during practice. It's so nice to be young♪"
-        ]
-    },
-    "UNKNOWN(40500081) Yachiyo Tsuruhime": {
-        "quest_result": [
-            "Have you fallen in love? Heh heh."
-        ],
-        "quest_dress": [
-            "\"Maybe I'll go practice shooting arrows. It won't do to accidentally strike the wrong person♪\""
-        ],
-        "common": [
-            "\"Valentine's Day, the festival for lovers in the human world! It's a day that doesn't actually have anything to do with us.\"",
-            "\"It's troublesome when mother pushes me around, but she's normally kind and filled with compassion.\"",
-            "\"The lead arrow is an arrow that causes people to lose the heart to love. I mustn't confuse it with the golden arrow.\"",
-            "\"It was terrible when I accidentally stabbed my foot with the golden arrow that one time. Those with great power must be more careful than anyone else.\"",
-            "Michiru-senpai and the others will come watch our Valentine play. I'm nervous♪",
-            "Shizuha-san, who gave the role of a girl in love to Shiori, sure has a keen eye. A young girl with a hidden passion is perfect for Shiori.",
-            "Shizuha-san may look composed but once she's on stage, you can tell she's from Frontier. She's got an exquisite sense of balance.",
-            "I went clothes shopping with Tsukasa and her taste is so original. But it matches well so it looks good♪"
-        ],
-        "touch_normal": [
-            "Mei Fan, I want to practice shooting arrows so can you put this apple on your head? I'm just kidding, don't run away.",
-            "I tried asking if I could do the costumes and it got approved. Aren't both Cupid and Venus so cute?"
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
