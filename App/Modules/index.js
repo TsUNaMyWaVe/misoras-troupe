@@ -10,7 +10,7 @@ const runModules = async () => {
     await generateLinesFile.generateLinesFile();
     const backgrounds = await backgroundsFetch();
     const pickBackground = (backgrounds) => {
-        return backgrounds[Math.floor(Math.random() * (backgrounds.length - 1))];
+        return backgrounds[Math.round(Math.random() * (backgrounds.length - 1))];
     }
     const characters = await charactersFetch();
     let charactersIdByName = {};
