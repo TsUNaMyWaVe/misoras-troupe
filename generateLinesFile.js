@@ -25,8 +25,8 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
             dressName = charaCostumes[dress].name.en.includes(charaName) ? `${charaCostumes[dress].name.en}` : `${charaCostumes[dress].name.en} ${charaName}`;
         } else if (_.get(charaDresses, `${dress}.name.en`)) {
             dressName = charaDresses[dress].name.en.includes(charaName) ? `${charaDresses[dress].name.en}` : `${charaDresses[dress].name.en} ${charaName}`;
-        } else if (_.get(charaCostumes, `${dress.slice(0, -1)}.name.en`)) {
-            dressName = charaDresses[dress.slice(0, -1)].name.en.includes(charaName) ? `${charaDresses[dress.slice(0, -1)].name.en} (Skin)` : `${charaDresses[dress.slice(0, -1)].name.en} ${charaName} (Skin)`;
+        } else if (dress.length > 7 && _.get(charaCostumes, `${dress.slice(0, 7)}.name.en`)) {
+            dressName = charaDresses[dress.slice(0, 7)].name.en.includes(charaName) ? `${charaDresses[dress.slice(0, 7)].name.en} (Skin)` : `${charaDresses[dress.slice(0, 7)].name.en} ${charaName} (Skin)`;
         } else {
             dressName = `UNKNOWN(${dress}) ${charaName}`;
         }

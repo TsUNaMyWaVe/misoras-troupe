@@ -7599,6 +7599,16 @@
             "zh_hant": "魔女 巴珠緒"
         }
     },
+    "2010020": {
+        "chara_id": 201,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "乙姫 Encore 巴珠緒"
+        }
+    },
     "2010021": {
         "chara_id": 201,
         "description": {
@@ -7645,6 +7655,16 @@
             "ja": "美女 巴珠緒",
             "ko": "미녀 토모에 타마오",
             "zh_hant": "美女 巴珠緒"
+        }
+    },
+    "2010024": {
+        "chara_id": 201,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "ヴィーナス 巴珠緒"
         }
     },
     "2020001": {
@@ -10927,6 +10947,16 @@
             "zh_hant": "親信 約書亞中尉 鳳未知留"
         }
     },
+    "4020015": {
+        "chara_id": 402,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "キラめき☆アラモード 鳳ミチル"
+        }
+    },
     "4020017": {
         "chara_id": 402,
         "description": {
@@ -12493,6 +12523,16 @@
             "ja": "劉備 Encore 柳小春",
             "ko": "유비 Encore 야나기 코하루",
             "zh_hant": "劉備 Encore 柳小春"
+        }
+    },
+    "5010010": {
+        "chara_id": 501,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "オフィウクス 柳小春"
         }
     },
     "5020001": {

@@ -13,14 +13,5 @@
             ],
             "program": "${workspaceFolder}\\index.js"
         },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Generate Lines File",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "program": "${workspaceFolder}\\generateLinesFile.js"
-        }
     ]
 }
