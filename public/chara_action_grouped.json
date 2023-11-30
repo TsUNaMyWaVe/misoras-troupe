@@ -7388,10 +7388,6 @@
             "Happy New Year. I brought some traditional holiday foods back from my parents' house. Would you care to share it with me?",
             null
         ],
-        "birthday_201": [
-            "Thank you for making all this for me. Everything is delicious! I've got to make something in return to thank everyone.",
-            null
-        ],
         "birthday_203": [
             "Happy birthday, Fumi. It's so lively and fun to go out with everyone. I hope you find some good ponzu!"
         ],
@@ -7403,6 +7399,9 @@
         ],
         "birthday_204": [
             "Happy birthday, Rui-chan. Those donuts we all made together were amazing. I even heard Ukaji-sensei is going to come celebrate, too."
+        ],
+        "birthday_201": [
+            "Thank you for the wonderful celebration, everyone. I'm truly blessed to be surrounded by friends like you. I hope we can continue to work together for much longer."
         ]
     },
     "Tamao Tomoe Uniform": {
@@ -7857,26 +7856,26 @@
             "The costume is decorated with sweets here and there... Since the costume looks cute, I need to make sure my acting is even more terrifying."
         ]
     },
-    "UNKNOWN(2010020) Tamao Tomoe": {
+    "Otohime Encore Tamao Tomoe": {
         "quest_result": [
-            null
+            "Did you enjoy our banquet?"
         ],
         "quest_dress": [
-            null
+            "\"I shall now practice my dance of hospitality.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I'm Otohime, the lady of Ryugu-jo.\"",
+            "\"Be warned, Taro-sama. You must never open it...\"",
+            "Thanks to Fumi, my acting was able to live up to everyone's expectations.",
+            "\"Yes, Taro-sama! It was I!\"",
+            "I wonder if the passion of love is anything like the passion we Stage Girls have for the stage.",
+            "Even I can tell how cute Ichie's dances are. I can't take my eyes off them.",
+            "I think Taro is the perfect role for Rui-chan to show off her faithfulness and kindness.",
+            "Rui-chan and Yuyuko-chan said they were going fishing together. They're such good friends."
         ],
         "touch_normal": [
-            null,
-            null
+            "\"Living with Taro-sama has stoked a fire in my heart. One day, I hope to tell him...that I love him.\"",
+            "\"It is thanks to Taro-sama that I yet live... I must return the favor.\""
         ]
     },
     "Pisces Tamao Tomoe": {
@@ -7945,26 +7944,26 @@
             "This costumes shows off a little leg, so I need to be careful when I dance. Hm? Why are you covering your eyes, Rui-chan...?"
         ]
     },
-    "UNKNOWN(2010024) Tamao Tomoe": {
+    "Venus Tamao Tomoe": {
         "quest_result": [
-            null
+            "I could get used to Venus's attitude."
         ],
         "quest_dress": [
-            null
+            "\"If I want to maintain this beauty, I need to keep up healthy eating habits and daily exercise.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Now it's my time to shine. It's Venus's job to support those who would convey their love!\"",
+            "\"As the goddess of love and beauty, I could never abandon someone lost in the labyrinth of love!\"",
+            "My Venus costume has all the divinity and beauty befitting a goddess of beauty.",
+            "Considering the nutritional balance... I think I'll throw in some seasonal vegetables.",
+            "Maybe I'll make everyone else some lunch sometime.",
+            "\"Captivated by my beauty? Hee hee, you sure know how to tell a lady what she wants to hear.\"",
+            "\"Behold my dance of encouragement, filled with love!\"",
+            "...Phew. That workout Kocho-san taught me sure is a hard one."
         ],
         "touch_normal": [
-            null,
-            null
+            "\"Silent prayer alone will not inspire the courage to love. As such, I decided to support her through the art of dance.\"",
+            "I've heard rumors about Kocho-san's special drinks... B-But this sure is a...unique flavor."
         ]
     },
     "GENERIC Ichie Otonashi": {
@@ -8036,10 +8035,6 @@
             "Happy New Year! What should I wish for at the shrine? For us to be better friends and better performers! And then for Fumi...",
             null
         ],
-        "birthday_201": [
-            "Happy birthday Tamao! Let's spread out this cloth that Ms. Ukaji made and enjoy chirashi sushi and anmitsu☆",
-            null
-        ],
         "birthday_203": [
             "Happy birthday! Shiori told me about your family trip to look for ponzu! Let's all go find the best ponzu for you!"
         ],
@@ -8051,6 +8046,9 @@
         ],
         "birthday_204": [
             "Hippo birdy, Rui☆ Here's your good friend Ichie-chan's donuts! What? No, I'm not trying to prank you. Just eat 'em!"
+        ],
+        "birthday_201": [
+            "Happy birthday, Tamao☆ I got you a flower hairpin! I just know it'll be perfect for your silky smooth hair!"
         ]
     },
     "Ichie Otonashi Uniform": {
@@ -8565,10 +8563,6 @@
             "Happy New Year. Let's make it a great one. Mochi is fine with soybean flour or soy sauce, but when I'm sick of that, there's always ponzu.",
             null
         ],
-        "birthday_201": [
-            "Happy birthday, Tamao. Rui and I made the anmitsu. Don't worry, we didn't add any secret ingredients.",
-            null
-        ],
         "birthday_203": [
             "Thank you everyone...for putting all of this together. I'll do my best to find a good souvenir for Shiori!"
         ],
@@ -8583,6 +8577,9 @@
         ],
         "birthday_204": [
             "Happy birthday, Rui. I know how much you love donuts, and I definitely loved making them together. Get ready, because we're having a donut party."
+        ],
+        "birthday_201": [
+            "Happy birthday. I thought these floral-print mittens might look good on you. We should make hot pot together so you can try them."
         ]
     },
     "Fumi Yumeoji Uniform": {
@@ -9143,10 +9140,6 @@
             "Did you see her? Tamao-senpai in her kimono! I have a feeling it's going to be a great year! Oh, and Happy New Year!",
             null
         ],
-        "birthday_201": [
-            "Happy birthday! I made sure to add tons of red bean paste, sugar syrup, and fruits to your favorite anmitsu!!",
-            null
-        ],
         "birthday_203": [
             "Ichie-senpai planned this Rinmeikan Ponzu trip for you, Fumi-senpai, and Yuko and I are in charge of the surprise. I'm so nervous!"
         ],
@@ -9158,6 +9151,9 @@
         ],
         "birthday_204": [
             "Thank you for the amazing party, everyone...! With you and the donuts surrounding me, I'm the happiest person in the world!"
+        ],
+        "birthday_201": [
+            "Happy birthday! I could never dream of measuring up to you, but... I made you a lunchbox! I hope you like it!"
         ]
     },
     "Rui Akikaze  Uniform": {
@@ -9671,10 +9667,6 @@
             "Happy New Year. There are so many great rakugo, noh, and other performances on TV this time of year. What do you say? Want to watch some together?",
             null
         ],
-        "birthday_201": [
-            "Happy birthday, Tamao-senpai. The tomato on top goes surprisingly well with the chirashi sushi I made with Ichie-san.",
-            null
-        ],
         "birthday_203": [
             "Happy birthday, Fumi-senpai! Please take a look at the gorgeous ingredients for the \"True Ponzu Banquet\" to be held at the dawn of this trip."
         ],
@@ -9686,6 +9678,9 @@
         ],
         "birthday_204": [
             "Ruiii, happy birthdaaay. I made all the decorations donut-themed because you love them so much. Ain't they great?"
+        ],
+        "birthday_201": [
+            "Happy birthday, Tamao-senpai. You should have seen how much Rui practiced frying her eggs. I picked the box."
         ]
     },
     "Yuyuko Tanaka Uniform": {
@@ -13674,26 +13669,26 @@
             "I've watched \"Chushingura\" many times since it has numerous adaptations. I probably watched half of those with Akira. It's quite a memorable piece."
         ]
     },
-    "UNKNOWN(4020015) Michiru Otori": {
+    "Brilliance☆À la mode Michiru Otori": {
         "quest_result": [
-            null
+            "How's that? Now do you see what I can really do?"
         ],
         "quest_dress": [
-            null
+            "Why don't you start by just running through it once? I'll watch."
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Now this is perfect shopping weather! Something tells me I'm gonna find some great clothes♪",
+            "The trick to shopping is deciding beforehand what you're gonna buy.",
+            "I'm short enough that sometimes stuff is too big for me, so clothes shopping is a real hassle.",
+            "Comfortable clothes are the best when you're going out to have fun.",
+            "I bet those clothes would look good on Akira... I oughta bring her here sometime.",
+            "I think I'll go buy some souvenirs. The student council room is running out of snacks.",
+            "You wanna ask me some personal questions...? Hmm, I dunno...",
+            "I like chilling in my room on the weekends, but going out is fun, too."
         ],
         "touch_normal": [
-            null,
-            null
+            "I've done a bit too much walking, so I think I'll unwind at a cafe. There's this one I really like just up ahead.",
+            "No wonder Shiori loves the tea at this cafe so much♪ I like the walnut cake, too."
         ]
     },
     "Stage Girl Michiru Otori": {
@@ -16768,26 +16763,26 @@
             "Suzu is surprisingly good with her hands... Maybe I'll get her to teach me how to handle a knife."
         ]
     },
-    "UNKNOWN(5010010) Koharu Yanagi": {
+    "Ophiuchus Koharu Yanagi": {
         "quest_result": [
-            null
+            "I won't hesitate to reach out."
         ],
         "quest_dress": [
-            null
+            "\"Good. If it will help you, I shall oblige.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"May those who wish on the shining stars find salvation.\"",
+            "\"On my pride as a doctor, I shall do my utmost.\"",
+            "\"The stars I cloak myself in are dark, but those around me illuminate me... Ah, what bliss.\"",
+            "\"Chiron of Sagittarius is my teacher. Many admire him, and I count among their number.\"",
+            "Otsuki-san uses a lot of abstract expressions, but her viewpoints are truly fascinating.",
+            "Agh... Suzu, I swear. \"I'll go catch you a snake,\" she says. Nearly gave me a heart attack...",
+            "Snakes have always been symbols of medicine. Maybe because their cycle of shedding and regrowing their skin evokes images of rebirth and healing...?",
+            "Looking for the constellations, I realized something. Maybe what I need is the time and luxury to look at the stars..."
         ],
         "touch_normal": [
-            null,
-            null
+            "It's almost like a medical coat... I bow before Tsuruhime-san's encyclopedic knowledge of Ophiuchus. I'll have to make sure my acting is worthy of this wonderful costume.",
+            "Suzu popped in while I was talking to Otsuki-san about the performance. They both got really excited... I had to call Hisame for help."
         ]
     },
     "GENERIC Suzu Minase": {
