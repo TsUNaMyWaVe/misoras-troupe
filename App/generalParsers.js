@@ -75,6 +75,21 @@ const costumeParsers = () => {
     return importedJSON;
 }
 
+const housingDownloader = async () => {
+    let importedJSON = await loadJSON("https://relive-assets.qwewqa.xyz/masters/housing_voice_text.json");
+    await fs.writeFile(path.join(__dirname, "../public", "housing_voice_text.json"), JSON.stringify(importedJSON, null, 4), function(err) {
+        if (err) {
+            console.log(err);
+        }
+    });
+    return importedJSON;
+}
+
+const housingParser = () => {
+    let importedJSON = require("../public/housing_voice_text.json");
+    return importedJSON;
+}
+
 module.exports = {
     charaDownloader,
     dressDownloader,
@@ -83,5 +98,7 @@ module.exports = {
     dressParser,
     charaParser,
     charaActionParser,
-    costumeParsers
+    costumeParsers,
+    housingDownloader,
+    housingParser
 }

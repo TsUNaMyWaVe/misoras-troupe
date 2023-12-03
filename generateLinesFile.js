@@ -8,8 +8,11 @@ const downloadRequiredFiles = async () => {
     await generalParsers.dressDownloader();
     await generalParsers.charaActionDownloader();
     await generalParsers.costumeDownloader();
+    await generalParsers.housingDownloader();
     return;
 }
+
+const theaterLines = generalParsers.housingParser();
 
 const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, charaCostumes) => {
     if (charaName === 'MeiFan Liu') {
@@ -38,12 +41,18 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
                 ...onlyLines,
                 [group]: lines
             }
-        })
+        });
+        const dressTheaterLines = theaterLines[dress];
+        if(dressTheaterLines) {
+            onlyLines['My Theater'] = _.keys(dressTheaterLines).map(key => {
+                return dressTheaterLines[key].text.en;
+            });
+        }
         file = {
             ...file,
             [dressName]: onlyLines
         }
-    })
+    });
     return file;
 }
 
