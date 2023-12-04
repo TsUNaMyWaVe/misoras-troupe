@@ -48,6 +48,13 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
                 return dressTheaterLines[key].text.en;
             });
         }
+        if(file[dressName]) {
+            _.forEach(_.keys(file[dressName]), key => {
+                if (!_.has(onlyLines, `${key}`)) {
+                    onlyLines[key] = file[dressName][key];
+                }
+            })
+        }
         file = {
             ...file,
             [dressName]: onlyLines

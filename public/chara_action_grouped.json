@@ -237,6 +237,16 @@
             "Stop tickling me!",
             "My cheeks are super soft! See? You like it?",
             "I love theater so much I can't stand it!"
+        ],
+        "My Theater": [
+            "Isn't it so exciting when the curtain rises?",
+            "Being active is what I'm especially good at!",
+            "Hikari-chan? Where has she gone off to?",
+            "Uh oh! No napping in class, the teacher will get mad!",
+            "Huh? Oh, this is my secret training. Oops, I wasn't supposed to tell you that!",
+            "I'll make our next show the best ever, so missing it is a big non, non!",
+            "Let's rock it today! Huh? Yeah, I guess I'm ready to rock any day!",
+            "Ah, there you are! I was looking for you!"
         ]
     },
     "Sun Nation Knight Karen Aijo": {
@@ -389,6 +399,16 @@
             "Yachiyo-chan is a first-year... But she's so mature! And she smells nice! I thought she was older!",
             "I was surprised how much I learned from the exchange program! I hope we can do it again.",
             "The famous Detective Sherlock Holmes... I'm so happy I get to perform so many different kinds of roles!"
+        ],
+        "My Theater": [
+            "I-I'm a detective! I shouldn't be trying to find my own lost things!",
+            "With this information, I can deduct the location of the umeboshi!",
+            "The scene when I confront the culprit with the evidence has to be perfect and cool!",
+            "I can't let my dear Watson handle all of this. I need to find another clue!",
+            "The culprit who made a mess of this room...is me! Heh heh.",
+            "We don't have enough to solve this mystery... Watson, any ideas?",
+            "If you run into any trouble, just let this detective know!",
+            "The one who touched me...was you!"
         ]
     },
     "Da Vinci Karen Aijo": {
@@ -411,6 +431,16 @@
         "touch_normal": [
             "Leonardo da Vinci made remarkable achievements not only in the arts but also in science and mathematics! He's amazing.",
             "Renaissance... Renaissance... The more I think about it, the more confused I get."
+        ],
+        "My Theater": [
+            "Alright, let's do this! Our Renaissance!",
+            "Da Vinci's costume has a lot of small accessories so I have to be careful to not lose them!",
+            "I wonder if I'll be able to understand the Renaissance by looking it up in the library.",
+            "Maybe I'll try painting to become da Vinci.",
+            "Let's read over the script once more! Let's Renaissance!",
+            "We're running out of time! I don't understand the Renaissance.",
+            "\"Salaì, I'm going to the market. Please look after the house for me.\"",
+            "\"I'm a genius...? Not at all. My curiosity is only a little bit stronger than most.\""
         ]
     },
     "Apollo Karen Aijo": {
@@ -689,6 +719,16 @@
         "touch_normal": [
             "Ever since rehearsals for \"Sengoku Legend\" began, I've gotten into watching period dramas. I especially enjoy the intense battle scenes!",
             "What if I were to travel through time to the Sengoku period...? I'd like to meet the real Mitsuhide-san!"
+        ],
+        "My Theater": [
+            "Jun-Jun's Japanese history lessons are super easy to understand!",
+            "Wearing the costume really gets you into the right mindset!",
+            "When it comes to yuzuke, you can't go wrong with umeboshi!",
+            "Isn't this armor SO cool!?",
+            "Hikari-chan, where are you? Let's do a read through together.",
+            "I can never remember the era names when it comes to Japanese history.",
+            "I wonder what the umeboshi in the Sengoku period tasted like.",
+            "\"Enemy at Honnoji!\" ...What do you think? Was there enough force?"
         ]
     },
     "Romeo Karen Aijo": {
@@ -1375,6 +1415,16 @@
             "What's the matter?",
             "Are you enjoying this?",
             "My hair is perfectly straight and black. People often tell me it's nice."
+        ],
+        "My Theater": [
+            "\"In the small village of a small country, there was a traditional summer Star Festival.\"",
+            "I'm not that good at math. Karen and I are always in supplementary lessons together.",
+            "We made a promise on that day we saw \"Starlight.\"",
+            "I wasn't doing anything...",
+            "I used to eat salmon sandwiches often when I was in England.",
+            "Someone brought chocolate for everyone to snack on. Want some?",
+            "I left the script here... Where did it go?",
+            "I don't use my phone much or check my email. If you want something, just tell me."
         ]
     },
     "Black Lion Nation Knight Hikari Kagura": {
@@ -1560,6 +1610,16 @@
         "touch_normal": [
             "This wedding dress... It flutters around too much to dance on stage with it...",
             "The bouquet toss... The sky lights it up beautifully on a sunny day, but you have to be careful not to throw it too hard."
+        ],
+        "My Theater": [
+            "I'll start by cleaning my room... I should be able to do it if I try.",
+            "A wedding kimono seems like it would be hard to put on and take off.",
+            "Cutting the cake...? Even I could do that.",
+            "I'm going to go watch Karen and see if I can use anything in my June role.",
+            "After the wedding is the honeymoon... But where to?",
+            "Learning to be a bride is like learning the stage... Very difficult.",
+            "I wonder if Karen would look good in a wedding dress.",
+            "Want to walk down the aisle? It's just a set on the stage, though."
         ]
     },
     "Mona Lisa Hikari Kagura": {
@@ -1839,6 +1899,16 @@
         "touch_normal": [
             "How can I express Nobunaga's burning ambition...? I keep thinking about that.",
             "That feeling when I'm on standby backstage... It's like I'm on the camp grounds of the battlefield. My chest feels tight."
+        ],
+        "My Theater": [
+            "Umeboshi goes well with yuzuke. Karen, can I have an umeboshi?",
+            "What would you think if you had a leader like Nobunaga near you?",
+            "I want to read more about the Sengoku period.",
+            "I have to use my head so much more than usual for this play...",
+            "I like to tie up my hair before rehearsals to get myself in the right mindset.",
+            "Class B worked hard to make this armor for me. It makes me happy.",
+            "Where's Karen...? I want to read through the script together.",
+            "Apparently the real truth about the Honnoji Incident is still unknown."
         ]
     },
     "Shinguji Sakura Hikari Kagura": {
@@ -1893,6 +1963,16 @@
         "touch_normal": [
             "\"It's important to stay hydrated. Taking care of yourself is important both for yourself and for the team.\"",
             "\"I'll be shopping for a catcher's mitt with Karen and Mahiru next time... I can't wait.\""
+        ],
+        "My Theater": [
+            "\"My left-handed catcher's mitt... is my treasure.\"",
+            "\"Come on Seisho! Go Seisho!!... This is a nice cheer.\"",
+            "I love Mahiru Spud dishes. Can't wait to have them after practice.",
+            "\"Hoshimi-san's been doing batting practice all day... I can't lose either.\"",
+            "\"The baseball hand signals are like rock, paper, scissors.\"",
+            "\"Sweets after a hard practice. Today was... banana muffin.\"",
+            "\"Karen... You should probably try to remember the baseball terms.\"",
+            "\"No matter where I am, Karen and I are connected through baseball.\""
         ]
     },
     "Gretel Hikari Kagura": {
@@ -2391,6 +2471,16 @@
             "Tips for baton twirling? Hmm... Don't use just your hands and arms, but your whole body.",
             "Karen-chan seems a bit sleepy today. She stayed up late again reading the script.",
             "The sweet potato cake Banana-chan made the other day was delicious. I'll have to ask her for the recipe."
+        ],
+        "My Theater": [
+            "Is Karen-chan here?",
+            "Maybe I should take another look at the script while I have the time...",
+            "The weather's great today--perfect for hanging laundry outside to make it nice and soft.",
+            "Since I have nothing else to do, might as well do some cleaning.",
+            "Let's make the next \"Starlight\" even better than last year's!",
+            "You're welcome to try my parents' homegrown vegetables!",
+            "If only my Mahiru Mace could banish bad vibes and lift the mood!",
+            "I stop paying attention to what's around me when I'm really focused. I have to be careful about that!"
         ]
     },
     "Sun Nation Knight Mahiru Tsuyuzaki": {
@@ -2608,6 +2698,16 @@
         "touch_normal": [
             "Ugh... I have to buy new swimwear again...",
             "Usually I'm a little nervous when it comes to swimwear, but when I think of it as a play costume, I'm totally fine!"
+        ],
+        "My Theater": [
+            "How about a new type of sport like a combination of swimming and baton twirling?",
+            "Ever since I started practicing swimming I've noticed myself trying to float my legs when I take a bath, too.",
+            "Make sure to wash your eyes out thoroughly after swimming!",
+            "Synchronized swimming really takes it out of you... I wonder if it will be all right if I have a second helping at dinner tonight...",
+            "When you bump into someone's arm when you're swimming, it really hurts, right?",
+            "Okay, I should wash my swimsuit so I can be ready for practice tomorrow. Wash wash...",
+            "Phewww... I feel so...so...sleepy after swimming practice... *snore*...",
+            "My pauses for breathing are really coming together for both swimming and during performing!"
         ]
     },
     "Salaì Mahiru Tsuyuzaki": {
@@ -2919,6 +3019,16 @@
         "touch_normal": [
             "\"Let's see... Should the fourth batter be Clau-chan or Tendo-san? Which is better? Deciding the batting order always gets me excited!\"",
             "\"Karen-chan won't move from the cardboard box because she wants to find a Mahiru Spud that looks like a baseball... What am I going to do?\""
+        ],
+        "My Theater": [
+            "\"My family sent me a DVD of the pro baseball broadcast.\"",
+            "\"Equipment check is done... I need to remember to clean everything regularly.\"",
+            "\"Pitch, hit, and run... Why is baseball so much fun?\"",
+            "I can't wait for tonight's baseball broadcast♪",
+            "\"We need to be careful about getting heatstroke when practicing outdoors!\"",
+            "\"What's the weather gonna be like tomorrow? I want to know what the field conditions will be like.\"",
+            "1, 2... Gotta remember to stretch after moving around.",
+            "\"I'll receive all of Karen-chan's pitches!\""
         ]
     },
     "Konohanasakuya-hime Mahiru Tsuyuzaki": {
@@ -2973,6 +3083,15 @@
         "touch_normal": [
             "Kocho-san and I have to be really close because of our roles in this play. She's really beautiful, so I have to be careful I don't get dazzled by her...!",
             "During our break, Karen-chan said I'll catch a stomach cold and wrapped a towel around my waist for me. I was happy but embarrassed at the same time..."
+        ],
+        "My Theater": [
+            "\"How annoying! I'm the one who should be by Gilgamesh's side!\"",
+            "\"Why are you mad? Stress won't do your skin any favors.\"",
+            "Oooh! Making clay tablets is kinda like making cookies.",
+            "Ishtar went to the Underworld \"just because\"...? She sure is free-spirited.",
+            "Ishtar gets her heart broken and a thousand years later it's still being talked about... I feel bad for her.",
+            "The semantics of ancient civilization...? Just what are Kocho-san and Junna-chan talking about? ",
+            "\"Love and curse are very similar...don't you think?\""
         ]
     },
     "Sorcerer Mahiru Mahiru Tsuyuzaki": {
@@ -3469,6 +3588,16 @@
             "Karen and Hikari are in love with \"Starlight.\" Me? Yes, I like it too, of course.",
             "My hair? It's the same as my maman's. I quite like the look of it.",
             "Would you like to perform a duet with me? I will give you all the assistance you need."
+        ],
+        "My Theater": [
+            "Let's do this scene again!",
+            "These shoes are nice and worn in now...",
+            "This nine-person cast isn't bad, if you ask me.",
+            "I treat myself to macaroons on days when I worked really hard.",
+            "There's no obstacle that can't be overcome, right?",
+            "Looking after the stage props is one of the duties of Stage Girls. We need to treat them with care.",
+            "Now, with which emotions do I color this performance?",
+            "Un, deux, trois... Hm? Do you need something?　"
         ]
     },
     "Black Lion Nation Knight Claudine Saijo": {
@@ -4596,6 +4725,16 @@
             "I look to other actors for inspiration. There's something you can learn from everyone, as a famous writer said.",
             "How to improve quickly? Recording performances to review them later is a good way.",
             "What sort of performance will leave an indelible mark in the memories of the audience? That's the question I am always asking myself."
+        ],
+        "My Theater": [
+            "I'm reading the original version of \"Starlight\" to see if there are any differences in the translation.",
+            "I'll take a five minute break and then begin pilates.",
+            "We must always do all we can to deliver what the audience has come to see.",
+            "So much has changed over the past few months.",
+            "It's very cozy here.",
+            "Can I help you with something?",
+            "Which performance to see this week...?",
+            "Creating a comfortable space to relax in is necessary for one's well-being."
         ]
     },
     "Sun Nation General Maya Tendo": {
@@ -5676,6 +5815,16 @@
             "After this? I was thinking of practicing on my own in the rehearsal room.",
             "Everyone uses a different shampoo, so you can tell from the scent who was in the bathroom before.",
             "Whoa! Hey, what was that about!?"
+        ],
+        "My Theater": [
+            "I need to take a breather. Whew...",
+            "Even if it's just practice, I'm serious about it!",
+            "When I'm practicing, I completely lose track of time!",
+            "Adding lots of notes to the script somehow puts me more at ease.",
+            "Oh no, I've got to return this book by tomorrow!",
+            "Meat and potato stew with Mahiru's potatoes is the best.",
+            "Nana and I will be baking treats. Do you have any requests?",
+            "There are things I want so much I don't mind having to fight for them."
         ]
     },
     "Black Lion Nation Knight Junna Hoshimi": {
@@ -6213,6 +6362,16 @@
         "touch_normal": [
             "\"When Kagura-san is the catcher, Karen is like a different pitcher... Kagura-san is able to lead her skillfully because she knows her very well.\"",
             "\"When Tsuyuzaki-san is the catcher, Karen looks very relaxed. Like she's freely playing around with us.\""
+        ],
+        "My Theater": [
+            "\"We got so many freebies from the shops.\"",
+            "\"Nana will make stamina boosting dishes today... I can't wait.\"",
+            "\"I want to learn from Saijo-san and Tendo-san's batting techniques.\"",
+            "\"Isurugi-san, you even wash Hanayagi-san's uniform?\"",
+            "\"These are custom-made glasses... No matter how much I move around, they don't budge.\"",
+            "I'm not really good with ball sports. I enjoy watching them though...",
+            "\"It's easy to get injured in rough sports, but it's kind of like a medal.\"",
+            "\"My special ability is my perseverance. I'll never give up until the very end.\""
         ]
     },
     "Anastasia Junna Hoshimi": {
@@ -6731,6 +6890,16 @@
         "touch_normal": [
             "Look forward to more from the new and improved Banana, for our \"Starlight\"!",
             "Teehee, like my costume?"
+        ],
+        "My Theater": [
+            "Everyone's really put their heart into preparing for this play, so look forward to it♪",
+            "Oh, this looks interesting! Banana photo time!",
+            "Futaba-chan seems very conscious about her weight, so I made her a healthy tofu cake!",
+            "I really like the nickname \"Banana\"!",
+            "I'm tall, so I can get items high on the shelves that other girls can't reach♪",
+            "Bana-nice! Karen-chan came up with that, actually.",
+            "You can't talk about double-wielding swords without mentioning Musashi Miyamoto! I read \"The Book of Five Rings\" that he wrote!",
+            "I'm doing my best to support everyone!"
         ]
     },
     "Sun Nation Knight Nana Daiba": {
@@ -6914,6 +7083,16 @@
         "touch_normal": [
             "It's the first time I've had to do a performance in the water, so I was a little nervous at first, but now I'm having the time of my life!",
             "The frog-kick and the breaststroke are different! I'll show you what the frog-kick looks like now, so pay attention!"
+        ],
+        "My Theater": [
+            "I wonder if Junna-chan is going to like this small gift...",
+            "A swimsuit as an outfit... It's a little embarrassing, but it's actually kinda cool!",
+            "Mahiru-chan is really dependable as a leader!",
+            "Make sure to take Banana's special banana drink and get fully recovered!",
+            "Junna-chan's goggles look all new and shiny♪",
+            "I'll show you how the role of the ex-swim team delinquent is done!",
+            "Train hard, eat well, and sleep... Zzz...",
+            "Everyone moves in such perfect coordination. I guess you really have to feel each other to be able to do that."
         ]
     },
     "Beast Nana Daiba": {
@@ -7129,6 +7308,16 @@
         "touch_normal": [
             "Yoshiteru collected a lot of famous swords. There's a story of him piercing the tatami mat with several of those swords during his fight in the Eiroku Incident.",
             "Yoshiteru is often called the Tragedy Shogun, but I want to play the Yoshiteru who fights until the very end while holding onto his hope."
+        ],
+        "My Theater": [
+            "\"Sengoku Legend\"... I can't wait to see how it turns out♪",
+            "I hope it'll turn into a wonderful readers theater♪",
+            "Lines in period dramas are so tricky.",
+            "What do you think? Do I look like a shogun?",
+            "I wonder what kind of sweets they had in the Sengoku period.",
+            "All right! Let's develop observational skills!",
+            "I borrowed a ton of books on Sengoku period warlords.",
+            "This costume is an armor, but it's light and easy to move around in♪"
         ]
     },
     "Stage Girl Nana Daiba": {
@@ -7247,6 +7436,15 @@
         "touch_normal": [
             "Karen-chan and Aruru-chan... Both of them are so energetic, you can't help but watch them.",
             "Putting my hair down in front of other people makes me nervous. I don't have bed hair, right?"
+        ],
+        "My Theater": [
+            "\"My friends are the animals in the forest. I recently befriended a bear!\"",
+            "\"When I can understand birds, I'm sure they'll be able to tell me about many things!\"",
+            "\"If Mime would teach me about love, I could be a little kinder.\"",
+            "Wait, the horn prop became a flute? Ichie-chan!",
+            "The fight scene with Mei Fan-chan is very exciting! It's like a dance.",
+            "\"Brünnhilde is my eternity... I know that much.\"",
+            "\"My chest feels tight when I see Brünnhilde... Is this fear!?\""
         ]
     },
     "Fruits Tart Nana Daiba": {
@@ -7761,6 +7959,16 @@
             "The costume? The size is perfect and it's easy to move around in.",
             "In battle scenes, it's important to coordinate well with your opponent. It won't work if you're just focused on yourself.",
             "You're up for it? All right, watch me in action!"
+        ],
+        "My Theater": [
+            "Kaoruko's always jumping on my back. I hope my uniform's not wrinkled...",
+            "Banana can write scripts, dance on stage, and a lot more... She's awesome.",
+            "I'm getting a little hungry. What was it we're having for dinner tonight?",
+            "Gonna do some basic training after the dance lesson.",
+            "It's exactly because I'm so short that my bold moves on stage make an impression.",
+            "Motorcycle maintenance is a hassle, but it's more than worth it!",
+            "It'd be so cool if we did a play where we ride motorcycles on stage!",
+            "Banana can keep singing while she runs around. She's got great lung capacity."
         ]
     },
     "Sun Nation Knight Futaba Isurugi": {
@@ -8606,6 +8814,16 @@
             "Futaba-han is making me go shopping. Would you like to come along?",
             "A lot happened today. Isn't that so, Futaba-han?",
             "I won't let any more important roles get away from me, for any performance."
+        ],
+        "My Theater": [
+            "Futaba-han, I really want some tea!",
+            "I'm keeping up with practice, don't worry.",
+            "How lucky you are, to get to see me dance.",
+            "My shortcomings? I guess I do have one. I'm too cute.",
+            "What is it? Can't take your eyes off me?",
+            "Make way, please. Make way.",
+            "I'd like to get some exercise. Will you join me?",
+            "You haven't eaten the snacks I left here, have you?"
         ]
     },
     "Black Lion Nation General Kaoruko Hanayagi": {
@@ -9741,6 +9959,16 @@
             "I'll tell you a secret. If you take Rui-chan to the donut store, you'll see a very cute side of her.",
             "Rui-chan and I went to junior high school together. We've been good friends since then... Heh heh.",
             "Hey, don't tease me!"
+        ],
+        "My Theater": [
+            "I won't give up, no matter how steep the path I have to climb!",
+            "I want to create a show that will move everyone in the audience.",
+            "My grandma taught me all sorts of things, like tea ceremony and flower arrangement.",
+            "I can't help getting tense before performances.",
+            "I'll leave you something to snack on.",
+            "Rui-chan is shy, but she's a very strong person inside.",
+            "What sorts of plays do you like?",
+            "Ichie made a mess again..."
         ]
     },
     "Ghost Patrol Squad Deputy Captain Tamao Tomoe": {
@@ -9861,6 +10089,16 @@
         "touch_normal": [
             "Oh, it's so late already... I know I was focusing on the lessons, but I'll probably get scolded for not taking breaks at all...",
             "This costume is decorated with turtle shell patterns in reference to when Otohime transformed into a turtle."
+        ],
+        "My Theater": [
+            "These are all the documents for the extra curricular activities.",
+            "I like that it's not just a fable, but also a love story.",
+            "I hope Yuyuko-chan is sleeping on the bed for a change this time...",
+            "The fish Rui-chan and Yuyuko-chan caught was really delicious!",
+            "Fumi and Ichie's voices... They're exchanging views.",
+            "I'll trust everyone and focus on my lesson!",
+            "Did you know there was a turtle in the school garden?",
+            "Would you like to go fishing next weekend?"
         ]
     },
     "Teumessian Fox Tamao Tomoe": {
@@ -10075,6 +10313,16 @@
         "touch_normal": [
             "\"Hey, Kondo-san, you made it. Heh, that's our commander for you. Tough like no other.\"",
             "Even if we're the Performance Association, we still do the same things. We just need to continue to rehearse and improve our acting for the day of the performance."
+        ],
+        "My Theater": [
+            "There are a lot of fight scenes in the play this time, so we need to be well prepared.",
+            "Everyone from the Performance Department has regained their intuition.",
+            "We want to do the costume fitting for Shinsengumi, so can you all gather around?",
+            "I'm so glad we're able to perform in the same civic hall again.",
+            "\"Shinpachi, just give me a break. I've had it with your scolding already.\"",
+            "\"Kondo-san...I'll be the one to carry out your will!\"",
+            "Thank goodness we were able to resolve the issue with the civic hall before matters got out of hand.",
+            "Hijikata's acting can be a burden on the voice. I should go get cough drops later."
         ]
     },
     "Death Tamao Tomoe": {
@@ -10129,6 +10377,16 @@
         "touch_normal": [
             "I want to have a training camp with everyone in Rinmeikan someday.",
             "I was able to get closer to Seiran's Koharu Yanagi-san through this training camp. I hope we'll be able to do an exchange program with Seiran."
+        ],
+        "My Theater": [
+            "These fluffy pajamas are popular right now.",
+            "Yukishiro-san threw the pillow so fast I couldn't even see it.",
+            "The pillow fight was so fun.",
+            "Sweets... I bought more again.",
+            "I don't think it'll hurt even if you get hit with this pillow.",
+            "Maybe we should have a pillow fight at Fumi's place too.",
+            "Ichie's sleeping face is adorable.",
+            "Playing hard isn't so bad once in a while."
         ]
     },
     "Stage Girl Tamao Tomoe": {
@@ -10548,6 +10806,16 @@
             "I'm rigging a naughty little surprise in a friend's locker... Want to give me a hand?",
             "Candy drops are a great pick-me-up when you're tired! Here, have some!",
             "Yikes, I forgot we've got a test tomorrow..."
+        ],
+        "My Theater": [
+            "There's enough room here for a party.",
+            "I want everyone to enjoy our show.",
+            "I won't lose! I'll protect our Performance Department!",
+            "Someone left snacks over there. Think it's okay for me to eat it?",
+            "Fumi's reactions are hilarious, which makes startling her all the more worth it!",
+            "I left Fumi a little surprise in her locker. Heh heh!",
+            "Huh? What is it?",
+            "I'm not good at kneeling on the floor. My legs go numb!"
         ]
     },
     "Ghost Patrol Squad Captain Ichie Otonashi": {
@@ -11262,6 +11530,16 @@
             "Something the matter?",
             "Yuyuko slacks off whenever there are people around. Normally it'd be the opposite, right? She's just so contrary.",
             "I work part-time at a café. It's quite fun."
+        ],
+        "My Theater": [
+            "It's fun being thrifty if you have the right mindset.",
+            "How about some black tea? Let me pour you a cup.",
+            "What sweets would go well with black tea?",
+            "Rinmeikan's strength? Never giving up! I'm like that too, of course.",
+            "I've got a feeling Ichie's set a trap behind that door...",
+            "Tamao can be a bit of an airhead at times, but I've got her back.",
+            "I'm confident in my knife skills in the kitchen, too.",
+            "Not saying what's on your mind will only lead to regrets. Better to be open!"
         ]
     },
     "Ghost Patrol Squad Member Fumi Yumeoji": {
@@ -11382,6 +11660,16 @@
         "touch_normal": [
             "What kind of ninjutsu would I like to learn? Maybe something that could stop Ichie's pranks.",
             "People often call me stoic, but Rui's no slouch either. She's been training with her sword since this morning."
+        ],
+        "My Theater": [
+            "I can't believe there exists something that can't be made delicious with ponzu...",
+            "The target is ready. I just need to make sure I practice my shuriken throw!",
+            "My katana swings have gotten pretty good.",
+            "Uh... This fox mask sure makes it hard to see.",
+            "I need to be sure I don't forget this movement...",
+            "Ninja, Fumikage... That sounds cool...",
+            "I'll read the script, and you tell me how it made you feel.",
+            "I plan to change this into a ninja base full of traps all over."
         ]
     },
     "Shuten-doji Fumi Yumeoji": {
@@ -12028,6 +12316,16 @@
             "Eek! Oh, I'm sorry I screamed. You caught me off guard.",
             "People say I have good posture. Maybe it's because I've been doing martial arts.",
             "The practice routine Fumi-senpai put together for me has been really useful!"
+        ],
+        "My Theater": [
+            "I may be shy, but I enjoy being around people.",
+            "...Do we still have any donuts left?",
+            "Even now, I still remember very clearly the day I first stood on stage.",
+            "Nobody makes as many notes in the script as I do!",
+            "I know there's no need to get nervous about this, but...",
+            "If only I could be as calm as Tamao-senpai.",
+            "Don't tell anyone I said this, but Tamao-senpai's handwriting is so cute.",
+            "Yes?"
         ]
     },
     "Ghost Patrol Squad Member Rui Akikaze": {
@@ -12147,6 +12445,16 @@
         "touch_normal": [
             "Ichie-senpai said she'd show me a shadow clone technique. I wonder what she'll do... I'm worried.",
             "My grandmother is really experienced, but I'll put on a performance that makes her not just proud, but jealous...!"
+        ],
+        "My Theater": [
+            "Ninja art: water escape! This is just a water bottle...",
+            "The performance in Onikage's debut scene is so cool!",
+            "Tamao-senpai sent us donuts!",
+            "Sh, be quiet. I'm trying to disappear into the shadows...",
+            "If Yukko became a ninja boss, I think she'd just disband her clan.",
+            "Ninja supported their era from the shadows. There must be a lot of hidden drama.",
+            "H-How was my fearless Onikage laugh? Was I able to pull it off?",
+            "The best part of \"Tales of Onikurenai\" is, of course, the climax!"
         ]
     },
     "Urashima Taro Rui Akikaze": {
@@ -12329,6 +12637,16 @@
         "touch_normal": [
             "I know Yukishiro-san's volleys are part of the act, but it doesn't change the fact that they're so powerful...",
             "I have my waterproof shoes, sunglasses, and UV cut jacket—all must-haves when going to the beach. Ichie-senpai lent them to me."
+        ],
+        "My Theater": [
+            "You can burn your feet if you walk barefoot on the beach in summer.",
+            "Tamao-senpai in a swimsuit looks...divine!",
+            "I think I'm gonna munch on the snacks Fumi-senpai sent us.",
+            "I'd love to have a beach volleyball tournament with everyone from the Performance Association.",
+            "I used some of the things in the dorm to make a nagashi soumen slide the other day.",
+            "I bought the same sunscreen that Tamao-senpai uses...!",
+            "I wonder if everyone will join me in eating the giant watermelon we received for the performance?",
+            "\"No hard feelings! Come at me with everything you have, Hibari.\""
         ]
     },
     "Saito Hajime Rui Akikaze": {
@@ -12351,6 +12669,16 @@
         "touch_normal": [
             "\"...If it's a request from Hijikata-san, then there's no other choice but to do it.\"",
             "It might be better to show less emotion here... I should talk to Yukko about it later."
+        ],
+        "My Theater": [
+            "When it comes to the Shinsengumi, it's got to be this pale blue-green kimono.",
+            "Tamao-senpai's Hijikata is so intense, I get sucked in without even realizing.",
+            "There are a lot of fight scenes in this play, so I want to go over the steps carefully.",
+            "I wish I could be as confident as Saito.",
+            "\"Even if we may have been comrades in the past, this is a battle. Sympathy will only bring you failure.\"",
+            "\"I speak too little? ...Is that so?\"",
+            "Yukko really nailed her role. I have to learn from her.",
+            "It's unclear when Saito Hajime joined the Shinsengumi."
         ]
     },
     "Stage Girl Rui Akikaze": {
@@ -12676,6 +13004,16 @@
             "Have you ever eaten at Tamao-senpai's family's restaurant? You should, her parents make really tasty food.",
             "Hmm? Do I seem different without my usual parka?",
             "*yawn* You need me?"
+        ],
+        "My Theater": [
+            "Praise me, I could use some motivation!",
+            "Is Ichie-san trying to mess with me again?",
+            "This looks like just the spot for a mid-day nap. Good to know.",
+            "I'm always ready to perform on stage. Just leave it to me.",
+            "I couldn't live the life of an eccentric rakugo storyteller. It's not for me.",
+            "Hm? Didn't I leave my script here?",
+            "There are some parts I'd like to check with you, if you don't mind?",
+            "The life of a performer is so demanding..."
         ]
     },
     "Ghost Patrol Squad Member Yuyuko Tanaka": {
@@ -12732,6 +13070,16 @@
             "I wish I could be as cool and as dashing as Yoshitsune! Heheh.",
             "There are so many stories featuring Yoshitsune. Let's see, where should I start?",
             "*yawwwn* No, I'm not cutting class..."
+        ],
+        "My Theater": [
+            "Ah, everyone's here. They're so enthusiastic about practice.",
+            "You can't stay in good condition if you don't get proper rest.",
+            "I memorized my lines, so can I go to bed now?",
+            "Am I tired? No, no, this is just acting. Zzz...",
+            "It's always best to go with what works for you.",
+            "I wish I'd gotten a souvenir from Kyoto since we went all that way.",
+            "Doesn't it look like I'm dancing when I move in this costume?",
+            "Practice is over, yeah? Time to laze away the rest of the day..."
         ]
     },
     "Fuma Kotaro Yuyuko Tanaka": {
@@ -13008,6 +13356,16 @@
         "touch_normal": [
             "\"Hijikata-san, I do not fear death. I've long been prepared from when I fell ill.\"",
             "I had fun writing the Shieikan days in the script. Their friendly banter is really heart warming."
+        ],
+        "My Theater": [
+            "The script is finished, so now I need to switch back into performer mode.",
+            "I heard the squad members didn't like the Shinsengumi's pale blue-green cape.",
+            "I wish we could have more action scenes, but it's tough with our numbers right now...",
+            "Creating a story with the scale of the stage in mind is also a charm of scriptwriting.",
+            "\"My body feels light today. Looks like I'll be able to push myself a bit.\"",
+            "\"...Oh, how I wish I could also fall together with everyone on the battlefield.\"",
+            "Ahhh. The tea after finishing writing a script always tastes exceptional.",
+            "Okita Soji also mastered the Tennen Rishin-ryu martial arts. Guess I have to look it up as research for the action scenes."
         ]
     },
     "Stage Girl Yuyuko Tanaka": {
@@ -13364,6 +13722,16 @@
             "How much wood would a woodchuck chuck... Tongue twisters help me practice speaking more clearly!",
             "Lalafin's action scenes are amazing! I tried to imitate her, but Misora stopped me.",
             "I got yelled at in class today, but at least now I know what I was doing wrong!"
+        ],
+        "My Theater": [
+            "I'm going to get Misora to teach me a good workout routine.",
+            "Maybe it's because I've been snacking with Misora so often lately... I think I've put on weight...",
+            "I wonder what play we'll put on next.",
+            "I'm going to practice more than anyone else does!",
+            "I want even more people to see our shows.",
+            "My shoulders? No, they don't get stiff, ever!",
+            "What's for dinner tonight? It's been a while since we had curry!",
+            "Even if the light is green, look both ways before crossing the street. Got that?"
         ]
     },
     "Greenhorn Captain Aruru Otsuki": {
@@ -13484,6 +13852,16 @@
         "touch_normal": [
             "I'm going to try and draw an illustration that wasn't in the original work. Would you like to draw with me, too?",
             "The Alice exhibition was amazing! I got so carried away that I got separated from Shizuha-chan!"
+        ],
+        "My Theater": [
+            "A blue dress and white apron. This is the trademark of Alice!",
+            "I want to read the Alice picture book again that Misora lent me a long time ago!",
+            "Everyone's outfits are done! It's like we're in Wonderland!",
+            "You can read the \"Alice's Adventures in Wonderland\" book in just about every language!",
+            "Hmm... Misora's been working on her rabbitness!",
+            "I think I had a good dream last night... But I don't remember what it was about.",
+            "Misora's bunny ears are so cute, I couldn't help but touch them!",
+            "\"Oh, my! What a strange room this is!\""
         ]
     },
     "Little Red Riding Hood Aruru Otsuki": {
@@ -13635,6 +14013,16 @@
         "touch_normal": [
             "There's a \"That Spice Is at the Frontier of Spiciness! Ultra Spicy Curry\" eating contest for the Founding Day. Maybe I should ask Akira-chan if she wants to go.",
             "I don't usually wear earrings... They make my ears all tickly♪"
+        ],
+        "My Theater": [
+            "I baked a golden cake with a \"Golden Gunfight\" theme! My finest work yet♪",
+            "Misora and I are going to be guides for Founding Day!",
+            "Do you know any heroes that are good at throwing knives, Lalafin?",
+            "This hat would make anyone wearing it feel like a sharpshooter! Bang bang♪",
+            "Wasn't the name of Jack's gun...Frontier Six or something?",
+            "I got them to do my hair in a cool way! How do I look?",
+            "\"Ace is being chased by the debt collectors again...\"",
+            "I was so into Jack that I ordered a milk in the cafeteria."
         ]
     },
     "Moon Aruru Otsuki": {
@@ -14085,6 +14473,16 @@
             "Hm? Something wrong?",
             "Are you going out for a bite by any chance?",
             "Hahaha, it tickles!"
+        ],
+        "My Theater": [
+            "Is it about time for the performance?",
+            "I hope Aruru's not up to something weird again.",
+            "Are you getting enough water? It gets pretty hot under the spotlights.",
+            "No worries, I've rehearsed this lots of times!",
+            "I'm not going to lose to anyone!",
+            "I came to this school to find out what I'm lacking.",
+            "Tsukasa-senpai is amazing. She went from an absolute beginner to this level just like that!",
+            "I wrote so many notes in the script, I think it's getting heavier."
         ]
     },
     "Greenhorn Helmsman Misora Kano": {
@@ -14669,6 +15067,16 @@
             "I wish I could perform on Broadway someday.",
             "A part-time job acting in a hero show at an amusement park... Shhh, don't tell anyone!",
             "Hahaha, stop tickling me!"
+        ],
+        "My Theater": [
+            "I never know when to give up!",
+            "Shizuha says I should act more mature... Meh!",
+            "Aruru, let's go shopping!",
+            "Which name's more unusual, Aruru or Lalafin?",
+            "Got to finish my practice routine before dinnertime!",
+            "Want something from me?",
+            "Stay tuned for the next episode, \"Lalafin's Grand Performance\"! Wouldn't that be cool?　",
+            "Tsukasa, be my partner for dance practice!"
         ]
     },
     "Pirate Queen's Bodyguard Lalafin Nonomiya": {
@@ -14725,6 +15133,16 @@
             "There are so many different versions of the Cinderella story. And I looove the illustrations in all of them!",
             "Huh? That's my transformation pin you've got! Thanks for bringing it to me!",
             "This costume has so many adorable little parts! It's super sweet. I just love it!"
+        ],
+        "My Theater": [
+            "We're starting the Cinderella viewing party!",
+            "I feel like a real princess!",
+            "I'm in perfect sync with my Fairy God-Aruru!",
+            "All right!  I'm putting the glass slipper on display right here!",
+            "Ugh, I was so focused on practice I forgot my homework!",
+            "Hmm, what's MY Cinderella going to be like?",
+            "Let's dance, your Princeship♪ ...Ha ha!",
+            "I wonder what kind of feast they serve at a royal ball."
         ]
     },
     "Easter Bunny Lalafin Nonomiya": {
@@ -14779,6 +15197,16 @@
         "touch_normal": [
             "When I was researching about sailors, I somehow landed on school ghost stories! I wonder if this school has any too...",
             "Happy Henry Lives Beside Boron Cottage... Hmm, what comes next again?"
+        ],
+        "My Theater": [
+            "I'll put my all into singing and dancing so that it's enjoyable even from far away!",
+            "An outdoor stage... It reminds me of hero shows!",
+            "I'd like to try performing on a ship one day...!",
+            "Aruru and Misora are jogging! Let me join too—!",
+            "I wonder if the longer you live at sea, the more fish you'll have to eat...",
+            "Swish, turn! This will be our code for when it's time to turn!",
+            "Ta-dah! Flag raising game, start!",
+            "Let's dance together! I'm here so don't worry!"
         ]
     },
     "Erichthonius Lalafin Nonomiya": {
@@ -14929,6 +15357,16 @@
         ],
         "touch_normal": [
             "Rui's movements in the fight scenes are so fast and cool! I want to do superhero action scenes with her♪ "
+        ],
+        "My Theater": [
+            "I wonder how Aruru and Misora are doing... Should I charge into Rinmeikan...?",
+            "Rui goes bright red when I compliment her on her acting. She's so cute.",
+            "The rose prop got bent. I'll ask Tsukasa to fix it!",
+            "I saw Shizuha carrying a shaker and ponzu. It's making me nervous...",
+            "I'm doing a \"Storyteller Rakugo Ranger\" improv with Yuyuko!",
+            "José may appear selfish, but he's just looking for his own freedom.",
+            "The teacher from Rinmeikan came to watch earlier. Don't tell Fumi and the others.",
+            "\"I am a rebellious bird...a free bird!\""
         ]
     },
     "Detective of Justice Joker Lalafin Nonomiya": {
@@ -15327,6 +15765,16 @@
             "What do I do on days off? I get up early and keep busy. Sleeping in seems like a waste of time.",
             "We had an arm wrestling contest the other day. Can you guess who won? It was a draw between Shizuha and Misora. They're pretty strong!",
             "There's an outfit I want, but it's kind of pricey."
+        ],
+        "My Theater": [
+            "Lalafin has drawn bunnies all over her script...",
+            "Want some snacks? I've got soy sauce flavored ones today.",
+            "Just one piece of candy can't have that many calories, right?",
+            "I really like a comfortable sofa.",
+            "Someday I'm going to change the low opinion people have of our school!",
+            "I think it's good to mingle with girls from other schools for a change.",
+            "I've got some powdered drink mix. Want some?",
+            "Shizuha told me to drink this... Do I really have to?"
         ]
     },
     "Veteran Pirate Tsukasa Ebisu": {
@@ -15415,6 +15863,16 @@
             "There's a fairy tale about swinging a magical mallet to produce anything you want. Wonder if it's true...",
             "There aren't really any limited-edition New Year's candies, huh? If there were I'd buy a whole load!",
             "Oh, perfect timing. I was just about to have some mochi soup. Did you want some too?"
+        ],
+        "My Theater": [
+            "I have to offer New Year's greetings to everyone who helped me over the past year.",
+            "I won! I need to go the candy shop and get my prize!",
+            "Ugh, I ate too much... Maybe I'll feel better when I get this kimono off.",
+            "Okay, that's enough of the New Year's break. Time to start practicing!",
+            "I love how we can spend New Year's Eve and New Year's Day together. Dorm life is the best!",
+            "I tried making my own kadomatsu decoration. It's pretty unique, huh?",
+            "I tried using some fancier makeup than usual. How does it look?",
+            "Hey, do you have free time right now? Would you mind practicing with me?"
         ]
     },
     "Charity Tsukasa Ebisu": {
@@ -15910,6 +16368,16 @@
             "Make sure to wash your hands and gargle first thing after coming home.",
             "Tongue twisters? How about... She sells sea-shells on the sea-shore?",
             "If you run into any problems at all, come straight to me for help, okay?"
+        ],
+        "My Theater": [
+            "How about we put a foot massage mat around here?",
+            "The margins of Misora-chan's script were all covered in notes. That's so typical of her!",
+            "Aruru-chan's always smiling, but maybe she's just good at hiding stress? ...Nah.",
+            "Maybe we could put some exercise equipment here...",
+            "I could give you a massage if you feel tired.",
+            "I hope we can put on another original show together.",
+            "I'm going to leave one of my home-made health drinks here. Enjoy!",
+            "Maybe I should suggest expanding our shower room..."
         ]
     },
     "Pirate Queen Shizuha Kocho": {
@@ -16030,6 +16498,16 @@
         "touch_normal": [
             "\"I'm the only queen!\" If you don't believe it with all your heart, you can't truly fill the role of the Queen of Hearts.",
             "The Queen of Hearts suits me? Is that a compliment? Heh heh, I'm joking!"
+        ],
+        "My Theater": [
+            "Maybe I'll try making tarts too.",
+            "\"To the chopping block!\" Do you think that sounds nicer than \"Off with her head\"?",
+            "My senpais taught me a lot when I played Alice last year.",
+            "Maybe I'll try painting some white roses red.",
+            "I should head to Aruru-chan's tea party soon.",
+            "I plan to put the queen of hearts at the top of my card tower.",
+            "I went to an Alice exhibition. I got you a souvenir.",
+            "\"By order of the queen. Call me Shizuha-sama!\" ...What do you think?♪"
         ]
     },
     "Count of Monte Cristo Shizuha Kocho": {
@@ -16213,6 +16691,16 @@
         "touch_normal": [
             "Fighting games are fun like sports. That sense of achievement you feel when you work together and win is like no other.",
             "Tsukasa seriously perfected her two roles. I have to work harder."
+        ],
+        "My Theater": [
+            "I made this bourbon colored nutritious drink based on the performance. My best one yet. ",
+            "King is a man of few words, so everything he says has weight to it.",
+            "The Western novel that Tsukasa recommended to me is really interesting.",
+            "I'm good at shooting games. Want to try me?",
+            "Lalafin was watching a tokusatsu show with a Western theme.",
+            "Western films are an oldie but a goodie. They're very exciting to watch.",
+            "\"I'm looking for Catherine. Do you know where she is?\"",
+            "\"You drawing your gun means a fight with me.\""
         ]
     },
     "Odin Shizuha Kocho": {
@@ -16665,6 +17153,16 @@
             "What do I do on my days off? Michiru has me accompany her to various places.",
             "Hmm. The PC in the student council room seems to be broken. Hitting it doesn't seem to fix the issue.",
             "Mei Fan hates nothing more than losing. She has promise."
+        ],
+        "My Theater": [
+            "Everyone has different strengths and we learn from each other. That is the Siegfeld way.",
+            "They even have metronome apps nowadays? Amazing.",
+            "Those at the top must act with dignity.",
+            "We choose the path we take.",
+            "We've sacrificed everything for the stage. And we have no regrets.",
+            "When something or someone is recognized as the best, there is always a reason for that.",
+            "Living up to others' expectations of me is my duty.",
+            "Taking breaks is necessary. Of course, so is training."
         ]
     },
     "Celestial Goddess Akira Yukishiro": {
@@ -17008,6 +17506,16 @@
         "touch_normal": [
             "The costumes that Yachiyo designed this time look especially dignified. It'll be a good complement to Klaus' colors.",
             "Michiru, the scene in the middle of act 4 where Kira's residence is raided lacks intensity. Make sure to follow-up with the ensemble."
+        ],
+        "My Theater": [
+            "The action scenes this time are a rare mix of Western and Japanese styles.",
+            "Hm, there's more material on \"Chushingura\" in the student council room.",
+            "(Shiori's movements in the action scenes remind me of Fumi...)",
+            "Yachiyo's Cain... You can tell he's the enemy just by one look.",
+            "Mei Fan, be careful of not pushing past your own limits.",
+            "The aloof Klaus brandishing a sword... It's critical to the performance.",
+            "\"Delicious drinks and being surrounded by friends... This is all I need.\"",
+            "\"Joshua, chess again? Please go easy on me.\""
         ]
     },
     "Emperor Akira Yukishiro": {
@@ -17418,6 +17926,16 @@
             "The Performance Festival this year is going to be a real blast. I can't wait to see Akira and Maya-chan pitted against each another.",
             "If you have spare time, do you want to play chess with me? I can let you start with an advantage if you like.",
             "Things I don't like? That'd be things like sea cucumbers, sea slugs, and jellyfish."
+        ],
+        "My Theater": [
+            "Time solves most things, but the thing is there's never enough time.",
+            "What should we set as our new challenge for the next performance?",
+            "Akira's eating extra spicy snacks again...",
+            "I'll check in on Shiori after this.",
+            "Want to play a board game with me?",
+            "Sometimes you have to let people see a vulnerable side to you.",
+            "Mei Fan gives really good massages.",
+            "Shiori likes black tea, just like her sister."
         ]
     },
     "Water Goddess Michiru Otori": {
@@ -17761,6 +18279,16 @@
         "touch_normal": [
             "The \"Royal Retainer\" performance will probably bring in people from all over the country. Because it was written by the famous playwright, Reina Kuon.",
             "I've watched \"Chushingura\" many times since it has numerous adaptations. I probably watched half of those with Akira. It's quite a memorable piece."
+        ],
+        "My Theater": [
+            "Edels and army uniforms go well together, don't they?",
+            "This time I'll also work hard behind the scenes♪",
+            "Oh, we should send out the invitations to the other schools soon.",
+            "The ensemble seem really motivated too.",
+            "I have a lot of fun all of a sudden when it gets busy.",
+            "All the Edels will be having a movie night tonight to watch \"Chushingura\".",
+            "\"Klaus, you've passed out drunk here again... C'mon, I'll take you home.\"",
+            "\"Holly, Cain's always been a womanizer. It's nothing new. Just leave him.\""
         ]
     },
     "Brilliance☆À la mode Michiru Otori": {
@@ -18108,6 +18636,16 @@
             "Fortune-telling is one of my hobbies, but everyone's too shy to ask me for their fortune. Maybe you'd like to know yours?",
             "Do I have something on my face?",
             "It's nice chatting with you, but now it's time for practice."
+        ],
+        "My Theater": [
+            "I don't let myself buy capsule toys over 500 yen unless it's a special occasion.",
+            "Yachiyo keeps insisting I put my hair in buns for some reason. It's getting annoying.",
+            "Akira-san? Are you in here?",
+            "What sort of stuff do the Rinmeikan girls study in their traditional Japanese culture classes?",
+            "This room would've been better with a capsule toy machine.",
+            "Should I give you a special Chinese massage that's only learned by a chosen few?",
+            "I got this Japanese dictionary from Akira-san. I learned lots of new words from it.",
+            "The capsule toys to look out for now are mini Buddha figurines!"
         ]
     },
     "Fire Goddess Liu Mei Fan": {
@@ -18323,6 +18861,16 @@
         "touch_normal": [
             "Don't you think it's a light costume, that's fitting of a fleet-footed god? The cloth will softly dance with the wind behind you when you run!",
             "You came at the perfect time! I want to fix this ornament in my hair – could you bring that hand mirror over to me?"
+        ],
+        "My Theater": [
+            "Careful not to step on the hem...",
+            "It would be annoying if I ran around here, right...?",
+            "If you had Hermes's flying shoes, you could fly anywhere at once!",
+            "I think Zeus's lightning is a great match for an angry Akira-san's wrath!",
+            "I have a message from Michiru-san for Akira-san!",
+            "Apparently Hermes's favorite foods are figs and honey. I love them too!",
+            "I'll psych myself up enough in this performance for Akira-san to recognize me!",
+            "\"Zeus is getting scolded by Hera again. He never learns.\""
         ]
     },
     "Snow White Liu Mei Fan": {
@@ -18778,6 +19326,16 @@
             "Lately I'm even starting to like PE classes.",
             "I need to become stronger and learn to perform more impressive moves. There is so much I want to express on stage!",
             "I used to have a weak constitution. I'm so happy that I can handle daily practice now!"
+        ],
+        "My Theater": [
+            "When Mei Fan-senpai tells fortunes, usually it's the bad ones that turn out to be true...",
+            "Don't overwork yourself--take breaks when you get tired! Should I bring you some tea?",
+            "Ahh, so relaxing...",
+            "Where did Michiru-senpai go?",
+            "Yachiyo-senpai is always tastefully dressed. She's so cool...",
+            "Oh, sorry! I was spacing out!",
+            "I'll keep going over this until it becomes second nature to me!",
+            "I'm very well. Thank you for asking!"
         ]
     },
     "Wind Goddess Shiori Yumeoji": {
@@ -18833,6 +19391,16 @@
         "touch_normal": [
             "I've dreamed of standing on the stage all my life. No matter what happens, I'm going to see my role as Belle through!",
             "I made rose tea today. Won't you join me?"
+        ],
+        "My Theater": [
+            "It's nice of the upperclassmen to stay late practicing with us.",
+            "When Mei Fan looks at me, I... I get a little anxious.",
+            "I want to be able to look the people I care about in the eye and tell them how I feel, like Belle does.",
+            "I feel like I'm in top shape. Maybe it's because every day here feels so rewarding?",
+            "I want to keep rehearsing until I can get across what makes Belle so special!",
+            "Even I can tell how much progress I'm making as I keep practicing.",
+            "It's so relaxing to have an animal around.",
+            "How nice would it be to sip tea surrounded by roses?"
         ]
     },
     "Thumbelina Shiori Yumeoji": {
@@ -19485,6 +20053,16 @@
             "Oh, those clothes look good on you. Where did you buy them?",
             "Lately I've started buying clothes at secondhand stores.",
             "Don't you think Mei Fan would look good with her hair tied in Chinese buns?"
+        ],
+        "My Theater": [
+            "Akira-senpai, you really shouldn't use your student number as your PC password.",
+            "No one's looking? Good.",
+            "Are there any hidden passages in this room?",
+            "I'm almost out of fabric. I should've bought it in bulk.",
+            "No suspicious activity at the moment, it seems.",
+            "How to walk without making a sound? Why would you think I'd know that?",
+            "Taking breaks should be part of your daily routine.",
+            "Hm? Oh, I'm always serious, you know."
         ]
     },
     "Earth Goddess Yachiyo Tsuruhime": {
@@ -19828,6 +20406,16 @@
         "touch_normal": [
             "Mei Fan's costumes are always the first to get frayed... I wish I could just follow her around with my sewing kit.",
             "I never thought there'd be such a loyal \"Chushingura\"... It's so like Kuon-sensei."
+        ],
+        "My Theater": [
+            "Mei Fan, you sure were carrying a lot of materials related to \"Chushingura\"♪",
+            "Michiru-senpai, I'll help you with the invitations to the other schools!",
+            "I love this outfit, but I'm not a fan of fighting... It messes up my hair, you see?",
+            "Every girl is the cutest on Earth through the eyes of Cain.",
+            "I asked Shiori if I could rest my head on her lap, and Mei Fan got angry!",
+            "Everyone's fighting to get their hands on the poster for the performance♪",
+            "\"Drinking at lunchtime, Sir...? May I join you?\"",
+            "\"Are we done with the war council? My cutie is waiting for me.\""
         ]
     },
     "Fool Yachiyo Tsuruhime": {
@@ -19882,6 +20470,16 @@
         "touch_normal": [
             "My swimsuit costume is in a different color from Akira-senpai's. They're both so adorable.",
             "I'm good at ballet, but I haven't had much experience with volleyball. I'm practicing with Mei Fan during breaks."
+        ],
+        "My Theater": [
+            "You wouldn't believe how fast Michiru-senpai's serve is. So scary♪",
+            "I would love to design an original swimsuit, if only once.",
+            "I made sure to apply plenty of sunscreen♪",
+            "Beach volleyball is way more demanding than you might think.",
+            "I'm looking forward to going to the pool with everyone again.",
+            "Now, what sandals would go with this swimsuit?",
+            "I think I'll invite Shiori to play volleyball together when we have some time off.",
+            "\"Suzume... Are you sure you want me to come at you with all my strength?\""
         ]
     },
     "Stage Girl Yachiyo Tsuruhime": {
@@ -21595,6 +22193,16 @@
         "touch_normal": [
             "Suzu's Zhang Fei is so funny that it's hard to not laugh during the act. I've gotta hold it in.",
             "Hisame's role this time is the one who keeps everyone in line. Her retorts are hilarious and to the point."
+        ],
+        "My Theater": [
+            "Just what kind of person was Liu Bei?",
+            "Comedy is so difficult...",
+            "Suzu... She's struggling because she can't read the kanji in the script.",
+            "I hope the audience will laugh.",
+            "In any case, I've just got to give it my all.",
+            "This costume looks so cool. I like it.",
+            "Was the performance funny?",
+            "\"I ended up spending all the money I got... What do I do...\""
         ]
     },
     "Romeo Koharu Yanagi": {
@@ -21984,6 +22592,16 @@
         "touch_normal": [
             "All the characters in the \"Curious Tales of the Three Kingdoms\" are relatable and have unique personalities. I like that.",
             "You need excitement for comedy. If we aren't excited, the audience won't enjoy themselves!"
+        ],
+        "My Theater": [
+            "On my honor as Seiran's Comedienne!",
+            "Where can I find something interesting?",
+            "How do you read this kanji in the script again? Hmm...",
+            "Mahiru is my spiritual place!",
+            "Tomorrow's the big day! I'm so excited I can't sleep!",
+            "Isn't this costume so cool? I really like it!",
+            "You'll get hooked on Hisame's retorts. They're hilarious.",
+            "\"Make way! Zhang Fei is coming through!\""
         ]
     },
     "Hansel Suzu Minase": {
@@ -22311,6 +22929,16 @@
         "touch_normal": [
             "Suzu-san's Zhang Fei somehow looks like the real person. Especially the way he gets carried away.",
             "Guan Yu is the one who keeps Liu Bei and Zhang Fei in line. It's tricky to keep the balance."
+        ],
+        "My Theater": [
+            "I wonder if our Three Kingdoms reached the audience...",
+            "\"Curious Tales of the Three Kingdoms\" is a comedy. We've got to make the audience laugh!",
+            "I don't know what to do about Suzu-san's ad-libs.",
+            "Tomorrow's the day of the performance. Let's do our best.",
+            "I want to go over the lines with Suzu-san, but...Suzu-san!",
+            "How do I look in Guan Yu's costume...?",
+            "I'm a little worried if we'll be able to make the audience laugh but...I'll do my best!",
+            "\"Is there no one else stronger than me!?\""
         ]
     },
     "Erda Hisame Honami": {
