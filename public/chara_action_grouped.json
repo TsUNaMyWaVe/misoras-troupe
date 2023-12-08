@@ -5522,6 +5522,38 @@
             "Speaking of \"Alice in Wonderland,\" the performance that Frontier put on was also amazing."
         ]
     },
+    "UNKNOWN(1050029) Maya Tendo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
     "Maid Melissa Maya Tendo (Skin)": {
         "quest_result": [
             "I'd say that about does it for cleanup."
@@ -6637,14 +6669,14 @@
             "I've asked Saijo-san to read through the script with me. We’ve got to make sure we convey the right level of tension."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "In the book the play's based on, the musketeers seemed quite preoccupied with love affairs.",
+            "How do I add some humor to the role...?",
+            "I need to think more about the trust the four musketeers had for each other, too...",
+            "Paris, the Flower Capital... I'd like to see it someday.",
+            "The role of Richelieu fits Saijo-san like a glove.",
+            "We have a flower reference guide at the dorm. Would you like to borrow it?",
+            "Why don't we make this room a little more stylish?",
+            "This hat is just as heavy as it looks."
         ]
     },
     "Happy Valentine Junna Hoshimi": {
@@ -11193,13 +11225,13 @@
             "The other day, I went to a park with a really pretty flower patch. Next time, I wanna bring the Rinmeikan gang☆"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Wanna see the picture Lala-chan and I took in matching outfits?",
+            "Lala-chan's pose in this picture is so acrobatic she's not even in it...!?",
+            "Cute clothes, casual clothes, everything's good in my book☆",
+            "Miniskirts remind me of my idol costumes. They were so cute☆",
+            "Tamao likes cute clothes, Fumi like cool clothes... Clothes say a lot about a person, huh?",
+            "Rui likes to dress conservatively, but I bet she'd get a lot of attention if she dressed bolder...!",
+            "I don't wanna get my favorite clothes dirty, so whenever I'm wearing them, I take a break from my pranks☆"
         ]
     },
     "Stage Girl Ichie Otonashi": {
@@ -22658,13 +22690,13 @@
             "I bet FSL would be even more fun in a bigger group. Next time, I wanna bring Koharu and Hisame, too. We can even throw Yakumo-sensei in there!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "I gave Koharu a sparkly fantasy mirror from FSL as a souvenir!",
+            "My souvenir for Hisame was a CD of FSL's parade music! I remember her saying she was interested in it.",
+            "You know, Koharu might just be totally fine on a thrill ride...",
+            "I'm always so relaxed with Mahiru. I just get this feeling that I'll never get lost around her.",
+            "I recharged my energy at FSL, so I'm ready to go ham at practice tomorrow!",
+            "The cast members were so awesome, pulling off that dance in those mascot costumes. Mad respect.",
+            "I knew we absolutely needed clear skies at FSL, so the day before, I did a ton of rain-rain-go-away dances!"
         ]
     },
     "Snow White Prince Suzu Minase": {
@@ -22728,6 +22760,37 @@
             "Cooking with Koharu and Mahiru was a lot of fun! I want to invite them again♪",
             "Come to think of it, \"Curious Tales of the Three Kingdoms\" was perfect for us.",
             "If we have a good time while we are performing, the laughs are sure to come!"
+        ]
+    },
+    "UNKNOWN(5020007) Suzu Minase": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Jeanne d'Arc Suzu Minase": {

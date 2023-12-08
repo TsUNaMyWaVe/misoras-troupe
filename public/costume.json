@@ -5519,6 +5519,22 @@
             "zh_hant": "紅心皇后 天堂真矢"
         }
     },
+    "1050029": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "トリスタン Encore 天堂真矢",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "1060001": {
         "chara_id": 106,
         "description": {
@@ -12653,6 +12669,22 @@
             "ja": "張飛 Encore 南風涼",
             "ko": "장비 Encore 미나세 스즈",
             "zh_hant": "張飛 Encore 南風涼"
+        }
+    },
+    "5020007": {
+        "chara_id": 502,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "騎士団長マリアヴェーラ 南風涼",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "5020009": {

@@ -14687,6 +14687,94 @@
         "trait_id": 47,
         "win_sequence_id": 4547
     },
+    "1050029": {
+        "attack_type": 2,
+        "attribute_id": 6,
+        "auto_skill1_id": 23191,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23192,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23193,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18079,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18080,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 685,
+        "base_atk": 1217,
+        "base_hp": 17791,
+        "base_mdef": 1500,
+        "base_pdef": 843,
+        "base_rarity": 5,
+        "chara_id": 105,
+        "command_skill1_id": 7852,
+        "command_skill2_id": 7853,
+        "command_skill3_id": 7854,
+        "command_unique_skill_id": 7855,
+        "confusion_skill_id": 7856,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4910,
+        "delta_pdef": 4050,
+        "description": {
+            "ja": "座長スキル&永続オートスキルで味方の雲属性を強化する舞台少女。基本ACT&CAで舞台効果「自縄自縛(Lv4)」を付与することができる。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1050029,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110500291,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110500292,
+        "friendship_pattern_id": 126,
+        "get_message": {
+            "ja": "愛と悲しみの騎士トリスタン\n悲壮の復讐劇の始まりです"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12206101,
+        "growth_board2_id": 12206201,
+        "growth_board3_id": 12206301,
+        "growth_board4_id": 12206401,
+        "growth_board5_id": 12206501,
+        "growth_board6_id": 12206601,
+        "growth_board7_id": 12206701,
+        "growth_board8_id": 12206801,
+        "growth_board9_id": 12206901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10029,
+        "model_id": 1050029,
+        "name": {
+            "ja": "トリスタン Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 206,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 6,
+        "profile": {
+            "ja": "円卓の騎士のひとり。かつてはアーサー王を敬愛する青年\nだったが、最愛の人イゾルデを失ったことで一変。原因\nとされるアーサーへ復讐を誓う悲しみの騎士となった。\n演目『失われた聖杯』より"
+        },
+        "published_at": 1702278000,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20029,
+        "trait_id": 36,
+        "win_sequence_id": 4891
+    },
     "1060001": {
         "attack_type": 2,
         "attribute_id": 3,
@@ -17528,7 +17616,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "味方の月・宙・雲・星属性を強化する舞台少女。舞台効果「拍手喝采」を4属性分付与し、敵役全体に上位スタン&上位感電&上位暗闇を付与するクライマックスACTが強力。"
+            "en": "Boosts Moon, Space, Cloud, and Star allies. Her Climax Act applies 4 types of Stage Effect [Applauses], and applies Greater Stun, Greater Electric Shock, and Greater Blindness to all enemies.",
+            "ja": "味方の月・宙・雲・星属性を強化する舞台少女。舞台効果「拍手喝采」を4属性分付与し、敵役全体に上位スタン&上位感電&上位暗闇を付与するクライマックスACTが強力。",
+            "ko": "아군 달, 우주, 구름, 별 속성을 강화하는 무대소녀. 무대 효과 [박수갈채]를 4속성 부여하고, 적 전체에게 상위 스턴 & 상위 감전 & 상위 암흑을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可強化我方月、宙、雲、星屬性的舞台少女。強力的CLIMAX ACT可賦予4種屬性的舞台效果「拍手喝采」，並賦予所有敵方高級暈眩&高級感電&高級盲目。"
         },
         "dex": 5,
         "dress_episode_id": 1060029,
@@ -17541,7 +17632,10 @@
         "friendship30_levelup_adventure_id": 3110600292,
         "friendship_pattern_id": 129,
         "get_message": {
-            "ja": "誰よりも秘密主義……\n難しい役だけど、演じきってみせるわ"
+            "en": "This character is the most secretive, which makes her difficult to play, but I want to give it my best.",
+            "ja": "誰よりも秘密主義……\n難しい役だけど、演じきってみせるわ",
+            "ko": "누구보다 비밀이 많은 사람... 어려운 역할이지만 멋지게 연기해 내겠어.",
+            "zh_hant": "比任何人都來得神秘……雖是個困難的角色，但我會演演看。"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12109101,
@@ -17557,7 +17651,10 @@
         "leader_tactics_skill_id": 10013,
         "model_id": 1060029,
         "name": {
-            "ja": "銃士アラミス Encore"
+            "en": "Musketeer Aramis Encore",
+            "ja": "銃士アラミス Encore",
+            "ko": "총사 아라미스 Encore",
+            "zh_hant": "劍客阿拉密斯 Encore"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 194,
@@ -17565,7 +17662,10 @@
         "party_skill_type": 5,
         "personality_id": 9,
         "profile": {
-            "ja": "アラミスは三銃士のひとり。銃士でありながら聖職者に憧れており、詩を作ったりもする。その名前は世を忍ぶ姿だとか……。\n演目『三銃士』より"
+            "en": "One of the Three Musketeers. A musketeer who yearns to become a member of the clergy, she also writes poetry. The name Aramis hides her true identity... From \"The Three Musketeers.\"",
+            "ja": "アラミスは三銃士のひとり。銃士でありながら聖職者に憧れており、詩を作ったりもする。その名前は世を忍ぶ姿だとか……。\n演目『三銃士』より",
+            "ko": "아라미스는 삼총사의 일원이다. 총사이면서 성직자를 동경해 시를 짓기도 한다. 그 이름은 세상의 이목을 피하기 위한 모습이라는 설도...\n작품 [삼총사]에서",
+            "zh_hant": "阿拉密斯為三劍客之一。雖是劍客，但也希望當個神職人員的她，有時會寫詩。據說阿拉密斯這個名字代表著隱世之身……\n取自戲碼『三劍客』"
         },
         "published_at": 1699387200,
         "rarity_up_cost_id": 1,
@@ -29604,7 +29704,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "座長スキルで敵役全体に上位キラめき獲得ダウン&上位すばやさダウンを付与する舞台少女。味方全体に変換[上位回避→上位不屈]を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater Brilliance Recovery Reduction and Greater Agility Down to all enemies. Her Climax Act applies Change [Greater Evasion→Greater Fortitude] to all allies.",
+            "ja": "座長スキルで敵役全体に上位キラめき獲得ダウン&上位すばやさダウンを付与する舞台少女。味方全体に変換[上位回避→上位不屈]を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 적 전체에게 상위 반짝임 획득 감소 & 상위 민첩 감소를 부여하는 무대소녀. 아군 전체에게 변환[상위 회피→상위 불굴]을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有敵方[高級]降低光芒獲得量&[高級]降低敏捷的舞台少女。強力的CLIMAX ACT可賦予所有我方變換[高級迴避→高級不屈]。"
         },
         "dex": 5,
         "dress_episode_id": 2020015,
@@ -29617,7 +29720,10 @@
         "friendship30_levelup_adventure_id": 3120200152,
         "friendship_pattern_id": 126,
         "get_message": {
-            "ja": "外見も中身も、ゴシゴシ磨いて\nぴっかぴかになっちゃお～☆"
+            "en": "Scrub and polish both the outside and the inside so that i becomes shiny and bright!☆",
+            "ja": "外見も中身も、ゴシゴシ磨いて\nぴっかぴかになっちゃお～☆",
+            "ko": "외면도 내면도 반질반질 갈고닦아서\n반짝반짝 빛을 내보자~☆",
+            "zh_hant": "不管是外表還是內裡，\n都要打磨得閃閃發亮～☆"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12106101,
@@ -29633,7 +29739,10 @@
         "leader_tactics_skill_id": 10018,
         "model_id": 2020015,
         "name": {
-            "ja": "キラめき☆アラモード"
+            "en": "Brilliance☆À la mode",
+            "ja": "キラめき☆アラモード",
+            "ko": "반짝임☆아라모드",
+            "zh_hant": "光輝閃耀☆A la mode"
         },
         "obtain_route_flags": 2,
         "party_skill_id": 206,
@@ -29641,7 +29750,10 @@
         "party_skill_type": 5,
         "personality_id": 6,
         "profile": {
-            "ja": "同じ服を買った偶然から、一緒に写真撮影会をすることになったいちえとララフィン。子役出身のララフィンと元アイドルのいちえ、かわいいポーズはお手の物！？"
+            "en": "Ichie and Lalafin land a photoshoot together after buying the same outfit. Lalafin, a child actor, and Ichie, a former idol, are both adept at cute poses!",
+            "ja": "同じ服を買った偶然から、一緒に写真撮影会をすることになったいちえとララフィン。子役出身のララフィンと元アイドルのいちえ、かわいいポーズはお手の物！？",
+            "ko": "우연히 같은 옷을 구입한 인연으로 함께 사진 촬영을 하게 된 이치에와 라라핀. 아역배우 출신인 라라핀과 아이돌 출신인 이치에, 귀여운 포즈는 주특기?!",
+            "zh_hant": "一愛跟菈樂菲不約而同地買了同一款衣服，後來兩人更順勢辦了一場紀念攝影會。菈樂菲曾當過童星，而一愛則曾當過偶像，要她們擺出可愛姿勢簡直易如反掌！"
         },
         "published_at": 1700031600,
         "rarity_up_cost_id": 1,
@@ -58656,7 +58768,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "座長&開演スキルで味方の風属性を強化する舞台少女。開幕時&全ての基本ACTで「マイナス舞台効果Lvダウン」&「プラス舞台効果Lvダウン」を適用することができる。"
+            "en": "Her Leader Skill and Opening Skill boost Wind allies. Her Auto Skill at start and all her Acts apply [Neg. Stage Effect Lv. Down] and [Pos. Stage Effect Lv. Down].",
+            "ja": "座長&開演スキルで味方の風属性を強化する舞台少女。開幕時&全ての基本ACTで「マイナス舞台効果Lvダウン」&「プラス舞台効果Lvダウン」を適用することができる。",
+            "ko": "단장 & 개연 스킬로 아군 바람 속성을 강화는 무대소녀. 개막 & 모든 기본 ACT로 [마이너스 무대 효과 Lv 감소] & [플러스 무대 효과 Lv 감소]를 적용할 수 있다.",
+            "zh_hant": "可透過組長&開演技能強化我方風屬性的舞台少女。開幕時&所有基本ACT皆可賦予「降低負面舞台效果Lv」和「降低正面舞台效果Lv」。"
         },
         "dex": 5,
         "dress_episode_id": 5020004,
@@ -58669,7 +58784,10 @@
         "friendship30_levelup_adventure_id": 3150200042,
         "friendship_pattern_id": 122,
         "get_message": {
-            "ja": "まひると遊園地なんて、\n楽しみすぎるでしょ！？"
+            "en": "I can't wait to enjoy the amusement park with Mahiru!",
+            "ja": "まひると遊園地なんて、\n楽しみすぎるでしょ！？",
+            "ko": "마히루랑 놀이공원에 가다니\n너무 기대되잖아?!",
+            "zh_hant": "居然能和真晝一起去遊樂園，\n真是太令人期待了！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12102101,
@@ -58685,7 +58803,10 @@
         "leader_tactics_skill_id": 10012,
         "model_id": 5020004,
         "name": {
-            "ja": "キラめき☆アラモード"
+            "en": "Brilliance☆À la mode",
+            "ja": "キラめき☆アラモード",
+            "ko": "반짝임☆아라모드",
+            "zh_hant": "光輝閃耀☆A la mode"
         },
         "obtain_route_flags": 2,
         "party_skill_id": 202,
@@ -58693,7 +58814,10 @@
         "party_skill_type": 5,
         "personality_id": 2,
         "profile": {
-            "ja": "まひるとの遊園地に大はしゃぎの涼。前日に『晴れ乞いダンス』を踊ったおかげか、良い天気に恵まれた。自由に駆け出す涼に故郷のきょうだいたちを重ねるまひるだった。"
+            "en": "Suzu is excited to be at the amusement park with Mahiru. The weather is fine, probably thanks to the \"Sunny Begging Dance\" they had performed the day before. Mahiru recalls her siblings as she sees Suzu running freely.",
+            "ja": "まひるとの遊園地に大はしゃぎの涼。前日に『晴れ乞いダンス』を踊ったおかげか、良い天気に恵まれた。自由に駆け出す涼に故郷のきょうだいたちを重ねるまひるだった。",
+            "ko": "마히루와 놀이공원에 놀러가 너무나도 들뜬 스즈. 어제 [기우제 춤]을 춘 덕분인지 날씨가 화창했다. 자유롭게 뛰어다니는 스즈를 보며 고향의 형제들을 떠올리는 마히루였다.",
+            "zh_hant": "涼在遊樂園和真晝一起大玩特玩了一整天。不知道是不是前一天跳了『祈晴之舞』的關係，當天的天氣非常好。看著自由奔放的涼，讓真晝不由得想起了遠在故鄉的弟弟妹妹們。"
         },
         "published_at": 1699254000,
         "rarity_up_cost_id": 1,
@@ -58902,6 +59026,94 @@
         "sub_tactics_skill_id": 0,
         "trait_id": 40,
         "win_sequence_id": 4612
+    },
+    "5020007": {
+        "attack_type": 1,
+        "attribute_id": 3,
+        "auto_skill1_id": 23188,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23189,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23190,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18077,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18078,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 685,
+        "base_atk": 1206,
+        "base_hp": 17760,
+        "base_mdef": 820,
+        "base_pdef": 1532,
+        "base_rarity": 5,
+        "chara_id": 502,
+        "command_skill1_id": 7847,
+        "command_skill2_id": 7848,
+        "command_skill3_id": 7849,
+        "command_unique_skill_id": 7850,
+        "confusion_skill_id": 7851,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4050,
+        "delta_pdef": 4910,
+        "description": {
+            "ja": "座長スキルで味方全体に上位すばやさアップ10%&上位起死回生を付与する舞台少女。敵役全体に上位起死回生減少を付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 5020007,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3150200071,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3150200072,
+        "friendship_pattern_id": 123,
+        "get_message": {
+            "ja": "騎士団長マリアヴェーラ、\n超かっこよく演じるよ！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12103101,
+        "growth_board2_id": 12103201,
+        "growth_board3_id": 12103301,
+        "growth_board4_id": 12103401,
+        "growth_board5_id": 12103501,
+        "growth_board6_id": 12103601,
+        "growth_board7_id": 12103701,
+        "growth_board8_id": 12103801,
+        "growth_board9_id": 12103901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10028,
+        "model_id": 5020007,
+        "name": {
+            "ja": "騎士団長マリアヴェーラ"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 203,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 3,
+        "profile": {
+            "ja": "太陽騎士団長。最強の剣士の称号『シュテルクスト』を持つ世界有数の剣士。カタリーナとは幼馴染で、剣の腕を競い夢を語り合う仲だった。\n演目『別れの戦記』より"
+        },
+        "published_at": 1702018800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20028,
+        "trait_id": 36,
+        "win_sequence_id": 4886
     },
     "5020009": {
         "attack_type": 1,
