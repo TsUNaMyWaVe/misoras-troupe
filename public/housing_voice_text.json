@@ -10020,37 +10020,58 @@
     "1040030": {
         "35": {
             "text": {
-                "ja": "ショッピングに行くとつい、ほしいものが増えちゃうわね。"
+                "en": "Whenever I go shopping, I suddenly end up wanting a lot more than I thought.",
+                "ja": "ショッピングに行くとつい、ほしいものが増えちゃうわね。",
+                "ko": "쇼핑을 하다 보면 자꾸 갖고 싶은 물건이 늘어나.",
+                "zh_hant": "只要去逛一下街，想要買的東西就會不知不覺地越來越多呢。"
             }
         },
         "36": {
             "text": {
-                "ja": "舞台少女は人前に立つことが多いから、流行のチェックも大切よ。"
+                "en": "Stage Girls are always putting themselves on display, so it's important to keep tabs on the latest trends.",
+                "ja": "舞台少女は人前に立つことが多いから、流行のチェックも大切よ。",
+                "ko": "무대소녀는 사람들 앞에 설 일이 많으니까 최신 유행을 체크하는 것도 중요해.",
+                "zh_hant": "舞台少女經常要公開露面，所以跟上時下流行穿著也是很重要的喔。"
             }
         },
         "37": {
             "text": {
-                "ja": "ブラックのアイテムはどんな服にも合わせやすいからお勧めよ。"
+                "en": "I recommend black for your accessories. It goes with everything.",
+                "ja": "ブラックのアイテムはどんな服にも合わせやすいからお勧めよ。",
+                "ko": "블랙 아이템은 어떤 옷이든 잘 어울리니까 추천해.",
+                "zh_hant": "黑色的隨身小物可輕鬆搭配各種衣服，所以我很推薦買黑色的喔。"
             }
         },
         "38": {
             "text": {
-                "ja": "あいつが買い物に迷っていたから、つい助言しちゃったわ。"
+                "en": "I noticed you-know-who having trouble with her shopping, so I gave her some advice. Oops.",
+                "ja": "あいつが買い物に迷っていたから、つい助言しちゃったわ。",
+                "ko": "그 녀석이 뭘 살지 고민하고 있어서 나도 모르게 조언해버렸어.",
+                "zh_hant": "看到那傢伙在煩惱該買哪個款色，我就忍不住給了她一些建議。"
             }
         },
         "39": {
             "text": {
-                "ja": "コーディネートに合わせてヘアアレンジするのも、気分が変わっていいわね。"
+                "en": "I like changing up my hairstyle to fit what I'm wearing. It's a nice change of pace.",
+                "ja": "コーディネートに合わせてヘアアレンジするのも、気分が変わっていいわね。",
+                "ko": "코디에 맞춰 머리 모양을 바꿔보는 것도 기분 전환이 돼서 좋지.",
+                "zh_hant": "配合穿著來換個編髮造型也不錯，可以讓心境也跟著煥然一新呢。"
             }
         },
         "40": {
             "text": {
-                "ja": "つい買いすぎちゃったかしら。どれも似合うんだから仕方ないわよね。"
+                "en": "I think I might've bought too much. Oh, well—it all looks good on me.",
+                "ja": "つい買いすぎちゃったかしら。どれも似合うんだから仕方ないわよね。",
+                "ko": "너무 많이 샀나 봐. 전부 다 어울리니까 어쩔 수 없는 거겠지.",
+                "zh_hant": "我是不是不小心買太多了啊？這也沒辦法，誰叫我穿什麼都好看呢。"
             }
         },
         "41": {
             "text": {
-                "ja": "Tシャツはどんな季節でもつい目に入っちゃうわ。運動する時にも必要だしね。"
+                "en": "T-shirts always catch my eye, no matter what the season. I need them when I work out, after all.",
+                "ja": "Tシャツはどんな季節でもつい目に入っちゃうわ。運動する時にも必要だしね。",
+                "ko": "티셔츠는 어느 계절이든 무심코 눈이 가는 아이템이야. 운동할 때도 필요하고.",
+                "zh_hant": "不論哪個季節，我都會考慮購買T恤。畢竟在運動時會用到呢。"
             }
         }
     },
@@ -29202,6 +29223,43 @@
             }
         }
     },
+    "3050019": {
+        "35": {
+            "text": {
+                "ja": "『あなたも凍らせてあげるわ。氷塊となって、海を飾りなさい』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『ドロシーの指輪は至宝への導き……そして私の指輪は、宝箱を開く鍵なの』"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "ララフィンに漫画を読んでっておねだりされたけど、効果音も読むのかしら？"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "つかさが駄菓子の当たりをくれたの。大事にとっておきたい、不思議な気分。"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "あるるちゃんと特製ドリンクを作ったの。美空ちゃん、飲んでくれるかしら？"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "今度、みんなで海に行くの。浜辺でエチュードしようって計画しているのよ。"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "『戦うのは私ひとりでいい。そのほうが、無用に心がざわめかないもの』"
+            }
+        }
+    },
     "3050020": {
         "35": {
             "text": {
@@ -30363,6 +30421,122 @@
                 "ja": "時間がない、私は行く。",
                 "ko": "시간이 없어, 난 가겠다.",
                 "zh_hant": "時間無多，我要上了。"
+            }
+        }
+    },
+    "4010020": {
+        "35": {
+            "text": {
+                "en": "\"I have the intel. Now all I need is a team to carry out my plan. Time to show off what I can do.\"",
+                "ja": "『情報は揃ったわ。あとは作戦を実行するメンバーを集めるだけ。腕の見せ所ね』",
+                "ko": "[정보는 다 모였어. 이제 작전을 실행할 멤버를 모으는 일만 남았어. 실력을 발휘할 때로군]",
+                "zh_hant": "『已收集到足夠的情報。接下來只需要募集負責執行的成員。是我大顯身手的時候了』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "\"The authorities don't care if we spies get caught or killed.\"",
+                "ja": "『私たちスパイが捕えられようとも、そして殺されようとも当局は関知しない』",
+                "ko": "[우리 스파이가 잡히든 죽든, 당국은 상관하지 않아]",
+                "zh_hant": "『我們間諜即使被抓住或被殺掉都跟組織沒有關係』"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "I must confess I find myself in Nonomiya's debt. She can be forceful at times, but I'm grateful for it.",
+                "ja": "野々宮には何かと世話になるな。強引なところもあるが、感謝している。",
+                "ko": "노노미야에겐 자주 도움을 받는 것 같군. 막무가내인 면도 있지만 감사하게 생각한다.",
+                "zh_hant": "野野宮也幫了我不少。雖然她的做法有點強硬，但我還是很感謝她。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "Lady A's aloof nature reminds me somewhat of Yachiyo.",
+                "ja": "レディAの飄々とした役柄はどこかやちよを彷彿とさせるな。",
+                "ko": "레이디A의 세상사 초연한 역할은 어딘지 모르게 야치요를 떠올리게 하는군.",
+                "zh_hant": "Lady A這種變幻莫測的角色，總讓我不禁聯想起八千代。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "This role involved some flashy fight scenes, so I had Mei Fan help me practice.",
+                "ja": "今回の役では派手な殺陣もあったので、メイファンに稽古の相手をしてもらった。",
+                "ko": "이번 역할에서는 화려한 결투 장면도 있어서 메이팡이 연습 상대가 되어주었지.",
+                "zh_hant": "這次的角色還需要演繹出華麗的武打場面，所以我讓美帆來當我的練習對手了。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "Apparently, at Frontier Shiori had plenty of people calling out to her and asking for pictures.",
+                "ja": "栞もフロンティアで何度か声を掛けられたり、記念撮影を求められたりしたようだ。",
+                "ko": "시오리도 프론티어에서 몇 번인가 말을 걸거나 기념 촬영을 요청하는 사람이 있었다고 하더군.",
+                "zh_hant": "聽說栞在芙羅提亞也被搭話過幾次，還被對方邀請拍照留念。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "Hrm, I'm running out of my special spice. I'll have to restock.",
+                "ja": "む、特製スパイスがもうなくなりそうだ。補充しなければ。",
+                "ko": "윽, 특제 스파이스가 다 떨어져 가는군. 보충해야겠어.",
+                "zh_hant": "唔，特製調味料快用光了。得趕快補充才行。"
+            }
+        }
+    },
+    "4010021": {
+        "35": {
+            "text": {
+                "en": "\"I should not have been permitted to live in the light, yet the princess gave me a reason to live.\"",
+                "ja": "『陽の下に出ることすら叶わぬ私に、姫は生きる意味を与えてくれた』",
+                "ko": "[태양 아래 나설 수조차 없는 내게 공주는 삶의 의미를 부여해 줬어]",
+                "zh_hant": "『我本來是無法在日光下生存的，是公主賜予了我生存的意義』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "\"She is my light. She is my everything.\"",
+                "ja": "『姫は私にとっての光。私にとってのすべてだ』",
+                "ko": "[공주는 나에게 있어서 빛. 그리고 나의 전부다]",
+                "zh_hant": "『對我來說，公主就是我的光、我的一切』"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "Tsuyuzaki showed me an anime called Majestic Four. She said it would help with my role...",
+                "ja": "露崎から役作りの参考にと『マジェフォー』というアニメを見せられたんだが……。",
+                "ko": "츠유자키가 역할 연구에 참고가 될 거라면서 [마제4]라는 애니메이션을 보여주더군...",
+                "zh_hant": "露崎說或許會對揣摩角色有幫助，便讓我看了一部名叫『莊嚴四魔女』的動畫……"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "Aijo was the first to propose the casting for this program. Apparently she couldn't forget Tsuyuzaki's Sorcerer.",
+                "ja": "今回の配役を最初に提案したのは愛城だ。露崎の魔法使いが忘れられないらしい。",
+                "ko": "이번 배역을 맨 처음 제안한 사람은 아이조다. 츠유자키의 마법사를 잊을 수 없다더군.",
+                "zh_hant": "這次的角色分配最初是由愛城提出的。她似乎對露崎飾演的魔法師念念不忘。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "Apparently Mei Fan is trying to stop herself from getting near the game console. She's liable to get too absorbed in it.",
+                "ja": "メイファンはゲーム機に近寄らないように律しているそうだ。凝り性だからな。",
+                "ko": "메이팡은 게임기에 접근하지 않도록 자제하고 있다더군. 굉장히 열중하는 성격이니까 말이지.",
+                "zh_hant": "她們似乎有共識地不讓美帆接近遊戲機。畢竟美帆很容易會過份沉迷。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "If I could use magic, what would it be? Hmph. We create worlds... There can be no greater magic than that.",
+                "ja": "使いたい魔法？ふん、私たちは世界を創る……これ以上の魔法はあるまい。",
+                "ko": "쓰고 싶은 마법? 흠, 우리들은 세계를 만든다... 이 이상의 마법이 또 있겠나.",
+                "zh_hant": "你問我想用什麼魔法？哼，我們可是在創造世界……有什麼魔法能比得上的嗎？"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "\"I'll hide the princess away from the forces of good and evil... This is for the best. I'm doing the right thing...\"",
+                "ja": "『魔王や勇者から、姫を隠す……これでいいはずだ、何も間違っていない……』",
+                "ko": "[마왕과 용사로부터 공주를 숨기는 거야... 그래, 이게 맞는 거야, 아무 문제 없어...]",
+                "zh_hant": "『將公主藏起來，不讓魔王跟勇者找到她……這樣就行了。什麼問題都沒有……』"
             }
         }
     },

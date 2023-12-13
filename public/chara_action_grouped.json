@@ -4396,13 +4396,13 @@
             "Whenever I go shopping, I can't help but notice when things would look good on Karen, or Futaba, or any of the others."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Whenever I go shopping, I suddenly end up wanting a lot more than I thought.",
+            "Stage Girls are always putting themselves on display, so it's important to keep tabs on the latest trends.",
+            "I recommend black for your accessories. It goes with everything.",
+            "I noticed you-know-who having trouble with her shopping, so I gave her some advice. Oops.",
+            "I like changing up my hairstyle to fit what I'm wearing. It's a nice change of pace.",
+            "I think I might've bought too much. Oh, well—it all looks good on me.",
+            "T-shirts always catch my eye, no matter what the season. I need them when I work out, after all."
         ]
     },
     "Black Lion Nation Knight Encore Claudine Saijo": {
@@ -5522,26 +5522,26 @@
             "Speaking of \"Alice in Wonderland,\" the performance that Frontier put on was also amazing."
         ]
     },
-    "UNKNOWN(1050029) Maya Tendo": {
+    "Tristan Encore Maya Tendo": {
         "quest_result": [
-            ""
+            "Tristan is a worthwhile role to play."
         ],
         "quest_dress": [
-            ""
+            "\"Daily training is vital for me to reach my goal. I must work hard for the time that will come.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Just like how Tristan lost his beloved Isolde, I also lost my beloved baumkuchen.",
+            "\"I swore that I would seek revenge on the cruel king who had abandoned my beloved Isolde.\"",
+            "\"...You really are the kingdom's top wizard, Merlin. To think that you'd be able to see through my true intentions — what terrifying perception.\"",
+            "\"I, Tristan, one of the Knights of the Round Table, once again swear loyalty to the great king and kingdom! I swear on my beloved Isolde!\"",
+            "\"That can't be true! If it were, then all that I've done up until now...\"",
+            "\"Allow me to explain how I...framed His Highness.\"",
+            "Tristan's costume shines coldly as if to represent the sadness in his heart.",
+            "\"The Lost Holy Grail\" is a story about Tristan swearing vengeance on Arthur after losing his beloved Isolde."
         ],
         "touch_normal": [
-            "",
-            ""
+            "The name Tristan can mean \"sad child\". When you think about his role in the play, it fits perfectly.",
+            "Tristan is willing to use whatever means available to reach his goal. I'd like to learn from that strong will of his."
         ],
         "My Theater": [
             null,
@@ -16893,6 +16893,37 @@
             "I should ask Lalafin for her opinion on the weapon design."
         ]
     },
+    "Captain Leona Shizuha Kocho": {
+        "quest_result": [
+            "Leona and I... We aren't alone anymore."
+        ],
+        "quest_dress": [
+            "\"You, train me? Interesting... Let's see what you've got.\""
+        ],
+        "common": [
+            "\"I shall engrave my heart, this proof that I lived in a free world, upon the sea!\"",
+            "\"The sea is a mark of freedom. I will do anything to protect it.\"",
+            "\"Rejoice, for I shall freeze you, too. May you decorate the sea forevermore as an ice sculpture.\"",
+            "\"Dorothy's ring is a guide to unparalleled treasure... And mine is the key to the chest.\"",
+            "Lalafin begged me to read her some manga, but am I supposed to read the sound effects, too?",
+            "Tsukasa gave me a winning popsicle. For some reason, I want to save it...",
+            "Aruru-chan and I made a special drink. I wonder if Misora-chan will drink it...",
+            "We all made plans to go to the beach. We're going to have an etude on the sand."
+        ],
+        "touch_normal": [
+            "It's been a long time since I've been Leona. Just wearing the costume sets my heart aflutter... Not many costumes are that special.",
+            "People used to just watch me from afar at school, but now a lot of people come talk to me. Sometimes they ask me for my autograph, and I don't know what to do."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
     "Odile Encore Shizuha Kocho": {
         "quest_result": [
             "I'd love it if I can get across the elegance of the Black Swan."
@@ -17068,9 +17099,6 @@
             "Happy New Year to you. May it be a good one. ...What? There's nothing wrong with a formal greeting for the holiday, is there?",
             null
         ],
-        "birthday_401": [
-            "A birthday party? All right, all right...you can have fun today. But it's back to practices tomorrow. "
-        ],
         "birthday_402": [
             "Happy birthday, Michiru. I miss this Sugoroku board game... I never managed to beat you even back then."
         ],
@@ -17082,6 +17110,9 @@
         ],
         "birthday_405": [
             "Happy birthday, Yachiyo. You always amaze me with your costumes—you make them not only beautiful, but even easy to perform in."
+        ],
+        "birthday_401": [
+            "I see I'm late. If everyone is here, then let's head to the theater. This is going to be a good day."
         ]
     },
     "Akira Yukishiro Uniform": {
@@ -17677,6 +17708,68 @@
             "The clock is ticking. I have to go."
         ]
     },
+    "Agent Lady A Encore Akira Yukishiro": {
+        "quest_result": [
+            "Mission complete—this is the end."
+        ],
+        "quest_dress": [
+            "\"I'll just take orders as usual and carry out my mission.\""
+        ],
+        "common": [
+            "\"Mission complete! Nothing's impossible for me.\"",
+            "\"Commence the operation! Intricate and intrepid, that's my style!\"",
+            "\"I have the intel. Now all I need is a team to carry out my plan. Time to show off what I can do.\"",
+            "\"The authorities don't care if we spies get caught or killed.\"",
+            "I must confess I find myself in Nonomiya's debt. She can be forceful at times, but I'm grateful for it.",
+            "Lady A's aloof nature reminds me somewhat of Yachiyo.",
+            "This role involved some flashy fight scenes, so I had Mei Fan help me practice.",
+            "Apparently, at Frontier Shiori had plenty of people calling out to her and asking for pictures."
+        ],
+        "touch_normal": [
+            "\"I assume this is loaded with my instructions... I realize they do it to erase evidence, but I do wish they'd come up with something less flashy than a self-destructing recorder.\"",
+            "When I got back to the dorm after the open campus, Michiru already knew everything for some reason. She just might be the real spy around here..."
+        ],
+        "My Theater": [
+            "\"I have the intel. Now all I need is a team to carry out my plan. Time to show off what I can do.\"",
+            "\"The authorities don't care if we spies get caught or killed.\"",
+            "I must confess I find myself in Nonomiya's debt. She can be forceful at times, but I'm grateful for it.",
+            "Lady A's aloof nature reminds me somewhat of Yachiyo.",
+            "This role involved some flashy fight scenes, so I had Mei Fan help me practice.",
+            "Apparently, at Frontier Shiori had plenty of people calling out to her and asking for pictures.",
+            "Hrm, I'm running out of my special spice. I'll have to restock."
+        ]
+    },
+    "Sorcerer Akira Yukishiro": {
+        "quest_result": [
+            "Is the Sorcerer driven by her ego, or by devotion..."
+        ],
+        "quest_dress": [
+            "\"Were it for Your Highness's sake, I would do anything.\""
+        ],
+        "common": [
+            "\"Don't take my world from me... Don't take my princess!\"",
+            "\"My princess's radiance alone is my raison d'etre. I have no need for any other light.\"",
+            "\"I should not have been permitted to live in the light, yet the princess gave me a reason to live.\"",
+            "\"She is my light. She is my everything.\"",
+            "Tsuyuzaki showed me an anime called Majestic Four. She said it would help with my role...",
+            "Aijo was the first to propose the casting for this program. Apparently she couldn't forget Tsuyuzaki's Sorcerer.",
+            "Apparently Mei Fan is trying to stop herself from getting near the game console. She's liable to get too absorbed in it.",
+            "If I could use magic, what would it be? Hmph. We create worlds... There can be no greater magic than that."
+        ],
+        "touch_normal": [
+            "This costume is the actual design used in the game. The chic coloration really makes the character come alive.",
+            "This assignment is based on a popular video game. It's a field unfamiliar to me, but I'm grateful for the opportunity to try it."
+        ],
+        "My Theater": [
+            "\"I should not have been permitted to live in the light, yet the princess gave me a reason to live.\"",
+            "\"She is my light. She is my everything.\"",
+            "Tsuyuzaki showed me an anime called Majestic Four. She said it would help with my role...",
+            "Aijo was the first to propose the casting for this program. Apparently she couldn't forget Tsuyuzaki's Sorcerer.",
+            "Apparently Mei Fan is trying to stop herself from getting near the game console. She's liable to get too absorbed in it.",
+            "If I could use magic, what would it be? Hmph. We create worlds... There can be no greater magic than that.",
+            "\"I'll hide the princess away from the forces of good and evil... This is for the best. I'm doing the right thing...\""
+        ]
+    },
     "Cancer Akira Yukishiro": {
         "quest_result": [
             "If I am destined to die, then I at least want to do it beautifully."
@@ -17852,9 +17945,6 @@
             "Happy New Year.  I'm glad everyone seems to be doing well. I'll make sure it's a banner year for Akira and everyone else!",
             null
         ],
-        "birthday_401": [
-            "Happy birthday, Akira. The party is starting soon! Come on, you're the star today!"
-        ],
         "birthday_402": [
             "Thanks for the fun board game tournament for my birthday! I won't go easy on you at all, though!♪"
         ],
@@ -17866,6 +17956,9 @@
         ],
         "birthday_405": [
             "Happy birthday, Yachiyo. I filled your scrapbook as much as I could with pictures from actual performances. Isn't that great?"
+        ],
+        "birthday_401": [
+            "Oh, Akira. There you go again, making plans to go see a play on your own birthday without even talking to me. That's just like you, though."
         ]
     },
     "Michiru Otori Uniform": {
@@ -18571,9 +18664,6 @@
             "Happy New Year! Let's go and get some New Year's grab bags! I just love wondering what's going to be inside!",
             null
         ],
-        "birthday_401": [
-            "Happy birthday, Akira-san! I learned the traditional Chinese plate spinning for today!"
-        ],
         "birthday_402": [
             "Happy birthday! I'll go all out in the 1st Edel Cup, even though it's my birthday celebration!"
         ],
@@ -18585,6 +18675,9 @@
         ],
         "birthday_405": [
             "Happy birthday! I compiled all the costumes you made into a book. I hope you like it!"
+        ],
+        "birthday_401": [
+            "Happy birthday, Akira-san. I'm honored to accompany you to the theater on this momentous day. I'll show you a wonderful time!"
         ]
     },
     "Liu Mei Fan Uniform": {
@@ -19249,9 +19342,6 @@
             "A very happy New Year to you. May the coming year be a good one. I plan to give it my all!",
             null
         ],
-        "birthday_401": [
-            "Yukishiro-senpai, happy birthday! I tried making a birthday cake... Please try some."
-        ],
         "birthday_203": [
             "Happy birthday, big sis. Enjoy your outing with everyone at Rinmeikan. Let's celebrate together when you get back."
         ],
@@ -19266,6 +19356,9 @@
         ],
         "birthday_405": [
             "Happy birthday! I decorated the cover with that ribbon technique you taught me."
+        ],
+        "birthday_401": [
+            "Happy birthday, Yukishiro-senpai! I'm so excited for the play, I even bought a pamphlet. Would you like to read it with me?"
         ]
     },
     "Shiori Yumeoji Uniform": {
@@ -19980,9 +20073,6 @@
             "Happy New Year! I'll pray for everyone's happiness and world peace.",
             null
         ],
-        "birthday_401": [
-            "Happy birthday. I prepared special coffee beans for the coffee after dessert."
-        ],
         "birthday_402": [
             "Today is the 1st Edel Cup, a board game tournament to celebrate Michiru-senpai's birthday."
         ],
@@ -19994,6 +20084,9 @@
         ],
         "birthday_405": [
             "Wow, I sure wasn't expecting such a wonderful surprise. I've got some great friends. Thanks, guys♪"
+        ],
+        "birthday_401": [
+            "Now that's my Akira-senpai. Doesn't even bat an eye at her own birthday. At least I managed to invite her to the party by calling it a post-play opinion exchange♪"
         ]
     },
     "Yachiyo Tsuruhime Uniform": {
@@ -22762,26 +22855,26 @@
             "If we have a good time while we are performing, the laughs are sure to come!"
         ]
     },
-    "UNKNOWN(5020007) Suzu Minase": {
+    "General Mariavera Suzu Minase": {
         "quest_result": [
-            ""
+            "Was I, like, the perfect Mariavera, or what!?"
         ],
         "quest_dress": [
-            ""
+            "\"Let's make this exercise a fruitful one for both nations.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"I will give my life to save you.\"",
+            "\"I'm happy... I got to see you...\"",
+            "\"But...I chose this path... I chose our friendship...\"",
+            "\"I draw my blade for one reason, and that's because there's someone I want to see again.\"",
+            "\"Aurora... That's something I'd also like to see.\"",
+            "The junior high kids want me to give them nicknames. They're so cute!",
+            "Guess \"Tsururin\" isn't good enough. I'll have to come up with a better nickname...!",
+            "Koharu and Hisame came to watch the performance! You better believe I'm pumped!"
         ],
         "touch_normal": [
-            "",
-            ""
+            "I worked with Miss Saigawa at Siegfeld. She's got a bit of a different vibe from Miss Yakumo.",
+            "It was so neat how the Drama Exchange Program let the junior high kids in on the fun! I wanna do it again sometime!"
         ],
         "My Theater": [
             null,

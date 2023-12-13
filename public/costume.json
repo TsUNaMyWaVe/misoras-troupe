@@ -5529,10 +5529,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Tristan Encore Maya Tendo",
             "ja": "トリスタン Encore 天堂真矢",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "트리스탄 Encore 텐도 마야",
+            "zh_hant": "崔斯坦 Encore 天堂真矢"
         }
     },
     "1060001": {
@@ -9279,6 +9279,22 @@
             "zh_hant": "天蠍座 大月艾露露"
         }
     },
+    "3010033": {
+        "chara_id": 301,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Captain Dorothy Aruru Otsuki",
+            "ja": "キャプテンドロシー 大月あるる",
+            "ko": "캡틴 도로시 오츠키 아루루",
+            "zh_hant": "桃樂西船長 大月艾露露"
+        }
+    },
     "3020001": {
         "chara_id": 302,
         "description": {
@@ -10383,6 +10399,22 @@
             "zh_hant": "芙羅戰隊・黑戰士 胡蝶靜羽"
         }
     },
+    "3050019": {
+        "chara_id": 305,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Captain Leona Shizuha Kocho",
+            "ja": "キャプテンレオナ 胡蝶静羽",
+            "ko": "캡틴 레오나 코쵸 시즈하",
+            "zh_hant": "雷歐那船長 胡蝶靜羽"
+        }
+    },
     "3050020": {
         "chara_id": 305,
         "description": {
@@ -10717,6 +10749,38 @@
             "ja": "Delight 雪代晶",
             "ko": "Delight 유키시로 아키라",
             "zh_hant": "Delight 雪代晶"
+        }
+    },
+    "4010020": {
+        "chara_id": 401,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Agent Lady A Encore Akira Yukishiro",
+            "ja": "諜報員 レディA Encore 雪代晶",
+            "ko": "첩보원 레이디A Encore 유키시로 아키라",
+            "zh_hant": "情報員 Lady A Encore 雪代晶"
+        }
+    },
+    "4010021": {
+        "chara_id": 401,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Sorcerer Akira Yukishiro",
+            "ja": "魔法使い 雪代晶",
+            "ko": "마법사 유키시로 아키라",
+            "zh_hant": "魔法師 雪代晶"
         }
     },
     "4010022": {
@@ -12681,10 +12745,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "General Mariavera Suzu Minase",
             "ja": "騎士団長マリアヴェーラ 南風涼",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "기사단장 마리아벨라 미나세 스즈",
+            "zh_hant": "騎士團長 瑪莉亞貝菈 南風涼"
         }
     },
     "5020009": {
