@@ -3301,6 +3301,29 @@
             "The weather was really nice at FSL. Must have been because of the teru teru bozu I made the day before."
         ]
     },
+    "Musketeer Porthos Encore Mahiru Tsuyuzaki": {
+        "quest_result": [
+            "I feel great!"
+        ],
+        "quest_dress": [
+            "\"No foe is a match for my power! I'll crush any obstacle with my bare hands!\""
+        ],
+        "common": [
+            "\"Whoa, oops! I only slipped up because I'm half-starved to death!\"",
+            "\"Leave this to us and go on ahead, D'Artagnan!\"",
+            "And next it's me and Karen-chan in a flower field! Teehee!",
+            "We went to a flower festival together. Karen-chan was really something.",
+            "Porthos is something of a joker. I need to make my acting more comical!",
+            "Clau-chan taught me some French! \"Aïe aïe aïe!\" It means \"ouch ouch ouch,\" she says.",
+            "A bumbling character who bumps into things, distracted by all the amazing sights...",
+            "My character cares about her friends deeply... I get that--no one cares more deeply about Karen-chan than I do."
+        ],
+        "touch_normal": [
+            "Do you know about the \"language of flowers\"? Each flower is assigned a special meaning.",
+            "Hm hm hmmm♪ Oh, you heard me? I hum spontaneously when I'm feeling happy.",
+            "My character loves fancy clothes, so maybe I should try wearing something different, too."
+        ]
+    },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
         "quest_result": [
             "\"Good thing I was able to keep the presents safe!\""
@@ -4436,6 +4459,28 @@
             "These scenes are physically demanding, so you need a lot of stamina... Thanks for the towel!",
             "I have to keep practicing the parts I'm not good at.",
             "Whoa, you startled me. What is it?"
+        ]
+    },
+    "Bûche de Noël Claudine Saijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -6793,9 +6838,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_503": [
-            "Happy birthday! I heard you like soba noodles, so I made some for you. Let's have some together♪"
-        ],
         "birthday_102": [
             "Happy birthday, Hikari♪ I also decorated a chocolate cake with Mr. White."
         ],
@@ -6822,6 +6864,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Junna-chan! It's a roommate's privilege to celebrate someone's birthday before anyone else gets to♪"
+        ],
+        "birthday_503": [
+            "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
         ]
     },
     "Nana Daiba Uniform": {
@@ -14306,6 +14351,28 @@
             "Boy, am I glad I'm not a scorpion... If I played rock-paper-scissors, I'd only be able to throw scissors.",
             "This is the discovery of the century! It turns out the stars are prettier when you go stargazing in a group!",
             "\"Oh, careful when you touch my tail... I don't want to hurt you.\""
+        ]
+    },
+    "Captain Dorothy Aruru Otsuki": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "Easter Bunny Aruru Otsuki (Skin)": {
@@ -22212,9 +22279,6 @@
         "birthday_player": [
             "Happy birthday. May this year bring great growth for you."
         ],
-        "birthday_503": [
-            "Hisame, happy birthday. I prepared a cake. I even have musical note-shaped candles. Let's decorate the cake with these together."
-        ],
         "birthday_501": [
             "Thank you for celebrating with me. I'm really looking forward to this show. Suzu... I'll join you today."
         ],
@@ -22223,6 +22287,9 @@
         ],
         "birthday_502": [
             "Happy birthday, Suzu. We're celebrating it with an original dance that we've put our energy into. Tsuyuzaki-san also helped."
+        ],
+        "birthday_503": [
+            "Happy birthday, Hisame. I got tickets to that musical you wanted to see, so let's go see it together."
         ]
     },
     "Koharu Yanagi Uniform": {
@@ -22611,9 +22678,6 @@
         "birthday_player": [
             "Happy birthday! I hope you'll have a wonderful day!"
         ],
-        "birthday_503": [
-            "Happy bir~thday♪ I tried saying it like how a musical actress might since you like musicals! What do you think? Did you like it?"
-        ],
         "birthday_501": [
             "Happy birthday, Koharu! After we watch the show, we can grab lunch, eat dessert... Huh? It feels like a field trip? Don't be silly!"
         ],
@@ -22622,6 +22686,9 @@
         ],
         "birthday_502": [
             "Thank you, everyone! I really felt the warmth from everyone. I couldn't help but dance along."
+        ],
+        "birthday_503": [
+            "Happy birthday, Hisame! Bananan and I baked a cake for you. Hurry up and eat it, 'cause it's really good!"
         ]
     },
     "Suzu Minase Uniform": {
@@ -22979,9 +23046,6 @@
         "birthday_player": [
             "Happy birthday! May this year be really special for you."
         ],
-        "birthday_503": [
-            "Thank you so much for celebrating with me, everyone. Suzu-san, I'll give you a singing lesson later."
-        ],
         "birthday_501": [
             "Happy birthday! I got my hands on tickets for the show you wanted to see, Koharu-san. Let's all go together."
         ],
@@ -22990,6 +23054,9 @@
         ],
         "birthday_502": [
             "Happy birthday, Suzu-san. Please enjoy this dance everyone has put their hearts into... Are you thinking of joining in?"
+        ],
+        "birthday_503": [
+            "Thank you for the wonderful birthday celebration, everyone. Your feelings mean so much to me... I'll never, ever forget them."
         ]
     },
     "Hisame Honami Uniform": {
@@ -23158,6 +23225,50 @@
             "I'm going to go see a Seisho play. I can't wait to see Nana-san!",
             "Heh heh, I'm now able to hold a note longer than before!",
             "\"No matter how beautiful you are, it's over for you this time.\""
+        ]
+    },
+    "Guan Yu Encore Hisame Honami": {
+        "quest_result": [
+            "What did you think of my Guan Yu?"
+        ],
+        "quest_dress": [
+            "\"I have been honing my skills for this very day! Come at me however you will!\""
+        ],
+        "common": [
+            "\"No matter what obstacles come our way, the three of us will conquer it together! Come! Let the world know our name!\"",
+            "\"Even if we were born on different days, may we die on the same day!\"",
+            "\"You're the only one who can put an end to these chaotic times!\"",
+            "Suzu-san had a Seiran's Comedienne phase for a while.",
+            "I'm glad I got to see a new side to Koharu-san and Suzu-san.",
+            "Guan Yu is so stern with them because of how dear he holds them.",
+            "Suzu-san said she got a comment from Tsuyuzaki-san, too.",
+            "\"You're no match for me! Is there no one else stronger than me!?\""
+        ],
+        "touch_normal": [
+            "Every time I look at the plushie Koharu-san and Suzu-san gave me, it's like I relive my memories of Curious Tales of the Three Kingdoms.",
+            "\"A journey of a thousand miles begins with a single step. So, too, begins the journey to fulfill a grand ambition. Come, my brother! Let us sally forth!\""
+        ]
+    },
+    "The Little Mermaid Hisame Honami": {
+        "quest_result": [
+            "The Little Mermaid's singing must be ever bold and free."
+        ],
+        "quest_dress": [
+            "\"You're going to teach me something new? Wow!\""
+        ],
+        "common": [
+            "\"The ripples are my song, and the sea foam is my feelings.\"",
+            "\"I'll be fine, even without my voice. My feelings will reach him!\"",
+            "\"I love both the sunset that dissolves into the sea and the sunset that paints the mountains.\"",
+            "\"Ahh, Your Highness. To be with you, I gave up my voice for all eternity.\"",
+            "Whenever I talk to Tsuyuzaki-san, it's always about Suzu-san. They're such good friends.",
+            "Nana-san's snacks are so good! I always eat too much of them.",
+            "In the source material, walking is very painful for the Little Mermaid, but we've cut that aspect of the story.",
+            "Slow and careful underwater, but light as a feather on land. There's so much depth to portraying the Little Mermaid."
+        ],
+        "touch_normal": [
+            "This costume's so beautiful...but I'm a little embarrassed to show off my belly button. I'll forget all about it the instant I start acting, but still.",
+            "\"The Little Mermaid\" may be a tragedy, but I think so many people still love it to this day because it has something that sticks with you."
         ]
     },
     "Normal Elle": {

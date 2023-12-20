@@ -4591,6 +4591,22 @@
             "zh_hant": "光輝閃耀☆A la mode 露崎真晝"
         }
     },
+    "1030030": {
+        "chara_id": 103,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Musketeer Porthos Encore Mahiru Tsuyuzaki",
+            "ja": "銃士ポルトス Encore 露崎まひる",
+            "ko": "총사 포르토스 Encore 츠유자키 마히루",
+            "zh_hant": "劍客波爾多斯 Encore 露崎真晝"
+        }
+    },
     "1040001": {
         "chara_id": 104,
         "description": {
@@ -5069,6 +5085,22 @@
             "ja": "黒獅子の国の騎士 Encore 西條クロディーヌ",
             "ko": "흑사자 나라의 기사 Encore 사이조 클로딘",
             "zh_hant": "黑獅子之國騎士 Encore 西條克洛迪娜"
+        }
+    },
+    "1040033": {
+        "chara_id": 104,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Bûche de Noël Claudine Saijo",
+            "ja": "ブッシュドノエル 西條クロディーヌ",
+            "ko": "부슈 드 노엘 사이조 클로딘",
+            "zh_hant": "聖誕樹幹蛋糕 西條克洛迪娜"
         }
     },
     "1050001": {
@@ -12829,6 +12861,38 @@
             "ja": "白雪姫の女王 穂波氷雨",
             "ko": "백설공주의 여왕 호나미 히사메",
             "zh_hant": "白雪公主的皇后 穗波冰雨"
+        }
+    },
+    "5030006": {
+        "chara_id": 503,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Guan Yu Encore Hisame Honami",
+            "ja": "関羽 Encore 穂波氷雨",
+            "ko": "관우 Encore 호나미 히사메",
+            "zh_hant": "關羽 Encore 穗波冰雨"
+        }
+    },
+    "5030009": {
+        "chara_id": 503,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "The Little Mermaid Hisame Honami",
+            "ja": "人魚姫 穂波氷雨",
+            "ko": "인어공주 호나미 히사메",
+            "zh_hant": "人魚公主 穗波冰雨"
         }
     },
     "9010001": {
