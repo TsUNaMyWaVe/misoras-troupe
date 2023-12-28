@@ -5999,6 +5999,106 @@
         "trait_id": 31,
         "win_sequence_id": 4542
     },
+    "1020032": {
+        "attack_type": 1,
+        "attribute_id": 9,
+        "auto_skill1_id": 23229,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23230,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23231,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18103,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18104,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 688,
+        "base_atk": 1514,
+        "base_hp": 13410,
+        "base_mdef": 651,
+        "base_pdef": 1121,
+        "base_rarity": 5,
+        "chara_id": 102,
+        "command_skill1_id": 8068,
+        "command_skill2_id": 8069,
+        "command_skill3_id": 8070,
+        "command_unique_skill_id": 8071,
+        "confusion_skill_id": 8072,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "en": "Her Basic Acts apply Greater Seal Act 2 to all enemies. Her Climax Act applies Greater Contraction, Greater Seal Stage Effect, Greater Impudence, and Greater Stun to all enemies.",
+            "ja": "基本ACTで敵役全体に上位ACT2封印を付与する舞台少女。敵役全体に上位狭窄&上位舞台効果付与封印&上位慢心&上位スタンを付与するクライマックスACTが強力。",
+            "ko": "기본 ACT로 적 전체에게 상위 ACT2 봉인을 부여하는 무대소녀. 적 전체에게 상위 협착 & 상위 무대 효과 봉인 & 상위 방심 & 상위 스턴을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過基本ACT賦予所有敵方高級ACT2封印的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級視野收窄&高級舞台效果封印&高級傲慢&高級暈眩。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1020032,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010200321,
+        "friendship15_levelup_adventure_id": 3110200321,
+        "friendship25_reward_adventure_id": 3010200322,
+        "friendship30_levelup_adventure_id": 3110200322,
+        "friendship_pattern_id": 139,
+        "get_message": {
+            "en": "I'll save you as many times as I can. I'm the hero after all!",
+            "ja": "何度だって救ってみせる……\nだって私は、勇者だから。",
+            "ko": "몇 번이고 구하겠어...\n나는 용사니까.",
+            "zh_hant": "我會一次又一次地拯救妳……\n因為，我可是勇者啊。"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13109101,
+        "growth_board2_id": 13109201,
+        "growth_board3_id": 13109301,
+        "growth_board4_id": 13109401,
+        "growth_board5_id": 13109501,
+        "growth_board6_id": 13109601,
+        "growth_board7_id": 13109701,
+        "growth_board8_id": 13109801,
+        "growth_board9_id": 13109901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10041,
+        "model_id": 1020032,
+        "name": {
+            "en": "Legendary Hero Hikari",
+            "ja": "伝説の勇者ヒカリ",
+            "ko": "전설의 용사 히카리",
+            "zh_hant": "傳說的勇者 光"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 210,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 9,
+        "profile": {
+            "en": "A brave man who once saved the kingdom of light. At the celebration of his return to his country, he was attacked by the Demon King. He rises anew to save a world once again shrouded in darkness. From \"Epic of Bravery - Original Stage.\"",
+            "ja": "かつて光の国を救った勇者。平和と共に旅立ち、国に戻った祝いの席で、魔王に強襲された。再び闇に覆われた世界を救うため、新たに立ち上がる。\n演目『エピックブレイブス・オリジナルステージ』より",
+            "ko": "예전에 빛의 나라를 구한 용사. 평화와 함께 여행을 떠나 나라로 돌아온 것을 축하하는 자리에서 마왕에게 습격을 당했다. 다시금 어둠에 휩싸인 세계를 구하기 위해 새로운 여행을 떠난다.\n작품 [에픽 브레이브스 오리지널 스테이지]에서",
+            "zh_hant": "他是曾經拯救過光之國的勇者。在光之國迎來了和平後，他也踏上了旅程。但某次他回國出席慶典時，卻受到了魔王的襲擊。為了拯救再次被黑暗覆蓋的世界，他決定重新奮起抗戰。\n取自戲碼『史詩勇者Epic Braves・原創舞台』"
+        },
+        "published_at": 1704639600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20041,
+        "trait_id": 9,
+        "win_sequence_id": 4952
+    },
     "1030001": {
         "attack_type": 1,
         "attribute_id": 1,
@@ -8986,6 +9086,94 @@
         "sub_tactics_skill_id": 20035,
         "trait_id": 48,
         "win_sequence_id": 4921
+    },
+    "1030031": {
+        "attack_type": 1,
+        "attribute_id": 5,
+        "auto_skill1_id": 23220,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23221,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23222,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18097,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18098,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 688,
+        "base_atk": 1520,
+        "base_hp": 13410,
+        "base_mdef": 630,
+        "base_pdef": 1110,
+        "base_rarity": 5,
+        "chara_id": 103,
+        "command_skill1_id": 8053,
+        "command_skill2_id": 8054,
+        "command_skill3_id": 8055,
+        "command_unique_skill_id": 8056,
+        "confusion_skill_id": 8057,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "基本ACT&CA&開幕時オートスキルで敵役全体に上位AP増加2を付与する舞台少女。オートスキルで自身に上位復活の奇跡を付与する。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1030031,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010300311,
+        "friendship15_levelup_adventure_id": 3110300311,
+        "friendship25_reward_adventure_id": 3010300312,
+        "friendship30_levelup_adventure_id": 3110300312,
+        "friendship_pattern_id": 135,
+        "get_message": {
+            "ja": "気をつけて！\n悪魔はいつもあなたの側に……"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13105101,
+        "growth_board2_id": 13105201,
+        "growth_board3_id": 13105301,
+        "growth_board4_id": 13105401,
+        "growth_board5_id": 13105501,
+        "growth_board6_id": 13105601,
+        "growth_board7_id": 13105701,
+        "growth_board8_id": 13105801,
+        "growth_board9_id": 13105901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10038,
+        "model_id": 1030031,
+        "name": {
+            "ja": "ルシファー"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 205,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 5,
+        "profile": {
+            "ja": "かつては『明けの明星』と呼ばれた美しい天使。この天使は無知で堕ちたのではない。自らの意志で神に背いたのだ。それゆえに、永遠に許されない。\n演目『Paradise Lost』より"
+        },
+        "published_at": 1704034800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20038,
+        "trait_id": 47,
+        "win_sequence_id": 4937
     },
     "1040001": {
         "attack_type": 1,
@@ -14916,7 +15104,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "座長スキル&永続オートスキルで味方の雲属性を強化する舞台少女。基本ACT&CAで舞台効果「自縄自縛(Lv4)」を付与することができる。"
+            "en": "Her Leader Skill and Auto Skills boost Cloud allies. Her Basic Acts and Climax Act applies the Stage Effect [Self Trapping] at Lv. 4.",
+            "ja": "座長スキル&永続オートスキルで味方の雲属性を強化する舞台少女。基本ACT&CAで舞台効果「自縄自縛(Lv4)」を付与することができる。",
+            "ko": "단장 스킬 & 영구 자동 스킬로 아군 구름 속성을 강화하는 무대소녀. 기본 ACT & CA로 무대 효과 [자승자박(Lv4)]을 부여할 수 있다.",
+            "zh_hant": "可透過組長技能&永續自動技能來強化我方雲屬性的舞台少女。基本ACT&CLIMAX ACT可賦予舞台效果「自作自受（Lv4）」。"
         },
         "dex": 5,
         "dress_episode_id": 1050029,
@@ -14929,7 +15120,10 @@
         "friendship30_levelup_adventure_id": 3110500292,
         "friendship_pattern_id": 126,
         "get_message": {
-            "ja": "愛と悲しみの騎士トリスタン\n悲壮の復讐劇の始まりです"
+            "en": "Tristan, a knight of romance and grief. This is the start of a tragic revenge drama.",
+            "ja": "愛と悲しみの騎士トリスタン\n悲壮の復讐劇の始まりです",
+            "ko": "사랑과 슬픔의 기사 트리스탄\n비장한 복수극이 시작됩니다",
+            "zh_hant": "愛與悲傷的騎士崔斯坦\n悲壯的復仇劇即將開始"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12206101,
@@ -14945,7 +15139,10 @@
         "leader_tactics_skill_id": 10029,
         "model_id": 1050029,
         "name": {
-            "ja": "トリスタン Encore"
+            "en": "Tristan Encore",
+            "ja": "トリスタン Encore",
+            "ko": "트리스탄 Encore",
+            "zh_hant": "崔斯坦 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 206,
@@ -14953,7 +15150,10 @@
         "party_skill_type": 5,
         "personality_id": 6,
         "profile": {
-            "ja": "円卓の騎士のひとり。かつてはアーサー王を敬愛する青年\nだったが、最愛の人イゾルデを失ったことで一変。原因\nとされるアーサーへ復讐を誓う悲しみの騎士となった。\n演目『失われた聖杯』より"
+            "en": "One of the Knights of the Round Table. A young man whom King Arthur had doted on, but it all changed when he lost his beloved Isolde. He became a sad knight who swore vengeance on Arthur whom he thought to be the cause of Isolde's death. From \"The Lost Holy Grail.\"",
+            "ja": "円卓の騎士のひとり。かつてはアーサー王を敬愛する青年\nだったが、最愛の人イゾルデを失ったことで一変。原因\nとされるアーサーへ復讐を誓う悲しみの騎士となった。\n演目『失われた聖杯』より",
+            "ko": "원탁의 기사 중 한 명. 한때 아서 왕을 경애하는 청년\n이었으나, 가장 사랑하는 사람 이졸데를 잃고 변했다. 원인\n으로 여겨지는 아서에 대한 복수를 맹세하고 슬픔을 안은 기사가 되었다.\n작품 [잃어버린 성배]에서",
+            "zh_hant": "圓桌騎士的其中一員。曾經受亞瑟王敬愛的青年，\n但在失去至愛之人伊索德後卻性格大變，\n成為了發誓向亞瑟王復仇的悲傷騎士。\n取自戲碼『失去的聖杯』"
         },
         "published_at": 1702278000,
         "rarity_up_cost_id": 1,
@@ -17862,6 +18062,94 @@
         "sub_tactics_skill_id": 20013,
         "trait_id": 20,
         "win_sequence_id": 4778
+    },
+    "1060030": {
+        "attack_type": 1,
+        "attribute_id": 1,
+        "auto_skill1_id": 23226,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23227,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23228,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18101,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18102,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 688,
+        "base_atk": 1491,
+        "base_hp": 13311,
+        "base_mdef": 621,
+        "base_pdef": 1085,
+        "base_rarity": 5,
+        "chara_id": 106,
+        "command_skill1_id": 8063,
+        "command_skill2_id": 8064,
+        "command_skill3_id": 8065,
+        "command_unique_skill_id": 8066,
+        "confusion_skill_id": 8067,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "開幕時オートスキルで味方の花属性に上位悪夢耐性アップを付与する舞台少女。前から1体の敵役に上位パニックを付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1060030,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110600301,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110600302,
+        "friendship_pattern_id": 131,
+        "get_message": {
+            "ja": "運命を導きし妖精ヴィヴィアン\n最高の演技でみんなを導くわ"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13101101,
+        "growth_board2_id": 13101201,
+        "growth_board3_id": 13101301,
+        "growth_board4_id": 13101401,
+        "growth_board5_id": 13101501,
+        "growth_board6_id": 13101601,
+        "growth_board7_id": 13101701,
+        "growth_board8_id": 13101801,
+        "growth_board9_id": 13101901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10040,
+        "model_id": 1060030,
+        "name": {
+            "ja": "ヴィヴィアン Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 201,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 1,
+        "profile": {
+            "ja": "泉の妖精ヴィヴィアンは神より一つの予言を授かった。それは試練の末に病のアーサーが救われるというもの。この予言にヴィヴィアンは一人の若き騎士を想起する。\n演目『聖杯の導き』より"
+        },
+        "published_at": 1704351600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20040,
+        "trait_id": 47,
+        "win_sequence_id": 4947
     },
     "1070001": {
         "attack_type": 1,
@@ -22562,6 +22850,94 @@
         "sub_tactics_skill_id": 20010,
         "trait_id": 37,
         "win_sequence_id": 4763
+    },
+    "1080020": {
+        "attack_type": 2,
+        "attribute_id": 2,
+        "auto_skill1_id": 23223,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23224,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23225,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 18099,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 18100,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 686,
+        "base_atk": 1488,
+        "base_hp": 13356,
+        "base_mdef": 1055,
+        "base_pdef": 631,
+        "base_rarity": 5,
+        "chara_id": 108,
+        "command_skill1_id": 8058,
+        "command_skill2_id": 8059,
+        "command_skill3_id": 8060,
+        "command_unique_skill_id": 8061,
+        "confusion_skill_id": 8062,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 4140,
+        "delta_pdef": 3000,
+        "description": {
+            "ja": "座長スキルで敵役全体に上位AP増加、味方全体に上位AP増加耐性アップを付与する舞台少女。味方全体に上位すばやさアップを付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1080020,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110800201,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110800202,
+        "friendship_pattern_id": 132,
+        "get_message": {
+            "ja": "今、試練を乗り越える時！\nガラハッドの活躍見てくれよ"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13202101,
+        "growth_board2_id": 13202201,
+        "growth_board3_id": 13202301,
+        "growth_board4_id": 13202401,
+        "growth_board5_id": 13202501,
+        "growth_board6_id": 13202601,
+        "growth_board7_id": 13202701,
+        "growth_board8_id": 13202801,
+        "growth_board9_id": 13202901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10039,
+        "model_id": 1080020,
+        "name": {
+            "ja": "ガラハッド Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 202,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 2,
+        "profile": {
+            "ja": "円卓の騎士ランスロットの息子。剣術の腕も確かで父と実力伯仲するほど。一方、誠実な性格ゆえに本当に自分が円卓の騎士に相応しいのか、自信が持てないでいる。\n演目『聖杯の導き』より"
+        },
+        "published_at": 1704034800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20039,
+        "trait_id": 9,
+        "win_sequence_id": 4942
     },
     "1080023": {
         "attack_type": 2,
@@ -49168,7 +49544,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "開幕時オートスキルで味方の雪属性に上位悪夢耐性アップを付与する舞台少女。前から1体の敵役に上位パニックを付与するクライマックスACTが強力。"
+            "en": "Her Auto Skill applies Greater Nightmare Resistance Up to Snow allies at start. Her Climax Act applies Greater Panic to the 1st front enemy.",
+            "ja": "開幕時オートスキルで味方の雪属性に上位悪夢耐性アップを付与する舞台少女。前から1体の敵役に上位パニックを付与するクライマックスACTが強力。",
+            "ko": "개막 시 자동 스킬로 아군 눈 속성에게 상위 악몽 저항 증가를 부여하는 무대소녀. 앞에서 1명의 적에게 상위 패닉을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "開幕時可透過自動技能賦予我方雪屬性[高級]提升惡夢耐性的舞台少女。強力的CLIMAX ACT可賦予前面1名敵方高級慌亂。"
         },
         "dex": 5,
         "dress_episode_id": 4020015,
@@ -49181,7 +49560,10 @@
         "friendship30_levelup_adventure_id": 3140200152,
         "friendship_pattern_id": 123,
         "get_message": {
-            "ja": "たまには息抜きも大事だよねっ♪\nショッピングにしゅっぱ～つ！"
+            "en": "It's important to take a break once in a while... Shopping is a great way to do it!",
+            "ja": "たまには息抜きも大事だよねっ♪\nショッピングにしゅっぱ～つ！",
+            "ko": "가끔은 기분전환도 중요하지♪\n쇼핑하러 출발~!",
+            "zh_hant": "偶爾放鬆一下也很重要的喔♪\n未知留要去逛街囉～！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12103101,
@@ -49197,7 +49579,10 @@
         "leader_tactics_skill_id": 10027,
         "model_id": 4020015,
         "name": {
-            "ja": "キラめき☆アラモード"
+            "en": "Brilliance☆À la mode",
+            "ja": "キラめき☆アラモード",
+            "ko": "반짝임☆아라모드",
+            "zh_hant": "光輝閃耀☆A la mode"
         },
         "obtain_route_flags": 2,
         "party_skill_id": 203,
@@ -49205,7 +49590,10 @@
         "party_skill_type": 5,
         "personality_id": 3,
         "profile": {
-            "ja": "たまの休日、買い物帰りにお気に入りのカフェで紅茶を楽しむミチル。偶然出会った可愛い後輩たちに表情が綻ぶ。先輩として、『エーデル（気高き君）』としての日々のエネルギー補給、完了！"
+            "en": "Michiru enjoys a cup of tea at her favorite cafe on her way home from shopping. Her face breaks into a smile at the sight of her cute juniors she happens to meet. As a senior, she now feels completely refreshed!",
+            "ja": "たまの休日、買い物帰りにお気に入りのカフェで紅茶を楽しむミチル。偶然出会った可愛い後輩たちに表情が綻ぶ。先輩として、『エーデル（気高き君）』としての日々のエネルギー補給、完了！",
+            "ko": "모처럼 찾아온 휴일, 쇼핑하고 돌아가는 길에 좋아하는 카페에서 홍차를 즐기는 미치루. 우연히 만난 귀여운 후배들을 보자 표정이 밝아진다. 선배로서, [에델]로서 보내는 나날을 위한 에너지 충전 완료!",
+            "zh_hant": "某個假日，未知留在購物後到了自己喜歡的咖啡廳裡喝紅茶，還在店內偶遇了可愛的學妹們。這段小插曲讓她不禁會心微笑，也令她身為學姐、身為『高貴皇君』的能量瞬間儲滿！"
         },
         "published_at": 1701759600,
         "rarity_up_cost_id": 1,
@@ -58956,7 +59344,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "座長スキルで味方全体に上位連続クライマックスACT化、敵役全体に上位キラめき獲得ダウンを付与する舞台少女。敵役全体に上位慢心を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater Multiple CA-fication to all allies and Greater Brilliance Recovery Reduction to all enemies. Her Climax Act applies Greater Impudence to all enemies.",
+            "ja": "座長スキルで味方全体に上位連続クライマックスACT化、敵役全体に上位キラめき獲得ダウンを付与する舞台少女。敵役全体に上位慢心を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 아군 전체에게 상위 연속 클라이맥스 ACT화, 적 전체에게 상위 반짝임 획득 감소를 부여하는 무대소녀. 적 전체에게 상위 방심을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有我方高級連續CLIMAX ACT化，並賦予所有敵方[高級]降低光芒獲得量的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級傲慢。"
         },
         "dex": 5,
         "dress_episode_id": 5010010,
@@ -58969,7 +59360,10 @@
         "friendship30_levelup_adventure_id": 3150100102,
         "friendship_pattern_id": 126,
         "get_message": {
-            "ja": "へび使い座は救いの光。\nさあ、手を伸ばして。"
+            "en": "Ophiuchus is the light of salvation. Come, give me your hand.",
+            "ja": "へび使い座は救いの光。\nさあ、手を伸ばして。",
+            "ko": "뱀주인자리는 구원의 빛.\n자 손을 뻗어.",
+            "zh_hant": "蛇夫座是救贖之光。\n來，伸出手吧。"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12106101,
@@ -58985,7 +59379,10 @@
         "leader_tactics_skill_id": 10024,
         "model_id": 5010010,
         "name": {
-            "ja": "オフィウクス"
+            "en": "Ophiuchus",
+            "ja": "オフィウクス",
+            "ko": "오피우쿠스",
+            "zh_hant": "蛇夫座"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 206,
@@ -58993,7 +59390,10 @@
         "party_skill_type": 5,
         "personality_id": 6,
         "profile": {
-            "ja": "宙で輝く星座たちが流れ星である『あなた』を『明日』へ連れていく。１３番手は、へび使い座イメージの柳小春。すべての想いを強く抱きしめ、物語は完成した。\n演目『スタァセレブレイト～始まりの日へ～』より"
+            "en": "The constellations shining in the sky will lead you, shooting star, to tomorrow. In thirteenth position is Koharu Yanagi。 who embodies the constellation of Ophiuchus. Encompassing all emotions tightly, the story is now complete. From \"Star Celebrate - To the First Day.\"",
+            "ja": "宙で輝く星座たちが流れ星である『あなた』を『明日』へ連れていく。１３番手は、へび使い座イメージの柳小春。すべての想いを強く抱きしめ、物語は完成した。\n演目『スタァセレブレイト～始まりの日へ～』より",
+            "ko": "우주에서 빛나는 성좌들이 별똥별인 [당신]을 [내일]로 이끈다. 열세 번째 성좌는 뱀주인자리를 이미지한 야나기 코하루. 모든 마음을 강하게 끌어안아 이야기는 완성되었다.\n작품 [스타 셀리브레이트 ~시작의 날로~]에서",
+            "zh_hant": "在宇宙中閃耀的星座們將帶領身為流星的『你』前往『明天』。第13位登場的是帶有蛇夫座形象的柳小春。她緊緊地擁抱所有意志，為故事寫下句點。\n取自戲碼『Star Celebrate～前往起始之日～』"
         },
         "published_at": 1701356400,
         "rarity_up_cost_id": 1,
@@ -59644,7 +60044,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "座長スキルで味方全体に上位すばやさアップ10%&上位起死回生を付与する舞台少女。敵役全体に上位起死回生減少を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater Agility Up 10% and Greater Revive to all allies. Her Climax applies Greater Revive Reduction to all enemies.",
+            "ja": "座長スキルで味方全体に上位すばやさアップ10%&上位起死回生を付与する舞台少女。敵役全体に上位起死回生減少を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 아군 전체에게 상위 민첩 증가 10% & 상위 기사회생을 부여하는 무대소녀. 적 전체에게 상위 기사회생 감소를 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有我方[高級]敏捷提升10%&高級起死回生的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]減少起死回生。"
         },
         "dex": 5,
         "dress_episode_id": 5020007,
@@ -59657,7 +60060,10 @@
         "friendship30_levelup_adventure_id": 3150200072,
         "friendship_pattern_id": 123,
         "get_message": {
-            "ja": "騎士団長マリアヴェーラ、\n超かっこよく演じるよ！"
+            "en": "I'll portray General Mariavera with style!",
+            "ja": "騎士団長マリアヴェーラ、\n超かっこよく演じるよ！",
+            "ko": "기사단장 마리아벨라,\n진짜 멋있게 연기할 거야!",
+            "zh_hant": "我要超級帥氣地演繹\n騎士團長瑪莉亞貝菈囉！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12103101,
@@ -59673,7 +60079,10 @@
         "leader_tactics_skill_id": 10028,
         "model_id": 5020007,
         "name": {
-            "ja": "騎士団長マリアヴェーラ"
+            "en": "General Mariavera",
+            "ja": "騎士団長マリアヴェーラ",
+            "ko": "기사단장 마리아벨라",
+            "zh_hant": "騎士團長 瑪莉亞貝菈"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 203,
@@ -59681,7 +60090,10 @@
         "party_skill_type": 5,
         "personality_id": 3,
         "profile": {
-            "ja": "太陽騎士団長。最強の剣士の称号『シュテルクスト』を持つ世界有数の剣士。カタリーナとは幼馴染で、剣の腕を競い夢を語り合う仲だった。\n演目『別れの戦記』より"
+            "en": "General of the Sun Nation Knights. One of the best swordsmen in the world, she holds the title of \"Stärkste\". She and Catalina were childhood friends, competing in swordplay and discussing their dreams. From \"The Wartime of Farewells.\"",
+            "ja": "太陽騎士団長。最強の剣士の称号『シュテルクスト』を持つ世界有数の剣士。カタリーナとは幼馴染で、剣の腕を競い夢を語り合う仲だった。\n演目『別れの戦記』より",
+            "ko": "태양 기사단장. 최강의 검사의 칭호 [Stärkste]를 가진 세계 유수의 검사. 카타리나와 소꿉친구이며 검술 실력을 겨루고 꿈을 이야기하던 사이였다.\n작품 [이별의 전기]에서",
+            "zh_hant": "她是太陽騎士團團長。她擁有最強劍士『Stärkste』的稱號，是世上數一數二的劍士。她跟加達莉那是兒時玩伴，也曾經一起切磋劍術、暢談夢想。\n取自戲碼『離別的戰記』"
         },
         "published_at": 1702018800,
         "rarity_up_cost_id": 1,

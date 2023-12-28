@@ -4127,6 +4127,22 @@
             "zh_hant": "劍客阿多斯 Encore 神樂光"
         }
     },
+    "1020032": {
+        "chara_id": 102,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Legendary Hero Hikari Hikari Kagura",
+            "ja": "伝説の勇者ヒカリ 神楽ひかり",
+            "ko": "전설의 용사 히카리 카구라 히카리",
+            "zh_hant": "傳說的勇者 光 神樂光"
+        }
+    },
     "1030001": {
         "chara_id": 103,
         "description": {
@@ -4605,6 +4621,22 @@
             "ja": "銃士ポルトス Encore 露崎まひる",
             "ko": "총사 포르토스 Encore 츠유자키 마히루",
             "zh_hant": "劍客波爾多斯 Encore 露崎真晝"
+        }
+    },
+    "1030031": {
+        "chara_id": 103,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Lucifer Mahiru Tsuyuzaki",
+            "ja": "ルシファー 露崎まひる",
+            "ko": "루시퍼 츠유자키 마히루",
+            "zh_hant": "路西法 露崎真晝"
         }
     },
     "1040001": {
@@ -6031,6 +6063,22 @@
             "zh_hant": "劍客阿拉密斯 Encore 星見純那"
         }
     },
+    "1060030": {
+        "chara_id": 106,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Viviane Encore Junna Hoshimi",
+            "ja": "ヴィヴィアン Encore 星見純那",
+            "ko": "비비안 Encore 호시미 준나",
+            "zh_hant": "薇薇安 Encore 星見純那"
+        }
+    },
     "1070001": {
         "chara_id": 107,
         "description": {
@@ -6781,6 +6829,22 @@
             "ja": "長靴をはいた猫 Encore 石動双葉",
             "ko": "장화신은 고양이 Encore 이스루기 후타바",
             "zh_hant": "長靴貓劍客 Encore 石動雙葉"
+        }
+    },
+    "1080020": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Galahad Encore Futaba Isurugi",
+            "ja": "ガラハッド Encore 石動双葉",
+            "ko": "갤러해드 Encore 이스루기 후타바",
+            "zh_hant": "加拉哈德 Encore 石動雙葉"
         }
     },
     "1080023": {

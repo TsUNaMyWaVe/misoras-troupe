@@ -108,9 +108,6 @@
             "Happy New Year! We will all do Starlight this year, too!",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Hikari-chan! Let's talk after the party! I have so many things I want to tell you!"
-        ],
         "birthday_109": [
             "Happy birthday, Kaoruko-chan. I learned from Banana and made a lot of snacks. The Kinako Sticks are really yummy!"
         ],
@@ -134,6 +131,9 @@
         ],
         "birthday_106": [
             "Happy birthday! Since I know you like baths, I got you some bubble bath! I hope you like it!"
+        ],
+        "birthday_102": [
+            "Happy birthday, Hikari-chan! From me, a pair of tickets to the aquarium! I'll entertain you, Hikari-chan!"
         ]
     },
     "Karen Aijo Uniform": {
@@ -1276,9 +1276,6 @@
             "Happy New Year. I'm really looking forward to spending the holidays with Karen and everyone. Say, doesn't mochi remind you of jellyfish?",
             null
         ],
-        "birthday_102": [
-            "I had a wonderful time. It was a fun party. Thanks, everyone."
-        ],
         "birthday_109": [
             "Happy birthday. I love how confident you are."
         ],
@@ -1302,6 +1299,9 @@
         ],
         "birthday_106": [
             "Happy birthday. Here, a lens wipe... I picked it out as a gift because it has a cute little Mr. White embroidery here."
+        ],
+        "birthday_102": [
+            "Thanks for the celebration, everyone. I am so happy to have a chocolate party with you all."
         ]
     },
     "Hikari Kagura Uniform": {
@@ -2216,6 +2216,28 @@
             "I have to make the audience fall in love with my Athos..."
         ]
     },
+    "Legendary Hero Hikari Hikari Kagura": {
+        "quest_result": [
+            "For the world... For the princess."
+        ],
+        "quest_dress": [
+            "\"Level 99 or bust.\""
+        ],
+        "common": [
+            "\"I am the hero of light, he who smites the darkness!\"",
+            "\"I shall cut through the darkness to bring light to the world!\"",
+            "\"The sage should be protecting the seal on the Demon King... What has happened?\"",
+            "\"First, I have to find the legendary sword. And I know just who to talk to about items.\"",
+            "I'll be there in a minute, Mahiru... I'm almost at a save point...!",
+            "I think the hero is a normal person. He just has a very strong desire to save someone.",
+            "I was so absorbed in the game, I completely lost track of time. I need to be more careful.",
+            "Karen keeps following right behind me, just like the characters do in Epic of Bravery..."
+        ],
+        "touch_normal": [
+            "I'm happy I have the chance to wear this costume again. I liked flapping the cape as I moved.",
+            "We all played the new Epic of Bravery together, and it was just like a movie. Video games sure have come a long way."
+        ]
+    },
     "Amaterasu Hikari Kagura (Skin)": {
         "quest_result": [
             "I hope I was able to shine the sunlight right."
@@ -2329,9 +2351,6 @@
             "Happy New Year. If you're going to visit the shrine, make sure to dress warm! It's really cold out!",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Hikari. We'll get everything ready for the party, so sit back and... I knew you'd already be sitting!"
-        ],
         "birthday_109": [
             "Happy birthday, Kaoruko-chan. Does Karen-chan have kinako powder all over her face again? Ugh... I wiped it off for her already."
         ],
@@ -2358,6 +2377,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Junna-chan! I made meat and potato stew with Mahiru Spuds. Eat it while it's hot."
+        ],
+        "birthday_102": [
+            "Happy birthday, Hikari-chan. I made Mahiru Spuds into potato chips. I heard they go well with chocolate."
         ]
     },
     "Mahiru Tsuyuzaki Uniform": {
@@ -3322,6 +3344,38 @@
             "Do you know about the \"language of flowers\"? Each flower is assigned a special meaning.",
             "Hm hm hmmm♪ Oh, you heard me? I hum spontaneously when I'm feeling happy.",
             "My character loves fancy clothes, so maybe I should try wearing something different, too."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    "Lucifer Mahiru Tsuyuzaki": {
+        "quest_result": [
+            "The devil always approaches with a smile!"
+        ],
+        "quest_dress": [
+            "\"So you'll play with me, then... I hope you show me a good time.\""
+        ],
+        "common": [
+            "\"Heaven, earth, people... I want everything, absolutely everything!\"",
+            "\"Hello there, cutie. Let's fall to hell together!\"",
+            "\"Beelzebub, Moloch, Belial, Mammon... Come, and let us claim heaven for ourselves.\"",
+            "\"I'm prettier than even the ruler of heaven. Go on, come closer... Go ahead and touch.\"",
+            "Oh, I didn't know Lucifer can turn into a dragon! I'd better practice my acting for that, too.",
+            "What's the temptation of the devil like? Like, \"Eat the Mahiru Spuds, you know you want them\"?",
+            "An angel whose envy spelled his ruin... That hits a little close to home.",
+            "I saw the gate to hell in the reference material, and the decorations are so elaborate! It looks like a nightmare to clean..."
+        ],
+        "touch_normal": [
+            "I thought this when I saw the rough designs, too, but this costume is so cool! I hope I can pull it off.",
+            "We're all gonna go to an art museum soon. I'm worried Karen-chan will get too excited and run off, so I'm thinking of holding her hand... But maybe that's treating her too much like a kid."
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -3482,9 +3536,6 @@
             "Bonne année! Happy New Year. Today's the start of a new year... The year I take down Maya Tendo!",
             null
         ],
-        "birthday_102": [
-            "Bon anniversaire, Hikari. Isn't it nice to be the star of the party once in a while? Come on, smile and laugh!"
-        ],
         "birthday_109": [
             "Bon anniversaire! I found the perfect snack to go with tea. It's my treat, so keep your weekend open for me!"
         ],
@@ -3508,6 +3559,9 @@
         ],
         "birthday_106": [
             "Bon anniversaire, Junna! Thanks for always pulling the class forward. You're a good friend."
+        ],
+        "birthday_102": [
+            "Bon anniversaire, Hikari. I bought these chocolates at my favorite pastry shop. They are very delicious."
         ]
     },
     "Claudine Saijo Uniform": {
@@ -4481,6 +4535,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -4640,9 +4703,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Kagura-san. We practiced pantomime with Saijo-san for your entertainment. Please enjoy."
-        ],
         "birthday_109": [
             "Happy birthday, Hanayagi-san. You're an amazing dancer. I'm happy to have such a talented friend."
         ],
@@ -4669,6 +4729,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Hoshimi-san. I tried picking three dramas even you wouldn't have read yet. I hope you like them."
+        ],
+        "birthday_102": [
+            "Happy birthday, Kagura-san. Baumkuchen goes well with chocolate. I have prepared a special treat for you."
         ]
     },
     "Maya Tendo Uniform": {
@@ -5756,9 +5819,6 @@
             "Happy New Year. Have you seen everyone else yet?  If not, maybe we can go together!",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Kagura-san. I prepared a black tea that's popular in England. I heard it goes well with chocolate, so please look forward to it."
-        ],
         "birthday_109": [
             "Happy birthday, Hanayagi-san. ...Don't look so surprised. I'm not going to start anything today. I'm just here to celebrate."
         ],
@@ -5782,6 +5842,9 @@
         ],
         "birthday_106": [
             "Thanks so much for today...! After such a wonderful day, I'm excited to keep working hard tomorrow."
+        ],
+        "birthday_102": [
+            "Happy birthday, Kagura-san. I prepared a lot of seasonal fruits, so let's eat them with chocolate fondue."
         ]
     },
     "Junna Hoshimi Uniform": {
@@ -6724,6 +6787,31 @@
             "This hat is just as heavy as it looks."
         ]
     },
+    "Viviane Encore Junna Hoshimi": {
+        "quest_result": [
+            "Noble and quiet is my image of Viviane."
+        ],
+        "quest_dress": [
+            "\"I can only show you the way. I cannot grant wishes. If you want results, then you must put in the effort.\""
+        ],
+        "common": [
+            "Viviane, the Lady of the Lake, guides the Knights of the Round Table! I will guide you all to the best stage!",
+            "\"I am Viviane, the Lady of the Lake. Galahad, I am the one who has appeared in your dreams. I'm here to relay a prophecy to you.\"",
+            "\"The illness troubling Arthur can be cured with the blood of a relative and the power of the Holy Grail... That is what I was shown in the prophecy.\"",
+            "\"...I have always been watching over you. That's why I know. Galahad, inside your heart lies true courage and passion.\"",
+            "\"Galahad, that courage and passion of yours will definitely pave the way and become the ray of light that saves King Arthur.\"",
+            "Her godliness and warmth surrounded Galahad... I think being able to express that is critical to Viviane's portrayal.",
+            "The cookies that Isurugi-san made as treats during practice were delicious too. Looks like sincerity is key.",
+            "If Hanayagi-san is also grateful for Isurugi-san, she could just be honest and say thanks... Heh heh, she just can't be honest, can she."
+        ],
+        "touch_normal": [
+            "\"O noble gods who govern all living beings, please bestow on me the prophecy to cure Arthur of his illness!\"",
+            "Making sweets reminds me of the Basic Theater Theory II assignment where Nana and I performed \"Confectionary Girls\" and made sweets during the performance."
+        ],
+        "no_use": [
+            "\"Galahad, I am the one who has appeared in your dreams. I'm here to relay a prophecy to you.\""
+        ]
+    },
     "Happy Valentine Junna Hoshimi": {
         "quest_result": [
             "What to make next..."
@@ -6838,9 +6926,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Hikari♪ I also decorated a chocolate cake with Mr. White."
-        ],
         "birthday_109": [
             "Happy birthday, Kaoruko-chan♪ Did you try Karen-chan's homemade Kinako Sticks? The secret ingredient this time is yuzu."
         ],
@@ -6864,6 +6949,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Junna-chan! It's a roommate's privilege to celebrate someone's birthday before anyone else gets to♪"
+        ],
+        "birthday_102": [
+            "Happy Birthday, Hikari-chan♪ We have prepared a chocolate fondue! Let's have a chocolate party together."
         ],
         "birthday_503": [
             "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
@@ -7920,9 +8008,6 @@
             "Happy New Year! Here's hoping it's a good one! Maybe I should take Kaoruko and go for my first ride of the year!",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Kagura! I was in charge of decorating the room. Even the Mr. White decorations were handmade."
-        ],
         "birthday_109": [
             "Happy birthday, Kaoruko. It only comes around once a year, so it's okay to be a little selfish. Just for today, though!"
         ],
@@ -7946,6 +8031,9 @@
         ],
         "birthday_106": [
             "Happy birthday! This is a glasses-shaped bookmark I found when I was out shopping with Kaoruko. I was like, \"Oh, Hoshimi has GOT to have this!\""
+        ],
+        "birthday_102": [
+            "Happy birthday, Kagura. I found these jellyfish shaped chocolates at a store near the aquarium. Maybe we can go there with Karen next time."
         ]
     },
     "Futaba Isurugi Uniform": {
@@ -8559,6 +8647,31 @@
             "I'm going to go read up at the library so I can get a better mental image in my head."
         ]
     },
+    "Galahad Encore Futaba Isurugi": {
+        "quest_result": [
+            "Galahad's fight scenes went really well."
+        ],
+        "quest_dress": [
+            "\"Daily training is essential to passing the trial to become a Knight of the Round Table. Now, let's start today's training!\""
+        ],
+        "common": [
+            "The starring role really does come with a lot of pressure. But this exactly the time when you have to enjoy the role!",
+            "\"Forgive me, father. The way I am now... I have no confidence in becoming a Knight of the Round Table.\"",
+            "\"The Knights of the Round Table are heroes who have overcome many difficulties. Compared to that... I don't have a single achievement to my name or any victories in battle.\"",
+            "\"As someone with no achievements or victories, I have nothing that qualifies me to become a renowned Knight of the Round Table... This is how I see it.\"",
+            "\"Trust and honor come to those who overcome challenges... That's right, I too need to encourage myself!\"",
+            "\"Be courageous... This might just be the most important thing for me to hear right now.\"",
+            "I need to bake delicious cookies – good enough to make everyone happy! That's another secret role for the lead!",
+            "The costumes of the Knights of the Round Table – and that goes for Galahad as well – are all really cool and extravagant."
+        ],
+        "touch_normal": [
+            "Making sweets is difficult. I wonder what I have to do to become as good at it as Mahiru and Banana.",
+            "I think I can understand Galahad's troubles. It can be difficult to feel confident when you're surrounded by so many truly impressive people."
+        ],
+        "no_use": [
+            "\"That's right, I too need to encourage myself!\""
+        ]
+    },
     "Martial Artist Futaba Isurugi": {
         "quest_result": [
             "I have no intention to lose in the fight."
@@ -8773,9 +8886,6 @@
             "Futaba-haaan! Help me put on this kimono! ...Oh, hello. Happy New Year to you.",
             null
         ],
-        "birthday_102": [
-            "Happy birthday, Kagura-han. Since it's a party, I hung up a lot of lovely fragrance bags to make it lively."
-        ],
         "birthday_109": [
             "Thank you for celebrating with me. It's hard being so popular and loved."
         ],
@@ -8799,6 +8909,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Hoshimi-han. I got you lots of rubber duckies to make bathtime more fun. Aren't they cute?"
+        ],
+        "birthday_102": [
+            "Happy birthday, Kagura-han! I prepared a bitter coffee that brings out the sweetness of the chocolate. Futaba-han was the one who chose it."
         ]
     },
     "Kaoruko Hanayagi Uniform": {
@@ -14373,6 +14486,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Easter Bunny Aruru Otsuki (Skin)": {
@@ -15522,13 +15644,13 @@
             "Whenever anyone's taking a picture of me, I try to whip out some acrobatics and do a really cool pose, and sometimes I'm just a blur."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "I wanna hang out with Ichie and Michiru so we can take a picture of Mirai☆Résumé getting back together!",
+            "I took a look at some action hero merch while I was clothes shopping! It was all so cool!",
+            "Aruru and Misora said they have these clothes, too! You better believe I asked them to show me sometime!",
+            "Tsukasa's clothes are really flashy, but she irons them nice and neat before she puts them away.",
+            "Shizuha dresses so shabby when she's gaming. Surprising, right!?",
+            "Hey, I've grown out of my action hero shoe phase!",
+            "Ichie learned her cute poses from a real live idol! That's so cool!"
         ]
     },
     "Hope Lalafin Nonomiya": {
@@ -23247,6 +23369,15 @@
         "touch_normal": [
             "Every time I look at the plushie Koharu-san and Suzu-san gave me, it's like I relive my memories of Curious Tales of the Three Kingdoms.",
             "\"A journey of a thousand miles begins with a single step. So, too, begins the journey to fulfill a grand ambition. Come, my brother! Let us sally forth!\""
+        ],
+        "My Theater": [
+            "\"You're the only one who can put an end to these chaotic times!\"",
+            "Suzu-san had a Seiran's Comedienne phase for a while.",
+            "I'm glad I got to see a new side to Koharu-san and Suzu-san.",
+            "Guan Yu is so stern with them because of how dear he holds them.",
+            "Suzu-san said she got a comment from Tsuyuzaki-san, too.",
+            "\"You're no match for me! Is there no one else stronger than me!?\"",
+            "Guan Yu is the one who gives the smart retorts, so I was really careful to get my tempo right."
         ]
     },
     "The Little Mermaid Hisame Honami": {
@@ -23269,6 +23400,15 @@
         "touch_normal": [
             "This costume's so beautiful...but I'm a little embarrassed to show off my belly button. I'll forget all about it the instant I start acting, but still.",
             "\"The Little Mermaid\" may be a tragedy, but I think so many people still love it to this day because it has something that sticks with you."
+        ],
+        "My Theater": [
+            "\"I love both the sunset that dissolves into the sea and the sunset that paints the mountains.\"",
+            "\"Ahh, Your Highness. To be with you, I gave up my voice for all eternity.\"",
+            "Whenever I talk to Tsuyuzaki-san, it's always about Suzu-san. They're such good friends.",
+            "Nana-san's snacks are so good! I always eat too much of them.",
+            "In the source material, walking is very painful for the Little Mermaid, but we've cut that aspect of the story.",
+            "Slow and careful underwater, but light as a feather on land. There's so much depth to portraying the Little Mermaid.",
+            "\"Rather than spend centuries as a mermaid...I would like to be human for just one day.\""
         ]
     },
     "Normal Elle": {
