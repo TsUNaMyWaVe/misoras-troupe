@@ -2236,6 +2236,15 @@
         "touch_normal": [
             "I'm happy I have the chance to wear this costume again. I liked flapping the cape as I moved.",
             "We all played the new Epic of Bravery together, and it was just like a movie. Video games sure have come a long way."
+        ],
+        "My Theater": [
+            "\"The sage should be protecting the seal on the Demon King... What has happened?\"",
+            "\"First, I have to find the legendary sword. And I know just who to talk to about items.\"",
+            "I'll be there in a minute, Mahiru... I'm almost at a save point...!",
+            "I think the hero is a normal person. He just has a very strong desire to save someone.",
+            "I was so absorbed in the game, I completely lost track of time. I need to be more careful.",
+            "Karen keeps following right behind me, just like the characters do in Epic of Bravery...",
+            "\"Princess, please be at peace... I will surely save you!\""
         ]
     },
     "Amaterasu Hikari Kagura (Skin)": {
@@ -3376,6 +3385,15 @@
         "touch_normal": [
             "I thought this when I saw the rough designs, too, but this costume is so cool! I hope I can pull it off.",
             "We're all gonna go to an art museum soon. I'm worried Karen-chan will get too excited and run off, so I'm thinking of holding her hand... But maybe that's treating her too much like a kid."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -5652,14 +5670,14 @@
             "Tristan is willing to use whatever means available to reach his goal. I'd like to learn from that strong will of his."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Tristan—the mastermind behind the scenes. This is quite a difficult role.",
+            "I want to eat baumkuchen with everyone next time.",
+            "If I were in Tristan's shoes... I would also seek revenge.",
+            "I can also understand Tristan's sadness from having his most important thing stolen from him.",
+            "There's nothing more sad than the tragedy of being torn apart from your loved one...",
+            "It feels as if Tristan's tragedy were my own.",
+            "\"Sir Merlin, I'd like you to watch over me as I walk down the path that I must go on.\"",
+            "\"I won't lose! I will get my revenge no matter want!\""
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -6810,6 +6828,16 @@
         ],
         "no_use": [
             "\"Galahad, I am the one who has appeared in your dreams. I'm here to relay a prophecy to you.\""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Happy Valentine Junna Hoshimi": {
@@ -8670,6 +8698,16 @@
         ],
         "no_use": [
             "\"That's right, I too need to encourage myself!\""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Martial Artist Futaba Isurugi": {
@@ -18627,13 +18665,13 @@
             "No wonder Shiori loves the tea at this cafe so much♪ I like the walnut cake, too."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "I'm short enough that sometimes stuff is too big for me, so clothes shopping is a real hassle.",
+            "Comfortable clothes are the best when you're going out to have fun.",
+            "I bet those clothes would look good on Akira... I oughta bring her here sometime.",
+            "I think I'll go buy some souvenirs. The student council room is running out of snacks.",
+            "You wanna ask me some personal questions...? Hmm, I dunno...",
+            "I like chilling in my room on the weekends, but going out is fun, too.",
+            "These days, there are a lot of stages based on manga and anime! You learn something new every day♪"
         ]
     },
     "Stage Girl Michiru Otori": {
@@ -22729,13 +22767,13 @@
             "Suzu popped in while I was talking to Otsuki-san about the performance. They both got really excited... I had to call Hisame for help."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"The stars I cloak myself in are dark, but those around me illuminate me... Ah, what bliss.\"",
+            "\"Chiron of Sagittarius is my teacher. Many admire him, and I count among their number.\"",
+            "Otsuki-san uses a lot of abstract expressions, but her viewpoints are truly fascinating.",
+            "Agh... Suzu, I swear. \"I'll go catch you a snake,\" she says. Nearly gave me aheart attack...",
+            "Snakes have always been symbols of medicine. Maybe because their cycle of shedding and regrowing their skin evokes images of rebirth and healing...?",
+            "Looking for the constellations, I realized something. Maybe what I need is the time and luxury to look at the stars...",
+            "\"Do not fear life. Fortune favors the bold.\""
         ]
     },
     "GENERIC Suzu Minase": {
@@ -23066,13 +23104,13 @@
             "It was so neat how the Drama Exchange Program let the junior high kids in on the fun! I wanna do it again sometime!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"But...I chose this path... I chose our friendship...\"",
+            "\"I draw my blade for one reason, and that's because there's someone I want to see again.\"",
+            "\"Aurora... That's something I'd also like to see.\"",
+            "The junior high kids want me to give them nicknames. They're so cute!",
+            "Guess \"Tsururin\" isn't good enough. I'll have to come up with a better nickname...!",
+            "Koharu and Hisame came to watch the performance! You better believe I'm pumped!",
+            "\"Very well... I'll be your opponent.\""
         ]
     },
     "Jeanne d'Arc Suzu Minase": {
