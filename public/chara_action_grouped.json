@@ -4535,24 +4535,24 @@
     },
     "Bûche de Noël Claudine Saijo": {
         "quest_result": [
-            ""
+            "Hee hee, wasn't that lovely?"
         ],
         "quest_dress": [
-            ""
+            "\"Powerful as a great oak, yet supple as a branch. Come on, let's go!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"A sweet and tasty tree stump cake! Thought you might enjoy it on this holy night.\"",
+            "\"I hope you're ready for the time of your life!\"",
+            "\"What about decorations? I want to put up some boughs of holly.\"",
+            "\"We can open presents if you want, but don't forget to eat me, okay?\"",
+            "Baking is really hard... I'd better thank Nana.",
+            "Decorating the Christmas tree with everyone made for a good memory.",
+            "Whenever I bake with Karen, the yield always comes out low. She needs to cool it on the taste-testing!",
+            "The town is beginning to glitter... The curtain is rising on the stage of Christmas."
         ],
         "touch_normal": [
-            "",
-            ""
+            "I like baumkuchen, too. The ones you-know-who makes are especially delectable... Where does she learn these things?",
+            "Hmm, what should I do about Christmas presents this year? Heh heh, I'll knock their socks off!"
         ],
         "My Theater": [
             null,
@@ -13844,9 +13844,6 @@
             "Happy New Year! Hope it's a great one. I wonder what kind of plays we'll put on this year. I'm super looking forward to it!",
             null
         ],
-        "birthday_304": [
-            "Happy birthday, Tsukasa-chan! Misora and I made a cake decorated with candy. Try it!♪"
-        ],
         "birthday_303": [
             "Happy birthday, Lalafin! It was so hard to decorate for the party without you noticing! So? Were you surprised!?"
         ],
@@ -13858,6 +13855,9 @@
         ],
         "birthday_302": [
             "Happy birthday, Misora! I'm gonna wait on you hand and foot today, so your wish is my command! Oh, you need one of those? You know, uh... Yeah, a charger!"
+        ],
+        "birthday_304": [
+            "Happy birthday! Here's a handmade bookmark for you, since you love to read! I drew everyone's portrait on it."
         ]
     },
     "Aruru Otsuki Uniform": {
@@ -14506,24 +14506,24 @@
     },
     "Captain Dorothy Aruru Otsuki": {
         "quest_result": [
-            ""
+            "What kind of adventure do we wanna have next!?"
         ],
         "quest_dress": [
-            ""
+            "\"Wow, you're gonna teach me something new? I can't wait to try it!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Now, let's go find the treasure of the sea! Time to kick up some waves with my best friends!\"",
+            "\"Come on! Let's go make the shining dreams of the sea our own!\"",
+            "\"We're gonna find the treasure of the sea, the Gold Welle, and become the greatest pirates in the world!\"",
+            "\"Heh heh, leave the sharpshooting to me! Bang bang bang... Oh no, I forgot to load my gun!\"",
+            "Hey Lalafin, check this out! I came up with some choreography for the fight scenes in our play!",
+            "Mmm, Misora... That's not food, that's my arm... Huh!? That was a dream!?",
+            "Sometimes Shizuha-chan and Tsukasa-chan talk about really complicated stuff with the biggest smiles on their faces.",
+            "I wanna feel even more like a pirate! If I put salt in the bath, will that make it feel like seawater?"
         ],
         "touch_normal": [
-            "",
-            ""
+            "Ahhh, I love this costume! I wish I could wear it forever, but they probably wouldn't let me wear it to class, huh? Maybe just the hat... Pretty please?",
+            "Misora and I came up with the draft for Captain Twins. Now all five of us act in it, and tons of people love it... Isn't that amazing!?"
         ],
         "My Theater": [
             null,
@@ -14626,9 +14626,6 @@
             "Happy New Year. How many pieces of mochi have I had? Let's see, four with white miso soup, two in clear soup... So I guess six?",
             null
         ],
-        "birthday_304": [
-            "Happy birthday, Tsukasa-senpai! The cake decorated with candy may not look like it, but I guarantee it tastes good!"
-        ],
         "birthday_303": [
             "Happy birthday, Lalafin-senpai! Aruru and I baked the cake together. I guarantee it's delicious!"
         ],
@@ -14640,6 +14637,9 @@
         ],
         "birthday_302": [
             "Thanks for the birthday wishes, everyone! I won't let this jumbo-size pork cutlet curry beat me! Ready or not, here I come!"
+        ],
+        "birthday_304": [
+            "Happy birthday! My gift is a stylish book cover. I thought it was gorgeous and reminded me of you!"
         ]
     },
     "Misora Kano Uniform": {
@@ -15229,9 +15229,6 @@
             "Happy New Year!  Woo, it's New Year's! It's okay that I still get money from my relatives on New Year's, right?",
             null
         ],
-        "birthday_304": [
-            "Happy birthday! I've been thinking of a special pose for you. Let's take a picture with a cool pose!"
-        ],
         "birthday_303": [
             "I'm so happy you threw me such a lavish birthday celebration! I wish tomorrow could be my birthday again."
         ],
@@ -15243,6 +15240,9 @@
         ],
         "birthday_302": [
             "Happy birthday, Misora! Tsukasa and Shizuha and I made you a jumbo-size pork cutlet curry. You have hereby been challenged!"
+        ],
+        "birthday_304": [
+            "Happy birthday, Tsukasa! Here's an assorted set of candy specially selected by me."
         ]
     },
     "Lalafin Nonomiya Uniform": {
@@ -15918,9 +15918,6 @@
             "Happy New Year!  Spending the holiday with family is great, but spending it with everyone in the dorm is great, too.",
             null
         ],
-        "birthday_304": [
-            "Thanks for the birthday wishes, everyone! I'm so happy. How shall I repay you? Look forward to it!"
-        ],
         "birthday_303": [
             "Happy birthday! We all brought presents for you. Can you guess what's from who?"
         ],
@@ -15932,6 +15929,9 @@
         ],
         "birthday_302": [
             "Happy birthday, Misora. I have some medicine ready just in case, so go ahead and give our jumbo-size pork cutlet curry everything you've got!"
+        ],
+        "birthday_304": [
+            "Thank you all for your unique gifts! I am very happy with all of them and will treasure them."
         ]
     },
     "Tsukasa Ebisu Uniform": {
@@ -16452,6 +16452,28 @@
             "Trick or treat! Give me something good to eat, or I'll play a trick on you!"
         ]
     },
+    "Lonely Star Yellow Frontier Tsukasa Ebisu": {
+        "quest_result": [
+            "Yellow Frontier has your back!"
+        ],
+        "quest_dress": [
+            "\"We'll have to be prepared for our next battle!\""
+        ],
+        "common": [
+            "\"Hear me, wind... Blow away the tears of sadness!\"",
+            "\"I'll never give up. I'll keep standing up every time I get knocked down!\"",
+            "Apparently the kids from the kindergarten we volunteer at came to see the show.",
+            "\"So long as Frontier V is here, evil will never prosper!\"",
+            "Yellow Frontier, huh... I'm guessing she likes curry.",
+            "Aruru and Misora's combo moves always mesmerize me. I gotta keep up!",
+            "I accidentally called Lalafin Red Frontier at school... More like Red Face, am I right?",
+            "Heh heh, seeing the kids' eyes sparkle makes me feel like I can do anything!"
+        ],
+        "touch_normal": [
+            "We all took turns playing the bad guy during practice, but Shizuha was by far the scariest... That was Frontier V's biggest crisis yet.",
+            "We haven't done the hero show in a while, but I'm not worried. We've got Lalafin!"
+        ]
+    },
     "GENERIC Shizuha Kocho": {
         "loginbonus": [
             "Have you done your stretches yet? If not, we why don't we do them together?"
@@ -16521,9 +16543,6 @@
             "Happy New Year! Now, for my first tongue-twister of the new year... \"Black background, brown background, black background, brown background...\"",
             null
         ],
-        "birthday_304": [
-            "Happy birthday. My present is a skin care set from your favorite store. They said it's a new product."
-        ],
         "birthday_303": [
             "Happy birthday, Lalafin! We have a lot of party games ready. Should we start with a card game?"
         ],
@@ -16535,6 +16554,9 @@
         ],
         "birthday_302": [
             "Happy birthday, Misora-chan. Aruru-chan told us all your favorite ingredients, so we put them in the curry."
+        ],
+        "birthday_304": [
+            "Happy birthday, Tsukasa. I have a bouquet of birthday flowers for you. Let's take a picture together later, too."
         ]
     },
     "Shizuha Kocho Uniform": {
@@ -21084,6 +21106,28 @@
             "\"It's okay, Sinha... We'll be together forever!\""
         ]
     },
+    "Knight Hanna Yachiyo Tsuruhime": {
+        "quest_result": [
+            "We couldn't have done it without our careful planning."
+        ],
+        "quest_dress": [
+            "\"Let's stay calm, assess the situation, and form our strategy.\""
+        ],
+        "common": [
+            "\"I made a promise! I promised to protect this nation—this nation beloved by that person!\"",
+            "\"I'm going to stop you even if we both end up dying! Fire!\"",
+            "\"Catalina, please stay safe.\"",
+            "\"Defense line, stand your ground until Catalina returns!\"",
+            "\"The result of a battle is largely decided before it even begins.\"",
+            "\"Catalina... You'll return, right?\"",
+            "I love how Kuina-chan's throwing herself head-first into practice with Futaba-san.",
+            "I hope I can give our kouhai the help they need to make The Wartime of Farewells the best it can be."
+        ],
+        "touch_normal": [
+            "\"Those of us who have been left behind will build the peace that you wished for...! Watch over us!\"",
+            "It looks like the junior high students are getting motivated by watching each other grow. They're so cute♪"
+        ]
+    },
     "Cupid Yachiyo Tsuruhime (Skin)": {
         "quest_result": [
             "Have you fallen in love? Heh heh."
@@ -21905,6 +21949,28 @@
             "Sigh... Whenever I read a book, I end up empathizing with the characters in it.",
             "I'm good at striking matches because I have an oil heater at home...",
             "\"Ah, Granma...? You've finally come for me...!\""
+        ]
+    },
+    "Belle Ryoko Kobato": {
+        "quest_result": [
+            "True love with the Beast... Honestly, I was moved beyond words."
+        ],
+        "quest_dress": [
+            "\"Oh, how wonderful! I'll do anything I can!\""
+        ],
+        "common": [
+            "\"I swear here and now! Take me as your bride!\"",
+            "\"What can outward appearance tell you, anyway? No eye can see the beauty of the heart.\"",
+            "\"I can't let misfortune befall him... He's too dear to me!\"",
+            "\"None who considers himself a fool is truly a fool.\"",
+            "If I made Kuina-chan some penguin-shaped cookies, do you think she'd eat them?",
+            "Ahhh, talking to Shiori-senpai always makes my heart race... You don't think she can hear it, do you?",
+            "I didn't know Stella-chan has also played Belle! I would've loved to see it.",
+            "Belle likes reading too, right? I wonder what she reads..."
+        ],
+        "touch_normal": [
+            "Th-This is the envy of all of Siegfeld, a Belle costume designed by Tsuruhime-senpai! Oh, I'm so happy I could cry...!",
+            "Shiori-senpai's Belle was perfect... I may not be able to surpass her, but I want to play my very own Belle!"
         ]
     },
     "GENERIC Minku Umibe": {

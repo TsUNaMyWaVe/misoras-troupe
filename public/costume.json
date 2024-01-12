@@ -10207,6 +10207,22 @@
             "zh_hant": "隨興蜘蛛魔女 Encore 惠比壽司"
         }
     },
+    "3040032": {
+        "chara_id": 304,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Lonely Star Yellow Frontier Tsukasa Ebisu",
+            "ja": "孤高の星 フロンイエロー 恵比寿つかさ",
+            "ko": "고독한 별 프론 옐로우 에비스 츠카사",
+            "zh_hant": "孤高之星 芙羅戰隊・黃戰士 惠比壽司"
+        }
+    },
     "3050001": {
         "chara_id": 305,
         "description": {
@@ -12207,6 +12223,22 @@
             "zh_hant": "馬戲團明星 鶴姬八千代"
         }
     },
+    "4050026": {
+        "chara_id": 405,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Knight Hanna Yachiyo Tsuruhime",
+            "ja": "騎士ハンナ 鶴姫やちよ",
+            "ko": "기사 한나 츠루히메 야치요",
+            "zh_hant": "騎士漢娜 鶴姬八千代"
+        }
+    },
     "4060001": {
         "chara_id": 406,
         "description": {
@@ -12445,6 +12477,22 @@
             "ja": "マッチ売りの少女 小鳩良子",
             "ko": "성냥팔이 소녀 코바토 료코",
             "zh_hant": "賣火柴的少女 小鳩良子"
+        }
+    },
+    "4080005": {
+        "chara_id": 408,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Belle Ryoko Kobato",
+            "ja": "ベル 小鳩良子",
+            "ko": "벨 코바토 료코",
+            "zh_hant": "貝兒 小鳩良子"
         }
     },
     "4090001": {
