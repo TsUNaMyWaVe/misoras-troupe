@@ -4564,6 +4564,31 @@
             null
         ]
     },
+    "UNKNOWN(1040034) Claudine Saijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "no_use": [
+            ""
+        ]
+    },
     "Aladdin Claudine Saijo (Skin)": {
         "quest_result": [
             "Let's go home, Genie of the Lamp."
@@ -7877,6 +7902,28 @@
             "The bow that people do at the beginning of kung fu fights really helps to get you fired up.",
             "Mei Fan-chan said she watched \"The Kung Fu Rabbit\" four times!",
             "\"Master, drinking too much alcohol is like poisoning your body!\""
+        ]
+    },
+    "UNKNOWN(1070029) Nana Daiba": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "Phantom Nana Daiba (Skin)": {
@@ -16472,6 +16519,15 @@
         "touch_normal": [
             "We all took turns playing the bad guy during practice, but Shizuha was by far the scariest... That was Frontier V's biggest crisis yet.",
             "We haven't done the hero show in a while, but I'm not worried. We've got Lalafin!"
+        ],
+        "My Theater": [
+            "Apparently the kids from the kindergarten we volunteer at came to see the show.",
+            "\"So long as Frontier V is here, evil will never prosper!\"",
+            "Yellow Frontier, huh... I'm guessing she likes curry.",
+            "Aruru and Misora's combo moves always mesmerize me. I gotta keep up!",
+            "I accidentally called Lalafin Red Frontier at school... More like Red Face, am I right?",
+            "Heh heh, seeing the kids' eyes sparkle makes me feel like I can do anything!",
+            "\"Don't give up... When the pain is over, hope awaits you!\""
         ]
     },
     "GENERIC Shizuha Kocho": {
@@ -17164,13 +17220,13 @@
             "People used to just watch me from afar at school, but now a lot of people come talk to me. Sometimes they ask me for my autograph, and I don't know what to do."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Rejoice, for I shall freeze you, too. May you decorate the sea forevermore as an ice sculpture.\"",
+            "\"Dorothy's ring is a guide to unparalleled treasure... And mine is the key to the chest.\"",
+            "Lalafin begged me to read her some manga, but am I supposed to read the sound effects, too?",
+            "Tsukasa gave me a winning popsicle. For some reason, I want to save it...",
+            "Aruru-chan and I made a special drink. I wonder if Misora-chan will drink it...",
+            "We all made plans to go to the beach. We're going to have an etude on the sand.",
+            "\"I'd rather fight alone. That way, my heart doesn't so pointlessly stir.\""
         ]
     },
     "Odile Encore Shizuha Kocho": {
@@ -21126,6 +21182,15 @@
         "touch_normal": [
             "\"Those of us who have been left behind will build the peace that you wished for...! Watch over us!\"",
             "It looks like the junior high students are getting motivated by watching each other grow. They're so cute♪"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
@@ -21971,6 +22036,15 @@
         "touch_normal": [
             "Th-This is the envy of all of Siegfeld, a Belle costume designed by Tsuruhime-senpai! Oh, I'm so happy I could cry...!",
             "Shiori-senpai's Belle was perfect... I may not be able to surpass her, but I want to play my very own Belle!"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Minku Umibe": {

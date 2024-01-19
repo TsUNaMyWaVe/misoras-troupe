@@ -6042,7 +6042,7 @@
         "description": {
             "en": "Her Basic Acts apply Greater Seal Act 2 to all enemies. Her Climax Act applies Greater Contraction, Greater Seal Stage Effect, Greater Impudence, and Greater Stun to all enemies.",
             "ja": "基本ACTで敵役全体に上位ACT2封印を付与する舞台少女。敵役全体に上位狭窄&上位舞台効果付与封印&上位慢心&上位スタンを付与するクライマックスACTが強力。",
-            "ko": "기본 ACT로 적 전체에게 상위 ACT2 봉인을 부여하는 무대소녀. 적 전체에게 상위 협착 & 상위 무대 효과 봉인 & 상위 방심 & 상위 스턴을 부여하는 클라이맥스 ACT가 강력하다.",
+            "ko": "기본 ACT로 적 전체에게 상위 ACT2 봉인을 부여하는 무대소녀. 적 전체에게 상위 협착 & 상위 무대 효과 부여 봉인 & 상위 방심 & 상위 스턴을 부여하는 클라이맥스 ACT가 강력하다.",
             "zh_hant": "可透過基本ACT賦予所有敵方高級ACT2封印的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級視野收窄&高級舞台效果封印&高級傲慢&高級暈眩。"
         },
         "dex": 5,
@@ -9040,7 +9040,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "座長スキルで味方全体に上位回避&上位AP減少を付与する舞台少女。味方全体に上位回避&上位怪力&上位希望を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater Evasion and Greater AP Down to all allies. Her Climax Act applies Greater Evasion, Greater Superstrength, and Greater Hope to to all allies.",
+            "ja": "座長スキルで味方全体に上位回避&上位AP減少を付与する舞台少女。味方全体に上位回避&上位怪力&上位希望を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 아군 전체에게 상위 회피 & 상위 AP 감소를 부여하는 무대소녀. 아군 전체에게 상위 회피 & 상위 괴력 & 상위 희망을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有我方高級迴避&高級AP減少的舞台少女。強力的CLIMAX ACT可賦予所有我方高級迴避&高級怪力&高級希望。"
         },
         "dex": 5,
         "dress_episode_id": 1030030,
@@ -9053,7 +9056,10 @@
         "friendship30_levelup_adventure_id": 3110300302,
         "friendship_pattern_id": 135,
         "get_message": {
-            "ja": "今回の役は、堂々と大きな演技\n……してみせるよ！"
+            "en": "I'm going to put on a big, bold performance this time... I'll show everyone!",
+            "ja": "今回の役は、堂々と大きな演技\n……してみせるよ！",
+            "ko": "이번 역할은 당당하고 대범한 연기...를 보여 줄게!",
+            "zh_hant": "這次的角色，我會好好展現出……大幅度的演技！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13105101,
@@ -9069,7 +9075,10 @@
         "leader_tactics_skill_id": 10035,
         "model_id": 1030030,
         "name": {
-            "ja": "銃士ポルトス Encore"
+            "en": "Musketeer Porthos Encore",
+            "ja": "銃士ポルトス Encore",
+            "ko": "총사 포르토스 Encore",
+            "zh_hant": "劍客波爾多斯 Encore"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 205,
@@ -9077,7 +9086,10 @@
         "party_skill_type": 5,
         "personality_id": 5,
         "profile": {
-            "ja": "ポルトスは三銃士のひとり。見栄っ張りだがとても善良で、騙されやすいのがたまにキズ。ダルタニャンとは大の親友。\n演目『三銃士』より"
+            "en": "One of the Three Musketeers. A bit of a show-off and slightly gullible, but honest and loyal. D'Artagnan is a precious friend. From \"The Three Musketeers.\"",
+            "ja": "ポルトスは三銃士のひとり。見栄っ張りだがとても善良で、騙されやすいのがたまにキズ。ダルタニャンとは大の親友。\n演目『三銃士』より",
+            "ko": "포르토스는 삼총사의 일원이다. 허세가 있지만 매우 선량하며 쉽게 속는 점이 옥에 티. 달타냥과는 절친한 사이다.\n작품 [삼총사]에서",
+            "zh_hant": "波爾多斯為三劍客之一，雖然愛虛張聲勢但個性善良，美中不足是容易受騙。和達太安是摯友。\n取自戲碼『三劍客』"
         },
         "published_at": 1703361600,
         "rarity_up_cost_id": 1,
@@ -12216,7 +12228,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "基本ACT&CA&開幕時に上位AP減少2を付与する舞台少女。マイナス舞台効果Lv4抵抗を付与し、無敵など無視の必中攻撃を行うクライマックスACTが強力。"
+            "en": "Her Basic Acts, her Climax Act, and her Auto Skill at start apply Greater AP Down 2. Her Climax Act applies Oppose Neg. Stage Effect Lv. 4 and deals Perfect Aim damage ignoring Invincible, and more.",
+            "ja": "基本ACT&CA&開幕時に上位AP減少2を付与する舞台少女。マイナス舞台効果Lv4抵抗を付与し、無敵など無視の必中攻撃を行うクライマックスACTが強力。",
+            "ko": "기본 ACT & CA & 개막 시에 상위 AP 감소2를 부여하는 무대소녀. 마이너스 무대 효과 Lv4 저항을 부여하고, 무적 등을 무시하는 백발백중 공격을 가하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過基本ACT&CLIMAX ACT以及在開幕時賦予高級AP減少2的舞台少女。強力的CLIMAX ACT可賦予負面舞台效果Lv4抵抗，並發動無視無敵等效果的必中攻擊。"
         },
         "dex": 5,
         "dress_episode_id": 1040033,
@@ -12229,7 +12244,10 @@
         "friendship30_levelup_adventure_id": 3110400332,
         "friendship_pattern_id": 138,
         "get_message": {
-            "ja": "あなたのとびきりの笑顔で\n完璧なクリスマスが完成するの！"
+            "en": "Your incredible smile makes for a perfect Christmas!",
+            "ja": "あなたのとびきりの笑顔で\n完璧なクリスマスが完成するの！",
+            "ko": "네 아름다운 미소로\n완벽한 크리스마스가 완성되는 거야!",
+            "zh_hant": "只有你最燦爛的笑容，\n才能為完美的聖誕節畫上句點！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13108101,
@@ -12245,7 +12263,10 @@
         "leader_tactics_skill_id": 10034,
         "model_id": 1040033,
         "name": {
-            "ja": "ブッシュドノエル"
+            "en": "Bûche de Noël",
+            "ja": "ブッシュドノエル",
+            "ko": "부슈 드 노엘",
+            "zh_hant": "聖誕樹幹蛋糕"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 211,
@@ -12253,7 +12274,10 @@
         "party_skill_type": 5,
         "personality_id": 8,
         "profile": {
-            "ja": "特別課題『自己表現とその開放』でクロディーヌが選んだモチーフ。ロマンチストでちょっぴり寂しがり屋……世界中の喜びを、たったひとつに詰め込んで。\n演目『あなたと私のノエル』より"
+            "en": "Claudine chose this motif for the special assignment \"Personal Expression and Its Manifestation\"—Romantic and a little bit lonely, packing all the joy in the world into just one. From \"Our Noël\".",
+            "ja": "特別課題『自己表現とその開放』でクロディーヌが選んだモチーフ。ロマンチストでちょっぴり寂しがり屋……世界中の喜びを、たったひとつに詰め込んで。\n演目『あなたと私のノエル』より",
+            "ko": "특별 과제 [자기표현과 해방]에서 클로딘이 선택한 모티브. 로맨티스트이면서 조금은 외로움을 잘 타는 사람... 세상의 모든 기쁨을 단 하나에 담았다.\n작품 [당신과 나의 노엘]에서",
+            "zh_hant": "此為在特別課題『自我表現與開放』中，克洛迪娜所選擇的主題。聖誕樹幹蛋糕浪漫又有點怕寂寞……但卻溢滿了世上所有的喜悅。\n取自戲碼『你與我的Noël』"
         },
         "published_at": 1703343600,
         "rarity_up_cost_id": 1,
@@ -12262,6 +12286,94 @@
         "sub_tactics_skill_id": 20034,
         "trait_id": 28,
         "win_sequence_id": 4916
+    },
+    "1040034": {
+        "attack_type": 1,
+        "attribute_id": 4,
+        "auto_skill1_id": 23244,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23245,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23246,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 17026,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 17027,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 688,
+        "base_atk": 1502,
+        "base_hp": 13275,
+        "base_mdef": 634,
+        "base_pdef": 1150,
+        "base_rarity": 5,
+        "chara_id": 104,
+        "command_skill1_id": 8266,
+        "command_skill2_id": 8267,
+        "command_skill3_id": 8268,
+        "command_unique_skill_id": 8269,
+        "confusion_skill_id": 8270,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "基本ACT&CAで上位毒を付与する舞台少女。敵役全体に上位火傷耐性アップ解除を適用し、上位AP増加2&上位火傷を付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1040034,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110400341,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110400342,
+        "friendship_pattern_id": 134,
+        "get_message": {
+            "ja": "友の為に命を懸けるパーシヴァル\n友情に熱きその魂を見せてあげる"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13104101,
+        "growth_board2_id": 13104201,
+        "growth_board3_id": 13104301,
+        "growth_board4_id": 13104401,
+        "growth_board5_id": 13104501,
+        "growth_board6_id": 13104601,
+        "growth_board7_id": 13104701,
+        "growth_board8_id": 13104801,
+        "growth_board9_id": 13104901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10046,
+        "model_id": 1040034,
+        "name": {
+            "ja": "パーシヴァル Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 204,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 4,
+        "profile": {
+            "ja": "パーシヴァルの槍さばきは円卓の騎士でも随一の実力。彼は盟友ガラハッドと共にアーサー王を救う旅に出る。己の恩人だが敵となったモルドレッドを説得する為に。\n演目『聖杯の導き』より"
+        },
+        "published_at": 1705906800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20046,
+        "trait_id": 22,
+        "win_sequence_id": 4998
     },
     "1050001": {
         "attack_type": 1,
@@ -20950,6 +21062,94 @@
         "sub_tactics_skill_id": 0,
         "trait_id": 40,
         "win_sequence_id": 4512
+    },
+    "1070029": {
+        "attack_type": 1,
+        "attribute_id": 9,
+        "auto_skill1_id": 23241,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23242,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23243,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 17024,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 17025,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 689,
+        "base_atk": 1502,
+        "base_hp": 13298,
+        "base_mdef": 635,
+        "base_pdef": 1112,
+        "base_rarity": 5,
+        "chara_id": 107,
+        "command_skill1_id": 8261,
+        "command_skill2_id": 8262,
+        "command_skill3_id": 8263,
+        "command_unique_skill_id": 8264,
+        "confusion_skill_id": 8265,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "座長Sで味方全体に上位AP減少2&上位クライマックスACT封印耐性アップを付与する舞台少女。味方全体に上位連続クライマックスACT化を付与するCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1070029,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010700291,
+        "friendship15_levelup_adventure_id": 3110700291,
+        "friendship25_reward_adventure_id": 3010700292,
+        "friendship30_levelup_adventure_id": 3110700292,
+        "friendship_pattern_id": 139,
+        "get_message": {
+            "ja": "神のような大天使！\n優しく厳しく、裁いちゃいます♪"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13109101,
+        "growth_board2_id": 13109201,
+        "growth_board3_id": 13109301,
+        "growth_board4_id": 13109401,
+        "growth_board5_id": 13109501,
+        "growth_board6_id": 13109601,
+        "growth_board7_id": 13109701,
+        "growth_board8_id": 13109801,
+        "growth_board9_id": 13109901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10045,
+        "model_id": 1070029,
+        "name": {
+            "ja": "ミカエル"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 210,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 9,
+        "profile": {
+            "ja": "神によって最初に創られたと言われる、天使軍を率いる大天使。様々な物語に登場し人々への愛情深さを描かれる。一説では、ルシファーとは双子の兄弟とされる。\n演目『Paradise Lost』より"
+        },
+        "published_at": 1705906800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20045,
+        "trait_id": 52,
+        "win_sequence_id": 4993
     },
     "1080001": {
         "attack_type": 1,
@@ -38668,7 +38868,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "座長スキルで味方全体に上位無敵の再生者を付与する舞台少女。敵役全体に上位クライマックスACT封印を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater Invincible Rebirth to all allies. Her Climax Act Greater Seal Climax Act to all enemies.",
+            "ja": "座長スキルで味方全体に上位無敵の再生者を付与する舞台少女。敵役全体に上位クライマックスACT封印を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 아군 전체에게 상위 무적의 재생자를 부여하는 무대소녀. 적 전체에게 상위 클라이맥스 ACT 봉인을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有我方高級無敵重生者的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級CLIMAX ACT封印。"
         },
         "dex": 5,
         "dress_episode_id": 3010033,
@@ -38681,7 +38884,10 @@
         "friendship30_levelup_adventure_id": 3130100332,
         "friendship_pattern_id": 131,
         "get_message": {
-            "ja": "みんなと共に、どこまでも！\n笑顔で自由に、ハッピーに☆"
+            "en": "With everyone, everywhere! Happily smiling with freedom☆",
+            "ja": "みんなと共に、どこまでも！\n笑顔で自由に、ハッピーに☆",
+            "ko": "모두와 함께 한없이!\n웃는 얼굴로 자유롭게, 행복하게☆",
+            "zh_hant": "我要跟大家一起自由地、開心地\n笑著朝向更高的境界！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13101101,
@@ -38697,7 +38903,10 @@
         "leader_tactics_skill_id": 10033,
         "model_id": 3010033,
         "name": {
-            "ja": "キャプテンドロシー"
+            "en": "Captain Dorothy",
+            "ja": "キャプテンドロシー",
+            "ko": "캡틴 도로시",
+            "zh_hant": "桃樂西船長"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 201,
@@ -38705,7 +38914,10 @@
         "party_skill_type": 5,
         "personality_id": 1,
         "profile": {
-            "ja": "明るくも頼もしい、フロンティア・ゴールド号のキャプテンのひとり。なによりもファミリーを愛し、海に焦がれ、自由という帆を広げて、笑顔で海路を切り拓く。\n演目『キャプテン・ツインズR』より"
+            "en": "Bright and dependable, she is one of the captains of the Frontier Gold. She loves her family more than anything else, longs for the sea, and spreads her sails of freedom to pave the seaways with a smile on her face. From \"Captain Twins R.\"",
+            "ja": "明るくも頼もしい、フロンティア・ゴールド号のキャプテンのひとり。なによりもファミリーを愛し、海に焦がれ、自由という帆を広げて、笑顔で海路を切り拓く。\n演目『キャプテン・ツインズR』より",
+            "ko": "밝고 듬직한 프론티어 골드 호의 캡틴 중 한 명. 무엇보다도 패밀리를 사랑하고 바다를 사랑하며 자유라는 돛을 펼치고 웃으며 항로를 개척해 나간다.\n작품 [캡틴 트윈즈 R]에서",
+            "zh_hant": "她既開朗又可靠，是黃金邊疆號的其中一位船長。重視家人、憧憬大海的她也因此拉起了名為自由的船帆，滿臉笑容地開拓著航路。\n取自戲碼『雙胞胎船長R』"
         },
         "published_at": 1703142000,
         "rarity_up_cost_id": 1,
