@@ -3355,14 +3355,14 @@
             "My character loves fancy clothes, so maybe I should try wearing something different, too."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "I'll give this violet to Karen-chan♪",
+            "I'm going to put on a big, bold performance this time... I'll show everyone!",
+            "It's very important to coordinate well with the other performers.",
+            "Deep breath... Got to project from my diaphragm!",
+            "I'll stick close to Kaoruko-chan to help me get a feel for my role!",
+            "It's nice watching people enjoy a hearty meal.",
+            "All the musketeers should have dinner together tonight.",
+            "Is something wrong?"
         ]
     },
     "Lucifer Mahiru Tsuyuzaki": {
@@ -4555,13 +4555,13 @@
             "Hmm, what should I do about Christmas presents this year? Heh heh, I'll knock their socks off!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"What about decorations? I want to put up some boughs of holly.\"",
+            "\"We can open presents if you want, but don't forget to eat me, okay?\"",
+            "Baking is really hard... I'd better thank Nana.",
+            "Decorating the Christmas tree with everyone made for a good memory.",
+            "Whenever I bake with Karen, the yield always comes out low. She needs to cool it on the taste-testing!",
+            "The town is beginning to glitter... The curtain is rising on the stage of Christmas.",
+            "\"May you continue to smile, even after the last bite.\""
         ]
     },
     "UNKNOWN(1040034) Claudine Saijo": {
@@ -4587,6 +4587,16 @@
         ],
         "no_use": [
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -7924,6 +7934,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Phantom Nana Daiba (Skin)": {
@@ -14573,13 +14592,13 @@
             "Misora and I came up with the draft for Captain Twins. Now all five of us act in it, and tons of people love it... Isn't that amazing!?"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"We're gonna find the treasure of the sea, the Gold Welle, and become the greatest pirates in the world!\"",
+            "\"Heh heh, leave the sharpshooting to me! Bang bang bang... Oh no, I forgot to load my gun!\"",
+            "Hey Lalafin, check this out! I came up with some choreography for the fight scenes in our play!",
+            "Mmm, Misora... That's not food, that's my arm... Huh!? That was a dream!?",
+            "Sometimes Shizuha-chan and Tsukasa-chan talk about really complicated stuff with the biggest smiles on their faces.",
+            "I wanna feel even more like a pirate! If I put salt in the bath, will that make it feel like seawater?",
+            "\"Where does the sun go after it sets in the ocean? Come with us, and we'll see for ourselves!\""
         ]
     },
     "Easter Bunny Aruru Otsuki (Skin)": {
@@ -14686,7 +14705,7 @@
             "Thanks for the birthday wishes, everyone! I won't let this jumbo-size pork cutlet curry beat me! Ready or not, here I come!"
         ],
         "birthday_304": [
-            "Happy birthday! My gift is a stylish book cover. I thought it was gorgeous and reminded me of you!"
+            "Happy birthday! My gift is a stylish book cover. I thought it was gorgeous and reminded me of Tsukasa-senpai!"
         ]
     },
     "Misora Kano Uniform": {
@@ -22515,6 +22534,28 @@
             "Minase-senpai complimented the Nikopen-chan towel I was using during the break.",
             "We get to act out a show that's important to everyone at Seisho... I'm in awe.",
             "\"I'm going to take out all those who stand in my way!\""
+        ]
+    },
+    "UNKNOWN(4100006) Kuina Moriyasu": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "GENERIC Koharu Yanagi": {

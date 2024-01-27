@@ -9140,7 +9140,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "基本ACT&CA&開幕時オートスキルで敵役全体に上位AP増加2を付与する舞台少女。オートスキルで自身に上位復活の奇跡を付与する。"
+            "en": "Her Basic Acts, Climax Act and Auto Skills at start apply Greater AP Up 2 to all enemies. Her Auto Skill applies Greater Miraculous Recovery to self.",
+            "ja": "基本ACT&CA&開幕時オートスキルで敵役全体に上位AP増加2を付与する舞台少女。オートスキルで自身に上位復活の奇跡を付与する。",
+            "ko": "기본 ACT & CA & 개막 시에 자동 스킬로 적 전체에게 상위 AP 증가2를 부여하는 무대소녀. 자동 스킬로 자신에게 상위 부활의 기적을 부여한다.",
+            "zh_hant": "可透過基本ACT、CLIMAX ACT和在開幕時以自動技能賦予所有敵方高級AP増加2的舞台少女。自動技能可賦予自己高級復活奇蹟。"
         },
         "dex": 5,
         "dress_episode_id": 1030031,
@@ -9153,7 +9156,10 @@
         "friendship30_levelup_adventure_id": 3110300312,
         "friendship_pattern_id": 135,
         "get_message": {
-            "ja": "気をつけて！\n悪魔はいつもあなたの側に……"
+            "en": "Watch out! The devil is always by your side...",
+            "ja": "気をつけて！\n悪魔はいつもあなたの側に……",
+            "ko": "조심해!\n악마는 언제나 당신 곁에...",
+            "zh_hant": "小心喔！\n惡魔永遠都伴隨在你身邊……"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13105101,
@@ -9169,7 +9175,10 @@
         "leader_tactics_skill_id": 10038,
         "model_id": 1030031,
         "name": {
-            "ja": "ルシファー"
+            "en": "Lucifer",
+            "ja": "ルシファー",
+            "ko": "루시퍼",
+            "zh_hant": "路西法"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 205,
@@ -9177,7 +9186,10 @@
         "party_skill_type": 5,
         "personality_id": 5,
         "profile": {
-            "ja": "かつては『明けの明星』と呼ばれた美しい天使。この天使は無知で堕ちたのではない。自らの意志で神に背いたのだ。それゆえに、永遠に許されない。\n演目『Paradise Lost』より"
+            "en": "A beautiful angel who was once called \"The Morning Star\". This angel did not fall through ignorance. He disobeyed God of his own will. Therefore, he will forever be unforgiven. From \"Paradise Lost.\"",
+            "ja": "かつては『明けの明星』と呼ばれた美しい天使。この天使は無知で堕ちたのではない。自らの意志で神に背いたのだ。それゆえに、永遠に許されない。\n演目『Paradise Lost』より",
+            "ko": "한때 [새벽의 샛별]로 불렸던 아름다운 천사. 이 천사는 무지해서 타락한 것이 아니다. 스스로의 의지로 신을 거역했다. 그렇기에 영원히 용서받지 못한다.\n작품 [Paradise Lost]에서",
+            "zh_hant": "路西法曾經是一位被譽為『明亮之星』的美麗天使。他並非因無知而墮落，而是自己選擇了違背神。也因此，他的罪孽將永遠得不到寬恕。\n取自戲碼『Paradise Lost』"
         },
         "published_at": 1704034800,
         "rarity_up_cost_id": 1,
@@ -23092,7 +23104,10 @@
         "delta_mdef": 4140,
         "delta_pdef": 3000,
         "description": {
-            "ja": "座長スキルで敵役全体に上位AP増加、味方全体に上位AP増加耐性アップを付与する舞台少女。味方全体に上位すばやさアップを付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater AP Up to all enemies, and Greater AP Up Resistance Up to all allies. Her Climax Act applies Greater Agility Up to all allies.",
+            "ja": "座長スキルで敵役全体に上位AP増加、味方全体に上位AP増加耐性アップを付与する舞台少女。味方全体に上位すばやさアップを付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 적 전체에게 상위 AP 증가, 아군 전체에게 상위 AP 증가 저항 증가를 부여하는 무대소녀. 아군 전체에게 상위 민첩 증가를 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有敵方高級AP増加，並賦予所有我方[高級]提升AP增加耐性的舞台少女。強力的CLIMAX ACT可賦予所有我方[高級]提升敏捷。"
         },
         "dex": 5,
         "dress_episode_id": 1080020,
@@ -23105,7 +23120,10 @@
         "friendship30_levelup_adventure_id": 3110800202,
         "friendship_pattern_id": 132,
         "get_message": {
-            "ja": "今、試練を乗り越える時！\nガラハッドの活躍見てくれよ"
+            "en": "Now is the time to overcome these trials! Behold my determination!",
+            "ja": "今、試練を乗り越える時！\nガラハッドの活躍見てくれよ",
+            "ko": "지금이 바로 시련을 극복할 때!\n갤러해드의 활약을 봐줘",
+            "zh_hant": "現在正是跨越試煉的時刻！\n好好看我的加拉哈德大顯身手吧"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13202101,
@@ -23121,7 +23139,10 @@
         "leader_tactics_skill_id": 10039,
         "model_id": 1080020,
         "name": {
-            "ja": "ガラハッド Encore"
+            "en": "Galahad Encore",
+            "ja": "ガラハッド Encore",
+            "ko": "갤러해드 Encore",
+            "zh_hant": "加拉哈德 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 202,
@@ -23129,7 +23150,10 @@
         "party_skill_type": 5,
         "personality_id": 2,
         "profile": {
-            "ja": "円卓の騎士ランスロットの息子。剣術の腕も確かで父と実力伯仲するほど。一方、誠実な性格ゆえに本当に自分が円卓の騎士に相応しいのか、自信が持てないでいる。\n演目『聖杯の導き』より"
+            "en": "Son of the Knight of the Round Table Lancelot, his swordsmanship rivals even his father's. On the other hand, his sincerity often leads him to doubt his place at the Round Table. From \"Holy Grail's Guidance.\" ",
+            "ja": "円卓の騎士ランスロットの息子。剣術の腕も確かで父と実力伯仲するほど。一方、誠実な性格ゆえに本当に自分が円卓の騎士に相応しいのか、自信が持てないでいる。\n演目『聖杯の導き』より",
+            "ko": "원탁의 기사 랜슬롯의 아들. 검술 솜씨도 뛰어나서 아버지와 실력이 비등할 정도. 한편, 성실한 성격 때문에 정말로 자신이 원탁의 기사에 어울리는지 자신감을 가지지 못하고 있다.\n작품 [성배의 인도]에서",
+            "zh_hant": "圓桌騎士蘭斯洛特的兒子。其劍術實力雖與父親不相上下，但其腳踏實地的性格也讓他不斷質疑自己是否真的有名列圓桌騎士的資格。\n取自戲碼『聖杯的指引』"
         },
         "published_at": 1704034800,
         "rarity_up_cost_id": 1,
@@ -59002,6 +59026,94 @@
         "sub_tactics_skill_id": 0,
         "trait_id": 49,
         "win_sequence_id": 4537
+    },
+    "4100006": {
+        "attack_type": 1,
+        "attribute_id": 1,
+        "auto_skill1_id": 23247,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23248,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23249,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 17028,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 17029,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 689,
+        "base_atk": 1489,
+        "base_hp": 13320,
+        "base_mdef": 645,
+        "base_pdef": 1124,
+        "base_rarity": 5,
+        "chara_id": 410,
+        "command_skill1_id": 8271,
+        "command_skill2_id": 8272,
+        "command_skill3_id": 8273,
+        "command_unique_skill_id": 8274,
+        "confusion_skill_id": 8275,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "開幕時オートスキルで味方全体に上位複合耐性アップ[舞台効果付与封印&AP増加]を付与する舞台少女。味方全体に上位ACTブースト[上位錯乱]を付与するCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 4100006,
+        "dress_type": 0,
+        "entry_skill_id": 6,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3041000061,
+        "friendship15_levelup_adventure_id": 3141000061,
+        "friendship25_reward_adventure_id": 3041000062,
+        "friendship30_levelup_adventure_id": 3141000062,
+        "friendship_pattern_id": 131,
+        "get_message": {
+            "ja": "醜さゆえの恐怖と悲しみ……\n私はぜんぶ知ってる！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13101101,
+        "growth_board2_id": 13101201,
+        "growth_board3_id": 13101301,
+        "growth_board4_id": 13101401,
+        "growth_board5_id": 13101501,
+        "growth_board6_id": 13101601,
+        "growth_board7_id": 13101701,
+        "growth_board8_id": 13101801,
+        "growth_board9_id": 13101901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10047,
+        "model_id": 4100006,
+        "name": {
+            "ja": "野獣"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 201,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 1,
+        "profile": {
+            "ja": "とある美しい王子は傲慢に溺れ、魔法使いに野獣の姿にされた。魔法のバラと共に朽ちていく王城で、たったひとり……その孤独だけが救いだと信じて。\n演目『美女と野獣』より"
+        },
+        "published_at": 1706252400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 34050,
+        "sub_tactics_skill_id": 20047,
+        "trait_id": 22,
+        "win_sequence_id": 5003
     },
     "5010001": {
         "attack_type": 2,
