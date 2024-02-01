@@ -3387,13 +3387,13 @@
             "We're all gonna go to an art museum soon. I'm worried Karen-chan will get too excited and run off, so I'm thinking of holding her hand... But maybe that's treating her too much like a kid."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Beelzebub, Moloch, Belial, Mammon... Come, and let us claim heaven for ourselves.\"",
+            "\"I'm prettier than even the ruler of heaven. Go on, come closer... Go ahead and touch.\"",
+            "Oh, I didn't know Lucifer can turn into a dragon! I'd better practice my acting for that, too.",
+            "What's the temptation of the devil like? Like, \"Eat the Mahiru Spuds, you know you want them\"?",
+            "An angel whose envy spelled his ruin... That hits a little close to home.",
+            "I saw the gate to hell in the reference material, and the decorations are so elaborate! It looks like a nightmare to clean...",
+            "\"Tell me, why won't you love me the most...?\""
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -5713,6 +5713,28 @@
             "It feels as if Tristan's tragedy were my own.",
             "\"Sir Merlin, I'd like you to watch over me as I walk down the path that I must go on.\"",
             "\"I won't lose! I will get my revenge no matter want!\""
+        ]
+    },
+    "Raphael Maya Tendo": {
+        "quest_result": [
+            "How did you like my healing?"
+        ],
+        "quest_dress": [
+            "\"I need more power, if I am to save the masses.\""
+        ],
+        "common": [
+            "\"Healing is a gentle wingbeat, a warm wish for another.\"",
+            "\"I am Raphael, honored with the task of bringing the Lord's healing to the masses.\"",
+            "\"Take heed, Adam and Eve. You must not cast your gaze upon the darkness.\"",
+            "\"I will lend you any knowledge you require. Of heaven and earth, of how to build an ark... Anything.\"",
+            "Why do angels have wings? To deliver wishes to heaven, maybe?",
+            "This \"healing\" is very different from my impression of the word, but that's what makes this role so fulfilling.",
+            "Apparently Raphael is also the guardian of travelers.",
+            "Halos and baumkuchen are shaped the same. Is there some big secret at play here...?"
+        ],
+        "touch_normal": [
+            "We all went to the museum the other day. The art pieces couldn't talk, but it felt like they were speaking directly to my heart... I'll make good use of that experience onstage.",
+            "It takes all kinds of talent and technique to stand onstage. Most of all, you need the courage to expose yourself... And Aijo-san has that in spades."
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -8766,14 +8788,14 @@
             "\"That's right, I too need to encourage myself!\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "The training scenes with Galahad and Lancelot were the highlights of this performance.",
+            "Making sweets is fun. After all, you can try anything.",
+            "There are lots of fight scenes in this play. I'm really excited about performing it.",
+            "I hope you're looking forward to Galahad's very flashy action scenes!",
+            "Let's get ready for the performance and double check the flow of the fight scenes!",
+            "One of the highlights of this performance was Galahad's growth mentally.",
+            "\"The honorable Knights of the Round Table... How can one achieve such pride?\"",
+            "\"For my father's trust, I must overcome these trials!\""
         ]
     },
     "Martial Artist Futaba Isurugi": {
@@ -10125,14 +10147,14 @@
             "Happy New Year. I brought some traditional holiday foods back from my parents' house. Would you care to share it with me?",
             null
         ],
-        "birthday_203": [
-            "Happy birthday, Fumi. It's so lively and fun to go out with everyone. I hope you find some good ponzu!"
-        ],
         "birthday_202": [
             "Happy birthday, Ichie. Are you enjoying the party? We're watching your favorite horror films after this."
         ],
         "birthday_205": [
             "Yuyuko-chan, happy birthday. Even though I practiced \"Death\" a lot, it's still kind of rough, but I hope you enjoy my performance."
+        ],
+        "birthday_203": [
+            "Happy birthday, Fumi. I baked lots of treats for the tea party. I'm especially proud of the citrus scones. I hope you like them."
         ],
         "birthday_204": [
             "Happy birthday, Rui-chan. Those donuts we all made together were amazing. I even heard Ukaji-sensei is going to come celebrate, too."
@@ -11003,14 +11025,14 @@
             "Happy New Year! What should I wish for at the shrine? For us to be better friends and better performers! And then for Fumi...",
             null
         ],
-        "birthday_203": [
-            "Happy birthday! Shiori told me about your family trip to look for ponzu! Let's all go find the best ponzu for you!"
-        ],
         "birthday_202": [
             "Thank you for today! We're marathoning horror movies after this, right!? All right! I'm ready☆"
         ],
         "birthday_205": [
             "Yuyuko, happy birthday! But...you just wanted me to have to say \"Jugemu's\" full name, didn't you!?"
+        ],
+        "birthday_203": [
+            "Happy birthday, Fumi! We're celebrating with a tea party at the dorm☆ We even invited Shiori-chan as a special guest, so have fun!"
         ],
         "birthday_204": [
             "Hippo birdy, Rui☆ Here's your good friend Ichie-chan's donuts! What? No, I'm not trying to prank you. Just eat 'em!"
@@ -11722,9 +11744,6 @@
             "Happy New Year. Let's make it a great one. Mochi is fine with soybean flour or soy sauce, but when I'm sick of that, there's always ponzu.",
             null
         ],
-        "birthday_203": [
-            "Thank you everyone...for putting all of this together. I'll do my best to find a good souvenir for Shiori!"
-        ],
         "birthday_202": [
             "Happy birthday, Ichie. I'm going to spend the night at the dorm too. I'm ready to brush up my scaring skills!"
         ],
@@ -11733,6 +11752,9 @@
         ],
         "birthday_205": [
             "Happy birthday. You must be really dedicated to cease this opportunity to spread rakugo...but it was really exciting for us as well!"
+        ],
+        "birthday_203": [
+            "What a wonderful tea party, and it's all for me... Really, thank you for everything. Just you wait—I'll show you such a good time, it'll all be worth it!"
         ],
         "birthday_204": [
             "Happy birthday, Rui. I know how much you love donuts, and I definitely loved making them together. Get ready, because we're having a donut party."
@@ -12378,6 +12400,28 @@
             "The show this time is a surprising change from Rinmeikan's usual performances."
         ]
     },
+    "Bard Orpheus Fumi Yumeoji": {
+        "quest_result": [
+            "Heh heh, great song, right?"
+        ],
+        "quest_dress": [
+            "\"Even should my fingers be injured or my harpstrings snap, I shall continue to play my love for Eurydice.\""
+        ],
+        "common": [
+            "\"My harp sings of love eternal and true.\"",
+            "\"A world without you is hell already. I fear nothing from the underworld.\"",
+            "\"I freeze up at the sight of a venomous snake, wracked by regret...\"",
+            "\"Thank you, Lord Hades. I hereby swear not to turn back.\"",
+            "In the Siegfeld performance, Yachiyo played Eurydice.",
+            "Rui and Yuyuko are getting really into their practice... I'm so proud of them.",
+            "Shiori and Yachiyo brought me pomegranate juice while I was practicing.",
+            "\"Whatever you do, don't turn around\"...? What are you up to this time, Ichie?"
+        ],
+        "touch_normal": [
+            "I practiced playing the harp a little for this role. I was pretty bad, but everyone was complimenting me left and right... They're so nice.",
+            "Regrets aren't all bad... Nowadays, I think they're a necessary step in moving forward."
+        ]
+    },
     "Angel's Blessing Fumi Yumeoji (Skin)": {
         "quest_result": [
             "I need to get dinner started."
@@ -12491,14 +12535,14 @@
             "Did you see her? Tamao-senpai in her kimono! I have a feeling it's going to be a great year! Oh, and Happy New Year!",
             null
         ],
-        "birthday_203": [
-            "Ichie-senpai planned this Rinmeikan Ponzu trip for you, Fumi-senpai, and Yuko and I are in charge of the surprise. I'm so nervous!"
-        ],
         "birthday_202": [
             "Happy birthday, Ichie-senpai. I'm not really great with horror movies... But I'm ready to enjoy them together!"
         ],
         "birthday_205": [
             "Happy birthday, Yukko! I practiced a lot, so pay attention to my rendition of \"Scary Buns\"!"
+        ],
+        "birthday_203": [
+            "Happy birthday, Fumi-senpai. Ms. Ukaji taught us how to make the tablecloth for the tea party, and Yukko and I did it overnight!"
         ],
         "birthday_204": [
             "Thank you for the amazing party, everyone...! With you and the donuts surrounding me, I'm the happiest person in the world!"
@@ -13201,14 +13245,14 @@
             "Happy New Year. There are so many great rakugo, noh, and other performances on TV this time of year. What do you say? Want to watch some together?",
             null
         ],
-        "birthday_203": [
-            "Happy birthday, Fumi-senpai! Please take a look at the gorgeous ingredients for the \"True Ponzu Banquet\" to be held at the dawn of this trip."
-        ],
         "birthday_202": [
             "Happy birthday to you, Ichie-san. I've prepared snacks and juice to go along with the movies!"
         ],
         "birthday_205": [
             "Today is my birthday, so I asked everyone to perform a rakugo for me. I picked the stories for them to do."
+        ],
+        "birthday_203": [
+            "Happy birthday, Fumi-senpai. Don't worry, I made sure to get some ponzu for the tea party, just in case."
         ],
         "birthday_204": [
             "Ruiii, happy birthdaaay. I made all the decorations donut-themed because you love them so much. Ain't they great?"
@@ -19666,9 +19710,6 @@
             "A very happy New Year to you. May the coming year be a good one. I plan to give it my all!",
             null
         ],
-        "birthday_203": [
-            "Happy birthday, big sis. Enjoy your outing with everyone at Rinmeikan. Let's celebrate together when you get back."
-        ],
         "birthday_402": [
             "Happy birthday, Michiru-senpai! I used to play chess with my sister, so I hope I'll be a worthy opponent..."
         ],
@@ -19677,6 +19718,9 @@
         ],
         "birthday_403": [
             "Happy birthday, Mei Fan-senpai! I heard it was a sign of good luck, so I tried preparing some red boiled eggs."
+        ],
+        "birthday_203": [
+            "Happy birthday! I'm so happy I get to celebrate with you at the tea party. I picked some of that tea you've always liked."
         ],
         "birthday_405": [
             "Happy birthday! I decorated the cover with that ribbon technique you taught me."
@@ -22556,6 +22600,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Koharu Yanagi": {

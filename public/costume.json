@@ -5631,6 +5631,22 @@
             "zh_hant": "崔斯坦 Encore 天堂真矢"
         }
     },
+    "1050030": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Raphael Maya Tendo",
+            "ja": "ラファエル 天堂真矢",
+            "ko": "라파엘 텐도 마야",
+            "zh_hant": "拉斐爾 天堂真矢"
+        }
+    },
     "1060001": {
         "chara_id": 106,
         "description": {
@@ -8477,6 +8493,22 @@
             "ja": "最強の音楽 夢大路文",
             "ko": "최강의 음악 유메오지 후미",
             "zh_hant": "最強音樂 夢大路文"
+        }
+    },
+    "2030032": {
+        "chara_id": 203,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Bard Orpheus Fumi Yumeoji",
+            "ja": "吟遊詩人オルフェウス 夢大路文",
+            "ko": "음유시인 오르페우스 유메오지 후미",
+            "zh_hant": "吟遊詩人 奧菲斯 夢大路文"
         }
     },
     "2040001": {
