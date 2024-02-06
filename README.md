@@ -3,6 +3,7 @@ Revue Starlight Relive home menu lines reader.
 
 ## Live example
 Can be found [here](https://misoras-troupe.onrender.com/).
+
 (Hosted on [Render](https://render.com/), and thus might take a while to load after a long time with no usage by anyone.)
 
 ## Build and run Locally
