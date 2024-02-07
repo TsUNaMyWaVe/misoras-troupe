@@ -4159,6 +4159,22 @@
             "zh_hant": "傳說的勇者 光 神樂光"
         }
     },
+    "1020034": {
+        "chara_id": 102,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "シャーロック Encore 神楽ひかり",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "1030001": {
         "chara_id": 103,
         "description": {
@@ -5161,10 +5177,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Percival Encore Claudine Saijo",
             "ja": "パーシヴァル Encore 西條クロディーヌ",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "퍼시벌 Encore 사이조 클로딘",
+            "zh_hant": "珀西瓦里 Encore 西條克洛迪娜"
         }
     },
     "1050001": {
@@ -6585,10 +6601,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Michael Nana Daiba",
             "ja": "ミカエル 大場なな",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "미카엘 다이바 나나",
+            "zh_hant": "米迦勒 大場奈奈"
         }
     },
     "1080001": {
@@ -13149,6 +13165,36 @@
             "ja": "紐育華撃団・星組 ジェミニ・サンライズ",
             "ko": "뉴욕화격단 성조 제미니 선라이즈",
             "zh_hant": "紐約華擊團・星組 潔蜜妮・桑萊茲"
+        }
+    },
+    "9040001": {
+        "chara_id": 904,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "ミルキィホームズ シャーロック・シェリンフォード"
+        }
+    },
+    "9060001": {
+        "chara_id": 906,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "ミルキィホームズ エルキュール・バートン"
+        }
+    },
+    "9070001": {
+        "chara_id": 907,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "ミルキィホームズ コーデリア・グラウカ"
         }
     },
     "10100061": {

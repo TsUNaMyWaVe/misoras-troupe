@@ -544,5 +544,47 @@
                 "zh_hant": "Gemie Sunrise"
             }
         }
+    },
+    "904": {
+        "basicInfo": {
+            "charaID": 904,
+            "birth_day": 31,
+            "birth_month": 3,
+            "school_id": 9,
+            "name_ruby": {
+                "ja": "Sherlock Shellinford",
+                "en": null,
+                "ko": null,
+                "zh_hant": null
+            }
+        }
+    },
+    "906": {
+        "basicInfo": {
+            "charaID": 906,
+            "birth_day": 21,
+            "birth_month": 10,
+            "school_id": 9,
+            "name_ruby": {
+                "ja": "Hercule Burton",
+                "en": null,
+                "ko": null,
+                "zh_hant": null
+            }
+        }
+    },
+    "907": {
+        "basicInfo": {
+            "charaID": 907,
+            "birth_day": 19,
+            "birth_month": 12,
+            "school_id": 9,
+            "name_ruby": {
+                "ja": "Cordelia Glauca",
+                "en": null,
+                "ko": null,
+                "zh_hant": null
+            }
+        }
     }
 }

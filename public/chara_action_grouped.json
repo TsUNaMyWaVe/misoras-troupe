@@ -2247,6 +2247,28 @@
             "\"Princess, please be at peace... I will surely save you!\""
         ]
     },
+    "UNKNOWN(1020034) Hikari Kagura": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Amaterasu Hikari Kagura (Skin)": {
         "quest_result": [
             "I hope I was able to shine the sunlight right."
@@ -4564,29 +4586,29 @@
             "\"May you continue to smile, even after the last bite.\""
         ]
     },
-    "UNKNOWN(1040034) Claudine Saijo": {
+    "Percival Encore Claudine Saijo": {
         "quest_result": [
-            ""
+            "A highlight of Percival's performance is the fight scene where he uses a spear."
         ],
         "quest_dress": [
-            ""
+            "\"I'll train once more before setting off on my journey. Daily training is the most important when it comes to making a difference in do-or-die situations.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"It's time to set off at last. The fate of the kingdom lies in our hands. Let's go save King Arthur together!\"",
+            "\"It's been a few days since King Arthur has come down with a rare disease. His condition has been worsening. What do we do...?\"",
+            "\"Mordred was once a Knight of the Round Table... But that is of the past. Now his relations with King Arthur have become strained.\"",
+            "\"It pains me to watch Mordred fight King Arthur who he's indebted to. So I beg of you to let me help.\"",
+            "Don't be stubborn, Kaoruko. Just be honest if you wanted to make sweets together.",
+            "Percival's friendship with Galahad is beautiful. It chokes me up even when I'm the one playing the role.",
+            "After making it myself, I realized how much preparation it takes to make sweets. I take my hat off to Mahiru and Nana.",
+            "I like that attitude you have of purposely taking on challenging assignments. I can really empathize with that side of you, Futaba."
         ],
         "touch_normal": [
-            "",
-            ""
+            "It was my idea to make tea-flavored cupcakes. I thought the aroma matches well with cakes.",
+            "Percival shines the most in the scene where he persuades Mordred. I want everyone to watch it."
         ],
         "no_use": [
-            ""
+            "\"The fate of the kingdom lies in our hands. Let's go save King Arthur together!\""
         ],
         "My Theater": [
             null,
@@ -5735,6 +5757,15 @@
         "touch_normal": [
             "We all went to the museum the other day. The art pieces couldn't talk, but it felt like they were speaking directly to my heart... I'll make good use of that experience onstage.",
             "It takes all kinds of talent and technique to stand onstage. Most of all, you need the courage to expose yourself... And Aijo-san has that in spades."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -6887,14 +6918,14 @@
             "\"Galahad, I am the one who has appeared in your dreams. I'm here to relay a prophecy to you.\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Viviane's costume has a godliness to it which matches the Lady of the Lake perfectly.",
+            "After all this thinking about sweets... It's made me a little hungry...",
+            "How do I go about showing Viviane's classiness?",
+            "Maybe I'll try making sweets together with Nana on our next day off.",
+            "\"Galahad, I will always be watching over you.\"",
+            "\"Mordred... You are really not honest.\"",
+            "After eating sweets, I'll burn off the calories during rehearsal!",
+            "Saijo-san and Isurugi-san make a good sweets making team."
         ]
     },
     "Happy Valentine Junna Hoshimi": {
@@ -7936,26 +7967,26 @@
             "\"Master, drinking too much alcohol is like poisoning your body!\""
         ]
     },
-    "UNKNOWN(1070029) Nana Daiba": {
+    "Michael Nana Daiba": {
         "quest_result": [
-            ""
+            "How did you like Michael's punishment?"
         ],
         "quest_dress": [
-            ""
+            "\"If it will serve you, Lord.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"I, the archangel Michael, shall judge all the evil.\"",
+            "\"None but I can serve as the Lord's right hand.\"",
+            "\"I was the first to be created... Hence, I am the Lord's most faithful servant.\"",
+            "\"Words can no longer reach Lucifer. This light is Heaven's answer.\"",
+            "The wings on this costume are flexible, so they spread nice and wide when I do my dance steps!",
+            "If only I could fly like an angel. Then I'd have so many more options onstage...",
+            "With his trust betrayed, Michael had to be the one to... Oof. Poor guy.",
+            "Looking at the halo in the reference pictures made me crave donuts. Maybe I should make some."
         ],
         "touch_normal": [
-            "",
-            ""
+            "We all went to scope out the museum, and Junna-chan knew more than the audio guide... I learned a lot from her.",
+            "I love Mahiru-chan's fight scenes. She's so hot and intense, it's like her usual calmness is a lie... She's really scary."
         ],
         "My Theater": [
             null,
@@ -12420,6 +12451,15 @@
         "touch_normal": [
             "I practiced playing the harp a little for this role. I was pretty bad, but everyone was complimenting me left and right... They're so nice.",
             "Regrets aren't all bad... Nowadays, I think they're a necessary step in moving forward."
+        ],
+        "My Theater": [
+            "\"I freeze up at the sight of a venomous snake, wracked by regret...\"",
+            "\"Thank you, Lord Hades. I hereby swear not to turn back.\"",
+            "In the Siegfeld performance, Yachiyo played Eurydice.",
+            "Rui and Yuyuko are getting really into their practice... I'm so proud of them.",
+            "Shiori and Yachiyo brought me pomegranate juice while I was practicing.",
+            "\"Whatever you do, don't turn around\"...? What are you up to this time, Ichie?",
+            "\"Ahh, Eurydice... For you, I would go anywhere.\""
         ]
     },
     "Angel's Blessing Fumi Yumeoji (Skin)": {
@@ -21545,6 +21585,28 @@
             "\"So you no longer need to fight! Please! No one needs to die!\""
         ]
     },
+    "Fairy Puck Stella Takachiho (Skin)": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "GENERIC Shiro Ogami": {
         "loginbonus": [
             "I've prepared a personalized training regimen for today."
@@ -23934,6 +23996,168 @@
             "Hey, are you hungry? I can make you a steak!",
             "Hikari is quiet and cool... She's such a cool girl!",
             "Larry is always with me! Larry's a horse, but a really important partner of mine!"
+        ]
+    },
+    "UNKNOWN(9040001) Sherlock Shellinford": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ],
+        "arena_win": [
+            null
+        ],
+        "arena_lose": [
+            null
+        ],
+        "dress_level": [
+            null
+        ],
+        "dress_rank": [
+            null
+        ],
+        "present_normal": [
+            null
+        ],
+        "present_like": [
+            null
+        ],
+        "present_love": [
+            null
+        ],
+        "dress_growth": [
+            null,
+            null,
+            null
+        ],
+        "arena_home": [
+            null
+        ],
+        "arena_matched": [
+            null
+        ]
+    },
+    "UNKNOWN(9060001) Hercule Burton": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ],
+        "arena_win": [
+            null
+        ],
+        "arena_lose": [
+            null
+        ],
+        "dress_level": [
+            null
+        ],
+        "dress_rank": [
+            null
+        ],
+        "present_normal": [
+            null
+        ],
+        "present_like": [
+            null
+        ],
+        "present_love": [
+            null
+        ],
+        "dress_growth": [
+            null,
+            null,
+            null
+        ],
+        "arena_home": [
+            null
+        ],
+        "arena_matched": [
+            null
+        ]
+    },
+    "UNKNOWN(9070001) Cordelia Glauca": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ],
+        "arena_win": [
+            null
+        ],
+        "arena_lose": [
+            null
+        ],
+        "dress_level": [
+            null
+        ],
+        "dress_rank": [
+            null
+        ],
+        "present_normal": [
+            null
+        ],
+        "present_like": [
+            null
+        ],
+        "present_love": [
+            null
+        ],
+        "dress_growth": [
+            null,
+            null,
+            null
+        ],
+        "arena_home": [
+            null
+        ],
+        "arena_matched": [
+            null
         ]
     }
 }
