@@ -2267,6 +2267,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Amaterasu Hikari Kagura (Skin)": {
@@ -21287,13 +21296,13 @@
             "It looks like the junior high students are getting motivated by watching each other grow. They're so cute♪"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Catalina, please stay safe.\"",
+            "\"Defense line, stand your ground until Catalina returns!\"",
+            "\"The result of a battle is largely decided before it even begins.\"",
+            "\"Catalina... You'll return, right?\"",
+            "I love how Kuina-chan's throwing herself head-first into practice with Futaba-san.",
+            "I hope I can give our kouhai the help they need to make The Wartime of Farewells the best it can be.",
+            "It looks like the junior high students are getting closer thanks to this play."
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
@@ -22163,13 +22172,13 @@
             "Shiori-senpai's Belle was perfect... I may not be able to surpass her, but I want to play my very own Belle!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I can't let misfortune befall him... He's too dear to me!\"",
+            "\"None who considers himself a fool is truly a fool.\"",
+            "If I made Kuina-chan some penguin-shaped cookies, do you think she'd eat them?",
+            "Ahhh, talking to Shiori-senpai always makes my heart race... You don't think she can hear it, do you?",
+            "I didn't know Stella-chan has also played Belle! I would've loved to see it.",
+            "Belle likes reading too, right? I wonder what she reads...",
+            "\"Please, open your eyes! I still haven't told you I love you...!\""
         ]
     },
     "GENERIC Minku Umibe": {
@@ -24050,6 +24059,15 @@
         ],
         "arena_matched": [
             null
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "UNKNOWN(9060001) Hercule Burton": {
@@ -24104,6 +24122,15 @@
         ],
         "arena_matched": [
             null
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "UNKNOWN(9070001) Cordelia Glauca": {
@@ -24157,6 +24184,15 @@
             null
         ],
         "arena_matched": [
+            null
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
             null
         ]
     }
