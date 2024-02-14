@@ -2953,10 +2953,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Broken-horned Beast",
             "ja": "角の折れた野獣",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "뿔이 부러진 야수",
+            "zh_hant": "斷了角的野獸"
         }
     },
     "501001": {
@@ -11327,6 +11327,22 @@
             "zh_hant": "忠義之士 約書亞 鳳未知留"
         }
     },
+    "4020032": {
+        "chara_id": 402,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Extraordinary Onmyoji Abe no Seimei Michiru Otori",
+            "ja": "稀代の陰陽師 安倍晴明 鳳ミチル",
+            "ko": "희대의 음양사 아베노 세이메이 오토리 미치루",
+            "zh_hant": "稀世陰陽師 安倍晴明 鳳未知留"
+        }
+    },
     "4030001": {
         "chara_id": 403,
         "description": {
@@ -12655,6 +12671,22 @@
             "zh_hant": "亞森･羅蘋 海邊明久"
         }
     },
+    "4090005": {
+        "chara_id": 409,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Knight Teresa Minku Umibe",
+            "ja": "騎士テレサ 海辺みんく",
+            "ko": "기사 테레사 우미베 밍크",
+            "zh_hant": "騎士德蕾莎 海邊明久"
+        }
+    },
     "4100001": {
         "chara_id": 410,
         "description": {
@@ -12729,10 +12761,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Beast Kuina Moriyasu",
             "ja": "野獣 森保クイナ",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "야수 모리야스 쿠이나",
+            "zh_hant": "野獸 森保玖伊奈"
         }
     },
     "5010001": {
@@ -13175,6 +13207,16 @@
         "is_display_only": 0,
         "name": {
             "ja": "ミルキィホームズ シャーロック・シェリンフォード"
+        }
+    },
+    "9050001": {
+        "chara_id": 905,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "ミルキィホームズ 譲崎ネロ"
         }
     },
     "9060001": {
@@ -14507,6 +14549,22 @@
             "ja": "コートの覇者 鶴姫やちよ",
             "ko": "코트의 지배자 츠루히메 야치요",
             "zh_hant": "沙灘排球場的霸者 鶴姬八千代"
+        }
+    },
+    "40600031": {
+        "chara_id": 406,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Fairy Puck Stella Takachiho",
+            "ja": "妖精パック 高千穂ステラ",
+            "ko": "[요정 퍼크] 타카치호 스텔라",
+            "zh_hant": "妖精帕克 高千穗史黛拉"
         }
     },
     "50100021": {

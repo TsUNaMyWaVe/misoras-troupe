@@ -559,6 +559,20 @@
             }
         }
     },
+    "905": {
+        "basicInfo": {
+            "charaID": 905,
+            "birth_day": 28,
+            "birth_month": 8,
+            "school_id": 9,
+            "name_ruby": {
+                "ja": "Nero Yuzurizaki",
+                "en": null,
+                "ko": null,
+                "zh_hant": null
+            }
+        }
+    },
     "906": {
         "basicInfo": {
             "charaID": 906,
