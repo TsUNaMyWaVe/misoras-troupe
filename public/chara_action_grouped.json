@@ -708,7 +708,7 @@
         ],
         "common": [
             "\"I am Akechi Mitsuhide! Even if I were to be labeled as a dishonorable rebel, I will follow through with my justice!\"",
-            "\"I wish to be here with you, my lord...\"",
+            "\"I wish to be here with my lord...\"",
             "\"With the burning Honnoji as my stage... How satisfying.\"",
             "\"I don't have the talent of deception like Hideyoshi nor do I have military prowess like Lord Shibata, but my diligence is second to none.\"",
             "Mitsuhide-san's family crest is a bellflower. It used to be a flower used for telling fortunes.",
@@ -1205,6 +1205,38 @@
         "touch_normal": [
             "I wish I could have ridden the sun chariot of Apollo...",
             "Winners wore laurel crowns at sports competitions in Delphi. That's why today people still wear them when they win."
+        ]
+    },
+    "Akechi Mitsuhide Karen Aijo (Skin)": {
+        "quest_result": [
+            "What did you think of my Mitsuhide?"
+        ],
+        "quest_dress": [
+            "\"One should always be prepared to go on the battlefield at anytime!\""
+        ],
+        "common": [
+            "\"I am Akechi Mitsuhide! Even if I were to be labeled as a dishonorable rebel, I will follow through with my justice!\"",
+            "\"I wish to be here with you, my lord...\"",
+            "\"With the burning Honnoji as my stage... How satisfying.\"",
+            "\"I don't have the talent of deception like Hideyoshi nor do I have military prowess like Lord Shibata, but my diligence is second to none.\"",
+            "Mitsuhide-san's family crest is a bellflower. It used to be a flower used for telling fortunes.",
+            "There are so many different Mitsuhide-san written by different people that my head is spinning.",
+            "You can call Mitsuhide-san elusive or mysterious... Just what kind of person was he?",
+            "The Honnoji Incident is seriously full of mysteries. Will we ever learn about the truth?"
+        ],
+        "touch_normal": [
+            "Ever since rehearsals for \"Sengoku Legend\" began, I've gotten into watching period dramas. I especially enjoy the intense battle scenes!",
+            "What if I were to travel through time to the Sengoku period...? I'd like to meet the real Mitsuhide-san!"
+        ],
+        "My Theater": [
+            "Jun-Jun's Japanese history lessons are super easy to understand!",
+            "Wearing the costume really gets you into the right mindset!",
+            "When it comes to yuzuke, you can't go wrong with umeboshi!",
+            "Isn't this armor SO cool!?",
+            "Hikari-chan, where are you? Let's do a read through together.",
+            "I can never remember the era names when it comes to Japanese history.",
+            "I wonder what the umeboshi in the Sengoku period tasted like.",
+            "\"Enemy at Honnoji!\" ...What do you think? Was there enough force?"
         ]
     },
     "GENERIC Hikari Kagura": {
@@ -1952,7 +1984,7 @@
         ],
         "common": [
             "\"I've finally come back to Karen.\"",
-            "\"It's been a while, but Japanese baseball has improved a lot.\"",
+            "\"It's been a while, but Japanese baseball is improved a lot.\"",
             "\"Seisho Sports Academy has all the equipment... Just as you'd expect of a strong school.\"",
             "\"I saw the team mascot for pro baseball earlier with everyone... Mr. White is still cuter.\"",
             "With baseball, it's important to be able to read the flow of the game... At least that's what Mahiru said while watching TV. Being able to think on your feet is similar to doing improv.",
@@ -2320,6 +2352,38 @@
         "touch_normal": [
             "\"I was walking in the shallows when some seaweed got caught on me... I'll bring this to Yumeoji-san.\"",
             "\"I've been wiping my hair accessory every day since I came here so that it won't be damaged by the sea breeze.\""
+        ]
+    },
+    "Baseball Girl Hikari Kagura (Skin)": {
+        "quest_result": [
+            "\"I won't lose.\""
+        ],
+        "quest_dress": [
+            "\"I have the confidence to do anything to become stronger.\""
+        ],
+        "common": [
+            "\"I've finally come back to Karen.\"",
+            "\"It's been a while, but Japanese baseball has improved a lot.\"",
+            "\"Seisho Sports Academy has all the equipment... Just as you'd expect of a strong school.\"",
+            "\"I saw the team mascot for pro baseball earlier with everyone... Mr. White is still cuter.\"",
+            "With baseball, it's important to be able to read the flow of the game... At least that's what Mahiru said while watching TV. Being able to think on your feet is similar to doing improv.",
+            "Mahiru is watching baseball again. Is baseball really that interesting?",
+            "How are people able to hit a ball with such a thin stick? A mystery...",
+            "\"When I was walking down the shopping district, a lot of people said hi to me... The Seisho baseball team sure is popular.\""
+        ],
+        "touch_normal": [
+            "\"It's important to stay hydrated. Taking care of yourself is important both for yourself and for the team.\"",
+            "\"I'll be shopping for a catcher's mitt with Karen and Mahiru next time... I can't wait.\""
+        ],
+        "My Theater": [
+            "\"My left-handed catcher's mitt... is my treasure.\"",
+            "\"Come on Seisho! Go Seisho!!... This is a nice cheer.\"",
+            "I love Mahiru Spud dishes. Can't wait to have them after practice.",
+            "\"Hoshimi-san's been doing batting practice all day... I can't lose either.\"",
+            "\"The baseball hand signals are like rock, paper, scissors.\"",
+            "\"Sweets after a hard practice. Today was... banana muffin.\"",
+            "\"Karen... You should probably try to remember the baseball terms.\"",
+            "\"No matter where I am, Karen and I are connected through baseball.\""
         ]
     },
     "GENERIC Mahiru Tsuyuzaki": {
@@ -3071,7 +3135,7 @@
         "common": [
             "\"I can be selfish if it's to protect the place where I belong!\"",
             "\"I'm sharing the same room with Kagura-san in the dorm as well... It used to be just me and Karen-chan...\"",
-            "\"What do you think about this new cheer—'Seisho! Victory! Seisho! Winners!'?\"",
+            "\"What do you think about this new cheer – 'Seisho! Victory! Seisho! Winners!'?\"",
             "The other day, we all watched a baseball game on TV together. I'm happy that everyone now understands how fun it is.",
             "\"I like when it's my turn for shopping duty. It's refreshing to chat with everyone in the shopping district.\"",
             "\"Junna-chan's unwillingness to give up fires up everyone's competitive spirit. We're often saved by that.\"",
@@ -3514,6 +3578,38 @@
         "touch_normal": [
             "We performed \"Takamagahara Priestesses\" last year as well, but the script was slightly different, so this year it felt like a different story.",
             "Hifumi is a character that is very similar to how I am, so I was able to get in the role easily."
+        ]
+    },
+    "Baseball Girl Mahiru Tsuyuzaki (Skin)": {
+        "quest_result": [
+            "\"I won't give up this place!\""
+        ],
+        "quest_dress": [
+            "\"I'm ready. You don't need to go easy on me!\""
+        ],
+        "common": [
+            "\"I can be selfish if it's to protect the place where I belong!\"",
+            "\"I'm sharing the same room with Kagura-san in the dorm as well... It used to be just me and Karen-chan...\"",
+            "\"What do you think about this new cheer—'Seisho! Victory! Seisho! Winners!'?\"",
+            "The other day, we all watched a baseball game on TV together. I'm happy that everyone now understands how fun it is.",
+            "\"I like when it's my turn for shopping duty. It's refreshing to chat with everyone in the shopping district.\"",
+            "\"Junna-chan's unwillingness to give up fires up everyone's competitive spirit. We're often saved by that.\"",
+            "\"Mahiru Spuds' sweet potatoes as a treat for practicing hard... Banana-chan is amazing. She can even make potato desserts.\"",
+            "\"Tendo-san and Clau-chan's batting skills are impressive. I know I can leave the batter's box to them.\""
+        ],
+        "touch_normal": [
+            "\"Let's see... Should the fourth batter be Clau-chan or Tendo-san? Which is better? Deciding the batting order always gets me excited!\"",
+            "\"Karen-chan won't move from the cardboard box because she wants to find a Mahiru Spud that looks like a baseball... What am I going to do?\""
+        ],
+        "My Theater": [
+            "\"My family sent me a DVD of the pro baseball broadcast.\"",
+            "\"Equipment check is done... I need to remember to clean everything regularly.\"",
+            "\"Pitch, hit, and run... Why is baseball so much fun?\"",
+            "I can't wait for tonight's baseball broadcast♪",
+            "\"We need to be careful about getting heatstroke when practicing outdoors!\"",
+            "\"What's the weather gonna be like tomorrow? I want to know what the field conditions will be like.\"",
+            "1, 2... Gotta remember to stretch after moving around.",
+            "\"I'll receive all of Karen-chan's pitches!\""
         ]
     },
     "GENERIC Claudine Saijo": {
@@ -4620,14 +4716,14 @@
             "\"The fate of the kingdom lies in our hands. Let's go save King Arthur together!\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Phew... Let's take a breather. Kneading dough is hard work.",
+            "Futaba says that the basics of making sweets lies in properly measuring out the ingredients.",
+            "Next is 150 grams of the pancake mix. Mix it with the beaten egg...",
+            "Percival's costume is gorgeous and right up my alley.",
+            "After trying it myself, surprisingly, sweets are something that I can make.",
+            "\"I can't just leave my friends alone. Galahad, let me help.\"",
+            "\"Mordred, now's the time to be brave. For your own sake too.\"",
+            "\"King Arthur, I'll definitely save you from sickness!\""
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -7998,13 +8094,13 @@
             "I love Mahiru-chan's fight scenes. She's so hot and intense, it's like her usual calmness is a lie... She's really scary."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I was the first to be created... Hence, I am the Lord's most faithful servant.\"",
+            "\"Words can no longer reach Lucifer. This light is Heaven's answer.\"",
+            "The wings on this costume are flexible, so they spread nice and wide when I do my dance steps!",
+            "If only I could fly like an angel. Then I'd have so many more options onstage...",
+            "With his trust betrayed, Michael had to be the one to... Oof. Poor guy.",
+            "Looking at the halo in the reference pictures made me crave donuts. Maybe I should make some.",
+            "\"Brother... I imagine I'll never again call him by that name.\""
         ]
     },
     "Phantom Nana Daiba (Skin)": {
@@ -10659,7 +10755,7 @@
         "common": [
             "Hijikata Toshizo swore allegiance to the shogunate. Witness his heroic death!",
             "We must put on a good performance for the sake of everyone in the civic hall who lent us their support.",
-            "\"Hm...Kondo, I knew you would say that. I understand, I shall leave Aizu's Shinsengumi in your care.\"",
+            "\"Hm...Hajime, I knew you would say that. I understand, I shall leave Aizu's Shinsengumi in your care.\"",
             "\"No matter how the world may change, our hearts remain the same. This unwavering determination is what true loyalty is!\"",
             "\"Heh, it's not like you to worry. It's because you're like this that our men have become disheartened!\"",
             "I guess it's almost time to get in touch with the civic hall. The performance is drawing near and I want to have a look at the stage.",
@@ -10994,6 +11090,38 @@
             "\"Behold my dance of encouragement, filled with love!\"",
             "...Phew. That workout Kocho-san taught me sure is a hard one.",
             "Hee hee, it's always fun when someone likes the food you made for them."
+        ]
+    },
+    "Hijikata Toshizo Tamao Tomoe (Skin)": {
+        "quest_result": [
+            "Hijikata's sharp way of speaking is easy to turn into a habit."
+        ],
+        "quest_dress": [
+            "\"Next! Who wants to practice with me? Hey! How will you get stronger if you're just gonna be a wimp 'bout it!?\""
+        ],
+        "common": [
+            "Hijikata Toshizo swore allegiance to the shogunate. Witness his heroic death!",
+            "We must put on a good performance for the sake of everyone in the civic hall who lent us their support.",
+            "\"Hm...Kondo, I knew you would say that. I understand, I shall leave Aizu's Shinsengumi in your care.\"",
+            "\"No matter how the world may change, our hearts remain the same. This unwavering determination is what true loyalty is!\"",
+            "\"Heh, it's not like you to worry. It's because you're like this that our men have become disheartened!\"",
+            "I guess it's almost time to get in touch with the civic hall. The performance is drawing near and I want to have a look at the stage.",
+            "Hijikata didn't only include sword fighting in his strategies, but also guns. It seems he knew how to be flexible in battle. I need to learn from him.",
+            "Playing Hijikata means I need to use a kind of voice that I don't normally. Like when he yells at his men. It's quite refreshing to play."
+        ],
+        "touch_normal": [
+            "\"Hey, Kondo-san, you made it. Heh, that's our commander for you. Tough like no other.\"",
+            "Even if we're the Performance Association, we still do the same things. We just need to continue to rehearse and improve our acting for the day of the performance."
+        ],
+        "My Theater": [
+            "There are a lot of fight scenes in the play this time, so we need to be well prepared.",
+            "Everyone from the Performance Department has regained their intuition.",
+            "We want to do the costume fitting for Shinsengumi, so can you all gather around?",
+            "I'm so glad we're able to perform in the same civic hall again.",
+            "\"Shinpachi, just give me a break. I've had it with your scolding already.\"",
+            "\"Kondo-san...I'll be the one to carry out your will!\"",
+            "Thank goodness we were able to resolve the issue with the civic hall before matters got out of hand.",
+            "Hijikata's acting can be a burden on the voice. I should go get cough drops later."
         ]
     },
     "GENERIC Ichie Otonashi": {
@@ -12831,7 +12959,7 @@
         ],
         "touch_normal": [
             "Ichie-senpai said she'd show me a shadow clone technique. I wonder what she'll do... I'm worried.",
-            "My grandmother is really experienced, but I'll put on a performance that makes her not just proud, but jealous...!"
+            "I'll put on a performance that'll make even my grandmother jealous...!"
         ],
         "My Theater": [
             "Ninja art: water escape! This is just a water bottle...",
@@ -13225,6 +13353,38 @@
             "Yanagi-san's acting is incredible, but so is Tamao-senpai for realizing how well we'd work together."
         ]
     },
+    "Onikage Rui Akikaze (Skin)": {
+        "quest_result": [
+            "Once more, please!"
+        ],
+        "quest_dress": [
+            "\"I have a new request. Completing your duties deserves no praise... Go!\""
+        ],
+        "common": [
+            "\"I don't care what you say. If you want to join the Mikage Ninja, I will test you with a duty. Prove your strength.\"",
+            "\"As a member of the Mikage Ninja, you must have the shadow in your name. From now on, you are Benikage.\"",
+            "\"...To be a ninja. To be defeated by the likes of you. Neither of these fill me with hatred.\"",
+            "\"No matter who we face, to wear the mask and execute without feeling. That is our pride...to live as the shadow.\"",
+            "Just chasing after someone isn't enough. You need to be able to stand equal to be close to someone...!",
+            "Are there any lone wolves around? Tamao-senpai is kind to everyone, so she's definitely not like that.",
+            "I wonder how much Onikage had to sacrifice to make the Mikage Ninja so huge...",
+            "I'm always thinking of Onikage, even at the dorms. I feel like I might accidentally call Fumi-senpai \"Benikage\"..."
+        ],
+        "touch_normal": [
+            "Ichie-senpai said she'd show me a shadow clone technique. I wonder what she'll do... I'm worried.",
+            "My grandmother is really experienced, but I'll put on a performance that makes her not just proud, but jealous...!"
+        ],
+        "My Theater": [
+            "Ninja art: water escape! This is just a water bottle...",
+            "The performance in Onikage's debut scene is so cool!",
+            "Tamao-senpai sent us donuts!",
+            "Sh, be quiet. I'm trying to disappear into the shadows...",
+            "If Yukko became a ninja boss, I think she'd just disband her clan.",
+            "Ninja supported their era from the shadows. There must be a lot of hidden drama.",
+            "H-How was my fearless Onikage laugh? Was I able to pull it off?",
+            "The best part of \"Tales of Onikurenai\" is, of course, the climax!"
+        ]
+    },
     "GENERIC Yuyuko Tanaka": {
         "loginbonus": [
             "*yawn* Did you call me? I'm coming, I'm coming!"
@@ -13454,7 +13614,7 @@
             "I should probably practice playing the flute, huh?"
         ],
         "touch_normal": [
-            "I wish I could be as cool and as dashing as Yoshitsune! Heheh.",
+            "I wish I could be as cool and dashing as Yoshitsune! Heheh.",
             "There are so many stories featuring Yoshitsune. Let's see, where should I start?",
             "*yawwwn* No, I'm not cutting class..."
         ],
@@ -13912,6 +14072,39 @@
             "Alright then, off the the entertainment hall I go... T-To study their acting, of course, not to have fun."
         ]
     },
+    "Yoshitsune Minamoto Yuyuko Tanaka (Skin)": {
+        "quest_result": [
+            "\"None can hope to capture me.\""
+        ],
+        "quest_dress": [
+            "\"If you wish to take my sword, you are welcome to try to take it by force.\""
+        ],
+        "common": [
+            "\"If you wish to cross this bridge, you will have to go through me!\"",
+            "\"Have you had enough already? Perhaps appearances were deceiving.\"",
+            "\"Will you become my vassal?\"",
+            "\"I'm counting on you, Benkei.\"",
+            "I wonder if a serious role is the best fit for me...",
+            "Maintaining a serious and noble facial expression is really exhausting.",
+            "All this practice is making me waaay too sleepy. *yawwwwn*",
+            "I should probably practice playing the flute, huh?"
+        ],
+        "touch_normal": [
+            "I wish I could be as cool and as dashing as Yoshitsune! Heheh.",
+            "There are so many stories featuring Yoshitsune. Let's see, where should I start?",
+            "*yawwwn* No, I'm not cutting class..."
+        ],
+        "My Theater": [
+            "Ah, everyone's here. They're so enthusiastic about practice.",
+            "You can't stay in good condition if you don't get proper rest.",
+            "I memorized my lines, so can I go to bed now?",
+            "Am I tired? No, no, this is just acting. Zzz...",
+            "It's always best to go with what works for you.",
+            "I wish I'd gotten a souvenir from Kyoto since we went all that way.",
+            "Doesn't it look like I'm dancing when I move in this costume?",
+            "Practice is over, yeah? Time to laze away the rest of the day..."
+        ]
+    },
     "Christmas Yuyuko Tanaka (Skin)": {
         "quest_result": [
             "Welcome to the profound world of rakugo."
@@ -14228,7 +14421,7 @@
         ],
         "common": [
             "\"Big one minute, small the next... Talk about being busy! I was bored, so this place is perfect for me!\"",
-            "\"That was the strangest tea party I've ever seen. I had to flee in terror. I would've liked to have tried the tea and cakes, though♪\"",
+            "\"That was the strangest tea party I've ever seen. I had to flee in terror. I would've like to have tried the tea and cakes, though♪\"",
             "\"I can't believe the terrible things coming out of your mouth. I don't care if you're a Heart or a King, you're still just a card!\"",
             "\"Even though it's a dream, I love this world! I'm sorry for calling you a card. I'll come back to this world no matter how old I get!\"",
             "Just thinking about Wonderland fills me with excitement. I wonder how Alice felt. I mean not me, but the real Alice...",
@@ -14714,6 +14907,38 @@
         "touch_normal": [
             "Maybe I'll hide them someplace easy to find! No one will think to look there!",
             "I made an egg just for you! Shizuha-chan hid it, so try to find it! You can do it!"
+        ]
+    },
+    "Alice Aruru Otsuki (Skin)": {
+        "quest_result": [
+            "I wish a white rabbit would appear in front of me, too!"
+        ],
+        "quest_dress": [
+            "\"Here White Rabbit-san, where are you...? Wait...! Can you hear my voice?\""
+        ],
+        "common": [
+            "\"Big one minute, small the next... Talk about being busy! I was bored, so this place is perfect for me!\"",
+            "\"That was the strangest tea party I've ever seen. I had to flee in terror. I would've liked to have tried the tea and cakes, though♪\"",
+            "\"I can't believe the terrible things coming out of your mouth. I don't care if you're a Heart or a King, you're still just a card!\"",
+            "\"Even though it's a dream, I love this world! I'm sorry for calling you a card. I'll come back to this world no matter how old I get!\"",
+            "Just thinking about Wonderland fills me with excitement. I wonder how Alice felt. I mean not me, but the real Alice...",
+            "I'm going to study lots about Wonderland and use that to better my performance!",
+            "Sweets and treats from Tsukasa-san!! These little donuts look like something they'd have in Wonderland, too!",
+            "With Misora as my rival, my motivation to try harder is amplified!"
+        ],
+        "touch_normal": [
+            "I'm going to try and draw an illustration that wasn't in the original work. Would you like to draw with me, too?",
+            "The Alice exhibition was amazing! I got so carried away that I got separated from Shizuha-chan!"
+        ],
+        "My Theater": [
+            "A blue dress and white apron. This is the trademark of Alice!",
+            "I want to read the Alice picture book again that Misora lent me a long time ago!",
+            "Everyone's outfits are done! It's like we're in Wonderland!",
+            "You can read the \"Alice's Adventures in Wonderland\" book in just about every language!",
+            "Hmm... Misora's been working on her rabbitness!",
+            "I think I had a good dream last night... But I don't remember what it was about.",
+            "Misora's bunny ears are so cute, I couldn't help but touch them!",
+            "\"Oh, my! What a strange room this is!\""
         ]
     },
     "GENERIC Misora Kano": {
@@ -15774,7 +15999,8 @@
             "Rumors of Fumi cutting her hair short even made their rounds in Frontier. Everyone liked her photo in the performance pamphlet!"
         ],
         "touch_normal": [
-            "Rui's movements in the fight scenes are so fast and cool! I want to do superhero action scenes with her♪ "
+            "Rui's movements in the fight scenes are so fast and cool! I want to do superhero action scenes with her♪ ",
+            "This bright red dress reminds me of the Red Ranger's battle uniform. I'll wear this and knock everyone out with my dance!"
         ],
         "My Theater": [
             "I wonder how Aruru and Misora are doing... Should I charge into Rinmeikan...?",
@@ -16006,6 +16232,37 @@
             "I was told that the skirt of my costume was designed in the image of a flower bud.",
             "I need to do my best to live up to Shizuha's expectations!",
             "It's so refreshing to get to reprise a role that someone else has already done!"
+        ]
+    },
+    "Carmen Lalafin Nonomiya (Skin)": {
+        "quest_result": [
+            "Carmen is forever free!"
+        ],
+        "quest_dress": [
+            "\"It's boring when you're alone, but it's fun when you're with someone!\""
+        ],
+        "common": [
+            "\"I was born free and I will die free!\"",
+            "\"The cards showed me death. Isn't that interesting?\"",
+            "\"Only fools silence people with a sword. I only have to wink and smile.\"",
+            "\"I have never loved anyone more than you...\"",
+            "Carmencita means Carmen the best woman! It's so cool that she's able to say it herself!",
+            "The girls from Rinmeikan brought us home-made ohagi sweets! One was super spicy though... Was it one of Ichie's pranks?",
+            "Playing Carmen is a little like being a hero—never looking back and charging straight ahead!",
+            "Rumors of Fumi cutting her hair short even made their rounds in Frontier. Everyone liked her photo in the performance pamphlet!"
+        ],
+        "touch_normal": [
+            "Rui's movements in the fight scenes are so fast and cool! I want to do superhero action scenes with her♪ "
+        ],
+        "My Theater": [
+            "I wonder how Aruru and Misora are doing... Should I charge into Rinmeikan...?",
+            "Rui goes bright red when I compliment her on her acting. She's so cute.",
+            "The rose prop got bent. I'll ask Tsukasa to fix it!",
+            "I saw Shizuha carrying a shaker and ponzu. It's making me nervous...",
+            "I'm doing a \"Storyteller Rakugo Ranger\" improv with Yuyuko!",
+            "José may appear selfish, but he's just looking for his own freedom.",
+            "The teacher from Rinmeikan came to watch earlier. Don't tell Fumi and the others.",
+            "\"I am a rebellious bird...a free bird!\""
         ]
     },
     "GENERIC Tsukasa Ebisu": {
@@ -16940,7 +17197,7 @@
             "\"How cheeky of it to keep just its head... The Cheshire Cat, was it? Bring that cat's body to me at once!\"",
             "\"Are you stupid? The verdict is decided after the punishment has been announced. That's just common sense!\"",
             "Being able to do improvised drama is the key. You have to be on your toes a lot more than usual.",
-            "The King of Hearts sure picked a strange spouse...",
+            "The King of Hearts sure picked a strange companion...",
             "I never thought that I'd be able to learn about Alice in Wonderland while playing a game. Lucky me♪",
             "Playing the Queen of Hearts, everyone heels to my commands. It's so much fun! \"You there, do it now!!\" Hehehe♪"
         ],
@@ -17423,6 +17680,38 @@
         "touch_normal": [
             "What's in the eggs...? How about my gratitude to all of you?",
             "It's fun getting ready for a celebration like this. Everyone's smiling, and it's easy to get excited."
+        ]
+    },
+    "Queen of Hearts Shizuha Kocho (Skin)": {
+        "quest_result": [
+            "What kind of trial is this?"
+        ],
+        "quest_dress": [
+            "\"The tarts I baked have been stolen!?! Bring the culprit to me at once!\""
+        ],
+        "common": [
+            "\"Off with this girl's head and then paint the roses red!\"",
+            "\"In that case, let's settle this with a game of croquet. You'll be using a flamingo as your mallet and there'll be no complaints!\"",
+            "\"How cheeky of it to keep just its head... The Cheshire Cat, was it? Bring that cat's body to me at once!\"",
+            "\"Are you stupid? The verdict is decided after the punishment has been announced. That's just common sense!\"",
+            "Being able to do improvised drama is the key. You have to be on your toes a lot more than usual.",
+            "The King of Hearts sure picked a strange spouse...",
+            "I never thought that I'd be able to learn about Alice in Wonderland while playing a game. Lucky me♪",
+            "Playing the Queen of Hearts, everyone heels to my commands. It's so much fun! \"You there, do it now!!\" Hehehe♪"
+        ],
+        "touch_normal": [
+            "\"I'm the only queen!\" If you don't believe it with all your heart, you can't truly fill the role of the Queen of Hearts.",
+            "The Queen of Hearts suits me? Is that a compliment? Heh heh, I'm joking!"
+        ],
+        "My Theater": [
+            "Maybe I'll try making tarts too.",
+            "\"To the chopping block!\" Do you think that sounds nicer than \"Off with her head\"?",
+            "My senpais taught me a lot when I played Alice last year.",
+            "Maybe I'll try painting some white roses red.",
+            "I should head to Aruru-chan's tea party soon.",
+            "I plan to put the queen of hearts at the top of my card tower.",
+            "I went to an Alice exhibition. I got you a souvenir.",
+            "\"By order of the queen. Call me Shizuha-sama!\" ...What do you think?♪"
         ]
     },
     "Sailor Captain Marion Shizuha Kocho (Skin)": {
@@ -17968,7 +18257,7 @@
     },
     "Captain Klaus Akira Yukishiro": {
         "quest_result": [
-            "Have you been charmed by the daytime lantern that not even the moths care for?"
+            "Have you been charmed by the lantern at noon that not even the moths care for?"
         ],
         "quest_dress": [
             "\"Haha, Joshua scolded you and said you should take practice more seriously sometimes.\""
@@ -18291,6 +18580,38 @@
         "touch_normal": [
             "While The Boy Detectives Club series is good, I personally prefer Ranpo's works that are geared towards adults.",
             "Ranpo... The origin of his name is disordered walk. I'm enjoying thinking about Kogoro Akechi's performance."
+        ]
+    },
+    "Captain Klaus Akira Yukishiro (Skin)": {
+        "quest_result": [
+            "Have you been charmed by the daytime lantern that not even the moths care for?"
+        ],
+        "quest_dress": [
+            "\"Haha, Joshua scolded you and said you should take practice more seriously sometimes.\""
+        ],
+        "common": [
+            "\"I'm Klaus Ward, leader of the 47th Special Ranger Division. Useless? Haha, you're harsh.\"",
+            "\"Hey, Fu. Oh come on, don't be so wary. I haven't had any alcohol yet.\"",
+            "\"Joshua, the improved version of the bear leek risotto is ready. Yeah, let's meet...at our usual place.\"",
+            "\"Arthur, are you looking? My sword is for you.\"",
+            "Klaus Ward may appear careless, but once you know the truth, you'll see he is impossible to read. How am I to express that...",
+            "Shiori made a bear leek risotto with a lot of spices, but it's spicy enough to burn my tongue... It was quite delicious.",
+            "I talked with Michiru about everyone's growth again after the play... Yes, passing marks.",
+            "Mei Fan's action scenes have gotten even sharper... It boosts my fighting spirit too."
+        ],
+        "touch_normal": [
+            "The costumes that Yachiyo designed this time look especially dignified. It'll be a good complement to Klaus' colors.",
+            "Michiru, the scene in the middle of act 4 where Kira's residence is raided lacks intensity. Make sure to follow-up with the ensemble."
+        ],
+        "My Theater": [
+            "The action scenes this time are a rare mix of Western and Japanese styles.",
+            "Hm, there's more material on \"Chushingura\" in the student council room.",
+            "(Shiori's movements in the action scenes remind me of Fumi...)",
+            "Yachiyo's Cain... You can tell he's the enemy just by one look.",
+            "Mei Fan, be careful of not pushing past your own limits.",
+            "The aloof Klaus brandishing a sword... It's critical to the performance.",
+            "\"Delicious drinks and being surrounded by friends... This is all I need.\"",
+            "\"Joshua, chess again? Please go easy on me.\""
         ]
     },
     "GENERIC Michiru Otori": {
@@ -18811,7 +19132,7 @@
         "common": [
             "\"Practice patience until the raid. We mustn't raise suspicion.\"",
             "\"Oh, Klaus... You drank this much today, too?\"",
-            "\"Fu, thanks to your short temper, the military surveillance got distracted. The tide got turned.\"",
+            "\"Phew, thanks for that short temper, the military surveillance got distracted. The tide has turned.\"",
             "\"For a detailed strategy for the raid, we need a sketch of the house.\"",
             "Akira's really focused with her role preparations... I have to steer everyone away so they can't disturb her.",
             "Akira said that all the characters in this performance require great expressive skills. Mei Fan, here's your chance to show how much you've grown♪",
@@ -19010,6 +19331,15 @@
         "touch_normal": [
             "Heh heh! It feels like I was just wearing this costume yesterday... Maybe that just goes to show how natural Abe no Seimei comes to me.",
             "The role of Abe no Seimei used to be for Akira... But now I can proudly say it's mine!"
+        ],
+        "My Theater": [
+            "\"Ashiya Doman-dono, why do you despise me so?\"",
+            "\"There is no meaning in a contest of powers... What meaning would there be in civilians comparing the length of their nails?\"",
+            "Akira's Ashiya Doman gives me goosebumps... He's scary and stupid, but really charming.",
+            "Shiori's going back and rewatching Fumi's Shuten-doji performance... She really loves her sister♪",
+            "Mei Fan got all excited. \"You can't have Abe no Seimei without fortune-telling!\"",
+            "First a performance meeting, then checking the props... Okay, this schedule's easy-peasy!",
+            "\"Yorimitsu, you are the first and last to ever call me a friend.\""
         ]
     },
     "Orihime Michiru Otori (Skin)": {
@@ -19032,6 +19362,38 @@
             "There are several stories about the Milky Way in Greek mythology. Maybe they'll be useful for the play...",
             "Heh heh. I collected so much interesting material for the play. I'm so happy! I want to tell everyone about it!",
             "The casting is settled, so we'll be making preparations soon. We'll be busy from tomorrow..."
+        ]
+    },
+    "First Lieutenant Joshua Michiru Otori (Skin)": {
+        "quest_result": [
+            "I've given it my all."
+        ],
+        "quest_dress": [
+            "\"Klaus, you need to show up at practice sometimes. It'll set a bad example to your subordinates.\""
+        ],
+        "common": [
+            "\"Practice patience until the raid. We mustn't raise suspicion.\"",
+            "\"Oh, Klaus... You drank this much today, too?\"",
+            "\"Fu, thanks to your short temper, the military surveillance got distracted. The tide got turned.\"",
+            "\"For a detailed strategy for the raid, we need a sketch of the house.\"",
+            "Akira's really focused with her role preparations... I have to steer everyone away so they can't disturb her.",
+            "Akira said that all the characters in this performance require great expressive skills. Mei Fan, here's your chance to show how much you've grown♪",
+            "I asked Yachiyo to design the costumes this time too. I got so excited the moment I put on the army uniform♪",
+            "Shiori, how are you preparations going for Sergeant Holly? If you're feeling stuck, I have a stage play to recommend. Wanna watch it together?"
+        ],
+        "touch_normal": [
+            "The \"Royal Retainer\" performance will probably bring in people from all over the country. Because it was written by the famous playwright, Reina Kuon.",
+            "I've watched \"Chushingura\" many times since it has numerous adaptations. I probably watched half of those with Akira. It's quite a memorable piece."
+        ],
+        "My Theater": [
+            "Edels and army uniforms go well together, don't they?",
+            "This time I'll also work hard behind the scenes♪",
+            "Oh, we should send out the invitations to the other schools soon.",
+            "The ensemble seem really motivated too.",
+            "I have a lot of fun all of a sudden when it gets busy.",
+            "All the Edels will be having a movie night tonight to watch \"Chushingura\".",
+            "\"Klaus, you've passed out drunk here again... C'mon, I'll take you home.\"",
+            "\"Holly, Cain's always been a womanizer. It's nothing new. Just leave him.\""
         ]
     },
     "GENERIC Liu Mei Fan": {
@@ -19420,7 +19782,8 @@
             "Hermes was the last god to become one of the Twelve Olympians. He was called a young god for that very reason.",
             "Hermes was known as Mercury to the Romans, and it seems he was called this because he appeared to move faster than the other stars.",
             "When I dash around in this outfit, Shiori told me that I looked as cool as a horse. Next time I'll dash around with Shiori on my back!",
-            "There are plenty of documents regarding Hermes – which is extremely helpful. As a result, I'm a little sleep deprived..."
+            "There are plenty of documents regarding Hermes – which is extremely helpful. As a result, I'm a little sleep deprived...",
+            "\"One of these days, I will become a messenger who is faster than Zeus's lightning\""
         ],
         "touch_normal": [
             "Don't you think it's a light costume, that's fitting of a fleet-footed god? The cloth will softly dance with the wind behind you when you run!",
@@ -19710,6 +20073,38 @@
         "touch_normal": [
             "Achoo! I-I can't catch a cold! I'm a nurse!",
             "The Edels are all going to get together to practice. It's been a while. I'm so excited!"
+        ]
+    },
+    "Hermes Liu Mei Fan (Skin)": {
+        "quest_result": [
+            "I played the best Hermes!"
+        ],
+        "quest_dress": [
+            "\"Even gods require training. Even if their brains are capable of infinitely absorbing knowledge, it's meaningless if unused.\""
+        ],
+        "common": [
+            "\"Someday I will show you that I'm a messenger faster than Zeus's lightning. ...Actually, I think I'll just ride the lightning!\"",
+            "\"Heracles, you've become so handsome. I've been looking after you since you were a baby, I feel like a parent.\"",
+            "\"When Perseus defeated Medusa, I lent him my flying sandals. So you could say, it's almost the same as me slaying her!\"",
+            "\"I'm envious that Heracles and Perseus have spouses. I want to promise myself to someone wonderful like them!\"",
+            "Hermes was the last god to become one of the Twelve Olympians. He was called a young god for that very reason.",
+            "Hermes was known as Mercury to the Romans, and it seems he was called this because he appeared to move faster than the other stars.",
+            "When I dash around in this outfit, Shiori told me that I looked as cool as a horse. Next time I'll dash around with Shiori on my back!",
+            "There are plenty of documents regarding Hermes – which is extremely helpful. As a result, I'm a little sleep deprived..."
+        ],
+        "touch_normal": [
+            "Don't you think it's a light costume, that's fitting of a fleet-footed god? The cloth will softly dance with the wind behind you when you run!",
+            "You came at the perfect time! I want to fix this ornament in my hair – could you bring that hand mirror over to me?"
+        ],
+        "My Theater": [
+            "Careful not to step on the hem...",
+            "It would be annoying if I ran around here, right...?",
+            "If you had Hermes's flying shoes, you could fly anywhere at once!",
+            "I think Zeus's lightning is a great match for an angry Akira-san's wrath!",
+            "I have a message from Michiru-san for Akira-san!",
+            "Apparently Hermes's favorite foods are figs and honey. I love them too!",
+            "I'll psych myself up enough in this performance for Akira-san to recognize me!",
+            "\"Zeus is getting scolded by Hera again. He never learns.\""
         ]
     },
     "GENERIC Shiori Yumeoji": {
@@ -20959,7 +21354,7 @@
         ],
         "common": [
             "\"Your partner tonight will be 'Coyote'.\"",
-            "\"Yes...this feeling is real. I've finally met the person who I want to give all my love to.\"",
+            "\"Ahh...this feeling is real. I've finally met the person who I want to give all my love to.\"",
             "\"Holly enjoys drinking for birthday celebrations. We have to go to my favorite place next time.\"",
             "\"You should never underestimate...the useless Klaus Ward. That's why I know I can always count on him.\"",
             "Cain is modeled after Okano Kanehide who supposedly captivates hearts with his beauty... Heh heh, sounds like a rewarding role♪",
@@ -21349,6 +21744,38 @@
             "I tried asking if I could do the costumes and it got approved. Aren't both Cupid and Venus so cute?"
         ]
     },
+    "Warrant Officer Coyote Cain Yachiyo Tsuruhime (Skin)": {
+        "quest_result": [
+            "Was my performance as \"Coyote\" sharp enough?"
+        ],
+        "quest_dress": [
+            "\"If I don't participate in the trainings from time to time, Fu will get angry.\""
+        ],
+        "common": [
+            "\"Your partner tonight will be 'Coyote'.\"",
+            "\"Yes...this feeling is real. I've finally met the person who I want to give all my love to.\"",
+            "\"Holly enjoys drinking for birthday celebrations. We have to go to my favorite place next time.\"",
+            "\"You should never underestimate...the useless Klaus Ward. That's why I know I can always count on him.\"",
+            "Cain is modeled after Okano Kanehide who supposedly captivates hearts with his beauty... Heh heh, sounds like a rewarding role♪",
+            "The costumes this time were a big hit♪ It was worth the time I spent going from store to store searching for the right fabric.",
+            "Shiori is so adorable, but her role this time left behind quite a strong impression.",
+            "Akira-senpai's role in \"Loyal Retainer\" gave me goosebumps... Her movements where on point of course, but her tempo was extraordinary."
+        ],
+        "touch_normal": [
+            "Mei Fan's costumes are always the first to get frayed... I wish I could just follow her around with my sewing kit.",
+            "I never thought there'd be such a loyal \"Chushingura\"... It's so like Kuon-sensei."
+        ],
+        "My Theater": [
+            "Mei Fan, you sure were carrying a lot of materials related to \"Chushingura\"♪",
+            "Michiru-senpai, I'll help you with the invitations to the other schools!",
+            "I love this outfit, but I'm not a fan of fighting... It messes up my hair, you see?",
+            "Every girl is the cutest on Earth through the eyes of Cain.",
+            "I asked Shiori if I could rest my head on her lap, and Mei Fan got angry!",
+            "Everyone's fighting to get their hands on the poster for the performance♪",
+            "\"Drinking at lunchtime, Sir...? May I join you?\"",
+            "\"Are we done with the war council? My cutie is waiting for me.\""
+        ]
+    },
     "GENERIC Stella Takachiho": {
         "loginbonus": [
             "I'll hold my head high in honor of house Siegfeld today too!"
@@ -21525,24 +21952,24 @@
     },
     "Fairy Puck Stella Takachiho": {
         "quest_result": [
-            ""
+            "Heh heh, leave it to Fairy Puck♪"
         ],
         "quest_dress": [
-            ""
+            "\"It's a piece of cake for me!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Just a little sprinkle of love potion for you while you sleep♪\"",
+            "\"Humans are so interesting! Let's play♪\"",
+            "\"I hear the larks calling in the distance! The morning sun will expose all!\"",
+            "\"My magic is flawless! All that's left is to summon them while imitating your voice♪\"",
+            "I played Fairy Puck in Germany, too! That's why I'm so attached to the role!",
+            "I also love the music in \"A Midsummer Night's Dream\"! The wedding ceremony song is well-known♪",
+            "Oh, I ate raw onions in my salad... Spicy...",
+            "Shiro took away the manga I secretly borrowed from Ryoko!!"
         ],
         "touch_normal": [
-            "",
-            ""
+            "Among all of the props in storage, this costume called out to me. It told me to become Fairy Puck!",
+            "I thought that if Shiro is Queen Titania, then I should be King Oberon, but King Oberon is kind of cruel in the story, right? I don't like that..."
         ],
         "My Theater": [
             "\"I hear the larks calling in the distance! The morning sun will expose all!\"",
@@ -21614,6 +22041,37 @@
             "Minase-senpai showed me her acrobatics during our break. She was so awesome!",
             "Even just in practice, Isurugi-senpai's fight scenes were breathtaking!",
             "\"So you no longer need to fight! Please! No one needs to die!\""
+        ]
+    },
+    "Fairy Puck Stella Takachiho (Skin)": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            "\"I hear the larks calling in the distance! The morning sun will expose all!\"",
+            "\"My magic is flawless! All that's left is to summon them while imitating your voice♪\"",
+            "I played Fairy Puck in Germany, too! That's why I'm so attached to the role!",
+            "I also love the music in \"A Midsummer Night's Dream\"! The wedding ceremony song is well-known♪",
+            "Oh, I ate raw onions in my salad... Spicy...",
+            "Shiro took away the manga I secretly borrowed from Ryoko!!",
+            "\"Now, open your eyes...and find your happiness!\""
         ]
     },
     "GENERIC Shiro Ogami": {
@@ -22436,6 +22894,15 @@
         "touch_normal": [
             "Thanks to Saijo-senpai, I got to talk with Tsuyuzaki-senpai, too! She's so fluffy and sweet!",
             "\"Everyone, why do you fight? My shield... I hate all of this! I hate this war!!\""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Kuina Moriyasu": {
@@ -24143,6 +24610,15 @@
             null
         ],
         "arena_matched": [
+            null
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
             null
         ]
     },

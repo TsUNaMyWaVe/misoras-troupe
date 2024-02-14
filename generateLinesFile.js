@@ -55,6 +55,15 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
                 }
             })
         }
+        if (_.keys(file).includes(dressName)) {
+            if (_.isEqual(file[dressName], onlyLines)) {
+                
+            } else if (dressName.includes("Skin")) {
+                dressName = dressName + " 2"
+            } else {
+                dressName = `${dressName} (Skin)`
+            }
+        }
         file = {
             ...file,
             [dressName]: onlyLines
