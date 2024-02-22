@@ -4169,10 +4169,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Sherlock Encore Hikari Kagura",
             "ja": "シャーロック Encore 神楽ひかり",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "셜록 Encore 카구라 히카리",
+            "zh_hant": "夏洛克 Encore 神樂光"
         }
     },
     "1030001": {
@@ -4669,6 +4669,22 @@
             "ja": "ルシファー 露崎まひる",
             "ko": "루시퍼 츠유자키 마히루",
             "zh_hant": "路西法 露崎真晝"
+        }
+    },
+    "1030033": {
+        "chara_id": 103,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ランスロット Encore 露崎まひる",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1040001": {
@@ -5181,6 +5197,22 @@
             "ja": "パーシヴァル Encore 西條クロディーヌ",
             "ko": "퍼시벌 Encore 사이조 클로딘",
             "zh_hant": "珀西瓦里 Encore 西條克洛迪娜"
+        }
+    },
+    "1040035": {
+        "chara_id": 104,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ガブリエル 西條クロディーヌ",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1050001": {

@@ -553,9 +553,9 @@
             "school_id": 9,
             "name_ruby": {
                 "ja": "Sherlock Shellinford",
-                "en": null,
-                "ko": null,
-                "zh_hant": null
+                "en": "Sherlock Shellinford",
+                "ko": "Sherlock Shellinford",
+                "zh_hant": "Sherlock Shellinford"
             }
         }
     },
@@ -567,9 +567,9 @@
             "school_id": 9,
             "name_ruby": {
                 "ja": "Nero Yuzurizaki",
-                "en": null,
-                "ko": null,
-                "zh_hant": null
+                "en": "Nero Yuzurizaki",
+                "ko": "Nero Yuzurizaki",
+                "zh_hant": "Nero Yuzurizaki"
             }
         }
     },
@@ -581,9 +581,9 @@
             "school_id": 9,
             "name_ruby": {
                 "ja": "Hercule Burton",
-                "en": null,
-                "ko": null,
-                "zh_hant": null
+                "en": "Hercule Burton",
+                "ko": "Hercule Burton",
+                "zh_hant": "Hercule Burton"
             }
         }
     },
@@ -595,9 +595,9 @@
             "school_id": 9,
             "name_ruby": {
                 "ja": "Cordelia Glauca",
-                "en": null,
-                "ko": null,
-                "zh_hant": null
+                "en": "Cordelia Glauca",
+                "ko": "Cordelia Glauca",
+                "zh_hant": "Cordelia Glauca"
             }
         }
     }

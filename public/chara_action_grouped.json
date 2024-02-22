@@ -2279,26 +2279,26 @@
             "\"Princess, please be at peace... I will surely save you!\""
         ]
     },
-    "UNKNOWN(1020034) Hikari Kagura": {
+    "Sherlock Encore Hikari Kagura": {
         "quest_result": [
-            ""
+            "Detective... How exciting."
         ],
         "quest_dress": [
-            ""
+            "\"I'll work hard to become a full-fledged detective!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Toys—miracles that bloom in the hearts of those who are chosen...\"",
+            "\"Gentleman Thief Black Swan! Give back the Swan Tiara!\"",
+            "\"Nero gave me candy! It's delicious♪\"",
+            "I wish I could use the Toys special power that detectives and thieves do.",
+            "\"Psychokinesis—my Toys! Give back the magnifying glass!\"",
+            "I feel a little relieved because I'm with Karen. Only a little.",
+            "Kocho-san feels like an older sister. I think we're the same age...?",
+            "No one has been casted for the thief role yet. I wonder who it'll be?"
         ],
         "touch_normal": [
-            "",
-            ""
+            "\"Nero, Ellie-san, Cordelia-san! Let's work together to catch the Gentleman Thief!\"",
+            "A new stage produced by AKI-sensei... Why was I chosen?"
         ],
         "My Theater": [
             null,
@@ -3489,6 +3489,31 @@
             "An angel whose envy spelled his ruin... That hits a little close to home.",
             "I saw the gate to hell in the reference material, and the decorations are so elaborate! It looks like a nightmare to clean...",
             "\"Tell me, why won't you love me the most...?\""
+        ]
+    },
+    "UNKNOWN(1030033) Mahiru Tsuyuzaki": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "no_use": [
+            ""
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -4724,6 +4749,28 @@
             "\"I can't just leave my friends alone. Galahad, let me help.\"",
             "\"Mordred, now's the time to be brave. For your own sake too.\"",
             "\"King Arthur, I'll definitely save you from sickness!\""
+        ]
+    },
+    "UNKNOWN(1040035) Claudine Saijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {

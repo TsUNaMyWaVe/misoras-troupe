@@ -9287,6 +9287,94 @@
         "trait_id": 47,
         "win_sequence_id": 4937
     },
+    "1030033": {
+        "attack_type": 2,
+        "attribute_id": 5,
+        "auto_skill1_id": 23285,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23286,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23287,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12497,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12498,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 690,
+        "base_atk": 1489,
+        "base_hp": 13354,
+        "base_mdef": 1074,
+        "base_pdef": 611,
+        "base_rarity": 5,
+        "chara_id": 103,
+        "command_skill1_id": 8499,
+        "command_skill2_id": 8500,
+        "command_skill3_id": 8501,
+        "command_unique_skill_id": 8502,
+        "confusion_skill_id": 8503,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 4140,
+        "delta_pdef": 3000,
+        "description": {
+            "ja": "開幕時オートスキルで自身に上位継続マイナス効果耐性アップを付与する舞台少女。味方全体に上位ACTブースト[上位パニック]を付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1030033,
+        "dress_type": 0,
+        "entry_skill_id": 6,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110300331,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110300332,
+        "friendship_pattern_id": 135,
+        "get_message": {
+            "ja": "誉れ高き円卓の騎士ランスロット\nその雄姿、演じきってみせるよ！　"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13205101,
+        "growth_board2_id": 13205201,
+        "growth_board3_id": 13205301,
+        "growth_board4_id": 13205401,
+        "growth_board5_id": 13205501,
+        "growth_board6_id": 13205601,
+        "growth_board7_id": 13205701,
+        "growth_board8_id": 13205801,
+        "growth_board9_id": 13205901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10057,
+        "model_id": 1030033,
+        "name": {
+            "ja": "ランスロット Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 205,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 5,
+        "profile": {
+            "ja": "アーサー王に仕える円卓の騎士のひとり。高潔な人物で、最も誉れ高き騎士として慕われている。アーサーとの付き合いも古く、友としても深い情で結ばれている。\n演目『失われた聖杯』より"
+        },
+        "published_at": 1708786800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 32050,
+        "sub_tactics_skill_id": 20057,
+        "trait_id": 1,
+        "win_sequence_id": 5090
+    },
     "1040001": {
         "attack_type": 1,
         "attribute_id": 2,
@@ -12487,6 +12575,94 @@
         "trait_id": 22,
         "win_sequence_id": 4998
     },
+    "1040035": {
+        "attack_type": 2,
+        "attribute_id": 1,
+        "auto_skill1_id": 23288,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23289,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23290,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12499,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12500,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 690,
+        "base_atk": 1472,
+        "base_hp": 13361,
+        "base_mdef": 1082,
+        "base_pdef": 605,
+        "base_rarity": 5,
+        "chara_id": 104,
+        "command_skill1_id": 8504,
+        "command_skill2_id": 8505,
+        "command_skill3_id": 8506,
+        "command_unique_skill_id": 8507,
+        "confusion_skill_id": 8508,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 4140,
+        "delta_pdef": 3000,
+        "description": {
+            "ja": "座長スキルで敵役全体に上位AP減少2妨害&上位キラめき獲得ダウンを付与する舞台少女。味方全体に上位栄光の福音を付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1040035,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010400351,
+        "friendship15_levelup_adventure_id": 3110400351,
+        "friendship25_reward_adventure_id": 3010400352,
+        "friendship30_levelup_adventure_id": 3110400352,
+        "friendship_pattern_id": 131,
+        "get_message": {
+            "ja": "愛を込めて伝えてあげる。\n心して聞きなさい！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13201101,
+        "growth_board2_id": 13201201,
+        "growth_board3_id": 13201301,
+        "growth_board4_id": 13201401,
+        "growth_board5_id": 13201501,
+        "growth_board6_id": 13201601,
+        "growth_board7_id": 13201701,
+        "growth_board8_id": 13201801,
+        "growth_board9_id": 13201901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10058,
+        "model_id": 1040035,
+        "name": {
+            "ja": "ガブリエル"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 201,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 1,
+        "profile": {
+            "ja": "神の言葉を伝えると言われる、啓示の天使。四大天使のひとりとして名を連ねている。清らかな百合を手に、暗闇に惑う人々を導く。\n演目『Paradise Lost』より"
+        },
+        "published_at": 1709218800,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 32050,
+        "sub_tactics_skill_id": 20058,
+        "trait_id": 1,
+        "win_sequence_id": 5095
+    },
     "1050001": {
         "attack_type": 1,
         "attribute_id": 2,
@@ -15428,7 +15604,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "座長スキルで上位毒状態の敵役に解除不可&耐性無効の上位AP増加2を適用する舞台少女。敵役全体に上位クライマックスACT封印を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Greater AP Up 2 that cannot be dispelled or resisted to enemies afflicted with Greater Poison. Her Climax Act applies Greater Seal Climax Act to all enemies.",
+            "ja": "座長スキルで上位毒状態の敵役に解除不可&耐性無効の上位AP増加2を適用する舞台少女。敵役全体に上位クライマックスACT封印を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 상위 독 상태의 적에게 해제 불가 & 저항 무효의 상위 AP 증가2를 부여하는 무대소녀. 적 전체에게 상위 클라이맥스 ACT 봉인을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予高級中毒狀態的敵方無法解除且無視耐性的高級AP増加2的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級CLIMAX ACT封印。"
         },
         "dex": 5,
         "dress_episode_id": 1050030,
@@ -15441,7 +15620,10 @@
         "friendship30_levelup_adventure_id": 3110500302,
         "friendship_pattern_id": 133,
         "get_message": {
-            "ja": "愛にあふれた癒しの力。\n存分に発揮いたしましょう。"
+            "en": "Let us show you the full power of love and healing.",
+            "ja": "愛にあふれた癒しの力。\n存分に発揮いたしましょう。",
+            "ko": "사랑이 넘치는 치유의 힘.\n마음껏 발휘하겠어요.",
+            "zh_hant": "我會充分地發揮\n這份洋溢著愛的治癒之力。"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13103101,
@@ -15457,7 +15639,10 @@
         "leader_tactics_skill_id": 10048,
         "model_id": 1050030,
         "name": {
-            "ja": "ラファエル"
+            "en": "Raphael",
+            "ja": "ラファエル",
+            "ko": "라파엘",
+            "zh_hant": "拉斐爾"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 203,
@@ -15465,7 +15650,10 @@
         "party_skill_type": 5,
         "personality_id": 3,
         "profile": {
-            "ja": "エデンの園にあるという生命の木を守るラファエルは癒しを司る大天使。人と共に食事を囲み、惜しみなく神の知識を与えた。その無類の愛と優しさによって。\n演目『Paradise Lost』より"
+            "en": "Raphael, the guardian of the tree of life in the Garden of Eden, is the archangel of healing. He shared meals with people and generously gave them the knowledge of God with his unparalleled love and kindness. From \"Paradise Lost.\"",
+            "ja": "エデンの園にあるという生命の木を守るラファエルは癒しを司る大天使。人と共に食事を囲み、惜しみなく神の知識を与えた。その無類の愛と優しさによって。\n演目『Paradise Lost』より",
+            "ko": "에덴동산에 있다는 생명의 나무를 지키는 라파엘은 치유를 관장하는 대천사. 사람들과 함께 식사를 하며 아낌없이 신의 지식을 나누어주었다. 타의 추종을 불허하는 사랑과 친절함으로.\n작품 [Paradise Lost]에서",
+            "zh_hant": "拉斐爾掌管治癒，是保護伊甸園中的生命之樹的大天使。他非常大愛與仁慈，不僅曾與人類共餐，還慷慨地向人們傳授了神的知識。\n取自戲碼『Paradise Lost』"
         },
         "published_at": 1706684400,
         "rarity_up_cost_id": 1,
@@ -59592,7 +59780,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "開幕時オートスキルで味方全体に上位複合耐性アップ[舞台効果付与封印&AP増加]を付与する舞台少女。味方全体に上位ACTブースト[上位錯乱]を付与するCAが強力。"
+            "en": "Her Auto Skill at start applies Greater Combined Resistance Up [Seal Stage Effect & AP Up] to all allies. Her Climax Act applies Greater Act Boost [Greater Daze].",
+            "ja": "開幕時オートスキルで味方全体に上位複合耐性アップ[舞台効果付与封印&AP増加]を付与する舞台少女。味方全体に上位ACTブースト[上位錯乱]を付与するCAが強力。",
+            "ko": "개막 시에 자동 스킬로 아군 전체에게 상위 복합 저항 증가[무대 효과 부여 봉인 & AP 증가]를 부여하는 무대소녀. 아군 전체에게 상위 ACT 부스트[상위 착란]을 부여하는 CA가 강력하다.",
+            "zh_hant": "開幕時可透過自動技能賦予所有我方[高級]提升複合耐性[舞台效果封印&AP増加]的舞台少女。強力的CLIMAX ACT可賦予所有我方高級ACT加成[高級錯亂]。"
         },
         "dex": 5,
         "dress_episode_id": 4100006,
@@ -59605,7 +59796,10 @@
         "friendship30_levelup_adventure_id": 3141000062,
         "friendship_pattern_id": 131,
         "get_message": {
-            "ja": "醜さゆえの恐怖と悲しみ……\n私はぜんぶ知ってる！"
+            "en": "Fear and sadness stemmed from ugliness... I know all about it!",
+            "ja": "醜さゆえの恐怖と悲しみ……\n私はぜんぶ知ってる！",
+            "ko": "추악함으로 인한 공포와 슬픔...\n나는 다 알아!",
+            "zh_hant": "醜陋帶來的悲傷與恐懼……\n我全部都懂！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13101101,
@@ -59621,7 +59815,10 @@
         "leader_tactics_skill_id": 10047,
         "model_id": 4100006,
         "name": {
-            "ja": "野獣"
+            "en": "Beast",
+            "ja": "野獣",
+            "ko": "야수",
+            "zh_hant": "野獸"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 201,
@@ -59629,7 +59826,10 @@
         "party_skill_type": 5,
         "personality_id": 1,
         "profile": {
-            "ja": "とある美しい王子は傲慢に溺れ、魔法使いに野獣の姿にされた。魔法のバラと共に朽ちていく王城で、たったひとり……その孤独だけが救いだと信じて。\n演目『美女と野獣』より"
+            "en": "A beautiful prince, consumed by arrogance, is transformed into a beast by a wizard. In a royal castle rotting away with magic roses, he is alone...believing that his loneliness is the only salvation. From \"Beauty & the Beast.\"",
+            "ja": "とある美しい王子は傲慢に溺れ、魔法使いに野獣の姿にされた。魔法のバラと共に朽ちていく王城で、たったひとり……その孤独だけが救いだと信じて。\n演目『美女と野獣』より",
+            "ko": "어느 한 아름다운 왕자는 오만에 빠져 마법사에 의해 야수의 모습으로 변해버렸다. 마법의 장미와 함께 허물어가는 왕성에 홀로 남겨진 야수... 그 고독만이 구원이라 믿으며.\n작품 [미녀와 야수]에서",
+            "zh_hant": "美麗的王子因過度自傲而被魔法師變成了野獸。他獨自住在逐漸荒廢的王城中，身旁只剩下魔法玫瑰……他卻堅信唯有孤獨是他的救贖。\n取自戲碼『美女與野獸』"
         },
         "published_at": 1706252400,
         "rarity_up_cost_id": 1,
