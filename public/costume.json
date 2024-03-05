@@ -2303,6 +2303,22 @@
             "zh_hant": "明智小五郎晶（Live 2D更新）"
         }
     },
+    "401205": {
+        "chara_id": 401,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "天の神（古いイラストのログアイコンVer.）",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "402001": {
         "chara_id": 402,
         "description": {
@@ -2383,6 +2399,22 @@
             "zh_hant": "聖誕晚餐 鳳未知留"
         }
     },
+    "402201": {
+        "chara_id": 402,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "水の神（古いイラストのログアイコンVer.）",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "403001": {
         "chara_id": 403,
         "description": {
@@ -2445,6 +2477,22 @@
             "ja": "水着 リュウ・メイファン",
             "ko": "[수영복] 류 메이팡",
             "zh_hant": "泳裝 柳美帆"
+        }
+    },
+    "403201": {
+        "chara_id": 403,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "火の神（古いイラストのログアイコンVer.）",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "404001": {
@@ -2557,6 +2605,22 @@
             "ja": "ヴァンパイア 夢大路栞",
             "ko": "뱀파이어 유메오지 시오리",
             "zh_hant": "吸血鬼 夢大路栞"
+        }
+    },
+    "404202": {
+        "chara_id": 404,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "風の神（古いイラストのログアイコンVer.）",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "405001": {
@@ -7519,6 +7583,22 @@
             "zh_hant": "莫德雷德 Encore 花柳香子"
         }
     },
+    "1090032": {
+        "chara_id": 109,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Merchant Kaoruko Kaoruko Hanayagi",
+            "ja": "商人カオルコ 花柳香子",
+            "ko": "상인 카오루코 하나야기 카오루코",
+            "zh_hant": "商人香子 花柳香子"
+        }
+    },
     "2010001": {
         "chara_id": 201,
         "description": {
@@ -12383,6 +12463,22 @@
             "zh_hant": "騎士漢娜 鶴姬八千代"
         }
     },
+    "4050027": {
+        "chara_id": 405,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Earth Goddess Verehrung Yachiyo Tsuruhime",
+            "ja": "大地の神 フェアエール 鶴姫やちよ",
+            "ko": "지신 페어에른 츠루히메 야치요",
+            "zh_hant": "大地之神 菲亞挨爾 鶴姬八千代"
+        }
+    },
     "4060001": {
         "chara_id": 406,
         "description": {
@@ -13234,11 +13330,17 @@
     "9040001": {
         "chara_id": 904,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "ミルキィホームズ シャーロック・シェリンフォード"
+            "en": "Milky Holmes Sherlock Shellinford",
+            "ja": "ミルキィホームズ シャーロック・シェリンフォード",
+            "ko": "밀키홈즈 셜록 셰린포드",
+            "zh_hant": "Milky Holmes 夏洛克・雪莉福德"
         }
     },
     "9050001": {

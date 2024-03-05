@@ -108,9 +108,6 @@
             "Happy New Year! We will all do Starlight this year, too!",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Kaoruko-chan. I learned from Banana and made a lot of snacks. The Kinako Sticks are really yummy!"
-        ],
         "birthday_108": [
             "Happy birthday, Futaba-chan! Hikari-chan, Mahiru-chan, and I got you a traffic safety amulet!"
         ],
@@ -134,6 +131,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Hikari-chan! From me, a pair of tickets to the aquarium! I'll entertain you, Hikari-chan!"
+        ],
+        "birthday_109": [
+            "Happy birthday! I rented that movie you wanted to watch. Come on, sit down!"
         ]
     },
     "Karen Aijo Uniform": {
@@ -1308,9 +1308,6 @@
             "Happy New Year. I'm really looking forward to spending the holidays with Karen and everyone. Say, doesn't mochi remind you of jellyfish?",
             null
         ],
-        "birthday_109": [
-            "Happy birthday. I love how confident you are."
-        ],
         "birthday_108": [
             "Happy birthday. I hope that you continue to drive your motorcycle safely..."
         ],
@@ -1334,6 +1331,9 @@
         ],
         "birthday_102": [
             "Thanks for the celebration, everyone. I am so happy to have a chocolate party with you all."
+        ],
+        "birthday_109": [
+            "Happy birthday. I, um...made you some tea..."
         ]
     },
     "Hikari Kagura Uniform": {
@@ -2455,9 +2455,6 @@
             "Happy New Year. If you're going to visit the shrine, make sure to dress warm! It's really cold out!",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Kaoruko-chan. Does Karen-chan have kinako powder all over her face again? Ugh... I wiped it off for her already."
-        ],
         "birthday_108": [
             "Happy birthday! That traffic safety amulet is from a famous shrine, so I'm sure it will protect you and Kaoruko-chan."
         ],
@@ -2484,6 +2481,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Hikari-chan. I made Mahiru Spuds into potato chips. I heard they go well with chocolate."
+        ],
+        "birthday_109": [
+            "Happy birthday, Kaoruko-chan. Let me give you a massage. I think I can get it just right!"
         ]
     },
     "Mahiru Tsuyuzaki Uniform": {
@@ -3514,6 +3514,16 @@
         ],
         "no_use": [
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -3706,9 +3716,6 @@
             "Bonne année! Happy New Year. Today's the start of a new year... The year I take down Maya Tendo!",
             null
         ],
-        "birthday_109": [
-            "Bon anniversaire! I found the perfect snack to go with tea. It's my treat, so keep your weekend open for me!"
-        ],
         "birthday_108": [
             "Bon anniversaire! Nana and I picked up some meat that we thought you'd like. I hope you're looking forward to yakiniku tonight."
         ],
@@ -3732,6 +3739,9 @@
         ],
         "birthday_102": [
             "Bon anniversaire, Hikari. I bought these chocolates at my favorite pastry shop. They are very delicious."
+        ],
+        "birthday_109": [
+            "Bon anniversaire! I ordered a birthday cake that I think fits you perfectly. It's decorated with daffodils."
         ]
     },
     "Claudine Saijo Uniform": {
@@ -4771,6 +4781,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -4930,9 +4949,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Hanayagi-san. You're an amazing dancer. I'm happy to have such a talented friend."
-        ],
         "birthday_501": [
             "Happy birthday, Yanagi-san. I'm planning to watch your performance, so let's discuss my thought about it at a later date."
         ],
@@ -4959,6 +4975,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Kagura-san. Baumkuchen goes well with chocolate. I have prepared a special treat for you."
+        ],
+        "birthday_109": [
+            "Happy birthday, Hanayagi-san. Allow me to show you...a magic trick Isurugi-san and I made."
         ]
     },
     "Maya Tendo Uniform": {
@@ -5911,13 +5930,13 @@
             "It takes all kinds of talent and technique to stand onstage. Most of all, you need the courage to expose yourself... And Aijo-san has that in spades."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Take heed, Adam and Eve. You must not cast your gaze upon the darkness.\"",
+            "\"I will lend you any knowledge you require. Of heaven and earth, of how to build an ark... Anything.\"",
+            "Why do angels have wings? To deliver wishes to heaven, maybe?",
+            "This \"healing\" is very different from my impression of the word, but that's what makes this role so fulfilling.",
+            "Apparently Raphael is also the guardian of travelers.",
+            "Halos and baumkuchen are shaped the same. Is there some big secret at play here...?",
+            "\"It's all right. You have nothing to fear so long as I am at your side.\""
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -6077,9 +6096,6 @@
             "Happy New Year. Have you seen everyone else yet?  If not, maybe we can go together!",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Hanayagi-san. ...Don't look so surprised. I'm not going to start anything today. I'm just here to celebrate."
-        ],
         "birthday_108": [
             "Happy birthday. I thought of you when I saw this daruma doll towel, so I got it for you."
         ],
@@ -6103,6 +6119,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Kagura-san. I prepared a lot of seasonal fruits, so let's eat them with chocolate fondue."
+        ],
+        "birthday_109": [
+            "Happy birthday, Hanayagi-san. Let me teach you that problem you were having trouble with in class. I'll be even more thorough than usual."
         ]
     },
     "Junna Hoshimi Uniform": {
@@ -7194,9 +7213,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Kaoruko-chan♪ Did you try Karen-chan's homemade Kinako Sticks? The secret ingredient this time is yuzu."
-        ],
         "birthday_108": [
             "Happy birthday, Futaba-chan. Leave the cake to me. I got a certain someone to help me out in secret♪"
         ],
@@ -7220,6 +7236,9 @@
         ],
         "birthday_102": [
             "Happy Birthday, Hikari-chan♪ We have prepared a chocolate fondue! Let's have a chocolate party together."
+        ],
+        "birthday_109": [
+            "Happy birthday, Kaoruko-chan♪ How would you like some of Banana's special caramel popcorn for your movie?"
         ],
         "birthday_503": [
             "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
@@ -8307,9 +8326,6 @@
             "Happy New Year! Here's hoping it's a good one! Maybe I should take Kaoruko and go for my first ride of the year!",
             null
         ],
-        "birthday_109": [
-            "Happy birthday, Kaoruko. It only comes around once a year, so it's okay to be a little selfish. Just for today, though!"
-        ],
         "birthday_108": [
             "Thank you all for thinking of ways to help me celebrate. The most surprising part was Kaoruko's cake."
         ],
@@ -8333,6 +8349,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Kagura. I found these jellyfish shaped chocolates at a store near the aquarium. Maybe we can go there with Karen next time."
+        ],
+        "birthday_109": [
+            "Happy birthday, Kaoruko. Everyone was really excited when I pitched the idea of showing you a good time. We've made some great friends, huh?"
         ]
     },
     "Futaba Isurugi Uniform": {
@@ -9195,9 +9214,6 @@
             "Futaba-haaan! Help me put on this kimono! ...Oh, hello. Happy New Year to you.",
             null
         ],
-        "birthday_109": [
-            "Thank you for celebrating with me. It's hard being so popular and loved."
-        ],
         "birthday_108": [
             "Happy birthday. I wrote the message on the chocolate plaque. Don't read it out loud. You'll make me blush."
         ],
@@ -9221,6 +9237,9 @@
         ],
         "birthday_102": [
             "Happy birthday, Kagura-han! I prepared a bitter coffee that brings out the sweetness of the chocolate. Futaba-han was the one who chose it."
+        ],
+        "birthday_109": [
+            "Thanks for the fancy party, everyone. I felt like a princess. Now if only tomorrow was my birthday, too."
         ]
     },
     "Kaoruko Hanayagi Uniform": {
@@ -10170,6 +10189,28 @@
             "\"Hmph, interesting... Galahad, show me your strength!\"",
             "But I'm surprised to see Futaba-han of all people to start making sweets.",
             "Shall we go look for some books on Arthurian legends to use as acting reference?"
+        ]
+    },
+    "Merchant Kaoruko Kaoruko Hanayagi": {
+        "quest_result": [
+            "A star can make even the plainest of roles shine."
+        ],
+        "quest_dress": [
+            "\"Battles are the hero's purview, but sometimes you gotta step out of yer comfort zone for yer dreams. Time to get some exercise!\""
+        ],
+        "common": [
+            "\"Cover the world in darkness if you want, but I won't give up on my dreams! Now's my chance to make a killing!\"",
+            "\"I don't give two figs about the return of the Demon King. I'm gonna take this chance to make some money!\"",
+            "\"The hero's party is full of suckers. I feel like I'mma have a heart attack just watchin' 'em.\"",
+            "\"I ain't easy like the hero is, got it? I'll take everything I can get.\"",
+            "I tried playing Epic of Bravery, but it's too hard for me...",
+            "Everyone else is playing this game, too. Just imagine all that level grinding... I salute them.",
+            "\"Rumors are more important than you think. Do yer homework, and they can make you some solid money.\"",
+            "This costume has a lot of props. It was a pain just getting a single item out."
+        ],
+        "touch_normal": [
+            "This bottle's a healing item, and this one's... Man, I have a lot of prop names to learn.",
+            "The merchant's got it rough, traveling demon-infested lands with that heavy backpack. I can't carry anything heavier than chopsticks."
         ]
     },
     "Mischievous Bat Witch Kaoruko Hanayagi (Skin)": {
@@ -21769,6 +21810,28 @@
             "It looks like the junior high students are getting closer thanks to this play."
         ]
     },
+    "Earth Goddess Verehrung Yachiyo Tsuruhime": {
+        "quest_result": [
+            "The Earth Goddess's feelings have been heard♪"
+        ],
+        "quest_dress": [
+            "\"Please, I beg you. I have to... I have to be stronger.\""
+        ],
+        "common": [
+            "\"Song and dance, a communion of hearts... With those memories, I live on.\"",
+            "\"I am the land... I am the planet itself.\"",
+            "\"Celestial Goddess, you have finally broken the rules.\"",
+            "\"Once, it was called 'love.' I discarded it in the distant past.\"",
+            "Ahhh, Shiori's tea gives me so much energy... It just never turns out like this when I make it.",
+            "Welp, I've got time to kill, so I think I'll walk around the junior high. I wanna go see those kids♪",
+            "Mei Fan's writing a letter to her family. ...I like the look on her face♪",
+            "The earth goddess's wish is heavy and annoying, but it's so beautiful."
+        ],
+        "touch_normal": [
+            "Wearing this costume fills me with excitement. It must be full of not just its creator's feelings, but its wearer's, too.",
+            "This costume actually uses flowers as a motif. Gerberas, anemones...and roses. Heh heh, looks great, doesn't it?"
+        ]
+    },
     "Cupid Yachiyo Tsuruhime (Skin)": {
         "quest_result": [
             "Have you fallen in love? Heh heh."
@@ -23209,13 +23272,13 @@
             "The teacher praised my angry Beast face... I hate to admit it, but it's thanks to Minku. There's always something to be mad at her for."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"If I had the words available to me, I would use every single one I could muster to express my love to you.\"",
+            "\"I never knew...that one could die from loneliness.\"",
+            "Shiori-senpai's kindness scares me. The fact she is so strong that she has the luxury of being kind is frightening.",
+            "I'm a bit intrigued in Stella and Shiro's Beauty & the Beast performance they did in Germany.",
+            "I can't tell you the hundreds of times I've watched the recording of Yukishiro-senpai and Shiori-senpai's Beauty & the Beast.",
+            "I think I've got a bit of a grasp on the Beast's sadness. Pretty proud of myself.",
+            "\"Touching Belle's heart made me realize how I came to be the way I am.\""
         ]
     },
     "GENERIC Koharu Yanagi": {
@@ -24543,58 +24606,58 @@
             "Larry is always with me! Larry's a horse, but a really important partner of mine!"
         ]
     },
-    "UNKNOWN(9040001) Sherlock Shellinford": {
+    "Milky Holmes Sherlock Shellinford": {
         "quest_result": [
-            null
+            "Don't be bad, now!"
         ],
         "quest_dress": [
-            null
+            "\"Let's work hard to be full-fledged detectives! Hip hip, hooray!\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Let's go, Milky Holmes!\"",
+            "\"—I've solved the mystery! The culprit is you!\"",
+            "\"We're here to help! Just let your senpai take it from here!\"",
+            "\"Let's hold hands, Rika-chan! We don't want to get separated!\"",
+            "My Toys is called Psychokinesis! I can move light objects with my mind!",
+            "Hikari-san's so unflappable. She's totally different from how she acts onstage.",
+            "I had so much fun performing with everybody! I wanna be in the sequel, too.",
+            "We all took a picture after the performance! I'm gonna treasure it forever!"
         ],
         "touch_normal": [
-            null,
-            null
+            "Hikari-san's character, Rika-chan, was saved by Milky Holmes in the past and longed to be a detective. She is a cute kouhai!",
+            "My Toys is weak, but someone told me it's a miracle only I can do, and now I feel a lot better about it!"
         ],
         "arena_win": [
-            null
+            "Yay!"
         ],
         "arena_lose": [
-            null
+            "I'm no good..."
         ],
         "dress_level": [
-            null
+            "I can keep going!"
         ],
         "dress_rank": [
-            null
+            "That was great! Right!?"
         ],
         "present_normal": [
-            null
+            "Wow! Thank you!"
         ],
         "present_like": [
-            null
+            "Wow, I love it! Thank you!"
         ],
         "present_love": [
-            null
+            "Can I really have something this great!? Thank you so much!"
         ],
         "dress_growth": [
-            null,
-            null,
-            null
+            "This is a vital factor!",
+            "I smell the true culprit!",
+            "When we work together, there's no mystery we can't solve!"
         ],
         "arena_home": [
-            null
+            "I smell a case waiting to happen...! Let's do this!"
         ],
         "arena_matched": [
-            null
+            "Let's go, Milky Holmes!"
         ],
         "My Theater": [
             null,
@@ -24606,7 +24669,7 @@
             null
         ]
     },
-    "UNKNOWN(9050001) Nero Yuzurizaki": {
+    "UNKNOWN(9050001) Yuzurizaki Nero": {
         "quest_result": [
             null
         ],
