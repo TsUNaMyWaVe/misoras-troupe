@@ -4745,10 +4745,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Lancelot Encore Mahiru Tsuyuzaki",
             "ja": "ランスロット Encore 露崎まひる",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "랜슬롯 Encore 츠유자키 마히루",
+            "zh_hant": "蘭斯洛特 Encore 露崎真晝"
         }
     },
     "1040001": {
@@ -5273,10 +5273,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Gabriel Claudine Saijo",
             "ja": "ガブリエル 西條クロディーヌ",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "가브리엘 사이조 클로딘",
+            "zh_hant": "加百列 西條克洛迪娜"
         }
     },
     "1050001": {
@@ -8301,6 +8301,22 @@
             "ja": "最強の音楽 音無いちえ",
             "ko": "최강의 음악 오토나시 이치에",
             "zh_hant": "最強音樂 音無一愛"
+        }
+    },
+    "2020032": {
+        "chara_id": 202,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Hell Hound Cerberus Ichie Otonashi",
+            "ja": "地獄の番犬ケルベロス 音無いちえ",
+            "ko": "지옥의 파수견 케르베로스 오토나시 이치에",
+            "zh_hant": "地獄看門犬 克爾柏洛斯 音無一愛"
         }
     },
     "2030001": {
@@ -11375,6 +11391,22 @@
             "zh_hant": "光輝閃耀☆A la mode 鳳未知留"
         }
     },
+    "4020016": {
+        "chara_id": 402,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Water Goddess Mild Michiru Otori",
+            "ja": "水の神 ミルト 鳳ミチル",
+            "ko": "수신 밀트 오토리 미치루",
+            "zh_hant": "水之神 米爾特 鳳未知留"
+        }
+    },
     "4020017": {
         "chara_id": 402,
         "description": {
@@ -11645,6 +11677,22 @@
             "ja": "ブラックサンタ リュウ・メイファン",
             "ko": "블랙 산타 류 메이팡",
             "zh_hant": "黑色聖誕老人 柳美帆"
+        }
+    },
+    "4030013": {
+        "chara_id": 403,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Fire Goddess Rührung Liu Mei Fan",
+            "ja": "火の神 リュール リュウ・メイファン",
+            "ko": "화신 뤼룽 류 메이팡",
+            "zh_hant": "火之神 瑠爾 柳美帆"
         }
     },
     "4030014": {
@@ -11981,6 +12029,22 @@
             "ja": "戦車 夢大路栞",
             "ko": "전차 유메오지 시오리",
             "zh_hant": "戰車 夢大路栞"
+        }
+    },
+    "4040016": {
+        "chara_id": 404,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Wind Goddess Anschliessen Shiori Yumeoji",
+            "ja": "風の神 アンシュリー 夢大路栞",
+            "ko": "풍신 안슈리 유메오지 시오리",
+            "zh_hant": "風之神 安絮莉 夢大路栞"
         }
     },
     "4040017": {
@@ -13055,6 +13119,22 @@
             "zh_hant": "蛇夫座 柳小春"
         }
     },
+    "5010032": {
+        "chara_id": 501,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Pure Snow White Koharu Yanagi",
+            "ja": "昏き純真の白雪姫 柳小春",
+            "ko": "순진의 백설공주 야나기 코하루",
+            "zh_hant": "黑暗純真的白雪公主 柳小春"
+        }
+    },
     "5020001": {
         "chara_id": 502,
         "description": {
@@ -13346,31 +13426,49 @@
     "9050001": {
         "chara_id": 905,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "ミルキィホームズ 譲崎ネロ"
+            "en": "Milky Holmes Yuzurizaki Nero",
+            "ja": "ミルキィホームズ 譲崎ネロ",
+            "ko": "밀키홈즈 유즈리자키 네로",
+            "zh_hant": "Milky Holmes 讓崎妮洛"
         }
     },
     "9060001": {
         "chara_id": 906,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "ミルキィホームズ エルキュール・バートン"
+            "en": "Milky Holmes Hercule Burton",
+            "ja": "ミルキィホームズ エルキュール・バートン",
+            "ko": "밀키홈즈 에르큘 바튼",
+            "zh_hant": "Milky Holmes 艾露克露・伯頓"
         }
     },
     "9070001": {
         "chara_id": 907,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "ミルキィホームズ コーデリア・グラウカ"
+            "en": "Milky Holmes Cordelia Glauca",
+            "ja": "ミルキィホームズ コーデリア・グラウカ",
+            "ko": "밀키홈즈 코델리아 그라우커",
+            "zh_hant": "Milky Holmes 柯蒂妮婭・格拉卡"
         }
     },
     "10100061": {
@@ -13723,6 +13821,22 @@
             "ja": "怪人二十面相 西條クロディーヌ（スキン）",
             "ko": "괴인 이십면상 사이조 클로딘(스킨)",
             "zh_hant": "怪人二十面相 西條克洛迪娜（外觀）"
+        }
+    },
+    "10400351": {
+        "chara_id": 104,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Gabriel Claudine Saijo",
+            "ja": "ガブリエル 西條クロディーヌ",
+            "ko": "가브리엘 사이조 클로딘",
+            "zh_hant": "加百列 西條克洛迪娜"
         }
     },
     "10500041": {

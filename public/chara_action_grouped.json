@@ -2301,13 +2301,13 @@
             "A new stage produced by AKI-sensei... Why was I chosen?"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Nero gave me candy! It's delicious♪\"",
+            "I wish I could use the Toys special power that detectives and thieves do.",
+            "\"Psychokinesis—my Toys! Give back the magnifying glass!\"",
+            "I feel a little relieved because I'm with Karen. Only a little.",
+            "Kocho-san feels like an older sister. I think we're the same age...?",
+            "No one has been casted for the thief role yet. I wonder who it'll be?",
+            "The swan tiara prop is so beautiful..."
         ]
     },
     "Amaterasu Hikari Kagura (Skin)": {
@@ -3491,29 +3491,29 @@
             "\"Tell me, why won't you love me the most...?\""
         ]
     },
-    "UNKNOWN(1030033) Mahiru Tsuyuzaki": {
+    "Lancelot Encore Mahiru Tsuyuzaki": {
         "quest_result": [
-            ""
+            "Did I portray Lancelot's chivalry well?"
         ],
         "quest_dress": [
-            ""
+            "\"Ooh, so this is the training ground. I think I'll practice as well.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Lancelot wasn't only King Arthur's most trusted subject, he was also his closest friend.",
+            "\"Lord Arthur... Arthur! Answer me! Why did you steal the holy grail?\"",
+            "\"I can tell that you're not being honest by the way you swing your sword, Arthur!\"",
+            "\"That is too kind of you. I only acted for this country and for Lord Arthur.\"",
+            "\"I swear to you, Arthur. I will become the most noble knight of these lands, and protect you with this sword - Aroundight!\"",
+            "\"Arthur, I'm sure you will become a great king... As your best friend, I can swear to that.\"",
+            "Tendo-san asked me to make a baumkuchen shaped like the Round Table!",
+            "Karen-chan's Arthur was awesome... I can't lose to her!"
         ],
         "touch_normal": [
-            "",
-            ""
+            "Lancelot was originally the main character of another story that got included in the Arthurian legends. And that's how we know them today.",
+            "Our Lancelot was pretty different from the one in the stories. It might be interesting to compare them to each other."
         ],
         "no_use": [
-            ""
+            "\"The way you're acting shows that you're not telling the truth, Arthur!\""
         ],
         "My Theater": [
             null,
@@ -4761,26 +4761,26 @@
             "\"King Arthur, I'll definitely save you from sickness!\""
         ]
     },
-    "UNKNOWN(1040035) Claudine Saijo": {
+    "Gabriel Claudine Saijo": {
         "quest_result": [
-            ""
+            "I must be as elegant and as beautiful as a lily!"
         ],
         "quest_dress": [
-            ""
+            "\"Leave everything to me!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Do not miss the word of the heavens!\"",
+            "\"God is my strength... It's true, you know?\"",
+            "\"Lucifer is ruining Eden? How awful...\"",
+            "\"Words can be ambiguous... I will continue to talk until you are satisfied.\"",
+            "Nana brought us donuts today. Maybe she was envisioning them as halos... No way, right?",
+            "I only believe what I see for myself... But it would be interesting if angels really did exist.",
+            "It takes experience and knowledge to arrange a single flower. I'm starting to change my mind about Kaoruko.",
+            "What would I do if I had wings...? They'd be great for traveling back and forth between Japan and France."
         ],
         "touch_normal": [
-            "",
-            ""
+            "Heh heh. I love this costume... It looks like something out of the beautiful fresco of a church, doesn't it?",
+            "Paintings of Gabriel are so diverse, they're interesting to look at. Sometimes his wings are depicted in the fashion of a peacock, and sometimes they're colorful. I wonder if people think of him as fashionable."
         ],
         "My Theater": [
             null,
@@ -4949,9 +4949,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_501": [
-            "Happy birthday, Yanagi-san. I'm planning to watch your performance, so let's discuss my thought about it at a later date."
-        ],
         "birthday_108": [
             "Happy birthday. I prepared some salt to enhance the flavor of the meat. It's good to appreciate the natural flavors sometimes."
         ],
@@ -4972,6 +4969,9 @@
         ],
         "birthday_106": [
             "Happy birthday, Hoshimi-san. I tried picking three dramas even you wouldn't have read yet. I hope you like them."
+        ],
+        "birthday_501": [
+            "Happy birthday, Yanagi-san. I heard you like cosmetics, so I bought you some hand cream. It smells nice."
         ],
         "birthday_102": [
             "Happy birthday, Kagura-san. Baumkuchen goes well with chocolate. I have prepared a special treat for you."
@@ -10211,6 +10211,15 @@
         "touch_normal": [
             "This bottle's a healing item, and this one's... Man, I have a lot of prop names to learn.",
             "The merchant's got it rough, traveling demon-infested lands with that heavy backpack. I can't carry anything heavier than chopsticks."
+        ],
+        "My Theater": [
+            "\"The hero's party is full of suckers. I feel like I'mma have a heart attack just watchin' 'em.\"",
+            "\"I ain't easy like the hero is, got it? I'll take everything I can get.\"",
+            "I tried playing Epic of Bravery, but it's too hard for me...",
+            "Everyone else is playing this game, too. Just imagine all that level grinding... I salute them.",
+            "\"Rumors are more important than you think. Do yer homework, and they can make you some solid money.\"",
+            "This costume has a lot of props. It was a pain just getting a single item out.",
+            "Augh, all this gaming is murder on the eyes. Futaba-han, put on some tea. I'm taking a break."
         ]
     },
     "Mischievous Bat Witch Kaoruko Hanayagi (Skin)": {
@@ -10371,14 +10380,14 @@
             "Happy New Year. I brought some traditional holiday foods back from my parents' house. Would you care to share it with me?",
             null
         ],
-        "birthday_202": [
-            "Happy birthday, Ichie. Are you enjoying the party? We're watching your favorite horror films after this."
-        ],
         "birthday_205": [
             "Yuyuko-chan, happy birthday. Even though I practiced \"Death\" a lot, it's still kind of rough, but I hope you enjoy my performance."
         ],
         "birthday_203": [
             "Happy birthday, Fumi. I baked lots of treats for the tea party. I'm especially proud of the citrus scones. I hope you like them."
+        ],
+        "birthday_202": [
+            "Happy birthday, Ichie. We all learned the dance for your favorite song. Here, let's do it together."
         ],
         "birthday_204": [
             "Happy birthday, Rui-chan. Those donuts we all made together were amazing. I even heard Ukaji-sensei is going to come celebrate, too."
@@ -11281,14 +11290,14 @@
             "Happy New Year! What should I wish for at the shrine? For us to be better friends and better performers! And then for Fumi...",
             null
         ],
-        "birthday_202": [
-            "Thank you for today! We're marathoning horror movies after this, right!? All right! I'm ready☆"
-        ],
         "birthday_205": [
             "Yuyuko, happy birthday! But...you just wanted me to have to say \"Jugemu's\" full name, didn't you!?"
         ],
         "birthday_203": [
             "Happy birthday, Fumi! We're celebrating with a tea party at the dorm☆ We even invited Shiori-chan as a special guest, so have fun!"
+        ],
+        "birthday_202": [
+            "Thanks for the happy-birthday dance, everyone! You've touched my idol heart☆ Hey, can I commemorate this with a birthday stream on Ichi Ichi Channel?"
         ],
         "birthday_204": [
             "Hippo birdy, Rui☆ Here's your good friend Ichie-chan's donuts! What? No, I'm not trying to prank you. Just eat 'em!"
@@ -11931,6 +11940,37 @@
             "When PAREO found out I was an ex-idol, she become really interested in me."
         ]
     },
+    "Hell Hound Cerberus Ichie Otonashi": {
+        "quest_result": [
+            "See? Now that's a one-of-a-kind guard dog of the Underworld☆"
+        ],
+        "quest_dress": [
+            "\"You wanna trim my claws and brush my fangs? Yippee, do it, do it!\""
+        ],
+        "common": [
+            "\"I'll hide you in my mouth before my brothers find you!\"",
+            "\"Howdy, welcome to the Underworld! Mind if I give you a hello nibble?\"",
+            "\"I don't really like humans... But harps and cookies are fine by me!\"",
+            "\"You're going to meet Lord Hades!? I wouldn't recommend it, buddy. He's even scarier than me!\"",
+            "Cerberus walks up and down and all around the stage, so he's really fun to play!",
+            "Look, Tamao! I came up with a Cerberus dance!",
+            "When I told Ms. Ukaji I was looking for reference material, she came back with, like, twice as much as I was expecting!",
+            "Oh, Fumi has a shift at Kappo Tomoye today... I think I'll drop in right as she's wrapping it up!"
+        ],
+        "touch_normal": [
+            "Submit to a prank, or you shall not pass! Tickle tickle tickle☆",
+            "I was playing with Momoko, and Yuyuko was like, \"Look, two dogs.\" ...What did she mean by that?"
+        ],
+        "My Theater": [
+            "\"I don't really like humans... But harps and cookies are fine by me!\"",
+            "\"You're going to meet Lord Hades!? I wouldn't recommend it, buddy. He's even scarier than me!\"",
+            "Cerberus walks up and down and all around the stage, so he's really fun to play!",
+            "Look, Tamao! I came up with a Cerberus dance!",
+            "When I told Ms. Ukaji I was looking for reference material, she came back with, like, twice as much as I was expecting!",
+            "Oh, Fumi has a shift at Kappo Tomoye today... I think I'll drop in right as she's wrapping it up!",
+            "\"Lord Hades's chin scratches and Lady Persephone's headpats are too good to pass up!\""
+        ]
+    },
     "GENERIC Fumi Yumeoji": {
         "loginbonus": [
             "I get to sing and dance as much as I want. That's a wonderful thing, isn't it? All right, time for practice."
@@ -12000,9 +12040,6 @@
             "Happy New Year. Let's make it a great one. Mochi is fine with soybean flour or soy sauce, but when I'm sick of that, there's always ponzu.",
             null
         ],
-        "birthday_202": [
-            "Happy birthday, Ichie. I'm going to spend the night at the dorm too. I'm ready to brush up my scaring skills!"
-        ],
         "birthday_404": [
             "Happy birthday, Shiori. There must have been a line of people wanting to celebrate your birthday at school. I hope you accept my present as well."
         ],
@@ -12011,6 +12048,9 @@
         ],
         "birthday_203": [
             "What a wonderful tea party, and it's all for me... Really, thank you for everything. Just you wait—I'll show you such a good time, it'll all be worth it!"
+        ],
+        "birthday_202": [
+            "Happy birthday, Ichie. I know we're celebrating, but this cutesy choreography is a little embarrassing. Hey, wipe that smirk off your face!"
         ],
         "birthday_204": [
             "Happy birthday, Rui. I know how much you love donuts, and I definitely loved making them together. Get ready, because we're having a donut party."
@@ -12800,14 +12840,14 @@
             "Did you see her? Tamao-senpai in her kimono! I have a feeling it's going to be a great year! Oh, and Happy New Year!",
             null
         ],
-        "birthday_202": [
-            "Happy birthday, Ichie-senpai. I'm not really great with horror movies... But I'm ready to enjoy them together!"
-        ],
         "birthday_205": [
             "Happy birthday, Yukko! I practiced a lot, so pay attention to my rendition of \"Scary Buns\"!"
         ],
         "birthday_203": [
             "Happy birthday, Fumi-senpai. Ms. Ukaji taught us how to make the tablecloth for the tea party, and Yukko and I did it overnight!"
+        ],
+        "birthday_202": [
+            "Happy birthday! I was a little embarrassed at first...but I practiced this dance just for you!"
         ],
         "birthday_204": [
             "Thank you for the amazing party, everyone...! With you and the donuts surrounding me, I'm the happiest person in the world!"
@@ -13542,14 +13582,14 @@
             "Happy New Year. There are so many great rakugo, noh, and other performances on TV this time of year. What do you say? Want to watch some together?",
             null
         ],
-        "birthday_202": [
-            "Happy birthday to you, Ichie-san. I've prepared snacks and juice to go along with the movies!"
-        ],
         "birthday_205": [
             "Today is my birthday, so I asked everyone to perform a rakugo for me. I picked the stories for them to do."
         ],
         "birthday_203": [
             "Happy birthday, Fumi-senpai. Don't worry, I made sure to get some ponzu for the tea party, just in case."
+        ],
+        "birthday_202": [
+            "Happy birthday, Ichie-san. I don't usually listen to music like this, but it's a nice song. My body moves all on its own."
         ],
         "birthday_204": [
             "Ruiii, happy birthdaaay. I made all the decorations donut-themed because you love them so much. Ain't they great?"
@@ -19273,6 +19313,37 @@
             "These days, there are a lot of stages based on manga and anime! You learn something new every day♪"
         ]
     },
+    "Water Goddess Mild Michiru Otori": {
+        "quest_result": [
+            "To even greater heights than before... I made it, right?"
+        ],
+        "quest_dress": [
+            "\"There's an ephemeral beauty in the cycle of life and death.\""
+        ],
+        "common": [
+            "\"This world has repeated millions upon millions of dawns and dusks.\"",
+            "\"All that lives must come to an end. That is what makes them beautiful.\"",
+            "\"I've been gifted with a name as well: Mild. You may call me as such.\"",
+            "\"Now and evermore, I will be by your side. And in so doing...\"",
+            "I'm thinking of going to Germany after I graduate. Akira and I might end up going our separate ways.",
+            "Rehearsal, language studies, Edel work, hit me with all of it at once♪",
+            "Shiori's really getting the hang of the wind goddess's catchphrase. Attagirl.",
+            "I had a lot of fun coming up with food for the cafeteria♪ It's not every day you get to do that, am I right?"
+        ],
+        "touch_normal": [
+            "That sandwich Akira made me was really good, so I asked her for the recipe. I call it the Michiru sandwich♪",
+            "I think Mei Fan, Yachiyo, and Shiori are starting to think about the next generation of Edels. They're so on top of things!"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
     "Stage Girl Michiru Otori": {
         "quest_result": [
             "Nice, good work♪"
@@ -19950,6 +20021,37 @@
             "Prank or present, which one are you gonna get?",
             "\"*sigh*...If only it were Christmas every day, then I could play pranks every day!\"",
             "\"Hey, White! Stop smiling and get ready!\""
+        ]
+    },
+    "Fire Goddess Rührung Liu Mei Fan": {
+        "quest_result": [
+            "Playing the fire goddess's passion sure was something else."
+        ],
+        "quest_dress": [
+            "\"These flames have the potential to save people... Then I must train.\""
+        ],
+        "common": [
+            "\"These flames burn all to ashes... Whether I will it or not.\"",
+            "\"Stay back, or I'll be forced to reduce you to ashes!\"",
+            "Watching Michiru-san and Shiori blow bubbles was really soothing.",
+            "Akira-san says one of her potential options after graduation is in New York. Now I'm interested, too!",
+            "I hear Michiru-san did a lot for us behind the scenes this time... And bit off more than she could chew.",
+            "Lately, I've been making time to give the junior high students some guidance.",
+            "Both the previous performance of Chapter of the Gods and this one are very special to me.",
+            "\"The next Frau Platin.\" ...Saying it aloud makes me a little restless."
+        ],
+        "touch_normal": [
+            "\"I realized then that I must never touch a life. If I were to so much as graze it with the tip of my finger, it would become nothing but ash.\"",
+            "We were going hard at badminton at our picnic, and next thing we knew, we'd drawn a crowd."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Second Lieutenant Fu Liu Mei Fan": {
@@ -20767,6 +20869,37 @@
             "If I can change the \"Chariot's\" strength into my strength...!",
             "I will t-t-tear down my past self...with the \"Chariot's\" acting!",
             "\"No one can stop me...until the day I decide to stop!\""
+        ]
+    },
+    "Wind Goddess Anschliessen Shiori Yumeoji": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Stage Girl Shiori Yumeoji": {
@@ -21830,6 +21963,15 @@
         "touch_normal": [
             "Wearing this costume fills me with excitement. It must be full of not just its creator's feelings, but its wearer's, too.",
             "This costume actually uses flowers as a motif. Gerberas, anemones...and roses. Heh heh, looks great, doesn't it?"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
@@ -22151,37 +22293,6 @@
             "Minase-senpai showed me her acrobatics during our break. She was so awesome!",
             "Even just in practice, Isurugi-senpai's fight scenes were breathtaking!",
             "\"So you no longer need to fight! Please! No one needs to die!\""
-        ]
-    },
-    "Fairy Puck Stella Takachiho (Skin)": {
-        "quest_result": [
-            ""
-        ],
-        "quest_dress": [
-            ""
-        ],
-        "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "touch_normal": [
-            "",
-            ""
-        ],
-        "My Theater": [
-            "\"I hear the larks calling in the distance! The morning sun will expose all!\"",
-            "\"My magic is flawless! All that's left is to summon them while imitating your voice♪\"",
-            "I played Fairy Puck in Germany, too! That's why I'm so attached to the role!",
-            "I also love the music in \"A Midsummer Night's Dream\"! The wedding ceremony song is well-known♪",
-            "Oh, I ate raw onions in my salad... Spicy...",
-            "Shiro took away the manga I secretly borrowed from Ryoko!!",
-            "\"Now, open your eyes...and find your happiness!\""
         ]
     },
     "GENERIC Shiro Ogami": {
@@ -23006,13 +23117,13 @@
             "\"Everyone, why do you fight? My shield... I hate all of this! I hate this war!!\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I'm Mr. Bear! Roar! I'll eat all the naughty kids!\"",
+            "\"Everyone! Don't panic! Stay calm and evacuate immediately!\"",
+            "\"By the way, is Ayla okay? She's not good at fighting.\"",
+            "I'm glad she liked that \"Suzupoi\" nickname☆",
+            "Now that this play's done, I'm getting more chances to practice with Su-chan and Shirorin☆",
+            "Teresa-chan's friends with the kids! I used Ryonryon as a model☆",
+            "Kuina and Isurugi-senpai are kinda like sisters☆"
         ]
     },
     "GENERIC Kuina Moriyasu": {
@@ -23343,14 +23454,14 @@
         "birthday_player": [
             "Happy birthday. May this year bring great growth for you."
         ],
-        "birthday_501": [
-            "Thank you for celebrating with me. I'm really looking forward to this show. Suzu... I'll join you today."
-        ],
         "birthday_105": [
             "Happy birthday, Tendo-san. I got you a drink that is good for beauty as well."
         ],
         "birthday_502": [
             "Happy birthday, Suzu. We're celebrating it with an original dance that we've put our energy into. Tsuyuzaki-san also helped."
+        ],
+        "birthday_501": [
+            "Thank you, everyone. The lipstick, the hand cream, the makeup... I had my eye on it all for a while, so I couldn't be happier."
         ],
         "birthday_503": [
             "Happy birthday, Hisame. I got tickets to that musical you wanted to see, so let's go see it together."
@@ -23680,6 +23791,37 @@
             "\"Do not fear life. Fortune favors the bold.\""
         ]
     },
+    "Pure Snow White Koharu Yanagi": {
+        "quest_result": [
+            "Once she overcomes her nightmare, Snow White is stronger than anyone."
+        ],
+        "quest_dress": [
+            "\"I'll clean, do laundry, and cook too! I'll do anything to make him happy!\""
+        ],
+        "common": [
+            "\"I need not be loved. All I need is to give my own love.\"",
+            "\"I know nothing of hate. All I have is love.\"",
+            "\"If I continue to love her, will my mother love me one day?\"",
+            "\"Beauty and ugliness both disappear when one closes their eyes... Why not, then...\"",
+            "In her costume, Suzu looks like a real prince. Until she opens her mouth, that is.",
+            "Hisame's stamina is improving. Clearly her daily exercise is bearing fruit.",
+            "The queen is a fool. She should've just broken that magic mirror for making her suffer.",
+            "Snow White needs to be dignified, yet lovable... I made sure to get the makeup just right."
+        ],
+        "touch_normal": [
+            "I can't believe I get to wear this costume again. I had a lot of fun fixing all the little frayed bits.",
+            "To deepen my understanding of the character, I tried playing the gentle Snow White that the modern age knows so well. It was an interesting, worthwhile experience."
+        ],
+        "My Theater": [
+            "\"If I continue to love her, will my mother love me one day?\"",
+            "\"Beauty and ugliness both disappear when one closes their eyes... Why not, then...\"",
+            "In her costume, Suzu looks like a real prince. Until she opens her mouth, that is.",
+            "Hisame's stamina is improving. Clearly her daily exercise is bearing fruit.",
+            "The queen is a fool. She should've just broken that magic mirror for making her suffer.",
+            "Snow White needs to be dignified, yet lovable... I made sure to get the makeup just right.",
+            "\"Here, wear these slippers. They're bright red, just like that apple.\""
+        ]
+    },
     "GENERIC Suzu Minase": {
         "arena_win": [
             "Yay!"
@@ -23742,14 +23884,14 @@
         "birthday_player": [
             "Happy birthday! I hope you'll have a wonderful day!"
         ],
-        "birthday_501": [
-            "Happy birthday, Koharu! After we watch the show, we can grab lunch, eat dessert... Huh? It feels like a field trip? Don't be silly!"
-        ],
         "birthday_103": [
             "Mahiru, happy birthday! Is there anything you want me to do? Want me to carry you like a princess? I'm on it!"
         ],
         "birthday_502": [
             "Thank you, everyone! I really felt the warmth from everyone. I couldn't help but dance along."
+        ],
+        "birthday_501": [
+            "Happy birthday, Koharu! I got you this popular skin care thing called... Uh, how do you pronounce this... I dunno, it's foreign!"
         ],
         "birthday_503": [
             "Happy birthday, Hisame! Bananan and I baked a cake for you. Hurry up and eat it, 'cause it's really good!"
@@ -24110,14 +24252,14 @@
         "birthday_player": [
             "Happy birthday! May this year be really special for you."
         ],
-        "birthday_501": [
-            "Happy birthday! I got my hands on tickets for the show you wanted to see, Koharu-san. Let's all go together."
-        ],
         "birthday_107": [
             "Happy birthday, Nana-san. I heard that you like frog-related merchandise, so I brought some for you as a present."
         ],
         "birthday_502": [
             "Happy birthday, Suzu-san. Please enjoy this dance everyone has put their hearts into... Are you thinking of joining in?"
+        ],
+        "birthday_501": [
+            "Happy birthday, Koharu-san. I got you this lipstick... I thought it'd look good on you. Isn't it a nice color?"
         ],
         "birthday_503": [
             "Thank you for the wonderful birthday celebration, everyone. Your feelings mean so much to me... I'll never, ever forget them."
@@ -24660,202 +24802,202 @@
             "Let's go, Milky Holmes!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"We're here to help! Just let your senpai take it from here!\"",
+            "\"Let's hold hands, Rika-chan! We don't want to get separated!\"",
+            "My Toys is called Psychokinesis! I can move light objects with my mind!",
+            "Hikari-san's so unflappable. She's totally different from how she acts onstage.",
+            "I had so much fun performing with everybody! I wanna be in the sequel, too.",
+            "We all took a picture after the performance! I'm gonna treasure it forever!",
+            "\"What's the most important thing about being a detective? Believing in your friends!\""
         ]
     },
-    "UNKNOWN(9050001) Yuzurizaki Nero": {
+    "Milky Holmes Yuzurizaki Nero": {
         "quest_result": [
-            null
+            "Nothing special."
         ],
         "quest_dress": [
-            null
+            "\"I'm gonna need a snack after today's training.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"The words 'unsolved case' don't exist in our dictionary!\"",
+            "\"So long as I live, evil will never have its way!\"",
+            "\"Well, aren't you a handful? Sit right there, kouhai. I'll show you how it's done.\"",
+            "\"Here, have some of my snacks. Can't fight on an empty stomach, right?\"",
+            "My Toys can hack electronics just by touching them.",
+            "I feel like I'd really get along with Karen. We've got the same taste in junk food.",
+            "I bet this performance made us famous as Stage Girls, too!",
+            "Aruru argued against Cordelia and won? Wow, she's good."
         ],
         "touch_normal": [
-            null,
-            null
+            "I'm impressed Karen and her friends managed to improvise after that hiccup during the performance. Stage Girls know their stuff.",
+            "Ugh... No thanks to SOMEONE, we didn't get to go to the post-performance barbecue. My ribs!"
         ],
         "arena_win": [
-            null
+            "We triumph again!"
         ],
         "arena_lose": [
-            null
+            "Tch..."
         ],
         "dress_level": [
-            null
+            "Easy-peasy!"
         ],
         "dress_rank": [
-            null
+            "All riiight, we did it!"
         ],
         "present_normal": [
-            null
+            "Awesome! Thanks!"
         ],
         "present_like": [
-            null
+            "Thanks. You're pretty nice."
         ],
         "present_love": [
-            null
+            "This is for me? Sweet, thanks! Hmm hmm hmhmhm hmm♪"
         ],
         "dress_growth": [
-            null,
-            null,
-            null
+            "This is something we can't ignore.",
+            "All right! Time to work!",
+            "Mmm, I think you've got the hang of it."
         ],
         "arena_home": [
-            null
+            "What, are you nervous?"
         ],
         "arena_matched": [
-            null
+            "I got this!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Well, aren't you a handful? Sit right there, kouhai. I'll show you how it's done.\"",
+            "\"Here, have some of my snacks. Can't fight on an empty stomach, right?\"",
+            "My Toys can hack electronics just by touching them.",
+            "I feel like I'd really get along with Karen. We've got the same taste in junk food.",
+            "I bet this performance made us famous as Stage Girls, too!",
+            "Aruru argued against Cordelia and won? Wow, she's good.",
+            "\"If you can't do it alone, just get your friends to help. Everyone has their strengths and weaknesses.\""
         ]
     },
-    "UNKNOWN(9060001) Hercule Burton": {
+    "Milky Holmes Hercule Burton": {
         "quest_result": [
-            null
+            "Say you're sorry..."
         ],
         "quest_dress": [
-            null
+            "\"It's embarrassing...to have someone watch my training...\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Helping people in need...is our duty as detectives...!\"",
+            "\"I won't let the bad guys get away with...making people sad...!\"",
+            "\"Don't worry...anymore... Hide...behind me...\"",
+            "\"I'm your senpai, Shizu-san... I'll protect you...!\"",
+            "My Toys...enhances my...strength, weight, and sturdiness...",
+            "Shizuha-san is very calm... Being with her helps me relax...",
+            "I was really nervous...about standing onstage... But I'm glad...I did it...",
+            "Nero and Karen-san were having fun...eating snacks on their break..."
         ],
         "touch_normal": [
-            null,
-            null
+            "If Shizuha-san were a thief...she'd be a tough opponent...",
+            "The Stage Girls...were all nice people... I can't wait to talk about mystery novels with Shizuha-san again..."
         ],
         "arena_win": [
-            null
+            "I-I did it..."
         ],
         "arena_lose": [
-            null
+            "Oh...no..."
         ],
         "dress_level": [
-            null
+            "Let's...keep going..."
         ],
         "dress_rank": [
-            null
+            "Oh, stop it... I'm not that amazing..."
         ],
         "present_normal": [
-            null
+            "Thank...you..."
         ],
         "present_like": [
-            null
+            "This is for me...? Thank you..."
         ],
         "present_love": [
-            null
+            "I love it... Thank you so much...!"
         ],
         "dress_growth": [
-            null,
-            null,
-            null
+            "This is something...we can't overlook...",
+            "I'm doing good... I think...",
+            "I'll try harder...!"
         ],
         "arena_home": [
-            null
+            "I-I'm nervous...!"
         ],
         "arena_matched": [
-            null
+            "Here...I...go...!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Don't worry...anymore... Hide...behind me...\"",
+            "\"I'm your senpai, Shizu-san... I'll protect you...!\"",
+            "My Toys...enhances my...strength, weight, and sturdiness...",
+            "Shizuha-san is very calm... Being with her helps me relax...",
+            "I was really nervous...about standing onstage... But I'm glad...I did it...",
+            "Nero and Karen-san were having fun...eating snacks on their break...",
+            "\"Oh, I still...have a lot to learn... I couldn't have done it without my friends...\""
         ]
     },
-    "UNKNOWN(9070001) Cordelia Glauca": {
+    "Milky Holmes Cordelia Glauca": {
         "quest_result": [
-            null
+            "I won't let evil have its way."
         ],
         "quest_dress": [
-            null
+            "\"For today's practice... Let's work on our self-defense.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Just because I'm everyone's big sister doesn't mean I'm old...!\"",
+            "\"No thief will get away with their crimes if we of Milky Holmes have anything to say about it!\"",
+            "\"Are you hurt? Let your big sister take it from here.\"",
+            "\"Ruru-chan, feel free to rely on me like a big sister.\"",
+            "My Toys enhances my senses. It takes a lot of concentration to use.",
+            "Aruru-san isn't just cheerful. She's also very kind.",
+            "I hope this performance was able to give any fledgling detectives out there some courage.",
+            "How did Shizuha-san bring shy little Ellie out of her shell...?"
         ],
         "touch_normal": [
-            null,
-            null
+            "Hee hee, Aruru-san called me her sister. I like the sound of that.",
+            "This experience has really driven home that our teamwork is our biggest strength. Hee hee, Milky Holmes is the best of friends!"
         ],
         "arena_win": [
-            null
+            "We did it!"
         ],
         "arena_lose": [
-            null
+            "No way..."
         ],
         "dress_level": [
-            null
+            "Follow me!"
         ],
         "dress_rank": [
-            null
+            "Have I grown?"
         ],
         "present_normal": [
-            null
+            "Thank you very much!"
         ],
         "present_like": [
-            null
+            "Wow, thank you! I love it!"
         ],
         "present_love": [
-            null
+            "It's wonderful... Thank you!"
         ],
         "dress_growth": [
-            null,
-            null,
-            null
+            "This is a vital factor!",
+            "Focus, Cordelia. Focus!",
+            "That's the way."
         ],
         "arena_home": [
-            null
+            "I'm a little nervous... Calm down. Deep breaths!"
         ],
         "arena_matched": [
-            null
+            "My time to shine!"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Are you hurt? Let your big sister take it from here.\"",
+            "\"Ruru-chan, feel free to rely on me like a big sister.\"",
+            "My Toys enhances my senses. It takes a lot of concentration to use.",
+            "Aruru-san isn't just cheerful. She's also very kind.",
+            "I hope this performance was able to give any fledgling detectives out there some courage.",
+            "How did Shizuha-san bring shy little Ellie out of her shell...?",
+            "\"What does it take to be a detective...? Well, I think you need to hold your friends close.\""
         ]
     }
 }
