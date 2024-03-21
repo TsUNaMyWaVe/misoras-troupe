@@ -18666,6 +18666,28 @@
             "\"A snack? I would've preferred bear leek risotto though.\""
         ]
     },
+    "UNKNOWN(4010024) Akira Yukishiro": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Perseus Akira Yukishiro (Skin)": {
         "quest_result": [
             "That was a show fit for a hero."
@@ -22858,6 +22880,28 @@
             "I didn't know Stella-chan has also played Belle! I would've loved to see it.",
             "Belle likes reading too, right? I wonder what she reads...",
             "\"Please, open your eyes! I still haven't told you I love you...!\""
+        ]
+    },
+    "UNKNOWN(4080006) Ryoko Kobato": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "GENERIC Minku Umibe": {
