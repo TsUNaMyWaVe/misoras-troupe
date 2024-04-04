@@ -3759,6 +3759,22 @@
             "zh_hant": "亞瑟王 Encore 愛城華戀"
         }
     },
+    "1010034": {
+        "chara_id": 101,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ウリエル 愛城華恋",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "1020001": {
         "chara_id": 102,
         "description": {
@@ -4205,6 +4221,16 @@
             "ja": "銃士アトス Encore 神楽ひかり",
             "ko": "총사 아토스 Encore 카구라 히카리",
             "zh_hant": "劍客阿多斯 Encore 神樂光"
+        }
+    },
+    "1020029": {
+        "chara_id": 102,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "競演のレヴュー 神楽ひかり"
         }
     },
     "1020032": {
@@ -4749,6 +4775,16 @@
             "ja": "ランスロット Encore 露崎まひる",
             "ko": "랜슬롯 Encore 츠유자키 마히루",
             "zh_hant": "蘭斯洛特 Encore 露崎真晝"
+        }
+    },
+    "1030034": {
+        "chara_id": 103,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "競演のレヴュー Encore 露崎まひる"
         }
     },
     "1040001": {
@@ -10175,6 +10211,16 @@
             "zh_hant": "拇指姑娘 野野宮菈樂菲"
         }
     },
+    "3030032": {
+        "chara_id": 303,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "元気の星 フロンレッド 野々宮ララフィン"
+        }
+    },
     "3040001": {
         "chara_id": 304,
         "description": {
@@ -13565,6 +13611,22 @@
             "ja": "明智光秀 愛城華恋",
             "ko": "아케치 미츠히데 아이조 카렌",
             "zh_hant": "明智光秀 愛城華戀"
+        }
+    },
+    "10100341": {
+        "chara_id": 101,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ウリエル 愛城華恋",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "10200051": {

@@ -1162,6 +1162,28 @@
             "The apple of Avalon looks delicious! ...I need to remember it's just a prop."
         ]
     },
+    "UNKNOWN(1010034) Karen Aijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Da Vinci Karen Aijo (Skin)": {
         "quest_result": [
             "Yay Renaissance!"
@@ -1237,6 +1259,28 @@
             "I can never remember the era names when it comes to Japanese history.",
             "I wonder what the umeboshi in the Sengoku period tasted like.",
             "\"Enemy at Honnoji!\" ...What do you think? Was there enough force?"
+        ]
+    },
+    "UNKNOWN(10100341) Karen Aijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
         ]
     },
     "GENERIC Hikari Kagura": {
@@ -2246,6 +2290,21 @@
             "You like the feather in my hat?",
             "Float like a butterfly, sting like a bee...",
             "I have to make the audience fall in love with my Athos..."
+        ]
+    },
+    "UNKNOWN(1020029) Hikari Kagura": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null
+        ],
+        "touch_normal": [
+            null
         ]
     },
     "Legendary Hero Hikari Hikari Kagura": {
@@ -3516,13 +3575,28 @@
             "\"The way you're acting shows that you're not telling the truth, Arthur!\""
         ],
         "My Theater": [
+            "Fighting against your best friend really is tough...",
+            "There are many fight scenes in this play, so I have to roll up my sleeves and train hard.",
+            "The green in this outfit truly reflects Lancelot's honesty.",
+            "Oh, I'll make a holy grail-inspired pudding next time.",
+            "There are so many sources on the legend of King Arthur... It's tough to read all of them...",
+            "I want to go over the fight scenes with Karen-chan one more time before the performance.",
+            "\"Lancelot, Knight of the Round Table. I'm back!\"",
+            "\"If that's what you want, Arthur... Let's settle this!\""
+        ]
+    },
+    "UNKNOWN(1030034) Mahiru Tsuyuzaki": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            null
+        ],
+        "touch_normal": [
             null
         ]
     },
@@ -14325,7 +14399,8 @@
             null
         ],
         "birthday_303": [
-            "Happy birthday, Lalafin! It was so hard to decorate for the party without you noticing! So? Were you surprised!?"
+            "Happy birthday, Lalafin! It was so hard to decorate for the party without you noticing! So? Were you surprised!?",
+            null
         ],
         "birthday_301": [
             "Having a picnic with everyone is really great! What a great birthday present. Thank you!"
@@ -15139,7 +15214,8 @@
             null
         ],
         "birthday_303": [
-            "Happy birthday, Lalafin-senpai! Aruru and I baked the cake together. I guarantee it's delicious!"
+            "Happy birthday, Lalafin-senpai! Aruru and I baked the cake together. I guarantee it's delicious!",
+            null
         ],
         "birthday_301": [
             "Happy birthday, Aruru. Look! I filled your lunchbox with all of your favorite foods! What do you want to try first?"
@@ -15742,7 +15818,8 @@
             null
         ],
         "birthday_303": [
-            "I'm so happy you threw me such a lavish birthday celebration! I wish tomorrow could be my birthday again."
+            "I'm so happy you threw me such a lavish birthday celebration! I wish tomorrow could be my birthday again.",
+            null
         ],
         "birthday_301": [
             "Happy birthday! Aruru, let's look for a four-leaf clover over there. I'm going to find one first!"
@@ -16362,6 +16439,28 @@
             "It's so refreshing to get to reprise a role that someone else has already done!"
         ]
     },
+    "UNKNOWN(3030032) Lalafin Nonomiya": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ]
+    },
     "Carmen Lalafin Nonomiya (Skin)": {
         "quest_result": [
             "Carmen is forever free!"
@@ -16463,7 +16562,8 @@
             null
         ],
         "birthday_303": [
-            "Happy birthday! We all brought presents for you. Can you guess what's from who?"
+            "Happy birthday! We all brought presents for you. Can you guess what's from who?",
+            null
         ],
         "birthday_301": [
             "Aruru, happy birthday! I got you a badminton set because I was hoping we could all have fun together."
@@ -17097,7 +17197,8 @@
             null
         ],
         "birthday_303": [
-            "Happy birthday, Lalafin! We have a lot of party games ready. Should we start with a card game?"
+            "Happy birthday, Lalafin! We have a lot of party games ready. Should we start with a card game?",
+            null
         ],
         "birthday_301": [
             "Aruru-chan, happy birthday. Since we're all here, why don't we all take a photo together? You can choose the pose, Aruru-chan."
@@ -18686,6 +18787,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Perseus Akira Yukishiro (Skin)": {
@@ -22902,6 +23012,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Minku Umibe": {
