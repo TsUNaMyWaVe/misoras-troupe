@@ -108,9 +108,6 @@
             "Happy New Year! We will all do Starlight this year, too!",
             null
         ],
-        "birthday_108": [
-            "Happy birthday, Futaba-chan! Hikari-chan, Mahiru-chan, and I got you a traffic safety amulet!"
-        ],
         "birthday_103": [
             "Happy birthday, Mahiru-chan! The lavender bouquet Jun-Jun and I got for you smells so good!"
         ],
@@ -134,6 +131,9 @@
         ],
         "birthday_109": [
             "Happy birthday! I rented that movie you wanted to watch. Come on, sit down!"
+        ],
+        "birthday_108": [
+            "Happy birthday, Futaba-chan! I'll give you a free motorcycle wash before the party! My washcloth's raring to go♪"
         ]
     },
     "Karen Aijo Uniform": {
@@ -1182,6 +1182,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Da Vinci Karen Aijo (Skin)": {
@@ -1352,9 +1361,6 @@
             "Happy New Year. I'm really looking forward to spending the holidays with Karen and everyone. Say, doesn't mochi remind you of jellyfish?",
             null
         ],
-        "birthday_108": [
-            "Happy birthday. I hope that you continue to drive your motorcycle safely..."
-        ],
         "birthday_103": [
             "Happy birthday. ...Thank you for everything you do."
         ],
@@ -1378,6 +1384,9 @@
         ],
         "birthday_109": [
             "Happy birthday. I, um...made you some tea..."
+        ],
+        "birthday_108": [
+            "Happy birthday. I'm not sure Karen can handle it herself, so I'll help her wash your motorcycle."
         ]
     },
     "Hikari Kagura Uniform": {
@@ -2292,18 +2301,23 @@
             "I have to make the audience fall in love with my Athos..."
         ]
     },
-    "UNKNOWN(1020029) Hikari Kagura": {
+    "Co-Star Revue Hikari Kagura": {
         "quest_result": [
-            null
+            ""
         ],
         "quest_dress": [
-            null
+            ""
         ],
         "common": [
-            null,
-            null
+            "",
+            ""
         ],
         "touch_normal": [
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
             null
         ]
     },
@@ -2514,9 +2528,6 @@
             "Happy New Year. If you're going to visit the shrine, make sure to dress warm! It's really cold out!",
             null
         ],
-        "birthday_108": [
-            "Happy birthday! That traffic safety amulet is from a famous shrine, so I'm sure it will protect you and Kaoruko-chan."
-        ],
         "birthday_103": [
             "Thanks for all the birthday wishes, everyone! I'm so glad I decided to come here and become a Stage Girl."
         ],
@@ -2543,6 +2554,9 @@
         ],
         "birthday_109": [
             "Happy birthday, Kaoruko-chan. Let me give you a massage. I think I can get it just right!"
+        ],
+        "birthday_108": [
+            "Happy birthday, Futaba-chan! I made lots of different kinds of yakiniku sauce. I hope you like them."
         ]
     },
     "Mahiru Tsuyuzaki Uniform": {
@@ -3585,18 +3599,23 @@
             "\"If that's what you want, Arthur... Let's settle this!\""
         ]
     },
-    "UNKNOWN(1030034) Mahiru Tsuyuzaki": {
+    "Co-Star Revue Encore Mahiru Tsuyuzaki": {
         "quest_result": [
-            null
+            "What a workout!"
         ],
         "quest_dress": [
-            null
+            "I'm ready to...stand on stage."
         ],
         "common": [
-            null,
-            null
+            "I'll perform more cheerfully than anybody on this stage!",
+            "The stage has already begun—a big stage that happens only once in four years. Only one can grab the gold medal."
         ],
         "touch_normal": [
+            "We are rivals! Our skills, our power—we compete with each and aim for the top!"
+        ],
+        "My Theater": [
+            null,
+            null,
             null
         ]
     },
@@ -3790,9 +3809,6 @@
             "Bonne année! Happy New Year. Today's the start of a new year... The year I take down Maya Tendo!",
             null
         ],
-        "birthday_108": [
-            "Bon anniversaire! Nana and I picked up some meat that we thought you'd like. I hope you're looking forward to yakiniku tonight."
-        ],
         "birthday_103": [
             "Bon anniversaire! I found some macaroons with a baseball design on them and thought of you."
         ],
@@ -3816,6 +3832,9 @@
         ],
         "birthday_109": [
             "Bon anniversaire! I ordered a birthday cake that I think fits you perfectly. It's decorated with daffodils."
+        ],
+        "birthday_108": [
+            "Bon anniversaire, Futaba. I got my hands on some good reference material for fight scenes. Let's watch them and practice together sometime."
         ]
     },
     "Claudine Saijo Uniform": {
@@ -4857,13 +4876,13 @@
             "Paintings of Gabriel are so diverse, they're interesting to look at. Sometimes his wings are depicted in the fashion of a peacock, and sometimes they're colorful. I wonder if people think of him as fashionable."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Lucifer is ruining Eden? How awful...\"",
+            "\"Words can be ambiguous... I will continue to talk until you are satisfied.\"",
+            "Nana brought us donuts today. Maybe she was envisioning them as halos... No way, right?",
+            "I only believe what I see for myself... But it would be interesting if angels really did exist.",
+            "It takes experience and knowledge to arrange a single flower. I'm starting to change my mind about Kaoruko.",
+            "What would I do if I had wings...? They'd be great for traveling back and forth between Japan and France.",
+            "\"Be not afraid. Tonight I proclaim to you the holy Word, full of love...\""
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -5023,9 +5042,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_108": [
-            "Happy birthday. I prepared some salt to enhance the flavor of the meat. It's good to appreciate the natural flavors sometimes."
-        ],
         "birthday_103": [
             "Happy birthday. In honor of your golden Mahiru Spuds, let us continue to shine on stage together."
         ],
@@ -5052,6 +5068,9 @@
         ],
         "birthday_109": [
             "Happy birthday, Hanayagi-san. Allow me to show you...a magic trick Isurugi-san and I made."
+        ],
+        "birthday_108": [
+            "Happy birthday, Isurugi-san. We prepared your favorite: yakiniku. Don't worry about me; eat your fill."
         ]
     },
     "Maya Tendo Uniform": {
@@ -6013,6 +6032,21 @@
             "\"It's all right. You have nothing to fear so long as I am at your side.\""
         ]
     },
+    "Soul Revue Encore Maya Tendo": {
+        "quest_result": [
+            "I am but an empty vessel with no emotions or instincts."
+        ],
+        "quest_dress": [
+            "Let's do our best."
+        ],
+        "common": [
+            "A performer? No, you're just a nameless devil.",
+            "People call me a thoroughbred. A genius. I saw the true role I must play—the ultimate performer—from within the cheers."
+        ],
+        "touch_normal": [
+            "Projecting every stage and every lead role—the ultimate vessel."
+        ]
+    },
     "Maid Melissa Maya Tendo (Skin)": {
         "quest_result": [
             "I'd say that about does it for cleanup."
@@ -6170,9 +6204,6 @@
             "Happy New Year. Have you seen everyone else yet?  If not, maybe we can go together!",
             null
         ],
-        "birthday_108": [
-            "Happy birthday. I thought of you when I saw this daruma doll towel, so I got it for you."
-        ],
         "birthday_103": [
             "Happy birthday. When we were choosing flowers, Karen said that all the flowers are as cheerful as you are, so we couldn't make up our mind."
         ],
@@ -6196,6 +6227,9 @@
         ],
         "birthday_109": [
             "Happy birthday, Hanayagi-san. Let me teach you that problem you were having trouble with in class. I'll be even more thorough than usual."
+        ],
+        "birthday_108": [
+            "Happy birthday, Isurugi-san. We all made the cake decorations ourselves. Karen made the daruma with the crown."
         ]
     },
     "Junna Hoshimi Uniform": {
@@ -7287,9 +7321,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_108": [
-            "Happy birthday, Futaba-chan. Leave the cake to me. I got a certain someone to help me out in secret♪"
-        ],
         "birthday_103": [
             "Happy birthday♪ I made a mini album with your photos. I think there are a lot of pictures with Karen..."
         ],
@@ -7313,6 +7344,9 @@
         ],
         "birthday_109": [
             "Happy birthday, Kaoruko-chan♪ How would you like some of Banana's special caramel popcorn for your movie?"
+        ],
+        "birthday_108": [
+            "Happy birthday, Futaba-chan♪ We all worked together to make your birthday cake. We've got meat, too, so we're having a full-on party tonight."
         ],
         "birthday_503": [
             "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
@@ -8400,9 +8434,6 @@
             "Happy New Year! Here's hoping it's a good one! Maybe I should take Kaoruko and go for my first ride of the year!",
             null
         ],
-        "birthday_108": [
-            "Thank you all for thinking of ways to help me celebrate. The most surprising part was Kaoruko's cake."
-        ],
         "birthday_103": [
             "Happy birthday! Thanks for always supporting everyone. I'd like to learn to be more like you."
         ],
@@ -8426,6 +8457,9 @@
         ],
         "birthday_109": [
             "Happy birthday, Kaoruko. Everyone was really excited when I pitched the idea of showing you a good time. We've made some great friends, huh?"
+        ],
+        "birthday_108": [
+            "Thanks for the wild party, guys! But, uh, Kaoruko... Does that count?"
         ]
     },
     "Futaba Isurugi Uniform": {
@@ -9219,6 +9253,28 @@
             "This script filled with notes is also a treasure of mine."
         ]
     },
+    "Martial Artist Futaba Futaba Isurugi": {
+        "quest_result": [
+            "I leveled up! Or something."
+        ],
+        "quest_dress": [
+            "\"All right! I'mma get so strong, I'll give the hero a run for his money!\""
+        ],
+        "common": [
+            "\"Strength to rival the hero and his party... What I seek lies beyond even the Demon King!\"",
+            "\"I'm gonna surpass the hero! And I ain't gonna lose to the likes of you, either!\"",
+            "\"Good grief, all the hero's followers are as stubborn as a mule.\"",
+            "Kagura's playing EoB too, right? I oughta see who her favorite character is.",
+            "The EoB series is pretty long. Every installment has something new.",
+            "\"Stupid hero, trying to deal with everything himself...\"",
+            "Kaoruko's really putting herself into the Merchant. I can tell because she's running me ragged.",
+            "When I heard Princess Karen was gonna have a fight scene, my first thought was that she was gonna trip over her own costume."
+        ],
+        "touch_normal": [
+            "Last time was mostly barehanded fights, but this time, I gotta practice using weapons, too. The Martial Artist can equip all kinds of stuff in the game, after all.",
+            "I've been grinding EoB for the first time in forever, so I'm a little low on sleep... I already know the story, but I still get excited to see what comes next."
+        ]
+    },
     "GENERIC Kaoruko Hanayagi": {
         "loginbonus": [
             "I'll let you keep me company today."
@@ -9288,9 +9344,6 @@
             "Futaba-haaan! Help me put on this kimono! ...Oh, hello. Happy New Year to you.",
             null
         ],
-        "birthday_108": [
-            "Happy birthday. I wrote the message on the chocolate plaque. Don't read it out loud. You'll make me blush."
-        ],
         "birthday_103": [
             "Happy birthday. I don't know why, but I suddenly feel like eating your homemade cooking. You really are talented."
         ],
@@ -9314,6 +9367,9 @@
         ],
         "birthday_109": [
             "Thanks for the fancy party, everyone. I felt like a princess. Now if only tomorrow was my birthday, too."
+        ],
+        "birthday_108": [
+            "Happy birthday, Futaba-han. Just for today, just once, I'll do any one thing you say. So where are we going?"
         ]
     },
     "Kaoruko Hanayagi Uniform": {
@@ -14274,6 +14330,28 @@
             "Alright then, off the the entertainment hall I go... T-To study their acting, of course, not to have fun."
         ]
     },
+    "Magician Encore Yuyuko Tanaka": {
+        "quest_result": [
+            "If only I had the Magician's knowledge. Then it'd be easy."
+        ],
+        "quest_dress": [
+            "\"You only need to use things like real magic once in your lifetime.\""
+        ],
+        "common": [
+            "\"I'm the Magician hired by the High Priestess. I've also been called a sham who can't use magic.\"",
+            "\"It's costly to research magic. It's normal to seek help from patrons, no?\"",
+            "\"The will of the 'Star Girl' to move forward into the future... Seeing her reminds me of my younger self.\"",
+            "\"No matter how old I become, I never lose my originality and continue to challenge creating a new world... Curiosity is the root of magic.\"",
+            "The \"Magician\" Arcana is...complicated and quite the challenge to play.",
+            "Depicted on the Magician's card is a coin, a cup, a pen, and a wand... If it's rakugo, all you need is a fan.",
+            "I thought the \"Magician\" would send lightning bolts flying from her wand, but that doesn't seem to be the case.",
+            "The Magician draws a magic square with a pen... Meaning the pen is mightier than sword."
+        ],
+        "touch_normal": [
+            "The \"Magician\" Arcana is... What?! The first card?! No matter if it's rakugo or something else, being the first in line is always the most nerve-wracking!",
+            "The upright position of the Magician Arcana means talent, creativity, originality. I want to be talented."
+        ]
+    },
     "Yoshitsune Minamoto Yuyuko Tanaka (Skin)": {
         "quest_result": [
             "\"None can hope to capture me.\""
@@ -14398,10 +14476,6 @@
             "Happy New Year! Hope it's a great one. I wonder what kind of plays we'll put on this year. I'm super looking forward to it!",
             null
         ],
-        "birthday_303": [
-            "Happy birthday, Lalafin! It was so hard to decorate for the party without you noticing! So? Were you surprised!?",
-            null
-        ],
         "birthday_301": [
             "Having a picnic with everyone is really great! What a great birthday present. Thank you!"
         ],
@@ -14413,6 +14487,9 @@
         ],
         "birthday_304": [
             "Happy birthday! Here's a handmade bookmark for you, since you love to read! I drew everyone's portrait on it."
+        ],
+        "birthday_303": [
+            "Happy birthday, Lalafin! I'll draw your portrait with the bunnies at the rabbit cafe!"
         ]
     },
     "Aruru Otsuki Uniform": {
@@ -15213,10 +15290,6 @@
             "Happy New Year. How many pieces of mochi have I had? Let's see, four with white miso soup, two in clear soup... So I guess six?",
             null
         ],
-        "birthday_303": [
-            "Happy birthday, Lalafin-senpai! Aruru and I baked the cake together. I guarantee it's delicious!",
-            null
-        ],
         "birthday_301": [
             "Happy birthday, Aruru. Look! I filled your lunchbox with all of your favorite foods! What do you want to try first?"
         ],
@@ -15228,6 +15301,9 @@
         ],
         "birthday_304": [
             "Happy birthday! My gift is a stylish book cover. I thought it was gorgeous and reminded me of Tsukasa-senpai!"
+        ],
+        "birthday_303": [
+            "Happy birthday! The food at the rabbit cafe is really good, too. I hear the carrot cookies are to die for!"
         ]
     },
     "Misora Kano Uniform": {
@@ -15817,10 +15893,6 @@
             "Happy New Year!  Woo, it's New Year's! It's okay that I still get money from my relatives on New Year's, right?",
             null
         ],
-        "birthday_303": [
-            "I'm so happy you threw me such a lavish birthday celebration! I wish tomorrow could be my birthday again.",
-            null
-        ],
         "birthday_301": [
             "Happy birthday! Aruru, let's look for a four-leaf clover over there. I'm going to find one first!"
         ],
@@ -15832,6 +15904,9 @@
         ],
         "birthday_304": [
             "Happy birthday, Tsukasa! Here's an assorted set of candy specially selected by me."
+        ],
+        "birthday_303": [
+            "I can't wait to celebrate my birthday at the rabbit cafe with everyone! It's like a field trip! Ahhh, I just wanna floof them like there's no tomorrow!"
         ]
     },
     "Lalafin Nonomiya Uniform": {
@@ -16439,24 +16514,33 @@
             "It's so refreshing to get to reprise a role that someone else has already done!"
         ]
     },
-    "UNKNOWN(3030032) Lalafin Nonomiya": {
+    "Energetic Star Red Frontier Lalafin Nonomiya": {
         "quest_result": [
-            null
+            "Red Frontier is the best!"
         ],
         "quest_dress": [
-            null
+            "\"The enemy's getting stronger. We'll have to train hard, too!\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I'll never run or hide! Red Frontier stands tall to fight you!\"",
+            "\"For the future of the planet! Red Frontier will overcome even the toughest of foes!\"",
+            "Mainstream heroes are all well and good, but I love dark heroes with their own aesthetic, too!",
+            "Suzu's got some amazing action moves! I could learn a thing or two from her!",
+            "Wearing the Red Frontier costume makes me feel like, \"Ah, I'm finally back!\"",
+            "\"I've got a new formidable foe...Soldier Scarlet.\"",
+            "\"A new fight is beginning... Okay, let's do this!\"",
+            "If we're doing a new show, we gotta update our weapon props!"
         ],
         "touch_normal": [
+            "\"I don't care how strong the enemy is. I'll fight with everything I've got to protect everyone! That's Frontier V's mission!\"",
+            "\"I can feel the support of everyone on the planet! There's no stopping me now! I'm gonna win this battle!\""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
             null,
             null
         ]
@@ -16561,10 +16645,6 @@
             "Happy New Year!  Spending the holiday with family is great, but spending it with everyone in the dorm is great, too.",
             null
         ],
-        "birthday_303": [
-            "Happy birthday! We all brought presents for you. Can you guess what's from who?",
-            null
-        ],
         "birthday_301": [
             "Aruru, happy birthday! I got you a badminton set because I was hoping we could all have fun together."
         ],
@@ -16576,6 +16656,9 @@
         ],
         "birthday_304": [
             "Thank you all for your unique gifts! I am very happy with all of them and will treasure them."
+        ],
+        "birthday_303": [
+            "Happy birthday, Lalafin. You were up late last night because you were so excited, but, uh, you did get some sleep, right?"
         ]
     },
     "Tsukasa Ebisu Uniform": {
@@ -17196,10 +17279,6 @@
             "Happy New Year! Now, for my first tongue-twister of the new year... \"Black background, brown background, black background, brown background...\"",
             null
         ],
-        "birthday_303": [
-            "Happy birthday, Lalafin! We have a lot of party games ready. Should we start with a card game?",
-            null
-        ],
         "birthday_301": [
             "Aruru-chan, happy birthday. Since we're all here, why don't we all take a photo together? You can choose the pose, Aruru-chan."
         ],
@@ -17211,6 +17290,9 @@
         ],
         "birthday_304": [
             "Happy birthday, Tsukasa. I have a bouquet of birthday flowers for you. Let's take a picture together later, too."
+        ],
+        "birthday_303": [
+            "Happy birthday, Lalafin. Let's play with the bunnies, and when we get home, we can all have some birthday cake."
         ]
     },
     "Shizuha Kocho Uniform": {
@@ -18767,26 +18849,26 @@
             "\"A snack? I would've preferred bear leek risotto though.\""
         ]
     },
-    "UNKNOWN(4010024) Akira Yukishiro": {
+    "Celestial Goddess Edel Akira Yukishiro": {
         "quest_result": [
-            ""
+            "Consider it an honor to have brushed upon the power of a god."
         ],
         "quest_dress": [
-            ""
+            "\"My power is that of the world. I will do anything to make it better!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"In I shall dive, and swim amongst the stars.\"",
+            "\"Seeing the stars dance across the sky, I stepped forward.\"",
+            "\"Please, stand up. Please. I don't wish to hurt you.\"",
+            "\"I learned once that one ought give names to what one holds dear. Your name shall be Verehrung.\"",
+            "We plan to take the mugs Shiori got for us with us when we graduate.",
+            "I saw Mei Fan holding a New York guidebook... Is she planning on coming with me?",
+            "This scene's lighting doesn't match the acting... Michiru, go double-check with the head of lighting.",
+            "Michiru, let's make our observation of the junior high a regular endeavor. They are the future of this school."
         ],
         "touch_normal": [
-            "",
-            ""
+            "This costume has been passed down from generation to generation... Donning it fills me with pride. I hereby swear to put on a show worthy of the kings of the past.",
+            "Yachiyo got us placemats for the picnic... And mine is the only one with a chili pepper design. How thoughtful of her."
         ],
         "My Theater": [
             null,
@@ -21005,24 +21087,24 @@
     },
     "Wind Goddess Anschliessen Shiori Yumeoji": {
         "quest_result": [
-            ""
+            "It was such a novel experience, exploring different meanings of \"gnarly.\""
         ],
         "quest_dress": [
-            ""
+            "\"Light and swift as the wind. Aaaaand sometimessuperintense!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Gnarlyyyyy! Ahaha! Let's crank it up a notch!\"",
+            "\"Let's become the wind and fly high in the sky!\"",
+            "I still vividly remember the moment the curtain rose on our first performance of this play. I had some serious butterflies.",
+            "\"Come on! Get down with your bad selves!\"",
+            "Mei Fan-senpai's fight scenes are so thrilling. They burn like real flames.",
+            "\"Look at you three, breaking the commandments and having all this fun! No fair! I wanna play, too!\"",
+            "I have to go see Yachiyo-senpai to get my measurements taken. I wonder how much taller I've grown since last time...",
+            "\"Gnarly!\" \"Gnarlyyy...\" \"Gnarly...\" \"GnarLY!\" ...There sure is a lot of depth to \"gnarly.\""
         ],
         "touch_normal": [
-            "",
-            ""
+            "The wind goddess is kind of like a little sister in the story of the play. I like to think I'm not as selfish as... Actually, I don't know.",
+            "Fumi says she really regrets not being able to see our first performance of this play, so she's happy she's getting another chance."
         ],
         "My Theater": [
             null,
@@ -22097,13 +22179,13 @@
             "This costume actually uses flowers as a motif. Gerberas, anemones...and roses. Heh heh, looks great, doesn't it?"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Celestial goddess, you have finally broken the rules.\"",
+            "\"Once, it was called 'love.' I discarded it in the distant past.\"",
+            "Ahhh, Shiori's tea gives me so much energy... It just never turns out like this when I make it.",
+            "Welp, I've got time to kill, so I think I'll walk around the junior high. I wanna go see those kids♪",
+            "Mei Fan's writing a letter to her family. ...I like the look on her face♪",
+            "The earth goddess's wish is heavy and annoying, but it's so beautiful.",
+            "\"I have finally found the cause of calamity: the emotion of jealousy.\""
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
@@ -22992,26 +23074,26 @@
             "\"Please, open your eyes! I still haven't told you I love you...!\""
         ]
     },
-    "UNKNOWN(4080006) Ryoko Kobato": {
+    "Knight Fiona Ryoko Kobato": {
         "quest_result": [
-            ""
+            "Ayla and Fiona's friendship transcends national borders... That's so lovely."
         ],
         "quest_dress": [
-            ""
+            "\"The military exercise is about to begin. Get ready—defeat is not an option.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"We'll travel the world together one day.\"",
+            "\"The only way to survive—is to steal.\"",
+            "\"You're working hard, Claudia.\"",
+            "\"You call yourself a knight?! How could you run from a fight?!\"",
+            "\"Let's wake those peace-loving idiots up.\"",
+            "I think I feel a little closer with Sh-Shiro-chan now.",
+            "Minase-senpai's nickname for me, Dove-chan, is really cute... I think?",
+            "I'm glad Ms. Ukaji was our chaperone. If it was some scary teacher I'd never met before..."
         ],
         "touch_normal": [
-            "",
-            ""
+            "\"I came to deliver a message from the nation. In three days, there'll be a joint military exercise with the Sun Nation Knights. Will you be partaking?\"",
+            "\"So there are such places in this world. I didn't know...\""
         ],
         "My Theater": [
             null,

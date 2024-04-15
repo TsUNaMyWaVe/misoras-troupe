@@ -4226,11 +4226,17 @@
     "1020029": {
         "chara_id": 102,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "競演のレヴュー 神楽ひかり"
+            "en": "Co-Star Revue Hikari Kagura",
+            "ja": "競演のレヴュー 神楽ひかり",
+            "ko": "경연의 레뷰 카구라 히카리",
+            "zh_hant": "競技的Revue 神樂光"
         }
     },
     "1020032": {
@@ -4780,11 +4786,17 @@
     "1030034": {
         "chara_id": 103,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "競演のレヴュー Encore 露崎まひる"
+            "en": "Co-Star Revue Encore Mahiru Tsuyuzaki",
+            "ja": "競演のレヴュー Encore 露崎まひる",
+            "ko": "경연의 레뷰 Encore 츠유자키 마히루",
+            "zh_hant": "競技的Revue Encore 露崎真晝"
         }
     },
     "1040001": {
@@ -5793,6 +5805,22 @@
             "ja": "ラファエル 天堂真矢",
             "ko": "라파엘 텐도 마야",
             "zh_hant": "拉斐爾 天堂真矢"
+        }
+    },
+    "1050031": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Soul Revue Encore Maya Tendo",
+            "ja": "魂のレヴュー Encore 天堂真矢",
+            "ko": "영혼의 레뷰 Encore 텐도 마야",
+            "zh_hant": "靈魂的Revue Encore 天堂真矢"
         }
     },
     "1060001": {
@@ -7137,6 +7165,22 @@
             "ja": "信念の女神 石動双葉",
             "ko": "신념의 여신 이스루기 후타바",
             "zh_hant": "信念之女神 石動雙葉"
+        }
+    },
+    "1080032": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Martial Artist Futaba Futaba Isurugi",
+            "ja": "武闘家フタバ 石動双葉",
+            "ko": "격투가 후타바 이스루기 후타바",
+            "zh_hant": "武鬥家雙葉 石動雙葉"
         }
     },
     "1090001": {
@@ -9299,6 +9343,22 @@
             "zh_hant": "化身博士 田中悠悠子"
         }
     },
+    "2050036": {
+        "chara_id": 205,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Magician Encore Yuyuko Tanaka",
+            "ja": "魔術師 Encore 田中ゆゆ子",
+            "ko": "마술사 Encore 타나카 유유코",
+            "zh_hant": "魔術師 Encore 田中悠悠子"
+        }
+    },
     "3010001": {
         "chara_id": 301,
         "description": {
@@ -10214,11 +10274,17 @@
     "3030032": {
         "chara_id": 303,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "元気の星 フロンレッド 野々宮ララフィン"
+            "en": "Energetic Star Red Frontier Lalafin Nonomiya",
+            "ja": "元気の星 フロンレッド 野々宮ララフィン",
+            "ko": "활기찬 별 프론 레드 노노미야 라라핀",
+            "zh_hant": "活力之星 芙羅戰隊・紅戰士 野野宮菈樂菲"
         }
     },
     "3040001": {
@@ -11207,10 +11273,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Celestial Goddess Edel Akira Yukishiro",
             "ja": "天の神 エーデル 雪代晶",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "천신 에델 유키시로 아키라",
+            "zh_hant": "天之神 埃德爾 雪代晶"
         }
     },
     "4020001": {
@@ -12871,10 +12937,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Knight Fiona Ryoko Kobato",
             "ja": "騎士フィオナ 小鳩良子",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "기사 피오나 코바토 료코",
+            "zh_hant": "騎士菲歐娜 小鳩良子"
         }
     },
     "4090001": {
@@ -14203,6 +14269,22 @@
             "ja": "ジークフリート 大場なな",
             "ko": "지크프리트 다이바 나나",
             "zh_hant": "齊格菲 大場奈奈"
+        }
+    },
+    "10700291": {
+        "chara_id": 107,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Michael Nana Daiba",
+            "ja": "ミカエル 大場なな",
+            "ko": "미카엘 다이바 나나",
+            "zh_hant": "米迦勒 大場奈奈"
         }
     },
     "10900031": {

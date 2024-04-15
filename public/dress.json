@@ -15963,6 +15963,94 @@
         "trait_id": 52,
         "win_sequence_id": 5012
     },
+    "1050031": {
+        "attack_type": 2,
+        "attribute_id": 2,
+        "auto_skill1_id": 23332,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23333,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23334,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12537,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12538,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 692,
+        "base_atk": 1180,
+        "base_hp": 17855,
+        "base_mdef": 1521,
+        "base_pdef": 826,
+        "base_rarity": 5,
+        "chara_id": 105,
+        "command_skill1_id": 8799,
+        "command_skill2_id": 8800,
+        "command_skill3_id": 8801,
+        "command_unique_skill_id": 8802,
+        "confusion_skill_id": 8803,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4910,
+        "delta_pdef": 4050,
+        "description": {
+            "ja": "ACT3&連続CAの「威圧」で上位回数プラス効果を解除し確率で行動停止にする舞台少女。全ての基本ACTで上位毎ターンキラめき減少を付与できる。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1050031,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110500311,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110500312,
+        "friendship_pattern_id": 122,
+        "get_message": {
+            "ja": "ゆきます、最高の舞台へ。"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12202101,
+        "growth_board2_id": 12202201,
+        "growth_board3_id": 12202301,
+        "growth_board4_id": 12202401,
+        "growth_board5_id": 12202501,
+        "growth_board6_id": 12202601,
+        "growth_board7_id": 12202701,
+        "growth_board8_id": 12202801,
+        "growth_board9_id": 12202901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10072,
+        "model_id": 1050031,
+        "name": {
+            "ja": "魂のレヴュー Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 202,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 2,
+        "profile": {
+            "ja": "西條クロディーヌと演じるは『魂のレヴュー』。\n天堂真矢は次の舞台へ――"
+        },
+        "published_at": 1712732400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20072,
+        "trait_id": 14,
+        "win_sequence_id": 5182
+    },
     "1060001": {
         "attack_type": 2,
         "attribute_id": 3,
@@ -24362,6 +24450,106 @@
         "sub_tactics_skill_id": 0,
         "trait_id": 26,
         "win_sequence_id": 4254
+    },
+    "1080032": {
+        "attack_type": 2,
+        "attribute_id": 3,
+        "auto_skill1_id": 23338,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23339,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23340,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12541,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12542,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 692,
+        "base_atk": 1164,
+        "base_hp": 17789,
+        "base_mdef": 1550,
+        "base_pdef": 816,
+        "base_rarity": 5,
+        "chara_id": 108,
+        "command_skill1_id": 8809,
+        "command_skill2_id": 8810,
+        "command_skill3_id": 8811,
+        "command_unique_skill_id": 8812,
+        "confusion_skill_id": 8813,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4910,
+        "delta_pdef": 4050,
+        "description": {
+            "en": "Her Opening Skill applies Greater Brilliance Reduction Resistance Up to self. Her Climax Act applies Greater Arrogance to the 1st front enemy and Stage Effect [Extreme Measures (Snow)] to her allies' stage.",
+            "ja": "開演Sで自身に上位キラめき減少耐性アップを付与する舞台少女。前から1体の敵役に上位高慢心&味方側の舞台に舞台効果「快刀乱麻(雪)」を付与するCAが強力。",
+            "ko": "개연 스킬로 자신에게 상위 반짝임 감소 저항 증가를 부여하는 무대소녀. 앞에서 1명의 적에게 상위 교만 & 아군 쪽 무대에 무대 효과 [쾌도난마(눈)]를 부여하는 CA가 강력하다.",
+            "zh_hant": "可透過開演技能來賦予自己[高級]提升光芒減少耐性的舞台少女。強力的CLIMAX ACT可賦予前面1名敵方高級狂妄及我方的舞台舞台效果「快刀斬亂麻（雪）」。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1080032,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010800321,
+        "friendship15_levelup_adventure_id": 3110800321,
+        "friendship25_reward_adventure_id": 3010800322,
+        "friendship30_levelup_adventure_id": 3110800322,
+        "friendship_pattern_id": 123,
+        "get_message": {
+            "en": "My action scenes will outshine even the hero's brilliance!",
+            "ja": "勇者に負けない輝き……\nあたしの殺陣で演じてみせる！",
+            "ko": "용사에게도 지지 않을 눈부심...\n내 액션을 통해 보여주겠어!",
+            "zh_hant": "我要演繹出……\n比勇者更耀眼的武打戲！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12203101,
+        "growth_board2_id": 12203201,
+        "growth_board3_id": 12203301,
+        "growth_board4_id": 12203401,
+        "growth_board5_id": 12203501,
+        "growth_board6_id": 12203601,
+        "growth_board7_id": 12203701,
+        "growth_board8_id": 12203801,
+        "growth_board9_id": 12203901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10074,
+        "model_id": 1080032,
+        "name": {
+            "en": "Martial Artist Futaba",
+            "ja": "武闘家フタバ",
+            "ko": "격투가 후타바",
+            "zh_hant": "武鬥家雙葉"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 203,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 3,
+        "profile": {
+            "en": "A wandering martial artist who once again rushes to the aid of the hero in order to defeat the resurrected Demon King. He uses his skills to protect his fellow adventurers. From \"Epic of Bravery - Original Stage.\"",
+            "ja": "復活した魔王を倒すため、再び勇者の元に駆けつけた流浪の武闘家。共に旅する仲間のために、身に着けた武術を存分に振るう。\n演目『エピックブレイブス・オリジナルステージ』より",
+            "ko": "부활한 마왕을 쓰러뜨리기 위해, 다시 용사 곁으로 돌아온 유랑 격투가. 함께 여행하는 동료를 위해 지금까지 익힌 무술을 마음껏 선보인다.\n작품 [에픽 브레이브스 오리지널 스테이지]에서",
+            "zh_hant": "為了打敗復活的魔王，四海為家的武鬥家再次奔赴到勇者的身邊。他毫不保留地發揮自己的武術，與同行的夥伴共同進退。\n取自戲碼『史詩勇者Epic Braves・原創舞台』"
+        },
+        "published_at": 1713279600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20074,
+        "trait_id": 31,
+        "win_sequence_id": 5192
     },
     "1090001": {
         "attack_type": 1,
@@ -37851,6 +38039,94 @@
         "trait_id": 10,
         "win_sequence_id": 4457
     },
+    "2050036": {
+        "attack_type": 1,
+        "attribute_id": 4,
+        "auto_skill1_id": 23335,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23336,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23337,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12539,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12540,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 692,
+        "base_atk": 1171,
+        "base_hp": 17792,
+        "base_mdef": 811,
+        "base_pdef": 1557,
+        "base_rarity": 5,
+        "chara_id": 205,
+        "command_skill1_id": 8804,
+        "command_skill2_id": 8805,
+        "command_skill3_id": 8806,
+        "command_unique_skill_id": 8807,
+        "confusion_skill_id": 8808,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4050,
+        "delta_pdef": 4910,
+        "description": {
+            "ja": "月属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「終着の地(宙)」を付与する。"
+        },
+        "dex": 5,
+        "dress_episode_id": 2050036,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3120500361,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3120500362,
+        "friendship_pattern_id": 124,
+        "get_message": {
+            "ja": "新たな舞台の創造を、\n『魔術師』とともに――！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12104101,
+        "growth_board2_id": 12104201,
+        "growth_board3_id": 12104301,
+        "growth_board4_id": 12104401,
+        "growth_board5_id": 12104501,
+        "growth_board6_id": 12104601,
+        "growth_board7_id": 12104701,
+        "growth_board8_id": 12104801,
+        "growth_board9_id": 12104901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10073,
+        "model_id": 2050036,
+        "name": {
+            "ja": "魔術師 Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 204,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 4,
+        "profile": {
+            "ja": "女教皇に仕える『魔術師』は、流行病から人々を守る為に奔走する医師と出会う。\n『神の奇跡を否定した罪』で吊された医師を救うべく、魔術師は最初で最後の魔術に挑む。\n――『劇フェス』戯曲・第一幕より"
+        },
+        "published_at": 1712991600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20073,
+        "trait_id": 29,
+        "win_sequence_id": 5187
+    },
     "3010001": {
         "attack_type": 1,
         "attribute_id": 3,
@@ -43492,7 +43768,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "ACT3で前から3体の敵役に上位パニックを付与する舞台少女。味方全体に上位回数マイナス効果解除を適用し、味方側の舞台に舞台効果「快刀乱麻(雲)」を付与するCAが強力。"
+            "en": "Her Act 3 applies Greater Panic to 3 front enemies. Her Climax Act applies Greater Dispel Count. Neg. Effects to all allies, and applies Stage Effect [Extreme Measures (Cloud)] to her allies' stage.",
+            "ja": "ACT3で前から3体の敵役に上位パニックを付与する舞台少女。味方全体に上位回数マイナス効果解除を適用し、味方側の舞台に舞台効果「快刀乱麻(雲)」を付与するCAが強力。",
+            "ko": "ACT3으로 앞에서 3명의 적에게 상위 패닉을 부여하는 무대소녀. 아군 전체에게 상위 횟수 마이너스 효과 해제를 적용하고, 아군 쪽 무대에 무대 효과 [쾌도난마(구름)]를 부여하는 CA가 강력하다.",
+            "zh_hant": "可透過ACT3賦予前面3名敵方高級慌亂的舞台少女。強力的CLIMAX ACT可賦予所有我方高級解除次數性負面效果，並賦予我方的舞台舞台效果「快刀斬亂麻（雲）」。"
         },
         "dex": 5,
         "dress_episode_id": 3030032,
@@ -43505,7 +43784,10 @@
         "friendship30_levelup_adventure_id": 3130300322,
         "friendship_pattern_id": 126,
         "get_message": {
-            "ja": "フロンレッドの大活躍、再び！\nステージでララフィンと握手！"
+            "en": "Another great performance by Red Frontier!",
+            "ja": "フロンレッドの大活躍、再び！\nステージでララフィンと握手！",
+            "ko": "프론 레드, 다시 한 번 대활약!\n무대에서 라라핀과 악수!",
+            "zh_hant": "紅戰士再度大展身手！\n到台上跟菈樂菲握手！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12206101,
@@ -43521,7 +43803,10 @@
         "leader_tactics_skill_id": 10069,
         "model_id": 3030032,
         "name": {
-            "ja": "元気の星 フロンレッド"
+            "en": "Energetic Star Red Frontier",
+            "ja": "元気の星 フロンレッド",
+            "ko": "활기찬 별 프론 레드",
+            "zh_hant": "活力之星 芙羅戰隊・紅戰士"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 206,
@@ -43529,7 +43814,10 @@
         "party_skill_type": 5,
         "personality_id": 6,
         "profile": {
-            "ja": "新たな脅威の襲来にフロンティアＶの戦いが再び開幕。今度の敵も猛者揃い。行け、フロンレッド！　熱い闘志と舞台を愛する心を胸に敵を討て！\nプレミアムショー『輝☆歌劇戦隊フロンティアＶ』より"
+            "en": "Frontier V faces a new powerful threat, but Frontier Red is ready! Her passionate fighting spirit and love for the stage will pierce the enemies! From Premium Show \"Brilliant☆Theater Rangers Frontier V.\"",
+            "ja": "新たな脅威の襲来にフロンティアＶの戦いが再び開幕。今度の敵も猛者揃い。行け、フロンレッド！　熱い闘志と舞台を愛する心を胸に敵を討て！\nプレミアムショー『輝☆歌劇戦隊フロンティアＶ』より",
+            "ko": "새로운 위협의 등장으로 프론티어V의 전투가 다시 시작된다. 이번엔 적들도 만만치 않은 강자들. 출동, 프론 레드! 뜨거운 투지와 무대를 사랑하는 마음을 가슴에 품고 적들을 물리쳐라!\n프리미엄 쇼 [반짝임☆가극전대 프론티어V]에서",
+            "zh_hant": "隨著新威脅的到來，芙羅提亞Ⅴ的戰鬥再次開始。 這次的敵人也非常強大。上吧，紅戰士！用妳的熱血鬥志和熱愛舞台的心，對著敵人的胸口開火吧！\n取自尊榮舞台秀『輝煌☆歌劇戰隊芙羅提亞Ⅴ』"
         },
         "published_at": 1712242800,
         "rarity_up_cost_id": 1,
@@ -51168,7 +51456,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "座長&開演Sで上位スランプを強化する舞台少女。味方全体に上位連続クライマックスACT化、前から1体の敵役に上位幕引きを付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill and Opening Skill boost Greater Slump. Her Climax Act applies Greater Multiple CA-fication to all allies, and Greater Curtains Closed to the 1st front enemy.",
+            "ja": "座長&開演Sで上位スランプを強化する舞台少女。味方全体に上位連続クライマックスACT化、前から1体の敵役に上位幕引きを付与するクライマックスACTが強力。",
+            "ko": "단장 & 개연 스킬로 상위 슬럼프를 강화하는 무대소녀. 아군 전체에게 상위 연속 클라이맥스 ACT화, 앞에서 1명의 적에게 상위 폐막을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長&開演技能來強化高級萎靡的舞台少女。強力的CLIMAX ACT可賦予所有我方高級連續CLIMAX ACT化並賦予前面1名敵方高級閉幕。"
         },
         "dex": 5,
         "dress_episode_id": 4020016,
@@ -51181,7 +51472,10 @@
         "friendship30_levelup_adventure_id": 3140200162,
         "friendship_pattern_id": 129,
         "get_message": {
-            "ja": "知的な水の神、\nミチルにピッタリじゃない？"
+            "en": "I'm quite suited for the role of a clever water goddess, no?",
+            "ja": "知的な水の神、\nミチルにピッタリじゃない？",
+            "ko": "지적인 수신,\n미치루에게 딱 맞지 않아?",
+            "zh_hant": "充滿智慧的水之神，\n很適合由未知留來演繹對吧？"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12209101,
@@ -51197,7 +51491,10 @@
         "leader_tactics_skill_id": 10064,
         "model_id": 4020016,
         "name": {
-            "ja": "水の神 ミルト"
+            "en": "Water Goddess Mild",
+            "ja": "水の神 ミルト",
+            "ko": "수신 밀트",
+            "zh_hant": "水之神 米爾特"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 210,
@@ -51205,7 +51502,10 @@
         "party_skill_type": 5,
         "personality_id": 9,
         "profile": {
-            "ja": "湖に暮らす水の神は天の神と出会い、己の知性を分け与えた。天の神と温かな心を分かちあう。もう、ひとりではない。\n演目『エリュシオン 神世の章』より"
+            "en": "The Water Goddess living in the lake met the Celestial Goddess and shared her intelligence with her. They now share a warm heart and are no longer alone. From \"Elysion - Chapter of the Gods.\"",
+            "ja": "湖に暮らす水の神は天の神と出会い、己の知性を分け与えた。天の神と温かな心を分かちあう。もう、ひとりではない。\n演目『エリュシオン 神世の章』より",
+            "ko": "호수에 사는 수신은 천신을 만나 자신의 지성을 나눠주었다. 천신과 따뜻한 마음을 나누었다. 더 이상은 혼자가 아니다.\n작품 [엘리시온 신들의 장]에서",
+            "zh_hant": "住在湖邊的水之神遇見了天之神，並把自己的智慧分享了給天之神。與天之神溫暖彼此、互訴心聲後，水之神從此不再孤單。\n取自戲碼『Elysion 神世之章』"
         },
         "published_at": 1710572400,
         "rarity_up_cost_id": 1,
@@ -52956,7 +53256,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "基本ACTで上位スランプを付与する舞台少女。味方全体に上位エール&上位起死回生&上位クリティカル威力アップを付与するクライマックスACTが強力。"
+            "en": "Her Basic Acts apply Greater Slump. Her Climax Act applies Greater Cheer, Greater Revive, and Greater Critical Up to all allies.",
+            "ja": "基本ACTで上位スランプを付与する舞台少女。味方全体に上位エール&上位起死回生&上位クリティカル威力アップを付与するクライマックスACTが強力。",
+            "ko": "기본 ACT로 상위 슬럼프를 부여하는 무대소녀. 아군 전체에게 상위 응원 & 상위 기사회생 & 상위 크리티컬 위력 증가를 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過基本ACT賦予高級萎靡的舞台少女。強力的CLIMAX ACT可賦予所有我方高級聲援&高級起死回生&[高級]提升會心威力。"
         },
         "dex": 5,
         "dress_episode_id": 4030013,
@@ -52969,7 +53272,10 @@
         "friendship30_levelup_adventure_id": 3140300132,
         "friendship_pattern_id": 127,
         "get_message": {
-            "ja": "火の神の情熱、\n私にも灯っています！"
+            "en": "The passion of the goddess of fire burns in me!",
+            "ja": "火の神の情熱、\n私にも灯っています！",
+            "ko": "화신의 열정,\n제게도 불붙었어요!",
+            "zh_hant": "我身上也燃起了\n火之神的熱情！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12207101,
@@ -52985,7 +53291,10 @@
         "leader_tactics_skill_id": 10063,
         "model_id": 4030013,
         "name": {
-            "ja": "火の神 リュール"
+            "en": "Fire Goddess Rührung",
+            "ja": "火の神 リュール",
+            "ko": "화신 뤼룽",
+            "zh_hant": "火之神 瑠爾"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 209,
@@ -52993,7 +53302,10 @@
         "party_skill_type": 5,
         "personality_id": 7,
         "profile": {
-            "ja": "火山の近くに棲む火の神は、己の炎を疎んじていた。意思に関わらず触れるものを焼き尽くし灰にしてしまう、その忌まわしい炎を。\n演目『エリュシオン 神世の章』より"
+            "en": "The goddess of fire, who lives near a volcano, despises her own flame—a flame that burns to ashes anything it touches, regardless of her will. From \"Elysion - Chapter of the Gods.\"",
+            "ja": "火山の近くに棲む火の神は、己の炎を疎んじていた。意思に関わらず触れるものを焼き尽くし灰にしてしまう、その忌まわしい炎を。\n演目『エリュシオン 神世の章』より",
+            "ko": "화산 근처에 사는 화신은 자신의 불길을 꺼려했다. 자신의 의지와는 상관없이 닿는 모든 것을 불태워 재로 만들어버리는, 그 끔찍한 불길을.\n작품 [엘리시온 신들의 장]에서",
+            "zh_hant": "火之神棲息在火山附近，她曾經非常排斥自己的火焰。因為她的火焰是不祥之火，會將觸碰的一切全部燃燒殆盡。\n取自戲碼『Elysion 神世之章』"
         },
         "published_at": 1710399600,
         "rarity_up_cost_id": 1,
@@ -55144,7 +55456,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "座長Sで味方全体に上位無敵貫通、敵役全体に上位スランプ強化[AP増加2]を付与する舞台少女。敵役全体に上位意気消沈を付与するクライマックスACTが強力。"
+            "en": "Her Leader Skill applies Pierce Greater Invincible to all allies, and Upgraded Greater Slump [AP Up 2] to all enemies. Her Climax Act applies Greater Disheartening to all enemies.",
+            "ja": "座長Sで味方全体に上位無敵貫通、敵役全体に上位スランプ強化[AP増加2]を付与する舞台少女。敵役全体に上位意気消沈を付与するクライマックスACTが強力。",
+            "ko": "단장 스킬로 아군 전체에게 상위 무적 관통, 적 전체에게 상위 슬럼프 강화[AP 증가2]를 부여하는 무대소녀. 적 전체에게 상위 의기소침을 부여하는 클라이맥스 ACT가 강력하다.",
+            "zh_hant": "可透過組長技能賦予所有我方高級貫穿無敵，並賦予所有敵方高級萎靡強化[AP増加2]的舞台少女。強力的CLIMAX ACT可賦予所有敵方高級意志消沉。"
         },
         "dex": 5,
         "dress_episode_id": 4040016,
@@ -55157,7 +55472,10 @@
         "friendship30_levelup_adventure_id": 3140400162,
         "friendship_pattern_id": 124,
         "get_message": {
-            "ja": "あの時よりも、もっと自由で\nもっと激しい風の神を。"
+            "en": "I'll become a goddess of wind that is more free and more fierce than last time!",
+            "ja": "あの時よりも、もっと自由で\nもっと激しい風の神を。",
+            "ko": "그때보다도 더 자유롭고\n더 격렬한 풍신을.",
+            "zh_hant": "我要詮釋出比那時更自由、\n更奔放的風之神！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12204101,
@@ -55173,7 +55491,10 @@
         "leader_tactics_skill_id": 10062,
         "model_id": 4040016,
         "name": {
-            "ja": "風の神 アンシュリー"
+            "en": "Wind Goddess Anschliessen",
+            "ja": "風の神 アンシュリー",
+            "ko": "풍신 안슈리",
+            "zh_hant": "風之神 安絮莉"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 204,
@@ -55181,7 +55502,10 @@
         "party_skill_type": 5,
         "personality_id": 4,
         "profile": {
-            "ja": "風のように自由で、風のようにいたずらな神。遊ぶことが大好きで、楽しいことがないか空からすべてを眺めている。\n演目『エリュシオン 神世の章』より"
+            "en": "Free and mischievous as the wind. This goddess loves to play and watches everything from the sky for fun. From \"Elysion - Chapter of the Gods.\"",
+            "ja": "風のように自由で、風のようにいたずらな神。遊ぶことが大好きで、楽しいことがないか空からすべてを眺めている。\n演目『エリュシオン 神世の章』より",
+            "ko": "바람처럼 자유롭고, 바람처럼 장난기 많은 신. 노는 것을 아주 좋아해서 재밌는 일이 없는지 하늘에서 모든 것을 살피고 있다.\n작품 [엘리시온 신들의 장]에서",
+            "zh_hant": "風之神就像風一樣自由，是位喜歡惡作劇的神。她最喜歡的事情是玩耍，總是從空中眺望世界，試圖尋找有趣的事情。\n取自戲碼『Elysion 神世之章』"
         },
         "published_at": 1710399600,
         "rarity_up_cost_id": 1,

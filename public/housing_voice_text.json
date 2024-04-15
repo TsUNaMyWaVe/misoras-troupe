@@ -12452,6 +12452,23 @@
             }
         }
     },
+    "1050031": {
+        "35": {
+            "text": {
+                "ja": "その見返りは？"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "ふふ……ライバルか。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "そなたは見事に演じてくれた。私をおい立てる、ライバルの役を。"
+            }
+        }
+    },
     "1060001": {
         "35": {
             "text": {
@@ -17346,6 +17363,64 @@
                 "ja": "このメモ書きで真っ黒な台本もあたしの宝物さ。",
                 "ko": "메모로 새까맣게 뒤덮인 이 대본도 내 보물이지.",
                 "zh_hant": "這本幾乎被筆記填得黑漆漆的劇本也是我的寶物呢。"
+            }
+        }
+    },
+    "1080032": {
+        "35": {
+            "text": {
+                "en": "\"Good grief, all the hero's followers are as stubborn as a mule.\"",
+                "ja": "『まったく、勇者に惹かれるのは頑固な奴ばかりだな』",
+                "ko": "[역시 용사에게 끌리는 건 고집불통인 녀석들뿐이야]",
+                "zh_hant": "『真是的，被勇者所吸引的都是些性格頑固的人呢』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "Kagura's playing EoB too, right? I oughta see who her favorite character is.",
+                "ja": "神楽もゲームの『エピブレ』やってるんだな。好きなキャラとか聞いてみるか。",
+                "ko": "카구라도 게임 [에픽브레] 하고 있구나. 좋아하는 캐릭터가 있는지 물어볼까.",
+                "zh_hant": "神樂也在打『史勇』。去問問她喜歡哪個角色吧。"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "The EoB series is pretty long. Every installment has something new.",
+                "ja": "『エピブレ』シリーズも色々出てるんだな。それぞれ新しい発見があるよ。",
+                "ko": "[에픽브레] 시리즈도 여러 가지가 나왔구나. 각 시리즈마다 새로운 발견이 있어.",
+                "zh_hant": "『史勇』系列也出了不少作品呢。每一部作品都會帶給玩家新的發現喔。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "\"Stupid hero, trying to deal with everything himself...\"",
+                "ja": "『勇者のやつ、何でもかんでも１人で抱え込みやがって……』",
+                "ko": "[용사 녀석, 뭐든지 혼자서 모든 걸 다 짊어져서는...]",
+                "zh_hant": "『勇者那傢伙，老是愛自己一個人承擔所有事情……』"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "Kaoruko's really putting herself into the Merchant. I can tell because she's running me ragged.",
+                "ja": "相変わらず香子の商人はハマってるな。あたしをこき使うあたりとかそっくりだ。",
+                "ko": "변함없이 카오루코의 상인은 잘 어울려. 나를 부려먹을 때랑 똑같아.",
+                "zh_hant": "香子還是那麼適合演商人呢。尤其是在使喚我的方面，她們簡直一模一樣。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "When I heard Princess Karen was gonna have a fight scene, my first thought was that she was gonna trip over her own costume.",
+                "ja": "カレン姫が殺陣やるって聞いた時は、あの衣裳で裾踏まないか心配したなあ。",
+                "ko": "카렌 공주가 전투 장면을 연기한다고 들었을 때는 그 의상을 입고 옷자락을 밟지 않을까 걱정했었지.",
+                "zh_hant": "當聽說華戀公主也有武打戲份時，我還很擔心她的那身服裝會不會害她踩到裙子呢。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "\"Hey, the princess actually knows her way around a sword. Makes you forget she's royalty... I bet she'd sock me a good one if I told her that.\"",
+                "ja": "『姫の剣、中々筋が良いな。お姫様とは思えねぇ……なんて言うと怒られるか』",
+                "ko": "[공주의 검 솜씨, 꽤 소질이 있는걸. 공주님 같지 않아...라고 말하면 화내려나]",
+                "zh_hant": "『公主還挺有劍術天份，甚至不像一個公主該有的……要是被她聽到，她會生氣吧？』"
             }
         }
     },
@@ -25147,6 +25222,48 @@
             }
         }
     },
+    "2050036": {
+        "35": {
+            "text": {
+                "ja": "タロットカードをネタにした落語って、面白そうじゃないですか？"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『魔術師』が出てくる落語……なんか、ファンタジーですね。"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "『魔術師』の知識が全部落語とは、お天道様も気付くまい。"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "魔術師の衣裳……マントが暖かそうで、よく眠れそうです。"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "塁をいっぱしの舞台女優に変える魔法、あればいいんですけど。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "『吊られた男』のために犠牲になる『魔術師』……泣かせるねぇ。"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "魔術が使えない『魔術師』、ひとつ演じてみますか！"
+            }
+        },
+        "42": {
+            "text": {
+                "ja": "『使えないからこそ、人は魔術という奇跡を追い求めるのだよ』"
+            }
+        }
+    },
     "3010001": {
         "35": {
             "text": {
@@ -28362,37 +28479,58 @@
     "3030032": {
         "35": {
             "text": {
-                "ja": "正統派のヒーローもいいけど、自分の美学を持つダークヒーローも大好き！"
+                "en": "Mainstream heroes are all well and good, but I love antiheroes with their own aesthetic, too!",
+                "ja": "正統派のヒーローもいいけど、自分の美学を持つダークヒーローも大好き！",
+                "ko": "정통파 히어로도 좋지만, 자신만의 미학을 가진 다크 히어로도 좋아해!",
+                "zh_hant": "正統的英雄當然不錯，但菈樂菲也很喜歡擁有自己獨特美學的反派英雄！"
             }
         },
         "36": {
             "text": {
-                "ja": "涼のアクションのキレはさすがだね！ララフィンも見習わないと！"
+                "en": "Suzu's got some amazing action moves! I could learn a thing or two from her!",
+                "ja": "涼のアクションのキレはさすがだね！ララフィンも見習わないと！",
+                "ko": "스즈의 액션은 역시 동작에 절도가 있어! 라라핀도 본받아야겠어!",
+                "zh_hant": "涼的武打動作超級乾淨俐落呢！菈樂菲也得向她學習才行！"
             }
         },
         "37": {
             "text": {
-                "ja": "フロンレッドの衣裳を着ると、戻ってきたなーって感じがするね！"
+                "en": "Wearing the Red Frontier costume makes me feel like, \"Ah, I'm finally back!\"",
+                "ja": "フロンレッドの衣裳を着ると、戻ってきたなーって感じがするね！",
+                "ko": "프론 레드 의상을 입으면 다시 돌아온 것 같은 느낌이 들어!",
+                "zh_hant": "只要穿上芙羅戰隊・紅戰士的服裝，就會讓菈樂菲有回到那時候的感覺呢！"
             }
         },
         "38": {
             "text": {
-                "ja": "『ソルジャー・スカーレット……手強い敵が出てきたね』"
+                "en": "\"I've got a new formidable foe...Soldier Scarlet.\"",
+                "ja": "『ソルジャー・スカーレット……手強い敵が出てきたね』",
+                "ko": "[솔저 스칼렛... 만만치 않은 적이 나타났네]",
+                "zh_hant": "『深緋士兵……出現了強大的敵人呢』"
             }
         },
         "39": {
             "text": {
-                "ja": "『新しい戦いが始まる……よーし、頑張るぞー！』"
+                "en": "\"A new fight is beginning... Okay, let's do this!\"",
+                "ja": "『新しい戦いが始まる……よーし、頑張るぞー！』",
+                "ko": "[새로운 싸움이 시작될 거야... 좋아, 힘내보자고!]",
+                "zh_hant": "『新的戰鬥就要開始了……好～我要加油～！』"
             }
         },
         "40": {
             "text": {
-                "ja": "せっかく新しいショーをやるなら、武器アイテムもリニューアルしたいな！"
+                "en": "If we're doing a new show, we gotta update our weapon props!",
+                "ja": "せっかく新しいショーをやるなら、武器アイテムもリニューアルしたいな！",
+                "ko": "이왕 새로운 쇼를 하는 거니까 무기 아이템도 새로 만들고 싶어!",
+                "zh_hant": "難得可以演出新的英雄秀，真希望武器也可以一併換新呢！"
             }
         },
         "41": {
             "text": {
-                "ja": "涼～！新しいショーのアクションを考えたから、稽古付き合って～！"
+                "en": "Suzu! I came up with an action scene for the new show! Come help me practice!",
+                "ja": "涼～！新しいショーのアクションを考えたから、稽古付き合って～！",
+                "ko": "스즈~! 새로운 쇼의 액션을 생각해왔는데, 연습 좀 도와줘~!",
+                "zh_hant": "涼～菈樂菲想到新的英雄秀的武打動作了，快來陪菈樂菲一起排練吧～！"
             }
         }
     },
@@ -32730,37 +32868,58 @@
     "4020016": {
         "35": {
             "text": {
-                "ja": "『私も名前を与えられたんだ。ミルト。そう呼んでね』"
+                "en": "\"I've been gifted with a name as well: Mild. You may call me as such.\"",
+                "ja": "『私も名前を与えられたんだ。ミルト。そう呼んでね』",
+                "ko": "[나도 이름을 받았어. 밀트. 그렇게 불러줘]",
+                "zh_hant": "『她也給我取了名字呢。米爾特，妳以後就這樣叫我吧』"
             }
         },
         "36": {
             "text": {
-                "ja": "『これからは、私がずっとあなたのそばにいるよ。そうすれば、ほら』"
+                "en": "\"Now and evermore, I will be by your side. And in so doing...\"",
+                "ja": "『これからは、私がずっとあなたのそばにいるよ。そうすれば、ほら』",
+                "ko": "[앞으로는 내가 항상 네 곁에 있을게. 그렇게 하면, 봐]",
+                "zh_hant": "『從現在起，我會一直陪在妳的身邊。這樣的話，妳看——』"
             }
         },
         "37": {
             "text": {
-                "ja": "卒業後の進路はドイツを考えてるんだ。晶とは、離れちゃうかもね。"
+                "en": "I'm thinking of going to Germany after I graduate. Akira and I might end up going our separate ways.",
+                "ja": "卒業後の進路はドイツを考えてるんだ。晶とは、離れちゃうかもね。",
+                "ko": "졸업 후 진로는 독일을 생각 중이야. 아키라랑은 떨어지게 될 것 같네.",
+                "zh_hant": "未知留打算在畢業之後前往德國。可能得與晶分隔兩地了呢。"
             }
         },
         "38": {
             "text": {
-                "ja": "舞台のレッスンも語学の勉強も生徒会のお仕事も、まとめてかかっておいで♪"
+                "en": "Rehearsal, language studies, Edel work, hit me with all of it at once♪",
+                "ja": "舞台のレッスンも語学の勉強も生徒会のお仕事も、まとめてかかっておいで♪",
+                "ko": "무대 레슨도, 어학 공부도, 학생회 일도 모두 다 한꺼번에 덤벼봐♪",
+                "zh_hant": "不論是舞台的排練、學習語言還是學生會的工作都儘管放馬過來吧♪"
             }
         },
         "39": {
             "text": {
-                "ja": "風の神の口癖の「やばい」、栞がしっかり使いこなしてるね。感心感心。"
+                "en": "Shiori's really getting the hang of the wind goddess's catchphrase. Attagirl.",
+                "ja": "風の神の口癖の「やばい」、栞がしっかり使いこなしてるね。感心感心。",
+                "ko": "풍신의 입버릇인 [감탄사]를 시오리가 적절하게 잘 사용하고 있네. 정말 장해.",
+                "zh_hant": "栞已經掌握了該如何使用風之神的口頭禪「媽呀不得了」呢。真了不起。"
             }
         },
         "40": {
             "text": {
-                "ja": "食堂のメニューを考えるの、楽しかったな～♪あんまりない経験だよね？"
+                "en": "I had a lot of fun coming up with food for the cafeteria♪ It's not every day you get to do that, am I right?",
+                "ja": "食堂のメニューを考えるの、楽しかったな～♪あんまりない経験だよね？",
+                "ko": "식당 메뉴를 고민하는 거 즐거웠어~♪ 쉽게 해볼 수 없는 경험이잖아?",
+                "zh_hant": "為食堂設計餐點真是有趣呢～♪這是一次非常寶貴的經驗！"
             }
         },
         "41": {
             "text": {
-                "ja": "まさかミチルたちの影響でピクニックが流行するなんて、驚いちゃった。"
+                "en": "I can't believe picnics caught on thanks to Michiru and the others.",
+                "ja": "まさかミチルたちの影響でピクニックが流行するなんて、驚いちゃった。",
+                "ko": "설마 우리 때문에 피크닉이 유행할 줄이야, 놀랐어.",
+                "zh_hant": "沒想到我們會帶起一陣野餐的風潮，真是把未知留嚇了一大跳呢。"
             }
         }
     },
@@ -33733,37 +33892,58 @@
     "4030013": {
         "35": {
             "text": {
-                "ja": "しゃぼん玉を吹くミチルさんと栞を見て、なんだか癒されました。"
+                "en": "Watching Michiru-san and Shiori blow bubbles was really soothing.",
+                "ja": "しゃぼん玉を吹くミチルさんと栞を見て、なんだか癒されました。",
+                "ko": "비눗방울 놀이를 하는 미치루 선배와 시오리를 보고 왠지 마음이 따뜻해졌어요.",
+                "zh_hant": "總覺得未知留學姐和栞吹泡泡的樣子非常療癒人心呢。"
             }
         },
         "36": {
             "text": {
-                "ja": "晶さんの進路の候補のひとつがNYだそうです。私も興味が湧いています！"
+                "en": "Akira-san says one of her potential options after graduation is in New York. Now I'm interested, too!",
+                "ja": "晶さんの進路の候補のひとつがNYだそうです。私も興味が湧いています！",
+                "ko": "아키라 선배의 진로 후보 중 하나가 뉴욕이라고 해요. 저도 흥미가 생겼어요!",
+                "zh_hant": "聽說晶學姐也有考慮畢業之後要去紐約。這讓我也對那裡產生了興趣！"
             }
         },
         "37": {
             "text": {
-                "ja": "今回の舞台のためにミチルさんが暗躍……いえ、奔走されたそうです。"
+                "en": "I hear Michiru-san did a lot for us behind the scenes this time... And bit off more than she could chew.",
+                "ja": "今回の舞台のためにミチルさんが暗躍……いえ、奔走されたそうです。",
+                "ko": "이번 무대를 위해 미치루 선배가 암약... 아니 바쁘게 움직이셨다고 해요.",
+                "zh_hant": "據說未知留學姐在暗地裡……不，在明面上為這次的舞台劇到處奔波了呢。"
             }
         },
         "38": {
             "text": {
-                "ja": "最近は時間を見つけては、中等部のみなさんの指導をしに行ってるんです。"
+                "en": "Lately, I've been making time to give the junior high students some guidance.",
+                "ja": "最近は時間を見つけては、中等部のみなさんの指導をしに行ってるんです。",
+                "ko": "요즘은 시간을 내서 중등부 여러분을 지도하러 다니고 있어요.",
+                "zh_hant": "最近只要有時間，我就會去中學部指導大家。"
             }
         },
         "39": {
             "text": {
-                "ja": "前回演じた『神世の章』も今回も、どちらも私にとって大切な舞台です。"
+                "en": "Both the previous performance of Chapter of the Gods and this one are very special to me.",
+                "ja": "前回演じた『神世の章』も今回も、どちらも私にとって大切な舞台です。",
+                "ko": "지난번에 연기한 [신들의 장]과 이번 무대, 둘 다 저한테는 소중한 무대예요.",
+                "zh_hant": "不論是這次還是上次的『神世之章』，對我而言都是非常重要的舞台。"
             }
         },
         "40": {
             "text": {
-                "ja": "「次期『フラウ・プラティーン』」……口に出すと少しだけ心がざわめきます。"
+                "en": "\"The next Frau Platin.\" ...Saying it aloud makes me a little restless.",
+                "ja": "「次期『フラウ・プラティーン』」……口に出すと少しだけ心がざわめきます。",
+                "ko": "[차기 '프라우 플라틴']... 입 밖에 꺼내면 마음이 조금 술렁거려요.",
+                "zh_hant": "「下一屆『白金皇君』」……光是說出這個詞彙，就令我心口微顫。"
             }
         },
         "41": {
             "text": {
-                "ja": "晶さんはいつも堂々とされていて……あれが王の威厳というものですね。"
+                "en": "Akira-san is always so majestic... That is the dignity of a king.",
+                "ja": "晶さんはいつも堂々とされていて……あれが王の威厳というものですね。",
+                "ko": "아키라 선배는 항상 당당하세요... 저게 왕의 위엄이라는 거군요.",
+                "zh_hant": "晶學姐不論何時都充滿自信……那就是所謂王的威嚴嗎。"
             }
         }
     },
@@ -34984,37 +35164,58 @@
     "4040016": {
         "35": {
             "text": {
-                "ja": "初演の幕が上がる瞬間、いまでもよく覚えています。とっても緊張しました。"
+                "en": "I still vividly remember the moment the curtain rose on our first performance of this play. I had some serious butterflies.",
+                "ja": "初演の幕が上がる瞬間、いまでもよく覚えています。とっても緊張しました。",
+                "ko": "초연의 막이 오르는 순간을 지금도 선명히 기억하고 있어요. 정말 긴장됐어요.",
+                "zh_hant": "我永遠也不會忘記首次演出時，帷幕升起的那一刻我有多麼緊張。"
             }
         },
         "36": {
             "text": {
-                "ja": "『さぁ！ダンスの始まり始まり～！』"
+                "en": "\"Come on! Get down with your bad selves!\"",
+                "ja": "『さぁ！ダンスの始まり始まり～！』",
+                "ko": "[자! 춤을 출 시간이야~!]",
+                "zh_hant": "『來！要開始跳舞囉～！』"
             }
         },
         "37": {
             "text": {
-                "ja": "メイファン先輩の殺陣の演技、本当に燃え盛る炎のようでドキドキします。"
+                "en": "Mei Fan-senpai's fight scenes are so thrilling. They burn like real flames.",
+                "ja": "メイファン先輩の殺陣の演技、本当に燃え盛る炎のようでドキドキします。",
+                "ko": "메이팡 선배의 결투 장면 연기는 정말 활활 타오르는 불길 같아서 가슴이 두근거려요.",
+                "zh_hant": "美帆學姐的武打戲就像燃燒的烈焰一樣，令人忍不住心跳加速。"
             }
         },
         "38": {
             "text": {
-                "ja": "『掟を破って３人で楽しくやっちゃってさ！ずっる～い！私もまぜてよ！』"
+                "en": "\"Look at you three, breaking the commandments and having all this fun! No fair! I wanna play, too!\"",
+                "ja": "『掟を破って３人で楽しくやっちゃってさ！ずっる～い！私もまぜてよ！』",
+                "ko": "[법도를 어기고 셋이서만 재밌게 즐기다니! 치사해~! 나도 껴줘!]",
+                "zh_hant": "『看妳們三人打破戒律，玩得多開心！太狡猾了～！我也要一起玩！』"
             }
         },
         "39": {
             "text": {
-                "ja": "やちよ先輩とこれから採寸なんです。あの時からどれくらい背、伸びたかな。"
+                "en": "I have to go see Yachiyo-senpai to get my measurements taken. I wonder how much taller I've grown since last time...",
+                "ja": "やちよ先輩とこれから採寸なんです。あの時からどれくらい背、伸びたかな。",
+                "ko": "야치요 선배랑 지금부터 치수를 잴 거예요. 그때보다 키가 얼마나 자랐을까.",
+                "zh_hant": "我正要和八千代學姐一起去量尺寸。不知道我比那時長高了多少呢。"
             }
         },
         "40": {
             "text": {
-                "ja": "『ヤバっ！』『ヤッバ～』『ヤバ……』『ヤッバ！』……ヤバいって奥深いです。"
+                "en": "\"Gnarly!\" \"Gnarlyyy...\" \"Gnarly...\" \"GnarLY!\" ...There sure is a lot of depth to \"gnarly.\"",
+                "ja": "『ヤバっ！』『ヤッバ～』『ヤバ……』『ヤッバ！』……ヤバいって奥深いです。",
+                "ko": "[왓!][와~][와...][우와!]... 감탄사는 정말 심오하네요.",
+                "zh_hant": "『我的媽呀！』、『媽呀笑死～』、『媽呀……』、『媽呀不得了！』……『媽呀』這個表達方式真是博大精深。"
             }
         },
         "41": {
             "text": {
-                "ja": "この５人でもう一度、『神世の章』を演じられたことは私の誇りです。"
+                "en": "I'm proud I get to play Chapter of the Gods with everyone one more time.",
+                "ja": "この５人でもう一度、『神世の章』を演じられたことは私の誇りです。",
+                "ko": "이렇게 다섯 명이서 함께 다시 한번 [신들의 장]을 연기할 수 있게 된 것이 자랑스러워요.",
+                "zh_hant": "能以相同的陣容再演一次『神世之章』是我的榮幸。"
             }
         }
     },
