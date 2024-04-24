@@ -3769,10 +3769,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Uriel Karen Aijo",
             "ja": "ウリエル 愛城華恋",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "우리엘 아이조 카렌",
+            "zh_hant": "烏列爾 愛城華戀"
         }
     },
     "1020001": {
@@ -4237,6 +4237,22 @@
             "ja": "競演のレヴュー 神楽ひかり",
             "ko": "경연의 레뷰 카구라 히카리",
             "zh_hant": "競技的Revue 神樂光"
+        }
+    },
+    "1020030": {
+        "chara_id": 102,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ガウェイン Encore 神楽ひかり",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1020032": {
@@ -6303,6 +6319,22 @@
             "zh_hant": "薇薇安 Encore 星見純那"
         }
     },
+    "1060036": {
+        "chara_id": 106,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "女教皇 Encore 星見純那",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "1070001": {
         "chara_id": 107,
         "description": {
@@ -6765,6 +6797,22 @@
             "ja": "ミカエル 大場なな",
             "ko": "미카엘 다이바 나나",
             "zh_hant": "米迦勒 大場奈奈"
+        }
+    },
+    "1070030": {
+        "chara_id": 107,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ソロモン王 大場なな",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1080001": {
@@ -8061,6 +8109,16 @@
             "ja": "ヴィーナス 巴珠緒",
             "ko": "비너스 토모에 타마오",
             "zh_hant": "維納斯 巴珠緒"
+        }
+    },
+    "2010033": {
+        "chara_id": 201,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "クレオパトラ 巴珠緒"
         }
     },
     "2020001": {
@@ -11919,6 +11977,16 @@
             "zh_hant": "忠義之士 傅 柳美帆"
         }
     },
+    "4030036": {
+        "chara_id": 403,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "女帝 Encore リュウ・メイファン"
+        }
+    },
     "4040001": {
         "chara_id": 404,
         "description": {
@@ -13455,6 +13523,22 @@
             "zh_hant": "埃爾達 穗波冰雨"
         }
     },
+    "5030004": {
+        "chara_id": 503,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "シバの女王 穂波氷雨",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "5030005": {
         "chara_id": 503,
         "description": {
@@ -13689,10 +13773,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Uriel Karen Aijo",
             "ja": "ウリエル 愛城華恋",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "우리엘 아이조 카렌",
+            "zh_hant": "烏列爾 愛城華戀"
         }
     },
     "10200051": {
@@ -14413,6 +14497,16 @@
             "ja": "パジャマパーティー 巴珠緒",
             "ko": "파자마 파티 토모에 타마오",
             "zh_hant": "睡衣派對 巴珠緒"
+        }
+    },
+    "20100331": {
+        "chara_id": 201,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "クレオパトラ 巴珠緒"
         }
     },
     "20300041": {
