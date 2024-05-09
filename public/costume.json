@@ -4249,10 +4249,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Gawain Encore Hikari Kagura",
             "ja": "ガウェイン Encore 神楽ひかり",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "가웨인 Encore 카구라 히카리",
+            "zh_hant": "高文 Encore 神樂光"
         }
     },
     "1020032": {
@@ -4781,6 +4781,22 @@
             "ja": "ルシファー 露崎まひる",
             "ko": "루시퍼 츠유자키 마히루",
             "zh_hant": "路西法 露崎真晝"
+        }
+    },
+    "1030032": {
+        "chara_id": 103,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Sorcerer Mahiru Mahiru Tsuyuzaki",
+            "ja": "魔法使いマヒル 露崎まひる",
+            "ko": "마법사 마히루 츠유자키 마히루",
+            "zh_hant": "魔法師真晝 露崎真晝"
         }
     },
     "1030033": {
@@ -5341,6 +5357,22 @@
             "ja": "ガブリエル 西條クロディーヌ",
             "ko": "가브리엘 사이조 클로딘",
             "zh_hant": "加百列 西條克洛迪娜"
+        }
+    },
+    "1040036": {
+        "chara_id": 104,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "恋人 Encore 西條クロディーヌ",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1050001": {
@@ -6329,10 +6361,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "High Priestess Encore Junna Hoshimi",
             "ja": "女教皇 Encore 星見純那",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "여교황 Encore 호시미 준나",
+            "zh_hant": "女教皇 Encore 星見純那"
         }
     },
     "1070001": {
@@ -6809,10 +6841,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "King Solomon Nana Daiba",
             "ja": "ソロモン王 大場なな",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "솔로몬 왕 다이바 나나",
+            "zh_hant": "所羅門王 大場奈奈"
         }
     },
     "1080001": {
@@ -7229,6 +7261,22 @@
             "ja": "武闘家フタバ 石動双葉",
             "ko": "격투가 후타바 이스루기 후타바",
             "zh_hant": "武鬥家雙葉 石動雙葉"
+        }
+    },
+    "1080036": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "力 Encore 石動双葉",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1090001": {
@@ -8114,11 +8162,17 @@
     "2010033": {
         "chara_id": 201,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "クレオパトラ 巴珠緒"
+            "en": "",
+            "ja": "クレオパトラ 巴珠緒",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "2020001": {
@@ -8791,6 +8845,22 @@
             "ja": "吟遊詩人オルフェウス 夢大路文",
             "ko": "음유시인 오르페우스 유메오지 후미",
             "zh_hant": "吟遊詩人 奧菲斯 夢大路文"
+        }
+    },
+    "2030036": {
+        "chara_id": 203,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Temperance Encore Fumi Yumeoji",
+            "ja": "節制 Encore 夢大路文",
+            "ko": "절제 Encore 유메오지 후미",
+            "zh_hant": "節制 Encore 夢大路文"
         }
     },
     "2040001": {
@@ -10617,6 +10687,22 @@
             "zh_hant": "孤高之星 芙羅戰隊・黃戰士 惠比壽司"
         }
     },
+    "3040036": {
+        "chara_id": 304,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Charity Encore Tsukasa Ebisu",
+            "ja": "慈善 Encore 恵比寿つかさ",
+            "ko": "자선 Encore 에비스 츠카사",
+            "zh_hant": "慈愛 Encore 惠比壽司"
+        }
+    },
     "3050001": {
         "chara_id": 305,
         "description": {
@@ -11980,11 +12066,17 @@
     "4030036": {
         "chara_id": 403,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "女帝 Encore リュウ・メイファン"
+            "en": "",
+            "ja": "女帝 Encore リュウ・メイファン",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "4040001": {
@@ -12737,6 +12829,22 @@
             "ja": "大地の神 フェアエール 鶴姫やちよ",
             "ko": "지신 페어에른 츠루히메 야치요",
             "zh_hant": "大地之神 菲亞挨爾 鶴姬八千代"
+        }
+    },
+    "4050036": {
+        "chara_id": 405,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "愚者 Encore 鶴姫やちよ",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "4060001": {
@@ -13533,10 +13641,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Queen of Sheba Hisame Honami",
             "ja": "シバの女王 穂波氷雨",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "시바의 여왕 호나미 히사메",
+            "zh_hant": "示巴女王 穗波冰雨"
         }
     },
     "5030005": {
@@ -14502,11 +14610,17 @@
     "20100331": {
         "chara_id": 201,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "クレオパトラ 巴珠緒"
+            "en": "",
+            "ja": "クレオパトラ 巴珠緒",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "20300041": {

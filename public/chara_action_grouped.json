@@ -108,9 +108,6 @@
             "Happy New Year! We will all do Starlight this year, too!",
             null
         ],
-        "birthday_103": [
-            "Happy birthday, Mahiru-chan! The lavender bouquet Jun-Jun and I got for you smells so good!"
-        ],
         "birthday_105": [
             "Happy birthday! Hikari-chan and I picked out T-shirts that we though would suit you! I hope you'll wear it when you work out."
         ],
@@ -134,6 +131,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Futaba-chan! I'll give you a free motorcycle wash before the party! My washcloth's raring to go♪"
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru-chan! Kaoruko-chan and I made candied sweet potatoes out of Mahiru Spuds, and they're a lot better than we were expecting! You gotta have 'em♪"
         ]
     },
     "Karen Aijo Uniform": {
@@ -1339,9 +1339,6 @@
             "Happy New Year. I'm really looking forward to spending the holidays with Karen and everyone. Say, doesn't mochi remind you of jellyfish?",
             null
         ],
-        "birthday_103": [
-            "Happy birthday. ...Thank you for everything you do."
-        ],
         "birthday_105": [
             "Happy birthday. I believe that the T-shirt that I picked for you will suit you better... Try it on."
         ],
@@ -1365,6 +1362,9 @@
         ],
         "birthday_108": [
             "Happy birthday. I'm not sure Karen can handle it herself, so I'll help her wash your motorcycle."
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru. Everyone helped me make meat and potato stew... How is it?"
         ]
     },
     "Hikari Kagura Uniform": {
@@ -2299,26 +2299,36 @@
             null
         ]
     },
-    "UNKNOWN(1020030) Hikari Kagura": {
+    "Gawain Encore Hikari Kagura": {
         "quest_result": [
-            ""
+            "It was really fun to perform the role of Gawain..."
         ],
         "quest_dress": [
-            ""
+            "\"I might be a Knight of the Round Table, but I've still got a lot to learn. I have to keep training.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "I'm a bit worried about how fans of the original story will react to our Gawain because we have given him new aspects in our story.",
+            "\"This is my problem. I'm your friend, and also a loyal subject of His Highness. I don't want to see you two fight.\"",
+            "\"...Stop this fight! Your Highness, Sir Lancelot, please sheathe your swords!\"",
+            "\"I know that you still trust His Highness, Sir Lancelot.\"",
+            "\"How dare you frame His Highness King Arthur! I will never forgive you!\"",
+            "\"I swear on this Galatine that I will bring the truth to light!\"",
+            "\"The Lost Holy Grail\" is an adventure based on the legends of King Arthur with added elements from detective stories.",
+            "Gawain is pretty different from his counterpart in the original story. I will have to be careful of how I interpret him this time."
         ],
         "touch_normal": [
-            "",
-            ""
+            "Trying to guess who made Arthur steal the Holy Grail is one of the fun elements of our play.",
+            "Gawain is as important as the main lead this time. You'll have to see our play if you want to know how."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Legendary Hero Hikari Hikari Kagura": {
@@ -2528,9 +2538,6 @@
             "Happy New Year. If you're going to visit the shrine, make sure to dress warm! It's really cold out!",
             null
         ],
-        "birthday_103": [
-            "Thanks for all the birthday wishes, everyone! I'm so glad I decided to come here and become a Stage Girl."
-        ],
         "birthday_105": [
             "Happy birthday! I found some nice yoga socks that I thought you'd like. What do you think?"
         ],
@@ -2557,6 +2564,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Futaba-chan! I made lots of different kinds of yakiniku sauce. I hope you like them."
+        ],
+        "birthday_103": [
+            "Thanks, everyone! It brings a tear to my eye to see all the great foods you've made with Mahiru Spuds...!"
         ]
     },
     "Mahiru Tsuyuzaki Uniform": {
@@ -3564,6 +3574,38 @@
             "\"Tell me, why won't you love me the most...?\""
         ]
     },
+    "Sorcerer Mahiru Mahiru Tsuyuzaki (Skin)": {
+        "quest_result": [
+            "I'm not alone. I won't lose!"
+        ],
+        "quest_dress": [
+            "\"This time, I fight to save her. I will gain strength to surpass the Demon King.\""
+        ],
+        "common": [
+            "\"...I suppose I have to admit it. Together, hero, we can save Her Highness.\"",
+            "\"Never again will I bow to the Demon King. You are my one and only liege.\"",
+            "\"Hah. Me, helping the hero. The irony is rich.\"",
+            "What to put in my lunch... Maybe not konnyaku. It's too jiggly.",
+            "We're only doing it because of the Epic of Bravery play, but talking about video games with everyone is a new experience.",
+            "Karen-chan looks so restless when we practice. She doesn't have any real scenes until toward the end, after all.",
+            "\"The archives are nice and quiet. I don't have to be disturbed by people's boorish banter.\"",
+            "I'm so happy I get to hold this staff again. I'd better polish it nice and clean."
+        ],
+        "touch_normal": [
+            "\"The sight of Her Highness imprisoned in ice drives home my own powerlessness. But considering the pain she's going through, I have no time to waste moping...\"",
+            "Practice starts first thing tomorrow morning, so I'd better get their lunches ready tonight..."
+        ],
+        "My Theater": [
+            "Clau-chan is still rehearsing...? I won't let her outdo me!",
+            "Hikari-chan, remember to tidy up after you're finished with your game, okay?",
+            "The bgm for older games is so cute.",
+            "This tricorn is perfect for a sorcerer. I love it.",
+            "My family sent me potatoes, so we're having croquettes for dinner♪",
+            "If I could use magic, I'd fly home to Hokkaido.",
+            "\"Hero, how do you have so much faith in people?\"",
+            "\"A martial artist? Hmph, more like a barbarian who only knows violence.\""
+        ]
+    },
     "Lancelot Encore Mahiru Tsuyuzaki": {
         "quest_result": [
             "Did I portray Lancelot's chivalry well?"
@@ -3809,9 +3851,6 @@
             "Bonne année! Happy New Year. Today's the start of a new year... The year I take down Maya Tendo!",
             null
         ],
-        "birthday_103": [
-            "Bon anniversaire! I found some macaroons with a baseball design on them and thought of you."
-        ],
         "birthday_105": [
             "Bon anniversaire, Maya Tendo. Here's some of the hair oil that I recommend. You mentioned before that you were curious about it."
         ],
@@ -3835,6 +3874,9 @@
         ],
         "birthday_108": [
             "Bon anniversaire, Futaba. I got my hands on some good reference material for fight scenes. Let's watch them and practice together sometime."
+        ],
+        "birthday_103": [
+            "Bon anniversaire. I made some Mahiru Spud croquettes. I was competing with you-know-who to see who could mash the fastest, and we made a bit too much."
         ]
     },
     "Claudine Saijo Uniform": {
@@ -4885,6 +4927,28 @@
             "\"Be not afraid. Tonight I proclaim to you the holy Word, full of love...\""
         ]
     },
+    "UNKNOWN(1040036) Claudine Saijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Aladdin Claudine Saijo (Skin)": {
         "quest_result": [
             "Let's go home, Genie of the Lamp."
@@ -5042,9 +5106,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_103": [
-            "Happy birthday. In honor of your golden Mahiru Spuds, let us continue to shine on stage together."
-        ],
         "birthday_105": [
             "Everyone, thank you for helping me celebrate my birthday. Let's all take our performances to the next level. I'm excited to get back to rehearsals."
         ],
@@ -5071,6 +5132,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Isurugi-san. We prepared your favorite: yakiniku. Don't worry about me; eat your fill."
+        ],
+        "birthday_103": [
+            "Happy birthday, Tsuyuzaki-san. I made Mahiru Spud potato mochi. I like to think I mashed the potatoes more smoothly."
         ]
     },
     "Maya Tendo Uniform": {
@@ -6209,9 +6273,6 @@
             "Happy New Year. Have you seen everyone else yet?  If not, maybe we can go together!",
             null
         ],
-        "birthday_103": [
-            "Happy birthday. When we were choosing flowers, Karen said that all the flowers are as cheerful as you are, so we couldn't make up our mind."
-        ],
         "birthday_105": [
             "Happy birthday. Nana and I prepared some herbal tea. We looked the effects and chose the tea best suited for you."
         ],
@@ -6235,6 +6296,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Isurugi-san. We all made the cake decorations ourselves. Karen made the daruma with the crown."
+        ],
+        "birthday_103": [
+            "Happy birthday, Tsuyuzaki-san. Today I learned you can make sweet potatoes with regular old potatoes, too. Nana and I made them together."
         ]
     },
     "Junna Hoshimi Uniform": {
@@ -7212,26 +7276,36 @@
             "Saijo-san and Isurugi-san make a good sweets making team."
         ]
     },
-    "UNKNOWN(1060036) Junna Hoshimi": {
+    "High Priestess Encore Junna Hoshimi": {
         "quest_result": [
-            ""
+            "The decisions of the \"High Priestess\" are always right!"
         ],
         "quest_dress": [
-            ""
+            "\"Believe in God and keep learning—I will give you my blessings and protection.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"The 'High Priestess' will never forgive those who deny the miracle of God!\"",
+            "\"Faith in God and love for God are the only things that will save this world from the epidemic that's surrounded the world in despair.\"",
+            "\"O 'Star Girl'... I cannot accept some foreign body that's come from a world with no God.\"",
+            "\"We don't need reform... The eternal continuation of God's world is the only happiness of mankind.\"",
+            "The \"High Priestess\" Arcana... I've done a lot of research, but it's a complicated and difficult card.",
+            "There are no historical figures known as the \"High Priestess\" in the first place.",
+            "With no models to go by, it's so difficult to come up with a portrayal. Are there any roles that match the \"High Priestess\"?",
+            "There are a lot of churches near my parents' house, so I'm quite familiar with them. There's also a church in the prefecture that's been listed as a world heritage site."
         ],
         "touch_normal": [
-            "",
-            ""
+            "The \"High Priestess\"... The second Major Arcana.",
+            "The upright position of the \"High Priestess\" means comprehension, knowledge, wisdom. Okay, I'm confident about things related to learning."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Happy Valentine Junna Hoshimi": {
@@ -7348,9 +7422,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_103": [
-            "Happy birthday♪ I made a mini album with your photos. I think there are a lot of pictures with Karen..."
-        ],
         "birthday_105": [
             "Happy birthday♪ For the hard-working at the top of her class, here's some herbal tea! I hope you like it."
         ],
@@ -7374,6 +7445,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Futaba-chan♪ We all worked together to make your birthday cake. We've got meat, too, so we're having a full-on party tonight."
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru-chan! No, no, sit down. We all made potato dishes for you today♪"
         ],
         "birthday_503": [
             "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
@@ -8304,26 +8378,35 @@
             "\"Brother... I imagine I'll never again call him by that name.\""
         ]
     },
-    "UNKNOWN(1070030) Nana Daiba": {
+    "King Solomon Nana Daiba": {
         "quest_result": [
-            ""
+            "Solomon's a mighty king who protects everyone♪"
         ],
         "quest_dress": [
-            ""
+            "\"Naught can be gained without due labor. I shall give of myself as much as I must.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"To me, demons! In the name of Solomon, I command you!\"",
+            "\"Let us go. Let us marry our wish to the dreams of old.\"",
+            "\"This God-given wisdom is my true crown... And I will use it for the people of tomorrow.\"",
+            "\"'Solomon' means 'the peaceful.' Truly a fitting name for me.\"",
+            "Clau-chan's demon acting is so adorable. She's like a mischievous little imp♪",
+            "Mahiru-chan and Hisame-chan look like they're having a lot of fun. Are they talking about Suzu-chan?",
+            "Junna-chan's so smart! She's definitely putting her brains to good use interpreting the script.",
+            "When I let my hair down, Karen-chan comes up to me like, \"Oh no, Banana's bananas are gone!\""
         ],
         "touch_normal": [
-            "",
-            ""
+            "Hisame-chan and Mahiru-chan and Clau-chan made me some pastries from ancient times! ...I'm so lucky to have them♪",
+            "If I had Solomon's ring that lets you talk to plants, would I be able to talk to bananas?"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Phantom Nana Daiba (Skin)": {
@@ -8483,9 +8566,6 @@
             "Happy New Year! Here's hoping it's a good one! Maybe I should take Kaoruko and go for my first ride of the year!",
             null
         ],
-        "birthday_103": [
-            "Happy birthday! Thanks for always supporting everyone. I'd like to learn to be more like you."
-        ],
         "birthday_105": [
             "Happy birthday, Tendo! I bought you a cooling towel for your birthday because I thought it'd be nice to have on a hot day. Let's go for a run together soon!"
         ],
@@ -8509,6 +8589,9 @@
         ],
         "birthday_108": [
             "Thanks for the wild party, guys! But, uh, Kaoruko... Does that count?"
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru. I made fries. Even got cheese and ketchup for 'em."
         ]
     },
     "Futaba Isurugi Uniform": {
@@ -9333,6 +9416,28 @@
             "\"Hey, the princess actually knows her way around a sword. Makes you forget she's royalty... I bet she'd sock me a good one if I told her that.\""
         ]
     },
+    "UNKNOWN(1080036) Futaba Isurugi": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "GENERIC Kaoruko Hanayagi": {
         "loginbonus": [
             "I'll let you keep me company today."
@@ -9402,9 +9507,6 @@
             "Futaba-haaan! Help me put on this kimono! ...Oh, hello. Happy New Year to you.",
             null
         ],
-        "birthday_103": [
-            "Happy birthday. I don't know why, but I suddenly feel like eating your homemade cooking. You really are talented."
-        ],
         "birthday_105": [
             "Happy birthday. I got you some nice, scented bath salts. Make sure to let your body rest after a long rehearsal."
         ],
@@ -9428,6 +9530,9 @@
         ],
         "birthday_108": [
             "Happy birthday, Futaba-han. Just for today, just once, I'll do any one thing you say. So where are we going?"
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru-han. Karen-han and I made candied sweet potatoes. Not what you'd expect from regular potatoes, huh?"
         ]
     },
     "Kaoruko Hanayagi Uniform": {
@@ -11379,22 +11484,31 @@
     },
     "UNKNOWN(2010033) Tamao Tomoe": {
         "quest_result": [
-            null
+            ""
         ],
         "quest_dress": [
-            null
+            ""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
             null,
             null
         ]
@@ -11433,24 +11547,24 @@
     },
     "UNKNOWN(20100331) Tamao Tomoe": {
         "quest_result": [
-            null
+            ""
         ],
         "quest_dress": [
-            null
+            ""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "touch_normal": [
-            null,
-            null
+            "",
+            ""
         ]
     },
     "GENERIC Ichie Otonashi": {
@@ -12957,6 +13071,28 @@
             "Shiori and Yachiyo brought me pomegranate juice while I was practicing.",
             "\"Whatever you do, don't turn around\"...? What are you up to this time, Ichie?",
             "\"Ahh, Eurydice... For you, I would go anywhere.\""
+        ]
+    },
+    "Temperance Encore Fumi Yumeoji": {
+        "quest_result": [
+            "It went right as expected."
+        ],
+        "quest_dress": [
+            "\"This is a bargain. For our sakes, I want you to follow me.\""
+        ],
+        "common": [
+            "\"As the prosecutor in Happiness City, it is my duty to eradicate anything and anyone who might pose a threat to the balance of the world.\"",
+            "\"You are free to say whatever you like. I feel nothing but pride toward my position as prosecutor of Happiness City.\"",
+            "\"That \"Sun\" girl is quite troublesome. Her singing without permission could potentially threaten the peace of the city.\"",
+            "\"Indeed, Your Honor.\" \"Indeed, Your Honor.\" \"Indeed, Your Honor...\"",
+            "I will sacrifice anything to revive Rinmeikan's Performance Department. ...Even ponzu, you ask? W-Well...",
+            "\"Temperance\" is depicted flowing the water of life between two cups, and represents order. ...Who joked that they're just trying to 'recycle water'!?",
+            "'It's impossible for someone as emotional as you to manipulate things from behind the scenes'... Michiru sure doesn't mince her words.",
+            "I get it—I don't need Ichie telling me what to do. I know exactly what I have to do."
+        ],
+        "touch_normal": [
+            "Fumi Yumeoji. I'm playing the fourteenth Arcana, \"Temperance\". It's the one after Tamao's \"Death\".",
+            "\"Temperance's\" upright position means \"coordination\", \"order\", and \"skillful management\". I AM good at balancing expenses actually."
         ]
     },
     "Angel's Blessing Fumi Yumeoji (Skin)": {
@@ -17322,6 +17458,28 @@
             "\"Don't give up... When the pain is over, hope awaits you!\""
         ]
     },
+    "Charity Encore Tsukasa Ebisu": {
+        "quest_result": [
+            "I don't intend on going easy on them!"
+        ],
+        "quest_dress": [
+            "\"Even if you find me annoying, I will stay by your side. Making you independent is my reason for being here.\""
+        ],
+        "common": [
+            "\"Even if I'm seen as a hypocrite, I will follow through with my 'Charity'.\"",
+            "\"Even if I give away or lose what I have, I can still save others. As long as we have a good heart...man will reach paradise one day.\"",
+            "\"The heart you saved will be the light that saves you one day... And that has taken the form of the \"Star Girl\".\"",
+            "\"The day when everyone can stand on their own feet is when we no longer need 'Charity'. That is my wish.\"",
+            "The Visconti-Sforza tarot deck. I've never seen it in the fortune-telling section of fashion magazines.",
+            "Charity would be like benefit performances. I hope by standing on the stage, I'll be able to give something to the people watching.",
+            "Affection and charity... \"Charity\" isn't only about giving. This is tricky.",
+            "Charity work and volunteer... I'm able to do many different kinds of small \"Charity\" work."
+        ],
+        "touch_normal": [
+            "\"Charity\" is one of the Arcana from the oldest tarot deck—Visconti-Sforza.",
+            "The Waite and Marseilles versions don't have \"Charity\", \"Faith\" and \"Hope\"... It's because there's no information that makes the preparations fulfilling."
+        ]
+    },
     "GENERIC Shizuha Kocho": {
         "loginbonus": [
             "Have you done your stretches yet? If not, we why don't we do them together?"
@@ -18983,13 +19141,13 @@
             "Yachiyo got us placemats for the picnic... And mine is the only one with a chili pepper design. How thoughtful of her."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Please, stand up. Please. I don't wish to hurt you.\"",
+            "\"I learned once that one ought give names to what one holds dear. Your name shall be Verehrung.\"",
+            "We plan to take the mugs Shiori got for us with us when we graduate.",
+            "I saw Mei Fan holding a New York guidebook... Is she planning on coming with me?",
+            "This scene's lighting doesn't match the acting... Michiru, go double-check with the head of lighting.",
+            "Michiru, let's make our observation of the junior high a regular endeavor. They are the future of this school.",
+            "\"I know not the name of this emotion. What is it called?\""
         ]
     },
     "Perseus Akira Yukishiro (Skin)": {
@@ -20571,22 +20729,32 @@
     },
     "UNKNOWN(4030036) Liu Mei Fan": {
         "quest_result": [
-            null
+            ""
         ],
         "quest_dress": [
-            null
+            ""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "touch_normal": [
+            "",
+            ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
             null,
             null
         ]
@@ -22322,6 +22490,28 @@
             "\"I have finally found the cause of calamity: the emotion of jealousy.\""
         ]
     },
+    "UNKNOWN(4050036) Yachiyo Tsuruhime": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Cupid Yachiyo Tsuruhime (Skin)": {
         "quest_result": [
             "Have you fallen in love? Heh heh."
@@ -23230,13 +23420,13 @@
             "\"So there are such places in this world. I didn't know...\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"You're working hard, Claudia.\"",
+            "\"You call yourself a knight?! How could you run from a fight?!\" ",
+            "\"Let's wake those peace-loving idiots up.\" ",
+            "I think I feel a little closer with Sh-Shiro-chan now.",
+            "Minase-senpai's nickname for me, Dove-chan, is really cute... I think?",
+            "I'm glad Ms. Ukaji was our chaperone. If it was some scary teacher I'd never met before...",
+            "It's amazing how casual Minku can be with senpai from other schools... I'm kind of jealous of her."
         ]
     },
     "GENERIC Minku Umibe": {
@@ -24263,14 +24453,14 @@
         "birthday_player": [
             "Happy birthday! I hope you'll have a wonderful day!"
         ],
-        "birthday_103": [
-            "Mahiru, happy birthday! Is there anything you want me to do? Want me to carry you like a princess? I'm on it!"
-        ],
         "birthday_502": [
             "Thank you, everyone! I really felt the warmth from everyone. I couldn't help but dance along."
         ],
         "birthday_501": [
             "Happy birthday, Koharu! I got you this popular skin care thing called... Uh, how do you pronounce this... I dunno, it's foreign!"
+        ],
+        "birthday_103": [
+            "Happy birthday, Mahiru! Go ahead and use this \"make me do any one thing you want\" coupon whenever you want! I'll come running."
         ],
         "birthday_503": [
             "Happy birthday, Hisame! Bananan and I baked a cake for you. Hurry up and eat it, 'cause it's really good!"
@@ -24780,26 +24970,35 @@
             "\"Wake up and fall in love, my dear... You can do it.\""
         ]
     },
-    "UNKNOWN(5030004) Hisame Honami": {
+    "Queen of Sheba Hisame Honami": {
         "quest_result": [
-            ""
+            "I've found my answer, and I'm never letting it go."
         ],
         "quest_dress": [
-            ""
+            "\"Shall we search for a new riddle together?\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"There is a king in this world who is the wisest and fairest of all... Do you know his name?\"",
+            "\"You know the answer I seek.\"",
+            "\"King Solomon... Save for my father, he is the first man I have seen up close.\"",
+            "\"I do have a name of my own, but it is known only to my parents and one retainer.\"",
+            "Hoshimi-san and I talk about Nana-san a lot. I'll leave the details up to your imagination♪",
+            "Solomon and the queen of Sheba's conversation in the final scene... It's so beautiful!",
+            "I'm learning so much from Class B! They have a lot of technical skill.",
+            "Next time, I hope Nana-san comes for a guest performance at Seiran..."
         ],
         "touch_normal": [
-            "",
-            ""
+            "I sent Koharu-san and Suzu-san a picture of me in costume, and they were worried it shows too much skin. What are they, my mom?",
+            "Hee hee, my clothes still smell like the sweets I made with Tsuyuzaki-san and Saijo-san... That makes my day."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Snow White Queen Hisame Honami": {
