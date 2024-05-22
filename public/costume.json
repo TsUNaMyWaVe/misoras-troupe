@@ -5369,10 +5369,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Lovers Encore Claudine Saijo",
             "ja": "恋人 Encore 西條クロディーヌ",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "연인 Encore 사이조 클로딘",
+            "zh_hant": "戀人 Encore 西條克洛迪娜"
         }
     },
     "1050001": {
@@ -6847,6 +6847,22 @@
             "zh_hant": "所羅門王 大場奈奈"
         }
     },
+    "1070031": {
+        "chara_id": 107,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Annihilation Revue Nana Daiba",
+            "ja": "皆殺しのレヴュー 大場なな",
+            "ko": "몰살의 레뷰 다이바 나나",
+            "zh_hant": "皆殺的Revue 大場奈奈"
+        }
+    },
     "1080001": {
         "chara_id": 108,
         "description": {
@@ -7273,10 +7289,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Strength Encore Futaba Isurugi",
             "ja": "力 Encore 石動双葉",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "힘 Encore 이스루기 후타바",
+            "zh_hant": "力量 Encore 石動雙葉"
         }
     },
     "1090001": {
@@ -8169,10 +8185,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Cleopatra Tamao Tomoe",
             "ja": "クレオパトラ 巴珠緒",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "클레오파트라 토모에 타마오",
+            "zh_hant": "克麗奧佩脫拉 巴珠緒"
         }
     },
     "2020001": {
@@ -9167,6 +9183,22 @@
             "zh_hant": "羅密歐 秋風壘"
         }
     },
+    "2040036": {
+        "chara_id": 204,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Hanged Man Encore Rui Akikaze",
+            "ja": "吊られた男 Encore 秋風塁",
+            "ko": "매달린 사람 Encore 아키카제 루이",
+            "zh_hant": "倒吊人 Encore 秋風壘"
+        }
+    },
     "2050001": {
         "chara_id": 205,
         "description": {
@@ -9823,6 +9855,16 @@
             "zh_hant": "天蠍座 大月艾露露"
         }
     },
+    "3010032": {
+        "chara_id": 301,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "神秘の星 フロンホワイト 大月あるる"
+        }
+    },
     "3010033": {
         "chara_id": 301,
         "description": {
@@ -10093,6 +10135,16 @@
             "ja": "アリス 叶美空",
             "ko": "앨리스 카노 미소라",
             "zh_hant": "愛麗絲 葉美空"
+        }
+    },
+    "3020036": {
+        "chara_id": 302,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "信仰 Encore 叶美空"
         }
     },
     "3030001": {
@@ -10413,6 +10465,16 @@
             "ja": "元気の星 フロンレッド 野々宮ララフィン",
             "ko": "활기찬 별 프론 레드 노노미야 라라핀",
             "zh_hant": "活力之星 芙羅戰隊・紅戰士 野野宮菈樂菲"
+        }
+    },
+    "3030036": {
+        "chara_id": 303,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "希望 Encore 野々宮ララフィン"
         }
     },
     "3040001": {
@@ -12073,10 +12135,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Empress Encore Liu Mei Fan",
             "ja": "女帝 Encore リュウ・メイファン",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "여제 Encore 류 메이팡",
+            "zh_hant": "女帝 Encore 柳美帆"
         }
     },
     "4040001": {
@@ -12841,10 +12903,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Fool Encore Yachiyo Tsuruhime",
             "ja": "愚者 Encore 鶴姫やちよ",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "바보 Encore 츠루히메 야치요",
+            "zh_hant": "愚者 Encore 鶴姬八千代"
         }
     },
     "4060001": {
@@ -13021,6 +13083,22 @@
             "ja": "キラめき☆アラモード 大賀美詩呂",
             "ko": "반짝임☆아라모드 오가미 시로",
             "zh_hant": "光輝閃耀☆A la mode 大賀美詩呂"
+        }
+    },
+    "4070032": {
+        "chara_id": 407,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Snow White Prince Shiro Ogami",
+            "ja": "白雪姫の王子 大賀美詩呂",
+            "ko": "백설공주의 왕자 오가미 시로",
+            "zh_hant": "白雪公主的王子 大賀美詩呂"
         }
     },
     "4080001": {
@@ -14479,6 +14557,22 @@
             "zh_hant": "米迦勒 大場奈奈"
         }
     },
+    "10700301": {
+        "chara_id": 107,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "King Solomon Nana Daiba",
+            "ja": "ソロモン王 大場なな",
+            "ko": "솔로몬 왕 다이바 나나",
+            "zh_hant": "所羅門王 大場奈奈"
+        }
+    },
     "10900031": {
         "chara_id": 109,
         "description": {
@@ -14617,10 +14711,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Cleopatra Tamao Tomoe",
             "ja": "クレオパトラ 巴珠緒",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "클레오파트라 토모에 타마오",
+            "zh_hant": "克麗奧佩脫拉 巴珠緒"
         }
     },
     "20300041": {

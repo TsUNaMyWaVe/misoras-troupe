@@ -1184,13 +1184,13 @@
             "Uriel can shoot flames from his hands! Bet he could help Mahiru-chan cook, huh?"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Tartarus is the dark abyss, the eternal hell which no light can reach.\"",
+            "\"That angel seemed rather suspicious. Could it be the devil... Lucifer!?\"",
+            "Steamed Mahiru Spuds as a midnight snack... No, I shouldn't. Get out of me, demon!",
+            "So the angels' halos are circles... But demons don't have Xes over their heads, huh?",
+            "Mahiru-chan! Let's practice Lucifer and Uriel's scene together♪",
+            "Uriel has a lot of action and fight scenes. I'm gonna fight my heart out!",
+            "\"They know well their actions, yet still they sin... How complex is the lot of humans.\""
         ]
     },
     "Da Vinci Karen Aijo (Skin)": {
@@ -2294,9 +2294,9 @@
             "Mahiru, I was so scared! That was a real stage actress!"
         ],
         "My Theater": [
-            null,
-            null,
-            null
+            "Mahiru... Where's...Karen...?",
+            "Hey, Mahiru, now's not the...",
+            "I went to London, left Karen, because..."
         ]
     },
     "Gawain Encore Hikari Kagura": {
@@ -3596,14 +3596,13 @@
             "Practice starts first thing tomorrow morning, so I'd better get their lunches ready tonight..."
         ],
         "My Theater": [
-            "Clau-chan is still rehearsing...? I won't let her outdo me!",
-            "Hikari-chan, remember to tidy up after you're finished with your game, okay?",
-            "The bgm for older games is so cute.",
-            "This tricorn is perfect for a sorcerer. I love it.",
-            "My family sent me potatoes, so we're having croquettes for dinner♪",
-            "If I could use magic, I'd fly home to Hokkaido.",
-            "\"Hero, how do you have so much faith in people?\"",
-            "\"A martial artist? Hmph, more like a barbarian who only knows violence.\""
+            "\"Hah. Me, helping the hero. The irony is rich.\"",
+            "What to put in my lunch... Maybe not konnyaku. It's too jiggly.",
+            "We're only doing it because of the Epic of Bravery play, but talking about video games with everyone is a new experience.",
+            "Karen-chan looks so restless when we practice. She doesn't have any real scenes until toward the end, after all.",
+            "\"The archives are nice and quiet. I don't have to be disturbed by people's boorish banter.\"",
+            "I'm so happy I get to hold this staff again. I'd better polish it nice and clean.",
+            "I think this'll be my pose for when I'm using magic. Or is it a little too Majestic Four?"
         ]
     },
     "Lancelot Encore Mahiru Tsuyuzaki": {
@@ -3656,9 +3655,9 @@
             "We are rivals! Our skills, our power—we compete with each and aim for the top!"
         ],
         "My Theater": [
-            null,
-            null,
-            null
+            "If you won't act on stage...you can't say anything.",
+            "I'm finally...standing on the same stage as Hikari-chan.",
+            "Run, Hikari Kagura!"
         ]
     },
     "Holy Night Santa Claus Mahiru Tsuyuzaki (Skin)": {
@@ -4927,26 +4926,36 @@
             "\"Be not afraid. Tonight I proclaim to you the holy Word, full of love...\""
         ]
     },
-    "UNKNOWN(1040036) Claudine Saijo": {
+    "Lovers Encore Claudine Saijo": {
         "quest_result": [
-            ""
+            "And then another new love..."
         ],
         "quest_dress": [
-            ""
+            "\"The depth of the lovers' bond... Do not underestimate it.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"You encounter to separate? You separate to meet once again? In search of the answer, the 'Lovers' pass by one another—\"",
+            "\"Look at that twinkling brilliance in the starry sky... Sparks of the lives of the 'Lovers' who have fallen in battle—\"",
+            "\"The reason we go on a journey in search of the person we long for... 'Star Girl', you, too, shall understand one day.\"",
+            "\"I never forgive infidelity.\"",
+            "Lovers' passion, jealousy, desire... Giving those a human form is the role of the \"Lovers\".",
+            "Era, family, war... The tragedy of lovers who are forcefully separated by powerful forces. I will express all of that by myself.",
+            "Expressing the feminine side of the lovers is a given, but I also want to act out the masculine side of the lovers as well!",
+            "You there... You played \"Groom Edward\" before, right? Come practice with me, Maya Tendo!"
         ],
         "touch_normal": [
-            "",
-            ""
+            "The sixth Major Arcana – the \"Lovers\".",
+            "The \"Lovers'\" upright position means love, charm, and choices. I can kind of understand the reason behind the casting."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -6111,9 +6120,9 @@
             "Projecting every stage and every lead role—the ultimate vessel."
         ],
         "My Theater": [
-            null,
-            null,
-            null
+            "What do I get back?",
+            "Heh heh...a rival, huh.",
+            "You did an excellent job playing the rival who drives me away."
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -8409,6 +8418,21 @@
             null
         ]
     },
+    "Annihilation Revue Nana Daiba": {
+        "quest_result": [
+            "Somehow I feel so dizzy..."
+        ],
+        "quest_dress": [
+            "Daily lessons create a good stage♪"
+        ],
+        "common": [
+            "Somehow I feel so dizzy...",
+            "A train must lead to the next station. What about a stage then...? And us? We're already dead."
+        ],
+        "touch_normal": [
+            "Clau-ko, you talk too much."
+        ]
+    },
     "Phantom Nana Daiba (Skin)": {
         "quest_result": [
             "\"Everything is for her...\""
@@ -9416,26 +9440,36 @@
             "\"Hey, the princess actually knows her way around a sword. Makes you forget she's royalty... I bet she'd sock me a good one if I told her that.\""
         ]
     },
-    "UNKNOWN(1080036) Futaba Isurugi": {
+    "Strength Encore Futaba Isurugi": {
         "quest_result": [
-            ""
+            "The \"Strength\" Arcana won't break!"
         ],
         "quest_dress": [
-            ""
+            "\"The path continues. As long as man moves forward with courage—\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"My form is a result of your desires. Now, defeat me and gain strength.\"",
+            "\"Since I started my observations with the 'Wheel of Fortune', humans have evolved in the blink of an eye.\"",
+            "\"But that 'Star Girl'... Is she human...or...\"",
+            "\"Whether humans who have obtained \"Strength\" will prosper or go down in ruins... I will only watch over them.\"",
+            "The \"Strength\" Arcana sounds powerful, but is actually quite a complicated card.",
+            "There's a lion on the card... Does it mean being facing things courageously?",
+            "\"Strength\"... Of course I want \"strength\". Physical strength and mental strength... I probably don't need authority?",
+            "Powerful Stage Girls will be gathering for the \"Performance Festival\". I can't lose either!"
         ],
         "touch_normal": [
-            "",
-            ""
+            "\"Strength\" is...the eighth Major Arcana. The number 8 is the same shape as the daruma doll!",
+            "The Strength's upright position means will, belief, courage, and independence."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Kaoruko Hanayagi": {
@@ -11482,26 +11516,26 @@
             "Hee hee, it's always fun when someone likes the food you made for them."
         ]
     },
-    "UNKNOWN(2010033) Tamao Tomoe": {
+    "Cleopatra Tamao Tomoe": {
         "quest_result": [
-            ""
+            "Did you feel Cleopatra's charm?"
         ],
         "quest_dress": [
-            ""
+            "\"Language, martial arts, politics... The queen of a nation has a mountain of things to learn.\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Please, for the people of Egypt, lend me your aid!\"",
+            "\"Oh, are you not fond of women in such extravagant dress as this? Hee hee, what a pure man you are.\"",
+            "\"The leader of this country must possess profound knowledge, and I will spare no effort to obtain it.\"",
+            "Since I'm playing Cleopatra, maybe I'll try cooking Egyptian food sometime.",
+            "I love how this costume brings out Cleopatra's bewitching atmosphere.",
+            "\"What a splendid parade, just for me... How you move me, Mark Antony.\"",
+            "\"Why do I learn many languages? To hear the voices of many people.\"",
+            "They say Cleopatra liked vinegar and honey for their beautification properties."
         ],
         "touch_normal": [
-            "",
-            ""
+            "Cleopatra was truly fearless, hiding among a gift of carpets to go see Caesar.",
+            "Cleopatra is often hailed for her beauty, but she was also an excellent politician. I could learn from her about how to run my club."
         ],
         "My Theater": [
             null,
@@ -11543,28 +11577,6 @@
             "\"Kondo-san...I'll be the one to carry out your will!\"",
             "Thank goodness we were able to resolve the issue with the civic hall before matters got out of hand.",
             "Hijikata's acting can be a burden on the voice. I should go get cough drops later."
-        ]
-    },
-    "UNKNOWN(20100331) Tamao Tomoe": {
-        "quest_result": [
-            ""
-        ],
-        "quest_dress": [
-            ""
-        ],
-        "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "touch_normal": [
-            "",
-            ""
         ]
     },
     "GENERIC Ichie Otonashi": {
@@ -13093,6 +13105,16 @@
         "touch_normal": [
             "Fumi Yumeoji. I'm playing the fourteenth Arcana, \"Temperance\". It's the one after Tamao's \"Death\".",
             "\"Temperance's\" upright position means \"coordination\", \"order\", and \"skillful management\". I AM good at balancing expenses actually."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Angel's Blessing Fumi Yumeoji (Skin)": {
@@ -13849,6 +13871,28 @@
             "Yanagi-san's acting is incredible, but so is Tamao-senpai for realizing how well we'd work together."
         ]
     },
+    "Hanged Man Encore Rui Akikaze": {
+        "quest_result": [
+            "I won't give in to hardship!"
+        ],
+        "quest_dress": [
+            "\"God saves mankind? Only people can save mankind!\""
+        ],
+        "common": [
+            "\"Being hanged has allowed me to see the world behind the scenes... If there is a God, then put me on trial!\"",
+            "\"Don't give up – stand brave! With my medicine, you can beat this disease!\"",
+            "\"Watch me, 'Star Girl'... In the name of medicine, I will cure this rotten world of its disease!\"",
+            "\"Ngh...! I was...too late...\"",
+            "The \"Hanged Man\" in the \"Performance Festival\" is passionate, upright and firm in his beliefs.",
+            "The High Priestess confronts the doctor trying to save people with medicine, because it goes against her blind faith...",
+            "I hope I can pull off the fight scene with the knights of the Vatican... I'm more nervous than when I took the promotion exam for kendo.",
+            "I went through Isurugi-san's special training, and Yukko has my back. I'm sure the Hanged Man will be fine!"
+        ],
+        "touch_normal": [
+            "The \"Hanged Man\" is the twelfth Major Arcana.",
+            "The upright position of the \"Hanged Man\" means perseverance, endeavor, self-sacrifice..."
+        ]
+    },
     "Onikage Rui Akikaze (Skin)": {
         "quest_result": [
             "Once more, please!"
@@ -14590,14 +14634,14 @@
             "The upright position of the Magician Arcana means talent, creativity, originality. I want to be talented."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Rakugo based on tarot cards sounds interesting, no?",
+            "Rakugo with the \"Magician\"... Sounds like a fantasy genre.",
+            "No one would notice if all my \"Magician\" knowledge came from rakugo.",
+            "The Magician's costume... The cloak looks warm, so I feel like I'd be able to sleep well.",
+            "If only there were magic to turn Rui into the best stage actress ever.",
+            "The \"Magician\" sacrifices herself for the \"Hanged Man\"... What a tearjerker.",
+            "I'll try playing a \"Magician\" who can't use magic!",
+            "\"It's because they can't use it that humans are always seeking this miracle known as magic.\""
         ]
     },
     "Yoshitsune Minamoto Yuyuko Tanaka (Skin)": {
@@ -14725,7 +14769,8 @@
             null
         ],
         "birthday_301": [
-            "Having a picnic with everyone is really great! What a great birthday present. Thank you!"
+            "Having a picnic with everyone is really great! What a great birthday present. Thank you!",
+            null
         ],
         "birthday_305": [
             "Happy birthday, Shizuha-chan! You use a toy gun when you play airsoft, right? I'm not sure, but I feel like I'd be good at it!"
@@ -15384,6 +15429,28 @@
             "\"Oh, careful when you touch my tail... I don't want to hurt you.\""
         ]
     },
+    "UNKNOWN(3010032) Aruru Otsuki": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ]
+    },
     "Captain Dorothy Aruru Otsuki": {
         "quest_result": [
             "What kind of adventure do we wanna have next!?"
@@ -15539,7 +15606,8 @@
             null
         ],
         "birthday_301": [
-            "Happy birthday, Aruru. Look! I filled your lunchbox with all of your favorite foods! What do you want to try first?"
+            "Happy birthday, Aruru. Look! I filled your lunchbox with all of your favorite foods! What do you want to try first?",
+            null
         ],
         "birthday_305": [
             "Happy birthday! I studied the rules really hard last night so that I wouldn't get in the way."
@@ -16072,6 +16140,28 @@
             "I need advice for my Alice! Better call Aruru."
         ]
     },
+    "UNKNOWN(3020036) Misora Kano": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ]
+    },
     "GENERIC Lalafin Nonomiya": {
         "loginbonus": [
             "It's time for Lalafin's grand entrance!"
@@ -16142,7 +16232,8 @@
             null
         ],
         "birthday_301": [
-            "Happy birthday! Aruru, let's look for a four-leaf clover over there. I'm going to find one first!"
+            "Happy birthday! Aruru, let's look for a four-leaf clover over there. I'm going to find one first!",
+            null
         ],
         "birthday_305": [
             "Shizuha! Happy birthday! This will be my first time playing airsoft. I won't lose, though!"
@@ -16793,6 +16884,28 @@
             "Suzu! I came up with an action scene for the new show! Come help me practice!"
         ]
     },
+    "UNKNOWN(3030036) Lalafin Nonomiya": {
+        "quest_result": [
+            null
+        ],
+        "quest_dress": [
+            null
+        ],
+        "common": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "touch_normal": [
+            null,
+            null
+        ]
+    },
     "Carmen Lalafin Nonomiya (Skin)": {
         "quest_result": [
             "Carmen is forever free!"
@@ -16894,7 +17007,8 @@
             null
         ],
         "birthday_301": [
-            "Aruru, happy birthday! I got you a badminton set because I was hoping we could all have fun together."
+            "Aruru, happy birthday! I got you a badminton set because I was hoping we could all have fun together.",
+            null
         ],
         "birthday_305": [
             "Happy birthday, Shizuha. You are really good at shooting games, so I figured you would like airsoft as well and planned all of this in secret!"
@@ -17478,6 +17592,16 @@
         "touch_normal": [
             "\"Charity\" is one of the Arcana from the oldest tarot deck—Visconti-Sforza.",
             "The Waite and Marseilles versions don't have \"Charity\", \"Faith\" and \"Hope\"... It's because there's no information that makes the preparations fulfilling."
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "GENERIC Shizuha Kocho": {
@@ -17550,7 +17674,8 @@
             null
         ],
         "birthday_301": [
-            "Aruru-chan, happy birthday. Since we're all here, why don't we all take a photo together? You can choose the pose, Aruru-chan."
+            "Aruru-chan, happy birthday. Since we're all here, why don't we all take a photo together? You can choose the pose, Aruru-chan.",
+            null
         ],
         "birthday_305": [
             "Thank you for the celebration and surprise. It's a bit different from shooting games, but I'm going to enjoy being with everyone."
@@ -20727,26 +20852,26 @@
             "I can't believe Michiru-san organized such a wonderful party. She is amazing."
         ]
     },
-    "UNKNOWN(4030036) Liu Mei Fan": {
+    "Empress Encore Liu Mei Fan": {
         "quest_result": [
-            ""
+            "Strong, strict, beautiful – this is what represents the \"Empress\"!"
         ],
         "quest_dress": [
-            ""
+            "\"*sigh* I thought everything was in the past...\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Raise your head. You have been given an audience with the 'Empress', the ruler of the Moon!\"",
+            "\"Where once flourished an empire, now is only an empty desert...\"",
+            "\"Will I ever meet this...'Star Girl'?\"",
+            "\"If I were just a girl instead of being the 'Empress'... No, it's foolish to even think about it.\"",
+            "The \"Empress\" is a difficult role... I know I should portray her as arrogant, but I don't want to sound too pompous either.",
+            "The \"Empress\" must have felt so much responsibility and pressure having to rule over people...",
+            "All the schools are coming together for the \"Performance Festival\", so as Frau Rubin, I have to be confident in my performance!",
+            "Akira-san, Michiru-san, Yachiyo, Shiori... I wonder what their roles are..."
         ],
         "touch_normal": [
-            "",
-            ""
+            "The \"Empress\" is the third Major Arcana. That number reminds me of the Records of the Three Kingdoms!",
+            "The Empress's upright position means prosperity, fertility, marriage, and womanly charm. Womanly...charm..."
         ],
         "My Theater": [
             null,
@@ -22490,26 +22615,36 @@
             "\"I have finally found the cause of calamity: the emotion of jealousy.\""
         ]
     },
-    "UNKNOWN(4050036) Yachiyo Tsuruhime": {
+    "Fool Encore Yachiyo Tsuruhime": {
         "quest_result": [
-            ""
+            "Thank you for watching the performance!"
         ],
         "quest_dress": [
-            ""
+            "\"My story is the path I have walked down on. I shall continue to walk down the path of my story until the day I fall wherever it may lead!\""
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "\"Let's go on a journey. The path I go down will become a play and my life will become the stage!\"",
+            "\"I'm still in the middle of my journey. And my journey shall not end until I have something solid in these hands!\"",
+            "\"North, east, west, south! Past and future! I am a traveler and I can go wherever I please!\"",
+            "\"'Sun', 'Justice', 'Empress', 'Moon'... My bag is filled with plays I have written on my encounters with everyone.\"",
+            "There's supposed to be a dog traveling with the youth drawn on the \"Fool\" Arcana. Oh, I can see it. A travel companion who only I can see.",
+            "I gave ideas for the design of the \"Fool's\" costume. Like this part and this part. What do you think? Cute, right?",
+            "The ad-libs I exchanged with Arurun got my heart racing. She's like a totally different person.",
+            "Maya-san's eyes during the read through... It felt like she could see inside my heart."
         ],
         "touch_normal": [
-            "",
-            ""
+            "I'm playing the Major Arcana number \"0\"—the \"Fool\".",
+            "The \"Fool's\" upright position means \"change\", \"future\", and \"possibility\". It feels like THE traveling youth!"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Cupid Yachiyo Tsuruhime (Skin)": {
@@ -22628,9 +22763,6 @@
         "arena_lose": [
             "Hmm..."
         ],
-        "birthday_407": [
-            "Alles Gute! I'm really glad I have you, Shiro. I hope you'll stay with me forever!"
-        ],
         "birthday_408": [
             "Alles Gute! I heard that you like sweets, so I brought some chocolates from Germany. We can enjoy them with everyone!"
         ],
@@ -22639,6 +22771,9 @@
         ],
         "birthday_406": [
             "Danke! Thank you for throwing such a wonderful celebration for me! I never thought I'd be able to celebrate with everyone like this. I'm so glad I came to Japan!"
+        ],
+        "birthday_407": [
+            "Happy birthday! Today's a party just for you. Here's to another good year... With me, and with everyone else, too!"
         ],
         "birthday_410": [
             "Happy birthday, Kuina! Shiro and I got you some Nikopen-chan merch! I hope you like it."
@@ -22895,9 +23030,6 @@
         "arena_lose": [
             "Too bad."
         ],
-        "birthday_407": [
-            "Thank you for all of your kind wishes. I will continue to serve Miss Stella with integrity and virtue as a caretaker of the Siegfeld family."
-        ],
         "birthday_408": [
             "Happy birthday, Kobato-san. I hope that you will continue to be good friends with Miss Stella."
         ],
@@ -22906,6 +23038,9 @@
         ],
         "birthday_406": [
             "Happy birthday, Miss Stella. I will continue to devote myself to taking care of you so that you can celebrate your birthday again next year."
+        ],
+        "birthday_407": [
+            "Thank you, everyone. I'm honored to receive your goodwill. I look forward to a long and fulfilling friendship with each and every one of you."
         ],
         "birthday_410": [
             "Happy birthday, Kuina-san. I look forward to your continued growth as Miss Stella's rival."
@@ -23131,6 +23266,28 @@
             "There's such a large variety of manga and anime, I imagine they would work well on stage."
         ]
     },
+    "Snow White Prince Shiro Ogami": {
+        "quest_result": [
+            "Love can be terrifying at times."
+        ],
+        "quest_dress": [
+            "\"I must become stronger...for the one I love!\""
+        ],
+        "common": [
+            "\"I want to be the first thing you see when you open your eyes.\"",
+            "\"Snow White's desires are my own—no matter what they may be.\"",
+            "\"Thank the stars, you're awake! I had half a mind to keep your coffin in my room.\"",
+            "\"I shall invite your mother to our wedding. Do look forward to it!\"",
+            "Actors doing double duty as stagehands... Seiran's precepts are bountiful indeed.",
+            "Ryoko-san brought me apple-flavored snacks. What is she playing at?",
+            "Miss Yakumo gave me some instruction. Her strictness must come from Seiran's strength.",
+            "...Is the prince's love for Snow White true?"
+        ],
+        "touch_normal": [
+            "It always causes a stir when I take off my glasses. I'm used to compliments on my appearance, but it does get awkward after a while.",
+            "I was talking to Miss Stella about Snow White, and she said she wanted to eat an apple... I immediately made arrangements with an orchard, of course, but she really must do something about her willful nature."
+        ]
+    },
     "GENERIC Ryoko Kobato": {
         "loginbonus": [
             "I'll work hard to become an Edel!"
@@ -23193,9 +23350,6 @@
         "arena_lose": [
             "Oh..."
         ],
-        "birthday_407": [
-            "Happy birthday! Ogami-san, have you ever had these gummies before? My brothers eat them a lot. They're really good."
-        ],
         "birthday_408": [
             "Thank you for celebrating my birthday with me. It's my first time to celebrate like this with people other than my family!"
         ],
@@ -23204,6 +23358,9 @@
         ],
         "birthday_406": [
             "Stella-chan, happy birthday! They taught me how to sing the German birthday song. I hope you'll let me sing it to you later!"
+        ],
+        "birthday_407": [
+            "Happy birthday! We all brainstormed ideas for flowers and table decorations that scream \"Shiro-chan.\""
         ],
         "birthday_410": [
             "Happy birthday, Kuina-chan. I made some origami Nikopen-chans to decorate for your birthday party. I really outdid myself here♪"
@@ -23491,9 +23648,6 @@
         "arena_lose": [
             "Too bad!"
         ],
-        "birthday_407": [
-            "Happy birthday!☆ What do I have to do to become cool like you, Shirorin?"
-        ],
         "birthday_408": [
             "Ryonryoooon☆ Happy birthday! Kuina and I made lots of your favorite Isobeyaki-style grilled chikuwa☆"
         ],
@@ -23502,6 +23656,9 @@
         ],
         "birthday_406": [
             "Happy birthday!☆ Since you love comedy, I've prepared a series of 100 jokes! I hope you enjoy them☆"
+        ],
+        "birthday_407": [
+            "Haaappy biiirthdaaay, Shirorin☆ What music do you like? Let's play it at the party and get funky☆"
         ],
         "birthday_410": [
             "Kuuuina☆ Hippity happy birthday, my girl! It's been forever since we've gotten to celebrate your birthday together, so I'm hippity happy, too☆"
@@ -23757,9 +23914,6 @@
         "arena_lose": [
             "This isn't how it's supposed to be..."
         ],
-        "birthday_407": [
-            "Happy birthday, Ogami-san. A perfect caretaker who supports \"Miss Stella\"... I am very intrigued by what motivates you."
-        ],
         "birthday_408": [
             "Kobato-san, happy birthday. This is from me. It's a sweet protein drink. I recommend drinking it within 30 minutes of rehearsal."
         ],
@@ -23768,6 +23922,9 @@
         ],
         "birthday_406": [
             "Stella, happy birthday. This is for you. It's a keychain of Nikopen-chan travelling to Germany. Isn't it cute?"
+        ],
+        "birthday_407": [
+            "Happy birthday, Shiro. I picked the perfect present for someone as calm and collected as you: a chic Nikopen-chan glasses case."
         ],
         "birthday_410": [
             "Look at all the Nikopen-chans...! Thank you, everyone. Let's all get a picture together—with the Nikopen-chans, too!"
