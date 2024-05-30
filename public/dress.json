@@ -30792,7 +30792,10 @@
         "delta_mdef": 4140,
         "delta_pdef": 3000,
         "description": {
-            "ja": "永続ASで敵役全体に上位キラめき獲得ダウンを付与する舞台少女。味方側の舞台に「マイナス舞台効果全反射」を付与するCAが強力。"
+            "en": "Her Passive Auto Skill applies Greater Brilliance Recovery Reduction to all enemies. Her Climax Act applies the Stage Effect [Reflect All Neg. Stage Effects] to her allies' stage.",
+            "ja": "永続ASで敵役全体に上位キラめき獲得ダウンを付与する舞台少女。味方側の舞台に「マイナス舞台効果全反射」を付与するCAが強力。",
+            "ko": "영구 자동 스킬로 적 전체에게 상위 반짝임 획득 감소를 부여하는 무대소녀. 아군 쪽 무대에 [마이너스 무대 효과 전반사]를 부여하는 CA가 강력하다.",
+            "zh_hant": "可透過永續自動技能賦予所有敵方[高級]降低光芒獲得量的舞台少女。強力的CLIMAX ACT可賦予我方的舞台「反射全負面舞台效果」。"
         },
         "dex": 5,
         "dress_episode_id": 2010033,
@@ -30805,7 +30808,10 @@
         "friendship30_levelup_adventure_id": 3120100332,
         "friendship_pattern_id": 132,
         "get_message": {
-            "ja": "クレオパトラの妖艶な魅力\n必ず引き出して見せます！"
+            "en": "I will bring out Cleopatra's bewitching charm!",
+            "ja": "クレオパトラの妖艶な魅力\n必ず引き出して見せます！",
+            "ko": "클레오파트라의 요염한 매력\n반드시 끌어내 보이겠어요!",
+            "zh_hant": "我一定會演繹出\n克麗奧佩脫拉妖豔的魅力！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13202101,
@@ -30821,7 +30827,10 @@
         "leader_tactics_skill_id": 10080,
         "model_id": 2010033,
         "name": {
-            "ja": "クレオパトラ"
+            "en": "Cleopatra",
+            "ja": "クレオパトラ",
+            "ko": "클레오파트라",
+            "zh_hant": "克麗奧佩脫拉"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 202,
@@ -30829,7 +30838,10 @@
         "party_skill_type": 5,
         "personality_id": 2,
         "profile": {
-            "ja": "荘厳な天蓋を上げると、クレオパトラが微笑みかけた。知的で凛々しくありながら、どこか蠱惑的な笑顔。その魅力は希代の英雄でも決して抗うことは出来ない。\n演目『クレオパトラ』より"
+            "en": "As she raised the majestic canopy, Cleopatra smiled—a dignified, yet somehow seductive smile. Even the greatest of heroes cannot resist her charm. From \"Cleopatra.\"",
+            "ja": "荘厳な天蓋を上げると、クレオパトラが微笑みかけた。知的で凛々しくありながら、どこか蠱惑的な笑顔。その魅力は希代の英雄でも決して抗うことは出来ない。\n演目『クレオパトラ』より",
+            "ko": "장엄한 캐노피를 들어올리자 클레오파트라가 미소를 지어 보였다. 지적이고 당당하면서도 어딘지 모르게 고혹적인 미소. 그 매력은 희대의 영웅이라도 결코 거부할 수 없다.\n작품 [클레오파트라]에서",
+            "zh_hant": "拉起莊嚴的天篷簾後，你看到克麗奧佩脫拉正對你投以微笑。她的笑容既凜然又充滿知性，卻帶著一絲魅惑的氣息。即使是稀世英雄也無法抵抗這種魅力。\n取自戲碼『埃及豔后』"
         },
         "published_at": 1714489200,
         "rarity_up_cost_id": 1,
@@ -39015,6 +39027,106 @@
         "trait_id": 10,
         "win_sequence_id": 4457
     },
+    "2050032": {
+        "attack_type": 1,
+        "attribute_id": 3,
+        "auto_skill1_id": 23400,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23401,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23402,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12583,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12584,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 698,
+        "base_atk": 1171,
+        "base_hp": 17800,
+        "base_mdef": 811,
+        "base_pdef": 1554,
+        "base_rarity": 5,
+        "chara_id": 205,
+        "command_skill1_id": 9198,
+        "command_skill2_id": 9199,
+        "command_skill3_id": 9200,
+        "command_unique_skill_id": 9201,
+        "confusion_skill_id": 9202,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4050,
+        "delta_pdef": 4910,
+        "description": {
+            "en": "Boosts Snow and Sun Stage Girls. Applies Stage Effect Extreme Measures (Snow - Sun) and Standing Ovation (Snow - Sun) to her allies' stage at start and with her Climax Act.",
+            "ja": "雪・陽属性を強化する舞台少女。開幕時&CAで味方側の舞台に「快刀乱麻(雪・陽)」&「拍手万雷(雪・陽)」を付与する。",
+            "ko": "눈 & 태양 속성을 강화하는 무대소녀. 개막 & CA로 아군 쪽 무대에 [쾌도난마(눈 & 태양)] & [박수만뢰(눈 & 태양)]을 부여한다.",
+            "zh_hant": "可強化雪&陽屬性的舞台少女。可在開幕時&透過CLIMAX ACT賦予我方的舞台舞台效果「快刀斬亂麻（雪&陽）」&「掌聲如雷（雪&陽）」。"
+        },
+        "dex": 5,
+        "dress_episode_id": 2050032,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3020500321,
+        "friendship15_levelup_adventure_id": 3120500321,
+        "friendship25_reward_adventure_id": 3020500322,
+        "friendship30_levelup_adventure_id": 3120500322,
+        "friendship_pattern_id": 123,
+        "get_message": {
+            "en": "I never get tired of portraying Eurydice's feelings on the stage!",
+            "ja": "エウリュディケーの健気な想い、\n何度演じても良いものですねぇ",
+            "ko": "에우리디케의 갸륵한 마음,\n몇 번을 연기해도 참 좋네요",
+            "zh_hant": "歐利蒂絲那堅強的思念，\n無論演多少次還是那麼令人感動"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12103101,
+        "growth_board2_id": 12103201,
+        "growth_board3_id": 12103301,
+        "growth_board4_id": 12103401,
+        "growth_board5_id": 12103501,
+        "growth_board6_id": 12103601,
+        "growth_board7_id": 12103701,
+        "growth_board8_id": 12103801,
+        "growth_board9_id": 12103901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10094,
+        "model_id": 2050032,
+        "name": {
+            "en": "Tragic Bride Eurydice",
+            "ja": "悲劇の花嫁エウリュディケー",
+            "ko": "비극의 신부 에우리디케",
+            "zh_hant": "悲劇新娘 歐利蒂絲"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 203,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 3,
+        "profile": {
+            "en": "Eurydice looks up at the ground from the temple in the Underworld. Her eyes are fixed on her beloved husband, Orpheus. Believing that one day they will meet again, she continues to think of him. From \"Rerun - Orpheus's Melody.\"",
+            "ja": "冥府の神殿から遥か地上を見上げるエウリュディケー。その瞳が見据えるは愛しき夫オルフェウスの姿。いつか再会の時を信じ、彼女は今日も地上へ想いを馳せる。\n演目『再演・オルフェウスの調べ』より",
+            "ko": "명계의 신전에서 아득히 먼 지상을 올려다보는 에우리디케. 그 눈동자가 바라보는 것은 사랑하는 남편 오르페우스의 모습. 언젠가 재회할 날이 올 거라 믿으며, 에우리디케는 오늘도 지상을 그리워한다.\n작품 [재연 오르페우스의 멜로디]에서",
+            "zh_hant": "歐利蒂絲從冥府的神殿遙望地上，注視著她深愛的丈夫奧菲斯的身影。懷著總有一天能與丈夫再度重逢的信念，她今天也依然深深地思念著地上。\n取自戲碼『再次上演・奧菲斯的旋律』"
+        },
+        "published_at": 1717513200,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20094,
+        "trait_id": 30,
+        "win_sequence_id": 5302
+    },
     "2050036": {
         "attack_type": 1,
         "attribute_id": 4,
@@ -41156,7 +41268,10 @@
         "delta_mdef": 4910,
         "delta_pdef": 4050,
         "description": {
-            "ja": "開幕時に自身に解除不可の上位継続&回数マイナス効果耐性アップを付与する舞台少女。味方全体に上位マイナス効果解除、敵役全体に上位継続プラス効果解除を適用するCAが強力。"
+            "en": "Applies Unremovable Greater Cont. & Count. Neg. Effects Resistance Up to self at start. Her Climax Act applies Greater Dispel Neg. Effects to all allies, and Greater Dispel Cont. Pos. Effects to all enemies.",
+            "ja": "開幕時に自身に解除不可の上位継続&回数マイナス効果耐性アップを付与する舞台少女。味方全体に上位マイナス効果解除、敵役全体に上位継続プラス効果解除を適用するCAが強力。",
+            "ko": "개막 시에 자신에게 해제 불가능한 상위 지속 & 횟수 마이너스 효과 저항 증가을 부여하는 무대소녀. 아군 전체에게 상위 마이너스 효과 해제, 적 전체에게 상위 지속 플러스 효과 해제를 적용하는 CA가 강력하다.",
+            "zh_hant": "可在開幕時賦予自己無法解除的[高級]提升持續性&次數性負面效果耐性的舞台少女。強力的CLIMAX ACT可賦予所有我方高級解除負面效果，並賦予所有敵方高級解除持續性正面效果。"
         },
         "dex": 5,
         "dress_episode_id": 3010032,
@@ -41169,7 +41284,10 @@
         "friendship30_levelup_adventure_id": 3130100322,
         "friendship_pattern_id": 129,
         "get_message": {
-            "ja": "クールでかっこいい神秘の星、\nフロンホワイト再び登場だよっ！"
+            "en": "The cool and mysterious star White Frontier is here again!",
+            "ja": "クールでかっこいい神秘の星、\nフロンホワイト再び登場だよっ！",
+            "ko": "쿨하고 멋진 신비로운 별,\n프론 화이트 또다시 등장!",
+            "zh_hant": "冷漠帥氣的神秘之星——\n芙羅戰隊・白戰士再次登場囉！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12209101,
@@ -41185,7 +41303,10 @@
         "leader_tactics_skill_id": 10092,
         "model_id": 3010032,
         "name": {
-            "ja": "神秘の星 フロンホワイト"
+            "en": "Mysterious Star White Frontier",
+            "ja": "神秘の星 フロンホワイト",
+            "ko": "신비로운 별 프론 화이트",
+            "zh_hant": "神秘之星 芙羅戰隊・白戰士"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 210,
@@ -41193,7 +41314,10 @@
         "party_skill_type": 5,
         "personality_id": 9,
         "profile": {
-            "ja": "颯爽と新たな敵との闘いに身を投じるフロンホワイト。凛とした佇まいは未知の敵に対しても変わらない。誰が相手でも敢然と闘う、それがフロンホワイトの矜持だ。\nプレミアムショー『輝☆歌劇戦隊フロンティアⅤ』より"
+            "en": "White Frontier dashingly throws herself into the fight against a new enemy. Her dignified attitude remains unchanged even against unknown enemies. No matter who the opponent is, White Frontier fights bravely and with pride. From Premium Show \"Brilliant☆Theater Rangers Frontier V.\"",
+            "ja": "颯爽と新たな敵との闘いに身を投じるフロンホワイト。凛とした佇まいは未知の敵に対しても変わらない。誰が相手でも敢然と闘う、それがフロンホワイトの矜持だ。\nプレミアムショー『輝☆歌劇戦隊フロンティアⅤ』より",
+            "ko": "거리낌 없이 새로운 적과의 싸움에 몸을 던지는 프론 화이트. 그 당당한 모습은 미지의 적을 만나도 변함이 없다. 상대가 누구든 과감하고 용감하게 싸우는 것이 프론 화이트의 긍지다.\n프리미엄 쇼 [반짝임☆가극전대 프론티어V]에서",
+            "zh_hant": "芙羅戰隊・白戰士瀟灑地投身戰場，與新敵人戰鬥。 即使面對未知的敵人，她依然從容不迫。無論對手是誰都要勇敢戰鬥，這就是白戰士的驕傲。\n取自尊榮舞台秀『輝煌☆歌劇戰隊芙羅提亞Ⅴ』"
         },
         "published_at": 1716908400,
         "rarity_up_cost_id": 1,
@@ -55308,7 +55432,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "開幕時に味方全体に上位祝福[上位不倒]を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。"
+            "en": "Applies Greater Blessing [Greater Resilience] to all allies at start. Her Climax Act applies Greater Dispel All Resistance Up and Unremovable Greater Stop to all enemies.",
+            "ja": "開幕時に味方全体に上位祝福[上位不倒]を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。",
+            "ko": "개막 시에 아군 전체에게 상위 축복[상위 불멸]을 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 해제 불가능한 상위 스톱을 부여하는 CA가 강력하다.",
+            "zh_hant": "開幕時可賦予所有我方高級祝福[高級不倒]的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升及無法解除的高級停止。"
         },
         "dex": 5,
         "dress_episode_id": 4030036,
@@ -55321,7 +55448,10 @@
         "friendship30_levelup_adventure_id": 3140300362,
         "friendship_pattern_id": 139,
         "get_message": {
-            "ja": "強く、厳しく、美しく――\n『女帝』のアルカナと、豊穣なる舞台を！"
+            "en": "Strong, strict, beautiful—enjoy the bountiful stage of the Arcana, \"Empress\"!",
+            "ja": "強く、厳しく、美しく――\n『女帝』のアルカナと、豊穣なる舞台を！",
+            "ko": "강하고, 혹독하고, 아름답게―\n[여제]의 아르카나와 풍요로운 무대를!",
+            "zh_hant": "強大、莊嚴又美麗——\n與『女帝』的阿爾克那共創豐饒的舞台"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13109101,
@@ -55337,7 +55467,10 @@
         "leader_tactics_skill_id": 10079,
         "model_id": 4030036,
         "name": {
-            "ja": "女帝 Encore"
+            "en": "Empress Encore",
+            "ja": "女帝 Encore",
+            "ko": "여제 Encore",
+            "zh_hant": "女帝 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 210,
@@ -55345,7 +55478,10 @@
         "party_skill_type": 5,
         "personality_id": 9,
         "profile": {
-            "ja": "栄耀栄華も今は昔。荒れ果てた月の帝国から見上げる\n星と星の戦争。命だけが消費されてゆく、変化のない退屈な日々の中――「女帝」は誰かを待っていた。\n――『劇フェス』　戯曲・第五幕より"
+            "en": "The days of glory are in the past. Among the tedious, unchanging days where only lives are lost through war between the stars. Looking up from the desolate Moon Empire – the \"Empress\" waits for someone. From \"Performance Festival\" Play - Act 5.",
+            "ja": "栄耀栄華も今は昔。荒れ果てた月の帝国から見上げる\n星と星の戦争。命だけが消費されてゆく、変化のない退屈な日々の中――「女帝」は誰かを待っていた。\n――『劇フェス』　戯曲・第五幕より",
+            "ko": "부귀영화도 이제는 옛일. 황폐해진 달의 제국에서 올려다보는\n별과 별들의 전쟁. 생명만이 소모되어 가는 변화 없는 지루한 나날 속에―[여제]는 누군가를 기다리고 있었다.\n――[극페스] 희곡・제5막에서",
+            "zh_hant": "曾經的榮耀與富貴不復存在。在一片荒蕪的月之帝國，\n仰頭能看見星球間的戰爭。生命在一成不變的枯燥光陰中不斷流逝——「女帝」持續等待著某個人。\n――取自『戲劇慶典』戲碼・第五幕"
         },
         "published_at": 1714057200,
         "rarity_up_cost_id": 1,
@@ -60054,6 +60190,94 @@
         "sub_tactics_skill_id": 20060,
         "trait_id": 21,
         "win_sequence_id": 5105
+    },
+    "4050028": {
+        "attack_type": 2,
+        "attribute_id": 6,
+        "auto_skill1_id": 23397,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23398,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23399,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12581,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12582,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 698,
+        "base_atk": 1160,
+        "base_hp": 17811,
+        "base_mdef": 1525,
+        "base_pdef": 823,
+        "base_rarity": 5,
+        "chara_id": 405,
+        "command_skill1_id": 9193,
+        "command_skill2_id": 9194,
+        "command_skill3_id": 9195,
+        "command_unique_skill_id": 9196,
+        "confusion_skill_id": 9197,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4910,
+        "delta_pdef": 4050,
+        "description": {
+            "ja": "開演Sで自身に上位復活の奇跡を付与する舞台少女。敵役全体に上位継続プラス効果強奪&解除不可の上位虚脱を付与するCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 4050028,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3040500281,
+        "friendship15_levelup_adventure_id": 3140500281,
+        "friendship25_reward_adventure_id": 3040500282,
+        "friendship30_levelup_adventure_id": 3140500282,
+        "friendship_pattern_id": 126,
+        "get_message": {
+            "ja": "強く激しく燃える魂。\n千代女、参上しちゃいます♪"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12206101,
+        "growth_board2_id": 12206201,
+        "growth_board3_id": 12206301,
+        "growth_board4_id": 12206401,
+        "growth_board5_id": 12206501,
+        "growth_board6_id": 12206601,
+        "growth_board7_id": 12206701,
+        "growth_board8_id": 12206801,
+        "growth_board9_id": 12206901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10093,
+        "model_id": 4050028,
+        "name": {
+            "ja": "望月千代女"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 206,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 6,
+        "profile": {
+            "ja": "望月千代女は史実において『巫女頭』、『歩き巫女』と呼ばれる人物だった。今回の演目ではくノ一として、復讐の炎に身を焦がす女性として描かれている。\n演目『ときの産声』より"
+        },
+        "published_at": 1717167600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20093,
+        "trait_id": 37,
+        "win_sequence_id": 5297
     },
     "4050036": {
         "attack_type": 2,

@@ -9503,6 +9503,22 @@
             "zh_hant": "化身博士 田中悠悠子"
         }
     },
+    "2050032": {
+        "chara_id": 205,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Tragic Bride Eurydice Yuyuko Tanaka",
+            "ja": "悲劇の花嫁エウリュディケー 田中ゆゆ子",
+            "ko": "비극의 신부 에우리디케 타나카 유유코",
+            "zh_hant": "悲劇新娘 歐利蒂絲 田中悠悠子"
+        }
+    },
     "2050036": {
         "chara_id": 205,
         "description": {
@@ -9858,11 +9874,17 @@
     "3010032": {
         "chara_id": 301,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "神秘の星 フロンホワイト 大月あるる"
+            "en": "Mysterious Star White Frontier Aruru Otsuki",
+            "ja": "神秘の星 フロンホワイト 大月あるる",
+            "ko": "신비로운 별 프론 화이트 오츠키 아루루",
+            "zh_hant": "神秘之星 芙羅戰隊・白戰士 大月艾露露"
         }
     },
     "3010033": {
@@ -10140,11 +10162,17 @@
     "3020036": {
         "chara_id": 302,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "信仰 Encore 叶美空"
+            "en": "Faith Encore Misora Kano",
+            "ja": "信仰 Encore 叶美空",
+            "ko": "신앙 Encore 카노 미소라",
+            "zh_hant": "信仰 Encore 葉美空"
         }
     },
     "3030001": {
@@ -10470,11 +10498,17 @@
     "3030036": {
         "chara_id": 303,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "希望 Encore 野々宮ララフィン"
+            "en": "Hope Encore Lalafin Nonomiya",
+            "ja": "希望 Encore 野々宮ララフィン",
+            "ko": "희망 Encore 노노미야 라라핀",
+            "zh_hant": "希望 Encore 野野宮菈樂菲"
         }
     },
     "3040001": {
@@ -12893,6 +12927,22 @@
             "zh_hant": "大地之神 菲亞挨爾 鶴姬八千代"
         }
     },
+    "4050028": {
+        "chara_id": 405,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Mochizuki Chiyojo Yachiyo Tsuruhime",
+            "ja": "望月千代女 鶴姫やちよ",
+            "ko": "모치즈키 치요메 츠루히메 야치요",
+            "zh_hant": "望月千代女 鶴姬八千代"
+        }
+    },
     "4050036": {
         "chara_id": 405,
         "description": {
@@ -15275,6 +15325,22 @@
             "ja": "コートの覇者 鶴姫やちよ",
             "ko": "코트의 지배자 츠루히메 야치요",
             "zh_hant": "沙灘排球場的霸者 鶴姬八千代"
+        }
+    },
+    "40500281": {
+        "chara_id": 405,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Mochizuki Chiyojo Yachiyo Tsuruhime",
+            "ja": "望月千代女 鶴姫やちよ",
+            "ko": "모치즈키 치요메 츠루히메 야치요",
+            "zh_hant": "望月千代女 鶴姬八千代"
         }
     },
     "40600031": {
