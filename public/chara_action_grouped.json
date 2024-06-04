@@ -11543,13 +11543,13 @@
             "Cleopatra is often hailed for her beauty, but she was also an excellent politician. I could learn from her about how to run my club."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"The leader of this country must possess profound knowledge, and I will spare no effort to obtain it.\"",
+            "Since I'm playing Cleopatra, maybe I'll try cooking Egyptian food sometime.",
+            "I love how this costume brings out Cleopatra's bewitching atmosphere.",
+            "\"What a splendid parade, just for me... How you move me, Mark Antony.\"",
+            "\"Why do I learn many languages? To hear the voices of many people.\"",
+            "They say Cleopatra liked vinegar and honey for their beautification properties.",
+            "Apparently Cleopatra even melted pearls in vinegar and drank it..."
         ]
     },
     "Hijikata Toshizo Tamao Tomoe (Skin)": {
@@ -14647,6 +14647,15 @@
         "touch_normal": [
             "\"I can feel it—I can feel you nearby. Soon, you'll be at my side... Orpheus!\"",
             "If this is the Cerberus we're going with, maybe he could use more banter with Eurydice. Hmm, I think I'll give them more scenes."
+        ],
+        "My Theater": [
+            "Fumi-senpai's so good. Her Orpheus has a lot more oomph than last time.",
+            "When I'm writing this script, cookies are my best friend.",
+            "Calm down, Momoko. Ichie-san's finger isn't food.",
+            "\"I'm sorry, Cerberus, but I have someone waiting for me to come home.\"",
+            "\"Now that I'm used to the quiet of the Underworld, it's not so bad.\"",
+            "Heh heh, I see Momoko still loves Ichie-san.",
+            "\"I'm okay. I knew you'd come to the very depths of the Underworld if you had to.\""
         ]
     },
     "Magician Encore Yuyuko Tanaka": {
@@ -15487,13 +15496,13 @@
             "The kids really liked that combo attack I improvised with Misora last time, so maybe I'll work it into the show for real."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Shizuha-chan's so cool. Even in front of children, her acting's perfect...!",
+            "\"It's important to be patient when you can't settle on an answer.\" Man, Shizuha-chan's one smart cookie.",
+            "That hero DVD Lalafin lent me really came in handy!",
+            "\"No matter who the enemy is, my job doesn't change. My daily efforts will see me through.\"",
+            "\"I feel power welling up inside me... Everyone's support will give the strength to fight a new enemy!\"",
+            "I'm so happy I get to play White Frontier again!",
+            "Mmm, what can I do to make the kids like the bad guy?"
         ]
     },
     "Captain Dorothy Aruru Otsuki": {
@@ -20935,14 +20944,14 @@
             "The Empress's upright position means prosperity, fertility, marriage, and womanly charm. Womanly...charm..."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "There are also tarot cards called I Ching from China!",
+            "This \"Performance Festival\" play – no matter how many times I read it, it's still such an epic story...",
+            "If you eat it every day, even if it's the Manchu-Han Imperial Feast, you'll get tired of it.",
+            "No matter who is playing each role, I will respond with my acting!",
+            "The Empress' costume... It's so elaborate.",
+            "Even if I'm inexperienced...I'm the noble \"Empress\" on stage!",
+            "One throne, one empress. Hence the loneliness... I suppose.",
+            "\"Flowers only exist for a fleeting moment... It is my sin for having this eternal beauty.\""
         ]
     },
     "Nurse Liu Mei Fan (Skin)": {
@@ -22696,6 +22705,15 @@
         "touch_normal": [
             "Traditional Japanese clothes use different material from usual, so they're a lot of fun to design! I even got Ms. Ukaji to give me some input♪",
             "Heh heh! I gotta tell Shiori what happened at practice today... I wish she could've seen how adorable Fumi-san was being♪"
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Fool Encore Yachiyo Tsuruhime": {
