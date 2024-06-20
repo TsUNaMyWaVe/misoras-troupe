@@ -4287,6 +4287,16 @@
             "zh_hant": "夏洛克 Encore 神樂光"
         }
     },
+    "1020036": {
+        "chara_id": 102,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "塔 Encore 神楽ひかり"
+        }
+    },
     "1030001": {
         "chara_id": 103,
         "description": {
@@ -5375,6 +5385,22 @@
             "zh_hant": "戀人 Encore 西條克洛迪娜"
         }
     },
+    "1040037": {
+        "chara_id": 104,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Soul Revue Encore Claudine Saijo",
+            "ja": "魂のレヴュー Encore 西條クロディーヌ",
+            "ko": "영혼의 레뷰 Encore 사이조 클로딘",
+            "zh_hant": "靈魂的Revue Encore 西條克洛迪娜"
+        }
+    },
     "1050001": {
         "chara_id": 105,
         "description": {
@@ -5871,6 +5897,22 @@
             "zh_hant": "靈魂的Revue Encore 天堂真矢"
         }
     },
+    "1050033": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Groom Edward Encore Maya Tendo",
+            "ja": "花婿 エドワード Encore 天堂真矢",
+            "ko": "신랑 에드워드 Encore 텐도 마야",
+            "zh_hant": "新郎 愛德華 Encore 天堂真矢"
+        }
+    },
     "1060001": {
         "chara_id": 106,
         "description": {
@@ -6349,6 +6391,22 @@
             "ja": "ヴィヴィアン Encore 星見純那",
             "ko": "비비안 Encore 호시미 준나",
             "zh_hant": "薇薇安 Encore 星見純那"
+        }
+    },
+    "1060031": {
+        "chara_id": 106,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "狩りのレヴュー Encore 星見純那",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "1060036": {
@@ -7183,6 +7241,22 @@
             "zh_hant": "加拉哈德 Encore 石動雙葉"
         }
     },
+    "1080022": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "覚悟の花嫁 結乃 石動双葉",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "1080023": {
         "chara_id": 108,
         "description": {
@@ -7773,6 +7847,22 @@
             "ja": "モルドレッド Encore 花柳香子",
             "ko": "모드레드 Encore 하나야기 카오루코",
             "zh_hant": "莫德雷德 Encore 花柳香子"
+        }
+    },
+    "1090031": {
+        "chara_id": 109,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Dreamy Bride June Kaoruko Hanayagi",
+            "ja": "夢見る花嫁 ジューン 花柳香子",
+            "ko": "꿈꾸는 신부 준 하나야기 카오루코",
+            "zh_hant": "追夢的新娘 六月 花柳香子"
         }
     },
     "1090032": {
@@ -12511,6 +12601,16 @@
             "zh_hant": "忠義之士 荷利 夢大路栞"
         }
     },
+    "4040032": {
+        "chara_id": 404,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "闇夜の悪鬼 酒呑童子 夢大路栞"
+        }
+    },
     "4050001": {
         "chara_id": 405,
         "description": {
@@ -13325,6 +13425,16 @@
             "ja": "騎士テレサ 海辺みんく",
             "ko": "기사 테레사 우미베 밍크",
             "zh_hant": "騎士德蕾莎 海邊明久"
+        }
+    },
+    "4090032": {
+        "chara_id": 409,
+        "description": {
+            "ja": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "ja": "貂蝉 海辺みんく"
         }
     },
     "4100001": {
@@ -14383,6 +14493,22 @@
             "zh_hant": "須佐之男　天堂真矢（外觀）"
         }
     },
+    "10500331": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "花婿 エドワード Encore 天堂真矢",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "10600061": {
         "chara_id": 106,
         "description": {
@@ -14623,6 +14749,22 @@
             "zh_hant": "所羅門王 大場奈奈"
         }
     },
+    "10800221": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "覚悟の花嫁 結乃 石動双葉",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "10900031": {
         "chara_id": 109,
         "description": {
@@ -14685,6 +14827,22 @@
             "ja": "イザナミ 花柳香子（スキン）",
             "ko": "이자나미 하나야기 카오루코(스킨)",
             "zh_hant": "伊邪那美 花柳香子（外觀）"
+        }
+    },
+    "10900311": {
+        "chara_id": 109,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "夢見る花嫁 ジューン 花柳香子",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "20100051": {

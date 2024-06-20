@@ -3687,7 +3687,7 @@
         "personality_id": 2,
         "profile": {
             "en": "The \"Tower\" – a machine intelligence inhabiting a spaceship shot from Earth. Tasked with delivering the 'Star Girl' to the Moon, the ship is hit and bursts into flames. In that moment amid the flames, the \"Tower\" makes a decision. From \"Performance Festival\" Play - Act 5.",
-            "ja": "『塔』――それは地上より打ち上げられた宇宙船の機械知性。『星の少女』を月に送り届ける最中、船は攻撃を受けて燃え上がる。生と死のはざま、炎の奥で『塔』はある決断をくだす。\n――『劇フェス』戯曲・第五幕より",
+            "ja": "『塔』――それは地上より打ち上げられた宇宙船の機械知性。\n『星の少女』を月に送り届ける最中、船は攻撃を受けて燃え上がる。生と死のはざま、炎の奥で『塔』はある決断をくだす。\n――『劇フェス』戯曲・第五幕より",
             "ko": "[탑]―― 그것은 지상에서 발사된 우주선의 기계지성이다. [별의 소녀]를 달에 보내던 중, 우주선은 공격을 받고 불타오른다. 생과 사의 갈림길, 불꽃 속에서 [탑]은 어떤 결단을 내린다.\n――[극페스] 희곡・제5막에서",
             "zh_hant": "『塔』――那是從地上發射出的宇宙船之機械知性。在運送『星之少女』前往月亮時，由於艦體受到攻擊而燃燒。在熊熊烈火的生死之隙中，『塔』做出了某個決定。\n――取自『戲劇慶典』戲碼・第五幕"
         },
@@ -6498,6 +6498,94 @@
         "sub_tactics_skill_id": 20050,
         "trait_id": 7,
         "win_sequence_id": 5042
+    },
+    "1020036": {
+        "attack_type": 2,
+        "attribute_id": 2,
+        "auto_skill1_id": 23428,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23429,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23430,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12602,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12603,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 700,
+        "base_atk": 1476,
+        "base_hp": 13306,
+        "base_mdef": 1091,
+        "base_pdef": 621,
+        "base_rarity": 5,
+        "chara_id": 102,
+        "command_skill1_id": 9459,
+        "command_skill2_id": 9460,
+        "command_skill3_id": 9461,
+        "command_unique_skill_id": 9462,
+        "confusion_skill_id": 9463,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 4140,
+        "delta_pdef": 3000,
+        "description": {
+            "ja": "永続Sで敵役全体に上位舞台効果付与封印&上位ACT1封印を付与する舞台少女。味方全体に上位導きの灯光を付与できるCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1020036,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110200361,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110200362,
+        "friendship_pattern_id": 132,
+        "get_message": {
+            "ja": "破滅、崩壊の意味を持つ――\nそれが『塔』のアルカナ。"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13202101,
+        "growth_board2_id": 13202201,
+        "growth_board3_id": 13202301,
+        "growth_board4_id": 13202401,
+        "growth_board5_id": 13202501,
+        "growth_board6_id": 13202601,
+        "growth_board7_id": 13202701,
+        "growth_board8_id": 13202801,
+        "growth_board9_id": 13202901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10102,
+        "model_id": 1020036,
+        "name": {
+            "ja": "塔 Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 202,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 2,
+        "profile": {
+            "ja": "『塔』――それは地上より打ち上げられた宇宙船の機械知性。\n『星の少女』を月に送り届ける最中、船は攻撃を受けて燃え上がる。生と死のはざま、炎の奥で『塔』はある決断をくだす。\n――『劇フェス』戯曲・第五幕より"
+        },
+        "published_at": 1719212400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 32050,
+        "sub_tactics_skill_id": 20102,
+        "trait_id": 13,
+        "win_sequence_id": 5343
     },
     "1030001": {
         "attack_type": 1,
@@ -13240,7 +13328,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "開幕時に自身にキラめき減少耐性アップを付与する舞台少女。敵役の次のACT実行者に威圧を適用し、敵役全体に上位無敵の再生者減少を付与するCAが強力。"
+            "en": "Applies Brilliance Reduction Resistance Up to self at start. Her Climax Act applies Overpower to the next acting enemy, and Greater Invincible Rebirth Reduction to all enemies.",
+            "ja": "開幕時に自身にキラめき減少耐性アップを付与する舞台少女。敵役の次のACT実行者に威圧を適用し、敵役全体に上位無敵の再生者減少を付与するCAが強力。",
+            "ko": "개막 시에 자신에게 반짝임 감소 저항 증가를 부여하는 무대소녀. 적의 다음 ACT 실행자에게 위압을 적용하고, 적 전체에게 상위 무적의 재생자 감소를 부여하는 CA가 강력하다.",
+            "zh_hant": "開幕時可賦予自己提升光芒減少耐性的舞台少女。強力的CLIMAX ACT可賦予下一個發動ACT的敵方威壓，並賦予所有敵方高級無敵重生者減少。"
         },
         "dex": 5,
         "dress_episode_id": 1040036,
@@ -13253,7 +13344,10 @@
         "friendship30_levelup_adventure_id": 3110400362,
         "friendship_pattern_id": 135,
         "get_message": {
-            "ja": "ふたりで開く、新たな扉――\n『恋人』の舞台にようこそ。"
+            "en": "Welcome to the stage of \"Lovers\"—a new door that they will open together.",
+            "ja": "ふたりで開く、新たな扉――\n『恋人』の舞台にようこそ。",
+            "ko": "둘이서 여는 새로운 문─\n[연인]의 무대에 어서 오세요.",
+            "zh_hant": "兩人攜手打開全新的大門――\n歡迎來到『戀人』的舞台。"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13105101,
@@ -13269,7 +13363,10 @@
         "leader_tactics_skill_id": 10084,
         "model_id": 1040036,
         "name": {
-            "ja": "恋人 Encore"
+            "en": "Lovers Encore",
+            "ja": "恋人 Encore",
+            "ko": "연인 Encore",
+            "zh_hant": "戀人 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 205,
@@ -13277,7 +13374,10 @@
         "party_skill_type": 5,
         "personality_id": 5,
         "profile": {
-            "ja": "「どの時代どの世界でも……『恋人』は引き裂かれる運命なのね」\n時の狭間に嘆きが響く。だが同時に知っていた。\n恋する者たちの想いがあらゆる試練を越えてゆくことを。\n――『劇フェス』戯曲・第五幕より"
+            "en": "\"In any era of any world...the \"Lovers\" are fated to be torn apart\". Mourning resonates in the space between time, but at the same time they know. Their feelings for each other will overcome any trial. From \"Performance Festival\" Play - Act 5.",
+            "ja": "「どの時代どの世界でも……『恋人』は引き裂かれる運命なのね」\n時の狭間に嘆きが響く。だが同時に知っていた。\n恋する者たちの想いがあらゆる試練を越えてゆくことを。\n――『劇フェス』戯曲・第五幕より",
+            "ko": "[어떤 시대, 어떤 세계이건... '연인'은 갈라놓아질 운명인 거네]\n시간의 틈새에 비탄이 울려 퍼진다. 하지만 동시에 알고 있었다.\n사랑하는 이들의 마음이 모든 시련을 극복해 나간다는 것을.\n──[극페스] 희곡 제5막에서",
+            "zh_hant": "「不論身處什麼時代與世界……『戀人』終將迎來分離的命運」\n嘆息聲於時空的夾縫中響起。但我卻也在同時明白，\n墜入情網者的思念將能夠跨越所有試煉。\n――取自『戲劇慶典』戲碼・第五幕"
         },
         "published_at": 1715324400,
         "rarity_up_cost_id": 1,
@@ -13286,6 +13386,94 @@
         "sub_tactics_skill_id": 20084,
         "trait_id": 3,
         "win_sequence_id": 5247
+    },
+    "1040037": {
+        "attack_type": 1,
+        "attribute_id": 6,
+        "auto_skill1_id": 23410,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23411,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23412,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12587,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12588,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 698,
+        "base_atk": 1178,
+        "base_hp": 17821,
+        "base_mdef": 811,
+        "base_pdef": 1514,
+        "base_rarity": 5,
+        "chara_id": 104,
+        "command_skill1_id": 9341,
+        "command_skill2_id": 9342,
+        "command_skill3_id": 9343,
+        "command_unique_skill_id": 9344,
+        "confusion_skill_id": 9345,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4050,
+        "delta_pdef": 4910,
+        "description": {
+            "ja": "雲・星属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「堕天の蝶」を2属性分付与する。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1040037,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110400371,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110400372,
+        "friendship_pattern_id": 126,
+        "get_message": {
+            "ja": "向かえてなかった――\n次の舞台に。"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12106101,
+        "growth_board2_id": 12106201,
+        "growth_board3_id": 12106301,
+        "growth_board4_id": 12106401,
+        "growth_board5_id": 12106501,
+        "growth_board6_id": 12106601,
+        "growth_board7_id": 12106701,
+        "growth_board8_id": 12106801,
+        "growth_board9_id": 12106901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10096,
+        "model_id": 1040037,
+        "name": {
+            "ja": "魂のレヴュー Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 206,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 6,
+        "profile": {
+            "ja": "天堂真矢と演じるは『魂のレヴュー』。\n西條クロディーヌは次の舞台へ――"
+        },
+        "published_at": 1717916400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20096,
+        "trait_id": 34,
+        "win_sequence_id": 5312
     },
     "1050001": {
         "attack_type": 1,
@@ -14475,7 +14663,7 @@
         "personality_id": 6,
         "profile": {
             "en": "A good-looking playboy. Having decided to not yet marry, he rejects any marriage proposal by any means necessary. His real name is Edward Grovener. From \"Deux JUNO!?\"",
-            "ja": "絶世の美男子にして天性のプレイボーイ。結婚はまだしないと決めているので、あの手この手で女性からの求婚を断っている。本名はエドワード・グロブナー。\n演目『Deux JUNO!?』より",
+            "ja": "絶世の美男子にして天性のプレイボーイ。結婚はまだしないと決めているので、あの手この手で女性からの求婚を断っている。本名はエドワード・グロブナー。\n演目『Deux JUNO!?　～６月の花嫁たち～』より",
             "ko": "절세의 미남자로 타고난 플레이보이. 결혼은 아직 하지 않기로 정했기 때문에 이런저런 수를 써서 여성들로부터의 구혼을 거절하고 있다. 본명은 에드워드 그로브너.\n작품 [Deux JUNO?!]에서",
             "zh_hant": "作為一位絕世美男子的同時也是一位花花公子。因為還不打算結婚，所以用盡各種手段來拒絕前來求婚的女性們。本名是愛德華・格羅夫納。\n取自戲碼『Deux JUNO!?』"
         },
@@ -16386,6 +16574,94 @@
         "sub_tactics_skill_id": 20072,
         "trait_id": 14,
         "win_sequence_id": 5182
+    },
+    "1050033": {
+        "attack_type": 2,
+        "attribute_id": 5,
+        "auto_skill1_id": 23413,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23414,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23415,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12589,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12590,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 920,
+        "base_atk": 1511,
+        "base_hp": 22032,
+        "base_mdef": 1947,
+        "base_pdef": 1156,
+        "base_rarity": 5,
+        "chara_id": 105,
+        "command_skill1_id": 9346,
+        "command_skill2_id": 9347,
+        "command_skill3_id": 9348,
+        "command_unique_skill_id": 9349,
+        "confusion_skill_id": 9350,
+        "cost": 29,
+        "cri": 50,
+        "delta_agi": 6250,
+        "delta_atk": 9840,
+        "delta_hp": 134070,
+        "delta_mdef": 6340,
+        "delta_pdef": 5660,
+        "description": {
+            "ja": "基本ACT1&2で上位ACT1封印を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位舞台効果付与封印を付与するCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1050033,
+        "dress_type": 6,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110500331,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110500332,
+        "friendship_pattern_id": 125,
+        "get_message": {
+            "ja": "最高で最低の色男を\nお見せしましょう"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12205101,
+        "growth_board2_id": 12205201,
+        "growth_board3_id": 12205301,
+        "growth_board4_id": 12205401,
+        "growth_board5_id": 12205501,
+        "growth_board6_id": 12205601,
+        "growth_board7_id": 12205701,
+        "growth_board8_id": 12205801,
+        "growth_board9_id": 12205901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10097,
+        "model_id": 1050033,
+        "name": {
+            "ja": "花婿 エドワード Encore"
+        },
+        "obtain_route_flags": 1,
+        "party_skill_id": 205,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 5,
+        "profile": {
+            "ja": "絶世の美男子にして天性のプレイボーイ。結婚はまだしないと決めているので、あの手この手で女性からの求婚を断っている。本名はエドワード・グロブナー。\n演目『Deux JUNO!?　～６月の花嫁たち～』より"
+        },
+        "published_at": 1718175600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20097,
+        "trait_id": 37,
+        "win_sequence_id": 5317
     },
     "1060001": {
         "attack_type": 2,
@@ -19386,6 +19662,94 @@
         "sub_tactics_skill_id": 20040,
         "trait_id": 47,
         "win_sequence_id": 4947
+    },
+    "1060031": {
+        "attack_type": 2,
+        "attribute_id": 9,
+        "auto_skill1_id": 23419,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23420,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23421,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12596,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12597,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 698,
+        "base_atk": 1188,
+        "base_hp": 17788,
+        "base_mdef": 1511,
+        "base_pdef": 821,
+        "base_rarity": 5,
+        "chara_id": 106,
+        "command_skill1_id": 9444,
+        "command_skill2_id": 9445,
+        "command_skill3_id": 9446,
+        "command_unique_skill_id": 9447,
+        "confusion_skill_id": 9448,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4910,
+        "delta_pdef": 4050,
+        "description": {
+            "ja": "開演Sで敵役全体に上位全耐性アップ解除&解除不可の上位継続マイナス効果耐性アップ妨害を付与する舞台少女。敵役全体に上位継続プラス効果強奪を適用するCAが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1060031,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 0,
+        "friendship15_levelup_adventure_id": 3110600311,
+        "friendship25_reward_adventure_id": 0,
+        "friendship30_levelup_adventure_id": 3110600312,
+        "friendship_pattern_id": 129,
+        "get_message": {
+            "ja": "他人の言葉じゃ、ダメ！！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12209101,
+        "growth_board2_id": 12209201,
+        "growth_board3_id": 12209301,
+        "growth_board4_id": 12209401,
+        "growth_board5_id": 12209501,
+        "growth_board6_id": 12209601,
+        "growth_board7_id": 12209701,
+        "growth_board8_id": 12209801,
+        "growth_board9_id": 12209901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10099,
+        "model_id": 1060031,
+        "name": {
+            "ja": "狩りのレヴュー Encore"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 210,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 9,
+        "profile": {
+            "ja": "大場ななと演じるは『狩りのレヴュー』。\n星見純那は次の舞台へ――"
+        },
+        "published_at": 1718636400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20099,
+        "trait_id": 13,
+        "win_sequence_id": 5328
     },
     "1060036": {
         "attack_type": 2,
@@ -22528,7 +22892,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "開幕時に自身に解除不可の上位継続&回数マイナス効果耐性アップを付与する舞台少女。前2体の敵役に終演の切っ先を適用し、舞台効果「破滅への囁き」を付与するCAが強力。"
+            "en": "Applies Unremovable Greater Cont. & Count. Neg. Effects Resistance Up to self at start. Her Climax Act applies End of the Performance to 2 front enemies and Stage Effect [Whispers of Doom].",
+            "ja": "開幕時に自身に解除不可の上位継続&回数マイナス効果耐性アップを付与する舞台少女。前2体の敵役に終演の切っ先を適用し、舞台効果「破滅への囁き」を付与するCAが強力。",
+            "ko": "개막 시에 자신에게 해제 불가능한 상위 지속 & 횟수 마이너스 효과 저항 증가를 부여하는 무대소녀. 앞 2명의 적에게 종연의 칼끝을 적용하고, 무대 효과 [파멸의 속삭임]을 부여하는 CA가 강력하다.",
+            "zh_hant": "可在開幕時賦予自己無法解除的[高級]提升持續性&次數性負面效果耐性的舞台少女。強力的CLIMAX ACT可賦予前面2名敵方閉幕的刀鋒&舞台效果「導向滅亡的低語」。"
         },
         "dex": 5,
         "dress_episode_id": 1070031,
@@ -22541,7 +22908,10 @@
         "friendship30_levelup_adventure_id": 3110700312,
         "friendship_pattern_id": 138,
         "get_message": {
-            "ja": "やっと来た――"
+            "en": "It's finally time...",
+            "ja": "やっと来た――",
+            "ko": "드디어 왔네──",
+            "zh_hant": "終於來了——"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13108101,
@@ -22557,7 +22927,10 @@
         "leader_tactics_skill_id": 10087,
         "model_id": 1070031,
         "name": {
-            "ja": "皆殺しのレヴュー"
+            "en": "Annihilation Revue",
+            "ja": "皆殺しのレヴュー",
+            "ko": "몰살의 레뷰",
+            "zh_hant": "皆殺的Revue"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 211,
@@ -22565,7 +22938,10 @@
         "party_skill_type": 5,
         "personality_id": 8,
         "profile": {
-            "ja": "９９期生らと演じるは『皆殺しのレヴュー』。\n大場ななは次の舞台へ――"
+            "en": "\"Annihilation Revue\" with 99th Class. Nana Daiba—to the next stage!",
+            "ja": "９９期生らと演じるは『皆殺しのレヴュー』。\n大場ななは次の舞台へ――",
+            "ko": "99기생들과 연기하는 것은 [몰살의 레뷰].\n다이바 나나는 다음 무대로──",
+            "zh_hant": "與99期生一同演出『皆殺的Revue』後，\n大場奈奈即將邁向下一個舞台――"
         },
         "published_at": 1715785200,
         "rarity_up_cost_id": 1,
@@ -24575,6 +24951,94 @@
         "trait_id": 9,
         "win_sequence_id": 4942
     },
+    "1080022": {
+        "attack_type": 2,
+        "attribute_id": 5,
+        "auto_skill1_id": 23416,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23417,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23418,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12594,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12595,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 722,
+        "base_atk": 1092,
+        "base_hp": 23499,
+        "base_mdef": 1878,
+        "base_pdef": 1100,
+        "base_rarity": 5,
+        "chara_id": 108,
+        "command_skill1_id": 9439,
+        "command_skill2_id": 9440,
+        "command_skill3_id": 9441,
+        "command_unique_skill_id": 9442,
+        "confusion_skill_id": 9443,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 6900,
+        "delta_atk": 3305,
+        "delta_hp": 169890,
+        "delta_mdef": 6530,
+        "delta_pdef": 6190,
+        "description": {
+            "ja": "開幕時に味方全体に解除不可の上位被ダメージダウン&上位すばやさアップを付与できる盾役の舞台少女。開演Sで上位全耐性アップ解除を適用できる。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1080022,
+        "dress_type": 0,
+        "entry_skill_id": 6,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010800221,
+        "friendship15_levelup_adventure_id": 3110800221,
+        "friendship25_reward_adventure_id": 3010800222,
+        "friendship30_levelup_adventure_id": 3110800222,
+        "friendship_pattern_id": 115,
+        "get_message": {
+            "ja": "２回目の白無垢、\n結構、様になってきただろ？"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 11205101,
+        "growth_board2_id": 11205201,
+        "growth_board3_id": 11205301,
+        "growth_board4_id": 11205401,
+        "growth_board5_id": 11205501,
+        "growth_board6_id": 11205601,
+        "growth_board7_id": 11205701,
+        "growth_board8_id": 11205801,
+        "growth_board9_id": 11205901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10098,
+        "model_id": 1080022,
+        "name": {
+            "ja": "覚悟の花嫁 結乃"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 205,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 5,
+        "profile": {
+            "ja": "水無月家の繁栄のため、自らの未来を差し出す覚悟をした結乃。そんな結乃には、天真爛漫に結婚を夢見るジューンが眩しく映る。\n演目『Deux JUNO!?　～６月の花嫁たち～』より"
+        },
+        "published_at": 1718348400,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 11020,
+        "sub_tactics_skill_id": 20098,
+        "trait_id": 30,
+        "win_sequence_id": 5323
+    },
     "1080023": {
         "attack_type": 2,
         "attribute_id": 6,
@@ -25216,7 +25680,10 @@
         "delta_mdef": 4140,
         "delta_pdef": 3000,
         "description": {
-            "ja": "開幕時に解除不可の耐性アップを複数付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、上位狭窄&上位錯乱を付与するCAが強力。"
+            "en": "Applies a variety of Unremovable Resistance Up at start. Her Climax Act applies Greater Dispel All Resistance Up, Greater Contraction and Greater Daze to all enemies.",
+            "ja": "開幕時に解除不可の耐性アップを複数付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、上位狭窄&上位錯乱を付与するCAが強力。",
+            "ko": "개막 시에 해제 불가능한 저항 증가를 여러 종류 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 상위 협착 & 상위 착란을 부여하는 CA가 강력하다.",
+            "zh_hant": "開幕時可賦予多個無法解除的耐性提升效果的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升、高級視野收窄及高級錯亂。"
         },
         "dex": 5,
         "dress_episode_id": 1080036,
@@ -25229,7 +25696,10 @@
         "friendship30_levelup_adventure_id": 3110800362,
         "friendship_pattern_id": 131,
         "get_message": {
-            "ja": "勇気を持ち、信念を貫け！\n我こそ、『力』のアルカナなり！"
+            "en": "Sticking to my beliefs with courage—I'll show you my \"Strength\"!",
+            "ja": "勇気を持ち、信念を貫け！\n我こそ、『力』のアルカナなり！",
+            "ko": "용기를 갖고 신념을 관철하라!\n내가 바로 [힘] 아르카나다!",
+            "zh_hant": "鼓起勇氣、貫徹信念！\n我將成為『力量』之阿爾克那！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13201101,
@@ -25245,7 +25715,10 @@
         "leader_tactics_skill_id": 10086,
         "model_id": 1080036,
         "name": {
-            "ja": "力 Encore"
+            "en": "Strength Encore",
+            "ja": "力 Encore",
+            "ko": "힘 Encore",
+            "zh_hant": "力量 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 201,
@@ -25253,7 +25726,10 @@
         "party_skill_type": 5,
         "personality_id": 1,
         "profile": {
-            "ja": "そこは次元交点に位置する『観測点』。\n『力』と『運命の輪』は人類を俯瞰し、介入することなく見守り続けていた。\nあの日、戦場に『星の少女』が現われるまでは。\n――『劇フェス』戯曲・第二幕より"
+            "en": "At the intersection of the dimensions, \"Strength\" and \"Wheel of Fortune\" watch over mankind without intervening. Until one day, when the 'Star Girl' appears on the battlefield... From \"Performance Festival\" Play - Act 2.",
+            "ja": "そこは次元交点に位置する『観測点』。\n『力』と『運命の輪』は人類を俯瞰し、介入することなく見守り続けていた。\nあの日、戦場に『星の少女』が現われるまでは。\n――『劇フェス』戯曲・第二幕より",
+            "ko": "그곳은 차원의 교차점이 위치하는 [관측점].\n[힘]과 [운명의 수레바퀴]는 인류를 내려다보며 개입하지 않고 계속 지켜보았다.\n그날, 전장에 [별의 소녀]가 나타날 때까지는.\n──[극페스] 희곡 제2막에서",
+            "zh_hant": "『觀測點』位於次元的交界之處。\n『力量』與『命運之輪』在此俯瞰人類，他們見證著一切卻不曾介入。\n直到『星之少女』於戰場上現身的那一天。\n——取自『戲劇慶典』戲碼・第二幕"
         },
         "published_at": 1715497200,
         "rarity_up_cost_id": 1,
@@ -28250,6 +28726,94 @@
         "sub_tactics_skill_id": 20007,
         "trait_id": 23,
         "win_sequence_id": 4748
+    },
+    "1090031": {
+        "attack_type": 1,
+        "attribute_id": 9,
+        "auto_skill1_id": 23407,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23408,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23409,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12585,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12586,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 698,
+        "base_atk": 1510,
+        "base_hp": 13268,
+        "base_mdef": 621,
+        "base_pdef": 1091,
+        "base_rarity": 5,
+        "chara_id": 109,
+        "command_skill1_id": 9336,
+        "command_skill2_id": 9337,
+        "command_skill3_id": 9338,
+        "command_unique_skill_id": 9339,
+        "confusion_skill_id": 9340,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "開幕時に味方全体に解除不可の上位回数&継続マイナス効果耐性アップを付与する舞台少女。敵役全体に上位回数プラス効果強奪を付与するクライマックスACTが強力。"
+        },
+        "dex": 5,
+        "dress_episode_id": 1090031,
+        "dress_type": 0,
+        "entry_skill_id": 6,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3010900311,
+        "friendship15_levelup_adventure_id": 3110900311,
+        "friendship25_reward_adventure_id": 3010900312,
+        "friendship30_levelup_adventure_id": 3110900312,
+        "friendship_pattern_id": 139,
+        "get_message": {
+            "ja": "うちをお嫁に貰えるなんて\n三国一の果報者やね！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13109101,
+        "growth_board2_id": 13109201,
+        "growth_board3_id": 13109301,
+        "growth_board4_id": 13109401,
+        "growth_board5_id": 13109501,
+        "growth_board6_id": 13109601,
+        "growth_board7_id": 13109701,
+        "growth_board8_id": 13109801,
+        "growth_board9_id": 13109901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10095,
+        "model_id": 1090031,
+        "name": {
+            "ja": "夢見る花嫁 ジューン"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 210,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 9,
+        "profile": {
+            "ja": "結婚はどういうものか？　幸せとは何か？　同じものを求める正反対のふたりは対立を経て、本当に欲しいものに気づき、共に手を取り合う。\n演目『Deux JUNO!?　～６月の花嫁たち～』より"
+        },
+        "published_at": 1718175600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 32050,
+        "sub_tactics_skill_id": 20095,
+        "trait_id": 30,
+        "win_sequence_id": 5307
     },
     "1090032": {
         "attack_type": 2,
@@ -35092,7 +35656,10 @@
         "delta_mdef": 3000,
         "delta_pdef": 4140,
         "description": {
-            "ja": "風属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「王威失墜(雪)」を付与する。"
+            "en": "Boosts Wind Stage Girls. Applies Stage Effect [Fall of Royalty (Snow)] to her enemies' stage at start.",
+            "ja": "風属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「王威失墜(雪)」を付与する。",
+            "ko": "바람 속성을 강화하는 무대소녀. 개막 시에 적 쪽 무대에 무대 효과 [왕위 실추(눈)]을 부여한다.",
+            "zh_hant": "可強化風屬性的舞台少女。開幕時可賦予敵方的舞台舞台效果「王威盡失（雪）」。"
         },
         "dex": 5,
         "dress_episode_id": 2030036,
@@ -35105,7 +35672,10 @@
         "friendship30_levelup_adventure_id": 3120300362,
         "friendship_pattern_id": 132,
         "get_message": {
-            "ja": "幸福の調整こそ『節制』の役目。\nたとえ全て造り物だとしても。"
+            "en": "Adjusting happiness is the role of \"Temperance\"—even if it is all a fabrication.",
+            "ja": "幸福の調整こそ『節制』の役目。\nたとえ全て造り物だとしても。",
+            "ko": "행복의 조정이야말로 [절제]의 역할.\n설령 모든 게 가짜라고 해도.",
+            "zh_hant": "調整幸福便是『節制』的使命。\n即使所有的一切都是假的也一樣。"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13102101,
@@ -35121,7 +35691,10 @@
         "leader_tactics_skill_id": 10082,
         "model_id": 2030036,
         "name": {
-            "ja": "節制 Encore"
+            "en": "Temperance Encore",
+            "ja": "節制 Encore",
+            "ko": "절제 Encore",
+            "zh_hant": "節制 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 202,
@@ -35129,7 +35702,10 @@
         "party_skill_type": 5,
         "personality_id": 2,
         "profile": {
-            "ja": "今日もまた判決が出なかった。\n構わない、裁判長がそう決めたのだから。\n「私は検事としての職務を全うするのみ」\n彼はそう思っていた。あの老人が証人台に立つまでは。\n――『劇フェス』戯曲・第三幕より"
+            "en": "No verdict came out today either. Fine—the presiding judge decided so. \"I only do my job as prosecutor,\" he thought. Until that old man stood on the witness stand... From \"Performance Festival\" Play - Act 3.",
+            "ja": "今日もまた判決が出なかった。\n構わない、裁判長がそう決めたのだから。\n「私は検事としての職務を全うするのみ」\n彼はそう思っていた。あの老人が証人台に立つまでは。\n――『劇フェス』戯曲・第三幕より",
+            "ko": "오늘도 또 판결이 나지 않았다.\n상관없다, 재판장이 그렇게 정한 거니까.\n[나는 검사로서의 직무를 완수할 뿐]\n그는 그렇게 생각하고 있었다. 그 노인이 증인대에 서기 전까지는.\n──[극페스] 희곡 제3막에서",
+            "zh_hant": "法官今日依舊沒有做出判決。\n不過無所謂，因為那就是法官的決定。\n「我只需貫徹自己身為檢察官的職責即可」\n他一直都是這麼認為的。\n直到那位老人站上證人台。\n――取自『戲劇慶典』戲碼・第三幕"
         },
         "published_at": 1715065200,
         "rarity_up_cost_id": 1,
@@ -37080,7 +37656,10 @@
         "delta_mdef": 4050,
         "delta_pdef": 4910,
         "description": {
-            "ja": "基本ACTで敵役全体に解除不可の上位AP増加を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。"
+            "en": "Her Basic Acts apply Unremovable Greater Dispel AP Up to all enemies. Her Climax Act applies Greater Dispel All Resistance Up and Unremovable Greater Stop to all enemies.",
+            "ja": "基本ACTで敵役全体に解除不可の上位AP増加を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。",
+            "ko": "기본 ACT로 적 전체에게 해제 불가능한 상위 AP 증가를 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 해제 불가능한 상위 스톱을 부여하는 CA가 강력하다.",
+            "zh_hant": "可透過基本ACT賦予所有敵方無法解除的高級AP増加的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升&無法解除的高級停止。"
         },
         "dex": 5,
         "dress_episode_id": 2040036,
@@ -37093,7 +37672,10 @@
         "friendship30_levelup_adventure_id": 3120400362,
         "friendship_pattern_id": 126,
         "get_message": {
-            "ja": "世界を逆さまに――\n『吊られた男』にしか見えない未来がある！"
+            "en": "The world upside down—there is a future only the \"Hanged Man\" can see!",
+            "ja": "世界を逆さまに――\n『吊られた男』にしか見えない未来がある！",
+            "ko": "세계를 거꾸로――\n[매달린 사람]에게만 보이는 미래가 있어!",
+            "zh_hant": "倒轉世界——\n抵達唯有『倒吊人』才能看見的未來！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12106101,
@@ -37109,7 +37691,10 @@
         "leader_tactics_skill_id": 10088,
         "model_id": 2040036,
         "name": {
-            "ja": "吊られた男 Encore"
+            "en": "Hanged Man Encore",
+            "ja": "吊られた男 Encore",
+            "ko": "매달린 사람 Encore",
+            "zh_hant": "倒吊人 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 206,
@@ -37117,7 +37702,10 @@
         "party_skill_type": 5,
         "personality_id": 6,
         "profile": {
-            "ja": "人々を恐怖に落とし入れる流行病。男は医術を学びこの恐るべき敵に立ちむかう。\nだが敵は病だけではなかった。\n「人を救うは神の奇跡のみ」と女教皇が騎士団を差し向けたのだ。\n――『劇フェス』戯曲・第一幕より"
+            "en": "An epidemic that has spread fear among the people – a man learns medicine to face this enemy. However, the enemy isn't only the disease. The High Priestess admonishes him that \"only God can save mankind.\" From \"Performance Festival\" Play - Act 1.",
+            "ja": "人々を恐怖に落とし入れる流行病。男は医術を学びこの恐るべき敵に立ちむかう。\nだが敵は病だけではなかった。\n「人を救うは神の奇跡のみ」と女教皇が騎士団を差し向けたのだ。\n――『劇フェス』戯曲・第一幕より",
+            "ko": "사람들을 공포에 빠뜨리는 돌림병. 남자는 의술을 배워 이 무서운 적에 맞선다.\n하지만 적은 병뿐만이 아니었다.\n[인간을 구하는 것은 신의 기적뿐]이라며 여교황이 기사단을 보낸 것이다.\n──[극페스] 희곡・제1막에서",
+            "zh_hant": "使人們陷入恐慌的傳染病正在蔓延。但男人卻憑藉自己的醫術、挺身對抗這令人恐懼的敵人。然而他所面對的敵人卻並非僅有疾病。堅信能拯救世人的唯有神之奇蹟的女教皇向騎士團下達了追捕男人的命令。\n——取自『戲劇慶典』戲碼・第一幕"
         },
         "published_at": 1715785200,
         "rarity_up_cost_id": 1,
@@ -43068,7 +43656,10 @@
         "delta_mdef": 4140,
         "delta_pdef": 3000,
         "description": {
-            "ja": "花・風・雪・陽属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「虚飾と虚栄」を3属性分付与する。"
+            "en": "Boosts Flower, Wind, Snow and Sun Stage Girls. Applies 3 types of Stage Effect [Vanity] to her enemies' stage at start.",
+            "ja": "花・風・雪・陽属性を強化する舞台少女。開幕時に敵役側の舞台に舞台効果「虚飾と虚栄」を3属性分付与する。",
+            "ko": "꽃・바람・눈・태양 속성을 강화하는 무대소녀. 개막 시에 적 쪽 무대에 무대효과 [허식과 허영] 3가지 속성을 부여한다.",
+            "zh_hant": "可強化花、風、雪、陽屬性的舞台少女。開幕時可賦予敵方的舞台3種屬性的舞台效果「虛偽與虛榮」。"
         },
         "dex": 5,
         "dress_episode_id": 3020036,
@@ -43081,7 +43672,10 @@
         "friendship30_levelup_adventure_id": 3130200362,
         "friendship_pattern_id": 138,
         "get_message": {
-            "ja": "傲慢に我儘に――\n私は、私自身が信じるものを貫く！"
+            "en": "Arrogant and selfish—I will stick to what I believe in!",
+            "ja": "傲慢に我儘に――\n私は、私自身が信じるものを貫く！",
+            "ko": "오만하고 제멋대로――\n나는 나 자신이 믿는 것을 관철하겠어!",
+            "zh_hant": "既傲慢又任性——\n我會貫徹我所相信的事物！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13208101,
@@ -43097,7 +43691,10 @@
         "leader_tactics_skill_id": 10090,
         "model_id": 3020036,
         "name": {
-            "ja": "信仰 Encore"
+            "en": "Faith Encore",
+            "ja": "信仰 Encore",
+            "ko": "신앙 Encore",
+            "zh_hant": "信仰 Encore"
         },
         "obtain_route_flags": 0,
         "party_skill_id": 211,
@@ -43105,7 +43702,10 @@
         "party_skill_type": 5,
         "personality_id": 8,
         "profile": {
-            "ja": "『信仰』を得るまで、彼女は『何者』でもなかった。\nアルファからオメガへ。エピソードからエピローグへ。\n『Ａ』を受肉させるべく、彼女は荒野に降り立つ。\n――『劇フェス』戯曲・第四幕より"
+            "en": "She was a \"nobody\" until she gained \"faith\". From alpha to omega, episode to epilogue. She stands in the wilderness in order for \"A\" to incarnate. From \"Performance Festival\" Play - Act 4.",
+            "ja": "『信仰』を得るまで、彼女は『何者』でもなかった。\nアルファからオメガへ。エピソードからエピローグへ。\n『Ａ』を受肉させるべく、彼女は荒野に降り立つ。\n――『劇フェス』戯曲・第四幕より",
+            "ko": "[신앙]을 얻을 때까지 그녀는 [그 누구]도 아니었다.\n알파에서 오메가로. 에피소드에서 에필로그로.\n[Ａ]를 강림시키고자 그녀는 황야에 내려선다.\n――[극페스] 희곡・제4막에서",
+            "zh_hant": "在獲得『信仰』之前，她『什麼人』也不是。\n從Alpha到Omega。從故事到終章。\n為了讓『A』誕生，她將踏入荒野。\n――取自『戲劇慶典』戲碼・第四幕"
         },
         "published_at": 1716476400,
         "rarity_up_cost_id": 1,
@@ -45156,7 +45756,10 @@
         "delta_mdef": 6340,
         "delta_pdef": 5660,
         "description": {
-            "ja": "基本ACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。"
+            "en": "Her Basic Acts apply Unremovable Greater AP Down to all allies. Her Climax Act applies Greater Dispel All Resistance Up and Unremovable Greater Stop to all enemies.",
+            "ja": "基本ACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位ストップを付与するCAが強力。",
+            "ko": "기본 ACT로 아군 전체에게 해제 불가능한 상위 AP 감소를 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 해제 불가능한 상위 스톱을 부여하는 CA가 강력하다.",
+            "zh_hant": "可透過基本ACT賦予所有我方無法解除的高級AP減少的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升&無法解除的高級停止。"
         },
         "dex": 5,
         "dress_episode_id": 3030036,
@@ -45169,7 +45772,10 @@
         "friendship30_levelup_adventure_id": 3130300362,
         "friendship_pattern_id": 123,
         "get_message": {
-            "ja": "行こう、この道を真っ直ぐ！\n一緒に『希望』を叶えるために！"
+            "en": "Straight down this path to fulfill our hope!",
+            "ja": "行こう、この道を真っ直ぐ！\n一緒に『希望』を叶えるために！",
+            "ko": "가자, 이 길을 똑바로!\n함께 [희망]을 이루기 위해서!",
+            "zh_hant": "走吧，在這條路上筆直地奔走！\n為了一起實現『希望』！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12203101,
@@ -45185,7 +45791,10 @@
         "leader_tactics_skill_id": 10091,
         "model_id": 3030036,
         "name": {
-            "ja": "希望 Encore"
+            "en": "Hope Encore",
+            "ja": "希望 Encore",
+            "ko": "희망 Encore",
+            "zh_hant": "希望 Encore"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 216,
@@ -45193,7 +45802,10 @@
         "party_skill_type": 5,
         "personality_id": 3,
         "profile": {
-            "ja": "鋼の意志を誇る彼女も、かつては『何者』でもなく、『Ａ』が見せた『希望』が、今の彼女を作った。ならばゆかねばなるまい。『何者』でもないあの少女を救いに。\n――『劇フェス』戯曲・第四幕より"
+            "en": "She prides herself on having an iron will, but she was once a \"nobody\". \"A's hope\" made her. That is why she has to save that girl who is also a \"nobody\". From \"Performance Festival\" Play - Act 4.",
+            "ja": "鋼の意志を誇る彼女も、かつては『何者』でもなく、『Ａ』が見せた『希望』が、今の彼女を作った。ならばゆかねばなるまい。『何者』でもないあの少女を救いに。\n――『劇フェス』戯曲・第四幕より",
+            "ko": "강철과도 같은 의지를 자랑하는 그녀도 일찍이 [아무것도] 아니었고, [A]가 보여준 [희망]이 지금의 그녀를 만들었다. 그렇다면 가야만 한다. [아무것도] 아닌 그 소녀를 구하러.\n――[극페스] 희곡 제4장에서",
+            "zh_hant": "以鋼鐵般的意志為傲的她也曾經『什麼都不是』，正因為『Ａ』向她展示了『希望』，才成就了今天的她。既然如此就得啟程了，前去拯救那名『什麼都不是』的少女。\n――取自『戲劇慶典』戲碼・第四幕"
         },
         "published_at": 1716534000,
         "rarity_up_cost_id": 1,
@@ -46944,7 +47556,10 @@
         "delta_mdef": 4290,
         "delta_pdef": 5390,
         "description": {
-            "ja": "全てのACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位スタンを付与するCAが強力。"
+            "en": "All her Acts apply Unremovable Greater AP Down to all allies. Her Climax Act applies Greater Dispel All Resistance Up and Unremovable Greater Stun to all enemies.",
+            "ja": "全てのACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位スタンを付与するCAが強力。",
+            "ko": "모든 ACT로 아군 전체에게 해제 불가능한 상위 AP 감소를 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 해제 불가능한 상위 스턴을 부여하는 CA가 강력하다.",
+            "zh_hant": "所有ACT均可賦予所有我方無法解除的高級AP減少的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升&無法解除的高級暈眩。"
         },
         "dex": 5,
         "dress_episode_id": 3040036,
@@ -46957,7 +47572,10 @@
         "friendship30_levelup_adventure_id": 3130400362,
         "friendship_pattern_id": 131,
         "get_message": {
-            "ja": "自分勝手で傲慢な『慈善』で、\nみんなを立ち上がらせてみせる！"
+            "en": "My self-centered and arrogant \"Charity\" will make everyone rise!",
+            "ja": "自分勝手で傲慢な『慈善』で、\nみんなを立ち上がらせてみせる！",
+            "ko": "오만하고 제멋대로인 [자선]으로\n모두를 일으켜 세워보이겠어!",
+            "zh_hant": "我要以自私又傲慢的『慈愛』，\n讓大家都振作起來！"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 13101101,
@@ -46973,7 +47591,10 @@
         "leader_tactics_skill_id": 10083,
         "model_id": 3040036,
         "name": {
-            "ja": "慈善 Encore"
+            "en": "Charity Encore",
+            "ja": "慈善 Encore",
+            "ko": "자선 Encore",
+            "zh_hant": "慈愛 Encore"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 201,
@@ -46981,7 +47602,10 @@
         "party_skill_type": 5,
         "personality_id": 1,
         "profile": {
-            "ja": "与え、施し続けることだけが『慈善』ではない。\n失われた月の光を求め、彼女もまた荒野を駆け出す。\n自分を救済してくれた『A』を探しに。今度は自分が救うために。\n――『劇フェス』戯曲・第四幕より"
+            "en": "\"Charity\" isn't only about giving and being charitable.  Seeking the light of the lost Moon, she runs to the wilderness in search of \"A\" who saved her.  This time she will save them. From \"Performance Festival\" Play - Act 4.",
+            "ja": "与え、施し続けることだけが『慈善』ではない。\n失われた月の光を求め、彼女もまた荒野を駆け出す。\n自分を救済してくれた『A』を探しに。今度は自分が救うために。\n――『劇フェス』戯曲・第四幕より",
+            "ko": "나눔과 베풂만이 [자선]이 아니다.\n잃어버린 달빛을 찾아 그녀 또한 황야를 내달린다.\n자신을 구해준 [A]를 찾기 위해. 이번에는 자신이 구하기 위해.\n──[극페스] 희곡 제4막에서",
+            "zh_hant": "只是不斷地給予與施惠並稱不上是『慈愛』。\n為了尋找失去的月之光輝，她再次踏足荒野。\n『A』曾救濟過自己，這次該輪到自己去拯救『A』了。\n――取自『戲劇慶典』戲碼・第四幕"
         },
         "published_at": 1716361200,
         "rarity_up_cost_id": 1,
@@ -57591,6 +58215,94 @@
         "trait_id": 9,
         "win_sequence_id": 4348
     },
+    "4040032": {
+        "attack_type": 1,
+        "attribute_id": 4,
+        "auto_skill1_id": 23422,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23423,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23424,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12598,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12599,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 700,
+        "base_atk": 1189,
+        "base_hp": 17821,
+        "base_mdef": 817,
+        "base_pdef": 1521,
+        "base_rarity": 5,
+        "chara_id": 404,
+        "command_skill1_id": 9449,
+        "command_skill2_id": 9450,
+        "command_skill3_id": 9451,
+        "command_unique_skill_id": 9452,
+        "confusion_skill_id": 9453,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5360,
+        "delta_atk": 7555,
+        "delta_hp": 108000,
+        "delta_mdef": 4050,
+        "delta_pdef": 4910,
+        "description": {
+            "ja": "開幕時&基本ACT&CAで舞台効果「盛者必衰(中)」を付与する舞台少女。開演Sで自身に上位キラめき減少耐性アップを付与することができる。"
+        },
+        "dex": 5,
+        "dress_episode_id": 4040032,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3040400321,
+        "friendship15_levelup_adventure_id": 3140400321,
+        "friendship25_reward_adventure_id": 3040400322,
+        "friendship30_levelup_adventure_id": 3140400322,
+        "friendship_pattern_id": 124,
+        "get_message": {
+            "ja": "人を捨てて、鬼になり……\n喰らってみせます、なにもかも！"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 12104101,
+        "growth_board2_id": 12104201,
+        "growth_board3_id": 12104301,
+        "growth_board4_id": 12104401,
+        "growth_board5_id": 12104501,
+        "growth_board6_id": 12104601,
+        "growth_board7_id": 12104701,
+        "growth_board8_id": 12104801,
+        "growth_board9_id": 12104901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10100,
+        "model_id": 4040032,
+        "name": {
+            "ja": "闇夜の悪鬼 酒呑童子"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 204,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 4,
+        "profile": {
+            "ja": "蘆屋道満に怨念を宿された小さき者は、暴虐と殺戮を尽くす鬼となった。それは過去を忘れ、人を捨て、永遠に浄土を踏めぬ身に堕ちた、悲しき鬼だった。\n演目『YIN-YANG・ORIGIN』より"
+        },
+        "published_at": 1718895600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 24050,
+        "sub_tactics_skill_id": 20100,
+        "trait_id": 10,
+        "win_sequence_id": 5333
+    },
     "4050001": {
         "attack_type": 2,
         "attribute_id": 5,
@@ -60320,7 +61032,10 @@
         "delta_mdef": 6340,
         "delta_pdef": 5660,
         "description": {
-            "ja": "全てのACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位恋わずらいを付与するCAが強力。"
+            "en": "All her Acts apply Unremovable Greater AP Down to all allies. Her Climax Act applies Greater Dispel All Resistance Up and Unremovable Greater Lovesickness to all enemies.",
+            "ja": "全てのACTで味方全体に解除不可の上位AP減少を付与する舞台少女。敵役全体に上位全耐性アップ解除を適用し、解除不可の上位恋わずらいを付与するCAが強力。",
+            "ko": "모든 ACT로 아군 전체에게 해제 불가능한 상위 AP 감소를 부여하는 무대소녀. 적 전체에게 상위 모든 저항 증가 해제를 적용하고, 해제 불가능한 상위 상사병을 부여하는 CA가 강력하다.",
+            "zh_hant": "所有ACT均可賦予所有我方無法解除的高級AP減少的舞台少女。強力的CLIMAX ACT可賦予所有敵方[高級]解除全耐性提升&無法解除的高級苦戀。"
         },
         "dex": 5,
         "dress_episode_id": 4050036,
@@ -60333,7 +61048,10 @@
         "friendship30_levelup_adventure_id": 3140500362,
         "friendship_pattern_id": 122,
         "get_message": {
-            "ja": "何も知らない『愚者』だからこそ、\n何者にだってなれるんですよ～"
+            "en": "The \"Fool\" knows nothing, and that's why they hold the potential to become whoever they want.",
+            "ja": "何も知らない『愚者』だからこそ、\n何者にだってなれるんですよ～",
+            "ko": "아무것도 모르는 [바보]이기 때문에\n뭐든 될 수 있답니다~",
+            "zh_hant": "只有一無所知的『愚者』，\n才能化身成任何人喔～"
         },
         "get_voice": "v21010002_004",
         "growth_board1_id": 12202101,
@@ -60349,7 +61067,10 @@
         "leader_tactics_skill_id": 10085,
         "model_id": 4050036,
         "name": {
-            "ja": "愚者 Encore"
+            "en": "Fool Encore",
+            "ja": "愚者 Encore",
+            "ko": "바보 Encore",
+            "zh_hant": "愚者 Encore"
         },
         "obtain_route_flags": 1,
         "party_skill_id": 202,
@@ -60357,7 +61078,10 @@
         "party_skill_type": 5,
         "personality_id": 2,
         "profile": {
-            "ja": "そして彼はたどり着いた。少女と共に、彼の地へ。\n「待っている。月明かりの果て、約束の楽園で」\n旅の果てに触れた約束。そして楽園の意味とは。\n今、最後の舞台が幕を開く。\n――『劇フェス』戯曲・第六幕より"
+            "en": "He arrives. He arrives at his land together with the young girl. \"I'll be waiting. At the end of the moonlight. At the promised paradise.\" What is this promise at the end of journey? What is paradise? The curtain of the final stage rises. From \"Performance Festival\" Play - Act 6.",
+            "ja": "そして彼はたどり着いた。少女と共に、彼の地へ。\n「待っている。月明かりの果て、約束の楽園で」\n旅の果てに触れた約束。そして楽園の意味とは。\n今、最後の舞台が幕を開く。\n――『劇フェス』戯曲・第六幕より",
+            "ko": "그리고 그는 도착했다. 소녀와 함께, 그의 땅에.\n[기다릴게. 달빛이 끝나는 곳, 약속의 낙원에서]\n여행 끝에 마주한 약속. 그리고 낙원의 의미란.\n지금, 마지막 무대의 막이 열린다.\n──[극페스] 희곡 제6막에서",
+            "zh_hant": "他終於與少女一同抵達了那個地方。\n「我會在月光的盡頭、約定的樂園裡等妳」\n在旅途終焉所提到的約定，以及樂園究竟是……？\n最後一個舞台的帷幕將在此刻升起。\n――取自『戲劇慶典』戲碼・第六幕"
         },
         "published_at": 1715324400,
         "rarity_up_cost_id": 1,
@@ -62666,6 +63390,94 @@
         "sub_tactics_skill_id": 20056,
         "trait_id": 7,
         "win_sequence_id": 5076
+    },
+    "4090032": {
+        "attack_type": 1,
+        "attribute_id": 9,
+        "auto_skill1_id": 23425,
+        "auto_skill1_release_rank": 1,
+        "auto_skill1_type": 2,
+        "auto_skill2_id": 23426,
+        "auto_skill2_release_rank": 4,
+        "auto_skill2_type": 2,
+        "auto_skill3_id": 23427,
+        "auto_skill3_release_panel_number": 5,
+        "auto_skill3_release_rank": 9,
+        "auto_skill3_type": 2,
+        "auto_skill4_id": 12600,
+        "auto_skill4_release_panel_number": 5,
+        "auto_skill4_release_rank": 9,
+        "auto_skill4_type": 1,
+        "auto_skill5_id": 12601,
+        "auto_skill5_release_panel_number": 5,
+        "auto_skill5_release_rank": 9,
+        "auto_skill5_type": 1,
+        "base_agi": 700,
+        "base_atk": 1489,
+        "base_hp": 13311,
+        "base_mdef": 630,
+        "base_pdef": 1088,
+        "base_rarity": 5,
+        "chara_id": 409,
+        "command_skill1_id": 9454,
+        "command_skill2_id": 9455,
+        "command_skill3_id": 9456,
+        "command_unique_skill_id": 9457,
+        "confusion_skill_id": 9458,
+        "cost": 26,
+        "cri": 50,
+        "delta_agi": 5190,
+        "delta_atk": 8260,
+        "delta_hp": 85230,
+        "delta_mdef": 3000,
+        "delta_pdef": 4140,
+        "description": {
+            "ja": "基本ACT&CAで舞台効果「盛者必衰(後)」「神々の黄昏」を付与する舞台少女。開演Sで味方全体に上位神業を付与することが出来る。"
+        },
+        "dex": 5,
+        "dress_episode_id": 4090032,
+        "dress_type": 0,
+        "entry_skill_id": 0,
+        "eva": 0,
+        "friendship10_reward_adventure_id": 3040900321,
+        "friendship15_levelup_adventure_id": 3140900321,
+        "friendship25_reward_adventure_id": 3040900322,
+        "friendship30_levelup_adventure_id": 3140900322,
+        "friendship_pattern_id": 139,
+        "get_message": {
+            "ja": "れんかんのけーで、\nいっぱいドキドキさせちゃうぞ☆"
+        },
+        "get_voice": "v21010002_004",
+        "growth_board1_id": 13109101,
+        "growth_board2_id": 13109201,
+        "growth_board3_id": 13109301,
+        "growth_board4_id": 13109401,
+        "growth_board5_id": 13109501,
+        "growth_board6_id": 13109601,
+        "growth_board7_id": 13109701,
+        "growth_board8_id": 13109801,
+        "growth_board9_id": 13109901,
+        "hit": 0,
+        "leader_tactics_skill_id": 10101,
+        "model_id": 4090032,
+        "name": {
+            "ja": "貂蝉"
+        },
+        "obtain_route_flags": 0,
+        "party_skill_id": 210,
+        "party_skill_level_id": 2,
+        "party_skill_type": 5,
+        "personality_id": 9,
+        "profile": {
+            "ja": "かつて孤児の身だった貂蝉は、のちに四大美女のひとりと謳われた。しかし外見よりも強かに運命を切り拓くその意志こそが彼女の美しさの本質といえるだろう。\n演目『三国志 舞踏姫・貂蝉ノ章』より"
+        },
+        "published_at": 1719327600,
+        "rarity_up_cost_id": 1,
+        "remake_cost_id": 1,
+        "role_index": 32050,
+        "sub_tactics_skill_id": 20101,
+        "trait_id": 10,
+        "win_sequence_id": 5338
     },
     "4100001": {
         "attack_type": 2,

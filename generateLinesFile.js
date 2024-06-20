@@ -21,53 +21,55 @@ const formatSingleCharaActions = (charaName, actionsGroupedById, charaDresses, c
     const dresses = _.keys(actionsGroupedById);
     let file = {};
     dresses.map(dress => {
-        let dressName = '';
-        if (dress == 0) {
-            dressName = `GENERIC ${charaName}`;
-        } else if (_.get(charaCostumes, `${dress}.name.en`)) {
-            dressName = charaCostumes[dress].name.en.includes(charaName) ? `${charaCostumes[dress].name.en}` : `${charaCostumes[dress].name.en} ${charaName}`;
-        } else if (_.get(charaDresses, `${dress}.name.en`)) {
-            dressName = charaDresses[dress].name.en.includes(charaName) ? `${charaDresses[dress].name.en}` : `${charaDresses[dress].name.en} ${charaName}`;
-        } else if (dress.length > 7 && _.get(charaCostumes, `${dress.slice(0, 7)}.name.en`)) {
-            dressName = charaDresses[dress.slice(0, 7)].name.en.includes(charaName) ? `${charaDresses[dress.slice(0, 7)].name.en} (Skin)` : `${charaDresses[dress.slice(0, 7)].name.en} ${charaName} (Skin)`;
-        } else {
-            dressName = `UNKNOWN(${dress}) ${charaName}`;
-        }
-        const linesByGroup = _.groupBy(actionsGroupedById[dress], action => action.group_name);
-        let onlyLines = {}
-        _.keys(linesByGroup).map(group => {
-            const lines = linesByGroup[group].map(lineObj => lineObj.message.en);
-            onlyLines = {
-                ...onlyLines,
-                [group]: lines
-            }
-        });
-        const dressTheaterLines = theaterLines[dress];
-        if(dressTheaterLines) {
-            onlyLines['My Theater'] = _.keys(dressTheaterLines).map(key => {
-                return dressTheaterLines[key].text.en;
-            });
-        }
-        if(file[dressName]) {
-            _.forEach(_.keys(file[dressName]), key => {
-                if (!_.has(onlyLines, `${key}`)) {
-                    onlyLines[key] = file[dressName][key];
-                }
-            })
-        }
-        if (_.keys(file).includes(dressName)) {
-            if (_.isEqual(file[dressName], onlyLines)) {
-                
-            } else if (dressName.includes("Skin")) {
-                dressName = dressName + " 2"
+        try {
+            let dressName = '';
+            if (dress == 0) {
+                dressName = `GENERIC ${charaName}`;
+            } else if (_.get(charaCostumes, `${dress}.name.en`)) {
+                dressName = charaCostumes[dress].name.en.includes(charaName) ? `${charaCostumes[dress].name.en}` : `${charaCostumes[dress].name.en} ${charaName}`;
+            } else if (_.get(charaDresses, `${dress}.name.en`)) {
+                dressName = charaDresses[dress].name.en.includes(charaName) ? `${charaDresses[dress].name.en}` : `${charaDresses[dress].name.en} ${charaName}`;
+            } else if (dress.length > 7 && _.get(charaCostumes, `${dress.slice(0, 7)}.name.en`)) {
+                dressName = charaDresses[dress.slice(0, 7)].name.en.includes(charaName) ? `${charaDresses[dress.slice(0, 7)].name.en} (Skin)` : `${charaDresses[dress.slice(0, 7)].name.en} ${charaName} (Skin)`;
             } else {
-                dressName = `${dressName} (Skin)`
+                dressName = `UNKNOWN(${dress}) ${charaName}`;
             }
-        }
-        file = {
-            ...file,
-            [dressName]: onlyLines
-        }
+            const linesByGroup = _.groupBy(actionsGroupedById[dress], action => action.group_name);
+            let onlyLines = {}
+            _.keys(linesByGroup).map(group => {
+                const lines = linesByGroup[group].map(lineObj => lineObj.message.en);
+                onlyLines = {
+                    ...onlyLines,
+                    [group]: lines
+                }
+            });
+            const dressTheaterLines = theaterLines[dress];
+            if(dressTheaterLines) {
+                onlyLines['My Theater'] = _.keys(dressTheaterLines).map(key => {
+                    return dressTheaterLines[key].text.en;
+                });
+            }
+            if(file[dressName]) {
+                _.forEach(_.keys(file[dressName]), key => {
+                    if (!_.has(onlyLines, `${key}`)) {
+                        onlyLines[key] = file[dressName][key];
+                    }
+                })
+            }
+            if (_.keys(file).includes(dressName)) {
+                if (_.isEqual(file[dressName], onlyLines)) {
+                    
+                } else if (dressName.includes("Skin")) {
+                    dressName = dressName + " 2"
+                } else {
+                    dressName = `${dressName} (Skin)`
+                }
+            }
+            file = {
+                ...file,
+                [dressName]: onlyLines
+            }
+        } catch {}
     });
     return file;
 }
