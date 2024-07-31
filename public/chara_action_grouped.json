@@ -108,18 +108,6 @@
             "Happy New Year! We will all do Starlight this year, too!",
             null
         ],
-        "birthday_105": [
-            "Happy birthday! Hikari-chan and I picked out T-shirts that we though would suit you! I hope you'll wear it when you work out."
-        ],
-        "birthday_104": [
-            "Happy birthday, Clau-chan! I got you a T-shirt to work out in! Actually, it's the same shirt that I got Tendo-san, but in a different color!"
-        ],
-        "birthday_107": [
-            "Happy birthday! Hikari-chan and I are going to make lots of snacks for you today!"
-        ],
-        "birthday_101": [
-            "Thanks for the party, everyone! I had no idea you were setting anything up, so it was a real surprise! It made my day!"
-        ],
         "birthday_106": [
             "Happy birthday! Since I know you like baths, I got you some bubble bath! I hope you like it!"
         ],
@@ -134,6 +122,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Mahiru-chan! Kaoruko-chan and I made candied sweet potatoes out of Mahiru Spuds, and they're a lot better than we were expecting! You gotta have 'em♪"
+        ],
+        "birthday_107": [
+            "Happy birthday, Banana! Me, Mahiru-chan, and the others took care of the cooking! I hope the food turned out good."
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo-san! We're having a feast tonight! Hikari-chan and I made sandwiches with lots of stuff in 'em!"
+        ],
+        "birthday_104": [
+            "Happy birthday, Clau-chan! I shined your workout shoes for you. Now you can feel good when you jog!"
+        ],
+        "birthday_101": [
+            "Thanks for all the birthday festivities, everyone. You really knocked my socks off! I'm ready to kill it in practice tomorrow!"
         ]
     },
     "Karen Aijo Uniform": {
@@ -1193,6 +1193,43 @@
             "\"They know well their actions, yet still they sin... How complex is the lot of humans.\""
         ]
     },
+    "UNKNOWN(1010035) Karen Aijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
+    "The Last Line Encore Karen Aijo": {
+        "quest_result": [
+            "I feel the emptiest I've ever been inside."
+        ],
+        "quest_dress": [
+            "It's thanks to the promise to Hikari-chan that I'm here."
+        ],
+        "common": [
+            "I have to say...the last line...",
+            "After everything, Hikari-chan is my stage."
+        ],
+        "touch_normal": [
+            "Hikari-chan, you're so pretty...and yet...so scary."
+        ]
+    },
     "Da Vinci Karen Aijo (Skin)": {
         "quest_result": [
             "Yay Renaissance!"
@@ -1270,6 +1307,28 @@
             "\"Enemy at Honnoji!\" ...What do you think? Was there enough force?"
         ]
     },
+    "UNKNOWN(10100351) Karen Aijo": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "GENERIC Hikari Kagura": {
         "loginbonus": [
             "I need to practice now."
@@ -1339,18 +1398,6 @@
             "Happy New Year. I'm really looking forward to spending the holidays with Karen and everyone. Say, doesn't mochi remind you of jellyfish?",
             null
         ],
-        "birthday_105": [
-            "Happy birthday. I believe that the T-shirt that I picked for you will suit you better... Try it on."
-        ],
-        "birthday_104": [
-            "Happy birthday. I got you a sports towel... I made sure that it would go together with the T-shirt that Karen got you."
-        ],
-        "birthday_107": [
-            "Happy birthday. I made muffins with Karen. I'm sure they're good."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen. I helped bake this kanihaniwa cake. Give it a try."
-        ],
         "birthday_106": [
             "Happy birthday. Here, a lens wipe... I picked it out as a gift because it has a cute little Mr. White embroidery here."
         ],
@@ -1365,6 +1412,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Mahiru. Everyone helped me make meat and potato stew... How is it?"
+        ],
+        "birthday_107": [
+            "Happy birthday. I think the cake and decorations came out a pretty frog—a pretty green color."
+        ],
+        "birthday_105": [
+            "Happy birthday... Karen and I made sandwiches. I tried making them like the ones I ate in England."
+        ],
+        "birthday_104": [
+            "Happy birthday. Your present...is a Mr. White in a three-color ensemble."
+        ],
+        "birthday_101": [
+            "Happy birthday, Karen. I had a lot of fun cooking for you."
         ]
     },
     "Hikari Kagura Uniform": {
@@ -2393,26 +2452,26 @@
             "The swan tiara prop is so beautiful..."
         ]
     },
-    "UNKNOWN(1020036) Hikari Kagura": {
+    "Tower Encore Hikari Kagura": {
         "quest_result": [
-            null
+            "The \"Tower\" represents destruction..."
         ],
         "quest_dress": [
-            null
+            "\"I have extinguished many lives in my life. However, now...\" "
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I am a machine intelligence equipped to this ship. Is this your first time talking to a machine?\"",
+            "\"All possible data on fighting has been archived in my 8011 cycles since I was built.\"",
+            "\"Where did the 'Star Girl' come from...? I didn't know there were things even I didn't know.\"",
+            "\"I was built to destroy, so I didn't expect one day would come when I wished to 'protect' something...\"",
+            "It's my first time playing the role of a machine intelligence. It's a difficult role worth performing.",
+            "There are movies where AI takes over the world... I wonder if my role is close to that...",
+            "Smartphones have an AI too, but...I'm not very knowledgeable about it.",
+            "I hope that even in the far future, plays will still be written by human beings."
         ],
         "touch_normal": [
-            null,
-            null
+            "The \"Tower\" is the sixteenth card of the Major Arcana.",
+            "The Tower's upright position means adversity, collapse, destruction and failure."
         ],
         "My Theater": [
             null,
@@ -2570,21 +2629,6 @@
             "Happy New Year. If you're going to visit the shrine, make sure to dress warm! It's really cold out!",
             null
         ],
-        "birthday_105": [
-            "Happy birthday! I found some nice yoga socks that I thought you'd like. What do you think?"
-        ],
-        "birthday_104": [
-            "Happy birthday! Since you like movies, I bought you a DVD of one that I recommend. I hope you watch it."
-        ],
-        "birthday_107": [
-            "Banana-chan, happy birthday. I got you a frog plate. You should use it to eat the muffins that Karen-chan and Hikari-chan made."
-        ],
-        "birthday_502": [
-            "Happy birthday, Suzu-chan. I was nervous dancing with everyone from Seiran... But I hope you feel how much we wanted to celebrate you."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen-chan! I was so worried you'd catch us preparing for the party! I'm glad it turned out to be a surprise."
-        ],
         "birthday_106": [
             "Happy birthday, Junna-chan! I made meat and potato stew with Mahiru Spuds. Eat it while it's hot."
         ],
@@ -2599,6 +2643,21 @@
         ],
         "birthday_103": [
             "Thanks, everyone! It brings a tear to my eye to see all the great foods you've made with Mahiru Spuds...!"
+        ],
+        "birthday_107": [
+            "Happy birthday, Banana-chan! I baked the cake and cooked the food together with Karen-chan and Hikari-chan. They've gotten a lot better!"
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo-san! I made a whole lot of Mahiru Spud salad. Also croquettes, nikujaga..."
+        ],
+        "birthday_104": [
+            "Happy birthday, Clau-chan! I got you a Suzudaru Cat towel for your workouts. Here you go♪"
+        ],
+        "birthday_502": [
+            "Happy birthday, Suzu-chan. I got you a sports towel. It feels really nice. And I got a matching one for myself♪"
+        ],
+        "birthday_101": [
+            "Happy birthday, Karen-chan! Hikari-chan and I made a full course of umeboshi dishes. You won't believe how good they are!"
         ]
     },
     "Mahiru Tsuyuzaki Uniform": {
@@ -3882,18 +3941,6 @@
             "Bonne année! Happy New Year. Today's the start of a new year... The year I take down Maya Tendo!",
             null
         ],
-        "birthday_105": [
-            "Bon anniversaire, Maya Tendo. Here's some of the hair oil that I recommend. You mentioned before that you were curious about it."
-        ],
-        "birthday_104": [
-            "You didn't have to do all of this for me...! I'm really happy, though. Merci!"
-        ],
-        "birthday_107": [
-            "Bon anniversaire! I want to try acting out the play that you wrote. Let's do a table reading together next time."
-        ],
-        "birthday_101": [
-            "Bon anniversaire, Karen! Here's where the star sits. I also have a present for you, so get your hopes up!"
-        ],
         "birthday_106": [
             "Bon anniversaire, Junna! Thanks for always pulling the class forward. You're a good friend."
         ],
@@ -3908,6 +3955,18 @@
         ],
         "birthday_103": [
             "Bon anniversaire. I made some Mahiru Spud croquettes. I was competing with you-know-who to see who could mash the fastest, and we made a bit too much."
+        ],
+        "birthday_107": [
+            "Bon anniversaire! We were in charge of the decorations. We talked a lot about what would be perfect for you."
+        ],
+        "birthday_105": [
+            "Bon anniversaire. We're throwing you a party in the form of a feast. Even with your appetite, I bet you won't be able to finish it all."
+        ],
+        "birthday_104": [
+            "Merci for all the birthday wishes♪ A star can shine on any stage. You've made this a wonderful day for me."
+        ],
+        "birthday_101": [
+            "Bon anniversaire, Karen. When I picked out the flowers for your bouquet, I tried to keep their symbolism in mind, like how poppies represent cheerfulness and kindness."
         ]
     },
     "Claudine Saijo Uniform": {
@@ -5167,18 +5226,6 @@
             "Happy New Year. Just because it's New Year's, that's no excuse for skipping lessons. The new year starts with today, after all.",
             null
         ],
-        "birthday_105": [
-            "Everyone, thank you for helping me celebrate my birthday. Let's all take our performances to the next level. I'm excited to get back to rehearsals."
-        ],
-        "birthday_104": [
-            "Happy birthday, Saijo-san. I'll let you be the center of attention just for today... We're all waiting for you to make a speech."
-        ],
-        "birthday_107": [
-            "Happy birthday. How would you like to celebrate? They might say that people cannot have more than one talent, but that must be just a superstition. Your talent never fails to amaze me."
-        ],
-        "birthday_101": [
-            "Happy birthday, Aijo-san. Here's to another wonderful year of you."
-        ],
         "birthday_106": [
             "Happy birthday, Hoshimi-san. I tried picking three dramas even you wouldn't have read yet. I hope you like them."
         ],
@@ -5196,6 +5243,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Tsuyuzaki-san. I made Mahiru Spud potato mochi. I like to think I mashed the potatoes more smoothly."
+        ],
+        "birthday_107": [
+            "Happy birthday. We weren't just going for colorful with your decorations. We tried to represent your hidden strength."
+        ],
+        "birthday_105": [
+            "Thank you for the birthday wishes, everyone. I'm blessed to be surrounded by such wonderful friends and such delicious food. Now, what should I have first?"
+        ],
+        "birthday_104": [
+            "Happy birthday. You are the star of today's stage, Claudine Saijo. Let's enjoy it together."
+        ],
+        "birthday_101": [
+            "Happy birthday, Aijo-san. I arranged a bouquet for you. Lots of energizing flowers, no?"
         ]
     },
     "Maya Tendo Uniform": {
@@ -6177,6 +6236,38 @@
             "You did an excellent job playing the rival who drives me away."
         ]
     },
+    "Warrior Maya Tendo (Skin)": {
+        "quest_result": [
+            "I wish I could've used this sword a little bit more."
+        ],
+        "quest_dress": [
+            "\"No... This isn't enough power to protect my princess. I must work harder.\""
+        ],
+        "common": [
+            "\"This time, I will protect you. Never again will I allow you to suffer the despair of seeing the Demon King steal your land.\"",
+            "\"The Demon King has taken our peace from us... But we will take it back!\"",
+            "\"Princess Claudine... What use is my blade if it cannot protect you...?\"",
+            "\"The hero is truly a dependable ally. But I will not let him best me in swordsmanship!\"",
+            "\"Now I can understand the despair the Demon King feels. Even though we are mortal enemies...\"",
+            "It suits me well to travel from place to place, conquering them one by one.",
+            "Audiences approach games and the stage very differently. I have to keep that in mind as I act.",
+            "I wouldn't have had a chance to portray being manipulated were it not for this play. It's a good experience."
+        ],
+        "touch_normal": [
+            "The way you swing a sword can change based on the emotions you approach the motion with. I'll have to practice hard to convey the warrior's feelings to the audience.",
+            "For the scene where the Demon King controls the warrior, I kept the Demon King's imposing demeanor in mind, so as not to be overshadowed by Daiba-san's lines."
+        ],
+        "My Theater": [
+            "Do the buttons on game controllers increase as the consoles evolve?",
+            "I didn't know you could play games on your smartphone.",
+            "I need to further improve my action scenes... They need to be perfect.",
+            "I want to go over the scene in act 3 where Saijo-san and I reunite again.",
+            "They cleared it with such low level characters. There are all kinds of masters in this world.",
+            "Sorrow of a ruined nation... It must feel as painful as losing your stage.",
+            "Hard work always pays off. This has really been hitting home for me recently.",
+            "\"I've given up on defense...It's my turn to attack!!\""
+        ]
+    },
     "Groom Edward Encore Maya Tendo": {
         "quest_result": [
             "Did you enjoy my performance as Edward?"
@@ -6369,18 +6460,6 @@
             "Happy New Year. Have you seen everyone else yet?  If not, maybe we can go together!",
             null
         ],
-        "birthday_105": [
-            "Happy birthday. Nana and I prepared some herbal tea. We looked the effects and chose the tea best suited for you."
-        ],
-        "birthday_104": [
-            "Happy birthday, Saijo-san. It's thanks to you that I took an interest in beauty. I'm really grateful."
-        ],
-        "birthday_107": [
-            "Happy birthday, Nana. I want you to open my present last. I think you're going to like my present the most. I hope you're ready for it."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen. So I got these Groucho glasses to liven up the party. You know what you have to do, right?"
-        ],
         "birthday_106": [
             "Thanks so much for today...! After such a wonderful day, I'm excited to keep working hard tomorrow."
         ],
@@ -6395,6 +6474,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Tsuyuzaki-san. Today I learned you can make sweet potatoes with regular old potatoes, too. Nana and I made them together."
+        ],
+        "birthday_107": [
+            "Happy birthday. I hope this party becomes a precious memory to you. I also have a present for you, of course."
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo-san. Every party needs a decorated...baumkuchen! Were you expecting a cake?"
+        ],
+        "birthday_104": [
+            "Happy birthday, Saijo-san. I got you some protein shakes for your workouts—the ones with the highest protein content."
+        ],
+        "birthday_101": [
+            "Happy birthday, Karen. Here you go, birthday girl sits right smack dab in the middle. Right there with all the kanihaniwa decorations."
         ]
     },
     "Junna Hoshimi Uniform": {
@@ -7372,19 +7463,19 @@
             "Saijo-san and Isurugi-san make a good sweets making team."
         ]
     },
-    "UNKNOWN(1060031) Junna Hoshimi": {
+    "Hunting Revue Encore Junna Hoshimi": {
         "quest_result": [
-            ""
+            "Someday again...together."
         ],
         "quest_dress": [
-            ""
+            "\"Some are born great, some achieve greatness.\"—words by William Shakespeare."
         ],
         "common": [
-            "",
-            ""
+            "If you're going to be in my way, I'll catch you on this Hunting Revue!",
+            "I don't need...the role you were given. I will pave...my own path!!"
         ],
         "touch_normal": [
-            ""
+            "You're the one who's been blinded! Because the me on this stage—the one on this stage—is the dazzling lead, Junna Hoshimi!"
         ],
         "My Theater": [
             null,
@@ -7538,18 +7629,6 @@
             "Happy New Year! This is going to be a great year for everyone-- trust me♪",
             null
         ],
-        "birthday_105": [
-            "Happy birthday♪ For the hard-working at the top of her class, here's some herbal tea! I hope you like it."
-        ],
-        "birthday_104": [
-            "Clau-chan, happy birthday! I've prepared all of your favorite things for today! There are macarons for dessert♪"
-        ],
-        "birthday_107": [
-            "Thank you for celebrating with me. I'm so happy!♪ I wish I could feel this way forever."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen-chan♪ Hikari-chan and I made the main birthday cake of the day together. I hope you like it."
-        ],
         "birthday_106": [
             "Happy birthday, Junna-chan! It's a roommate's privilege to celebrate someone's birthday before anyone else gets to♪"
         ],
@@ -7565,8 +7644,20 @@
         "birthday_103": [
             "Happy birthday, Mahiru-chan! No, no, sit down. We all made potato dishes for you today♪"
         ],
+        "birthday_107": [
+            "Thank you for celebrating with me, everyone. I love you all even more. I hope we can continue to have wonderful days just like this♪"
+        ],
+        "birthday_105": [
+            "Happy birthday! I made lots of special Banana baumkuchen. It's all for you, so eat up♪"
+        ],
+        "birthday_104": [
+            "Happy birthday, Clau-chan♪ I made you some low-sugar, high-protein sweets. Trust me, they're great♪"
+        ],
         "birthday_503": [
             "Happy Birthday, Hisame-chan. Let's listen to that song you said you liked while eating cake♪"
+        ],
+        "birthday_101": [
+            "Happy birthday, Karen-chan! I made you a triple-decker cake. With kanihaniwa on top, of course♪"
         ]
     },
     "Nana Daiba Uniform": {
@@ -8545,6 +8636,28 @@
             "I told you, it's not an audition."
         ]
     },
+    "Demon King Nana Nana Daiba": {
+        "quest_result": [
+            "Heh♪ I hope I was able to fight like a Demon King."
+        ],
+        "quest_dress": [
+            "\"First of all, allow me to regain my strength. I'm going to need it for when I reunite with the hero...\""
+        ],
+        "common": [
+            "\"Even after being reawakened, I will continue to be the enemy to all humans.\"",
+            "\"The fact that I am here after I should have been sealed away shows that there is no limit to the stupidity of humans.\"",
+            "Princess of the fallen kingdom—I commend your strength. If only others displayed that same courage...\"",
+            "\"That warrior's hidden regrets are the perfect tool to make him play right into my hand. I shall take full advantage of him.\"",
+            "\"So the hero has chosen to fight me once again. Those eyes haven't changed one bit...\"",
+            "I really like these color contacts because they're perfect for the Demon King.",
+            "If I don't pay attention, I might end up stepping on my cape. That's not a fitting look for the Demon King.",
+            "Clau-chan and Maya-chan are fighting over the controller again. They sure are close."
+        ],
+        "touch_normal": [
+            "In the scene where the Demon King controls the warrior, Maya-chan and I have to say some of our lines at the same time. Heh heh, I'm excited because it really does feel like I'm controlling her.",
+            "I haven't played since the last time we did Epic of Bravery, but I picked up another installment to try. This one is really difficult, too."
+        ]
+    },
     "Phantom Nana Daiba (Skin)": {
         "quest_result": [
             "\"Everything is for her...\""
@@ -8702,18 +8815,6 @@
             "Happy New Year! Here's hoping it's a good one! Maybe I should take Kaoruko and go for my first ride of the year!",
             null
         ],
-        "birthday_105": [
-            "Happy birthday, Tendo! I bought you a cooling towel for your birthday because I thought it'd be nice to have on a hot day. Let's go for a run together soon!"
-        ],
-        "birthday_104": [
-            "Happy birthday, Clau-ko! I got you some exercise equipment. Let's work out together!"
-        ],
-        "birthday_107": [
-            "Banana, happy birthday! I heard you wanted to go to the confectionary shop in the next town over. I'll take you there on my motorcycle."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen! I was on pins and needles, worried you'd get back before we finished decorating. But ain't it great?"
-        ],
         "birthday_106": [
             "Happy birthday! This is a glasses-shaped bookmark I found when I was out shopping with Kaoruko. I was like, \"Oh, Hoshimi has GOT to have this!\""
         ],
@@ -8728,6 +8829,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Mahiru. I made fries. Even got cheese and ketchup for 'em."
+        ],
+        "birthday_107": [
+            "Happy birthday! While Kaoruko and I were picking out a present, I couldn't stop thinking of you and frogs and kept laughing."
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo. You can't have a party without karaage! I hope you enjoy my special Futaba-approved karaage marinated in a secret sauce!"
+        ],
+        "birthday_104": [
+            "Happy birthday, Clau-ko! Tomoe taught me how to fillet a fish. Give my tuna sashimi a try."
+        ],
+        "birthday_101": [
+            "Happy birthday, Karen! I got you a bunch of plum-flavored candy. Wanna grab yourself a handful?"
         ]
     },
     "Futaba Isurugi Uniform": {
@@ -9376,26 +9489,41 @@
             "\"For my father's trust, I must overcome these trials!\""
         ]
     },
-    "UNKNOWN(1080022) Futaba Isurugi": {
+    "Resentment Revue Encore Futaba Isurugi": {
         "quest_result": [
-            ""
+            "I want to go to a higher place."
         ],
         "quest_dress": [
-            ""
+            "I'll roll up my sleeves and do this!"
         ],
         "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "I have to change—for my sake, and...for yours.",
+            "I was born into traditional Japanese dancing, and raised on the stage. My name is Futaba Isurugi."
         ],
         "touch_normal": [
-            "",
-            ""
+            "I want to stand on the peak stage and become someone worthy of you."
+        ]
+    },
+    "Determined Bride Yuno Futaba Isurugi": {
+        "quest_result": [
+            "I'm sure June and Yuno found happiness together."
+        ],
+        "quest_dress": [
+            "\"My bridal training is perfect. I would dearly love to put it into practice soon.\""
+        ],
+        "common": [
+            "\"I'll be an even more beautiful bride than Miss June!\"",
+            "\"In the name of the Minazukis' prosperity, I shall become his bride.\"",
+            "\"My bridal training is finished... Now all I need to do is marry him.\"",
+            "\"This is a once-in-a-lifetime moment for me... Do sear the image into your eyes.\"",
+            "She's still wearing that pearl necklace, even now that the show's over.",
+            "Edward's a bit of, well, a character... But man, Tendo in a tuxedo is a powerful image.",
+            "It was pretty embarrassing to do Yuno's prissy rich girl shtick, but I'm used to it now.",
+            "The day before the show, Kagura came up to me and was like, \"Break a leg, Yuno.\""
+        ],
+        "touch_normal": [
+            "I've run into Ebisu, that girl from Frontier, at the candy shop before. Guess she's big into candy, too.",
+            "You know, the night after I taught Banana how to give foot massages, I think I heard Hoshimi's screams coming from their room..."
         ],
         "My Theater": [
             null,
@@ -9615,28 +9743,6 @@
             "\"Keep moving forward, mankind. I will always watch over your progress.\""
         ]
     },
-    "UNKNOWN(10800221) Futaba Isurugi": {
-        "quest_result": [
-            ""
-        ],
-        "quest_dress": [
-            ""
-        ],
-        "common": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "touch_normal": [
-            "",
-            ""
-        ]
-    },
     "GENERIC Kaoruko Hanayagi": {
         "loginbonus": [
             "I'll let you keep me company today."
@@ -9706,18 +9812,6 @@
             "Futaba-haaan! Help me put on this kimono! ...Oh, hello. Happy New Year to you.",
             null
         ],
-        "birthday_105": [
-            "Happy birthday. I got you some nice, scented bath salts. Make sure to let your body rest after a long rehearsal."
-        ],
-        "birthday_104": [
-            "Clau-han, happy birthday. Since you're always so stylish, I got you some fragrance bags from a famous shop in Kyoto. Don't they smell nice?"
-        ],
-        "birthday_107": [
-            "Banana-han, happy birthday. Since we're celebrating, I'll let you have Futaba-han today. It's only for today, though."
-        ],
-        "birthday_101": [
-            "Happy birthday, Karen-han. I'm bringing the flowers to the party. Best present ever, right?"
-        ],
         "birthday_106": [
             "Happy birthday, Hoshimi-han. I got you lots of rubber duckies to make bathtime more fun. Aren't they cute?"
         ],
@@ -9732,6 +9826,18 @@
         ],
         "birthday_103": [
             "Happy birthday, Mahiru-han. Karen-han and I made candied sweet potatoes. Not what you'd expect from regular potatoes, huh?"
+        ],
+        "birthday_107": [
+            "Happy birthday. Futaba-han and I thought long and hard about what to get you... We decided this frog coin purse would be perfect."
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo-han. I helped Futaba-han with her karaage. Believe you me, I kneaded the sauce into those suckers good."
+        ],
+        "birthday_104": [
+            "Happy birthday. Ain't these macaroon-shaped nerikiri cute? I hope you like them."
+        ],
+        "birthday_101": [
+            "Happy birthday. This plum juice maker's been around since the dawn of time. Sweet plums aren't half bad either, huh?"
         ]
     },
     "Kaoruko Hanayagi Uniform": {
@@ -10745,6 +10851,21 @@
             "Augh, all this gaming is murder on the eyes. Futaba-han, put on some tea. I'm taking a break."
         ]
     },
+    "Resentment Revue Encore Kaoruko Hanayagi": {
+        "quest_result": [
+            "Of course I knew everything."
+        ],
+        "quest_dress": [
+            "Well, good luck."
+        ],
+        "common": [
+            "Ugh...how annoying.",
+            "Hoshimi? Tendo? Who cares about other girls."
+        ],
+        "touch_normal": [
+            "Tell me how you really feel. You were annoyed, right? Show it."
+        ]
+    },
     "Mischievous Bat Witch Kaoruko Hanayagi (Skin)": {
         "quest_result": [
             "The bats and I are the stars of the show."
@@ -11743,6 +11864,28 @@
             "Apparently Cleopatra even melted pearls in vinegar and drank it..."
         ]
     },
+    "UNKNOWN(2010034) Tamao Tomoe": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Hijikata Toshizo Tamao Tomoe (Skin)": {
         "quest_result": [
             "Hijikata's sharp way of speaking is easy to turn into a habit."
@@ -12525,6 +12668,28 @@
             "\"Lord Hades's chin scratches and Lady Persephone's headpats are too good to pass up!\""
         ]
     },
+    "Sun Encore Ichie Otonashi": {
+        "quest_result": [
+            "Warmed-up, right?"
+        ],
+        "quest_dress": [
+            "\"Happiness isn't something you get from others. You have to go and get it yourself!\""
+        ],
+        "common": [
+            "\"If you ever feel cold and lonely... listen to my song!\"",
+            "\"Nothing changes in this city, but I'm not bored at all. Because my singing improves day by day!\"",
+            "\"Hey, 'Star Girl'. Tell me about your journey. I want to make it into a song and sing for you.\"",
+            "\"I sing because I want to! I was born to sing!\"",
+            "As you can see, the \"Sun\" Arcana is a sun that illuminates everyone!",
+            "Ichie Otonashi's \"Ichi Ichi Channel\"! Broadcasting to you live, rain or shine!",
+            "Who was it? Who said I'm \"happy-go-lucky\"?!",
+            "The sunset at Tokyo Tower... It reminds me of so many things, but it really is gorgeous!"
+        ],
+        "touch_normal": [
+            "Here I am! The nineteenth Arcana, \"Sun\"!",
+            "The \"Sun\" Arcana! Its upright position means things like success, satisfaction, and birth!"
+        ]
+    },
     "GENERIC Fumi Yumeoji": {
         "loginbonus": [
             "I get to sing and dance as much as I want. That's a wonderful thing, isn't it? All right, time for practice."
@@ -12594,10 +12759,6 @@
             "Happy New Year. Let's make it a great one. Mochi is fine with soybean flour or soy sauce, but when I'm sick of that, there's always ponzu.",
             null
         ],
-        "birthday_404": [
-            "Happy birthday, Shiori. There must have been a line of people wanting to celebrate your birthday at school. I hope you accept my present as well.",
-            null
-        ],
         "birthday_203": [
             "What a wonderful tea party, and it's all for me... Really, thank you for everything. Just you wait—I'll show you such a good time, it'll all be worth it!"
         ],
@@ -12606,6 +12767,9 @@
         ],
         "birthday_205": [
             "Happy birthday, Yuyuko. I bought you some laundry detergent. It's meant to work well with colors, so give it a try it when you wash your hoodies."
+        ],
+        "birthday_404": [
+            "Happy birthday, Shiori. I'm glad you invited me. And is it just me, or have you gotten better at horseback riding?"
         ],
         "birthday_204": [
             "Happy birthday, Rui. I know how much you love donuts, and I definitely loved making them together. Get ready, because we're having a donut party."
@@ -15006,9 +15170,6 @@
             "Happy New Year! Hope it's a great one. I wonder what kind of plays we'll put on this year. I'm super looking forward to it!",
             null
         ],
-        "birthday_305": [
-            "Happy birthday, Shizuha-chan! You use a toy gun when you play airsoft, right? I'm not sure, but I feel like I'd be good at it!"
-        ],
         "birthday_302": [
             "Happy birthday, Misora! I'm gonna wait on you hand and foot today, so your wish is my command! Oh, you need one of those? You know, uh... Yeah, a charger!"
         ],
@@ -15020,6 +15181,9 @@
         ],
         "birthday_301": [
             "Thanks for holding an art party for my birthday, everyone♪ I'm gonna draw you like my French girls!"
+        ],
+        "birthday_305": [
+            "Happy birthday! I made you lots of scented candles with all your favorite colors and fragrances♪"
         ]
     },
     "Aruru Otsuki Uniform": {
@@ -15728,6 +15892,28 @@
             "\"Where does the sun go after it sets in the ocean? Come with us, and we'll see for ourselves!\""
         ]
     },
+    "UNKNOWN(3010035) Aruru Otsuki": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Easter Bunny Aruru Otsuki (Skin)": {
         "quest_result": [
             "The egg hunt goes on!"
@@ -15851,9 +16037,6 @@
             "Happy New Year. How many pieces of mochi have I had? Let's see, four with white miso soup, two in clear soup... So I guess six?",
             null
         ],
-        "birthday_305": [
-            "Happy birthday! I studied the rules really hard last night so that I wouldn't get in the way."
-        ],
         "birthday_302": [
             "Thanks for the birthday wishes, everyone! I won't let this jumbo-size pork cutlet curry beat me! Ready or not, here I come!"
         ],
@@ -15865,6 +16048,9 @@
         ],
         "birthday_301": [
             "Happy birthday, Aruru. I'm not used to drawing portraits, but I'll be fine. I've looked at you more than anyone!"
+        ],
+        "birthday_305": [
+            "Happy birthday, Shizuha-senpai! I made you some candles, too... They don't look too good, but I tried decorating them with butterfly wings!"
         ]
     },
     "Misora Kano Uniform": {
@@ -16486,9 +16672,6 @@
             "Happy New Year!  Woo, it's New Year's! It's okay that I still get money from my relatives on New Year's, right?",
             null
         ],
-        "birthday_305": [
-            "Shizuha! Happy birthday! This will be my first time playing airsoft. I won't lose, though!"
-        ],
         "birthday_302": [
             "Happy birthday, Misora! Tsukasa and Shizuha and I made you a jumbo-size pork cutlet curry. You have hereby been challenged!"
         ],
@@ -16500,6 +16683,9 @@
         ],
         "birthday_301": [
             "Happy birthday, Aruru! In my picture of you... Tada! You're flying through the air in a yellow combat suit♪"
+        ],
+        "birthday_305": [
+            "Happy birthday, Shizuha! I made you red, blue, white, black, and yellow candles. Introducing the Mighty Soothing Candle Rangers, Scented Candles V!"
         ]
     },
     "Lalafin Nonomiya Uniform": {
@@ -17270,9 +17456,6 @@
             "Happy New Year!  Spending the holiday with family is great, but spending it with everyone in the dorm is great, too.",
             null
         ],
-        "birthday_305": [
-            "Happy birthday, Shizuha. You are really good at shooting games, so I figured you would like airsoft as well and planned all of this in secret!"
-        ],
         "birthday_302": [
             "Happy birthday, Misora. I have some medicine ready just in case, so go ahead and give our jumbo-size pork cutlet curry everything you've got!"
         ],
@@ -17284,6 +17467,9 @@
         ],
         "birthday_301": [
             "Happy birthday. In my portrait of you, I drew Misora right next to you. It just feels right for you two to be together!"
+        ],
+        "birthday_305": [
+            "Happy birthday, Shizuha! I made you some bergamot-scented candles to help you relax. Thanks for everything."
         ]
     },
     "Tsukasa Ebisu Uniform": {
@@ -17936,9 +18122,6 @@
             "Happy New Year! Now, for my first tongue-twister of the new year... \"Black background, brown background, black background, brown background...\"",
             null
         ],
-        "birthday_305": [
-            "Thank you for the celebration and surprise. It's a bit different from shooting games, but I'm going to enjoy being with everyone."
-        ],
         "birthday_302": [
             "Happy birthday, Misora-chan. Aruru-chan told us all your favorite ingredients, so we put them in the curry."
         ],
@@ -17950,6 +18133,9 @@
         ],
         "birthday_301": [
             "Happy birthday. I was surprised you wanted us all to draw things together, but I'll do my very best to draw you well."
+        ],
+        "birthday_305": [
+            "Thanks for all the adorable candles. They all smell wonderful. I don't know which to light first..."
         ]
     },
     "Shizuha Kocho Uniform": {
@@ -18628,6 +18814,28 @@
             "\"Hansel, show me your finger. Isn't it about time we put some meat on it?\""
         ]
     },
+    "Judgement Encore Shizuha Kocho": {
+        "quest_result": [
+            "That decision led to victory."
+        ],
+        "quest_dress": [
+            "\"I am the one who will impart 'judgement' on you...and the one who will be reborn with you.\""
+        ],
+        "common": [
+            "\"Making a decision is frightening. However, I am sure you all will overcome the hardship that is the last 'judgment'...\"",
+            "\"I feel that I am prepared to make a decision no matter how frightening it is...because a long time ago I was a captain on a pirate ship.\"",
+            "\"'Beyond judgement' is a 'Paradise' that not even 'World' or the 'Emperor' know.\"",
+            "\"'Faith', 'Hope', 'Charity' were able to meet with 'Moon' and 'Star' because their feelings toward their friends became one.\"",
+            "The trumpet prop that \"Judgement\" uses is a real instrument that you can play. Heh heh, you do need lungs of steel though!",
+            "A brilliance that burns the eyes, and pierces the chest... Aah, Aruru-chan really came back to the stage.",
+            "\"Tangent\", \"Pompadour\", \"Casablanca\"... These are the names of the characters of my favorite musical, \"RATS\".",
+            "Tsuyuzaki Farm's spuds, corn, and asparagus are delicious... Thank you, Tsuyuzaki-san."
+        ],
+        "touch_normal": [
+            "\"Judgement\" is the twenty-second Major Arcana. It depicts the \"last judgement\", and the end of the story.",
+            "\"Judgement's\" upright position means \"development\", \"awakening\", \"rebirth\". I feel like it represents us Stage Girls."
+        ]
+    },
     "Easter Bunny Shizuha Kocho (Skin)": {
         "quest_result": [
             "Did you find any eggs?"
@@ -18773,15 +18981,14 @@
             "Happy New Year to you. May it be a good one. ...What? There's nothing wrong with a formal greeting for the holiday, is there?",
             null
         ],
-        "birthday_404": [
-            "Happy birthday, Shiori. We're having a tea party with you as the guest of honor today. Now have a seat.",
-            null
-        ],
-        "birthday_403": [
-            "Happy birthday. We heard about Chinese longevity noodles, so we made some for you together. There's even some chili sauce to change up the flavor."
-        ],
         "birthday_402": [
             "Happy birthday, Michiru. I made keema curry with those nuts you like. Don't worry—your portion is mild."
+        ],
+        "birthday_404": [
+            "Happy birthday, Shiori. I'm looking forward to a good day of horseback riding. ...Yes, Fumi came, too. I thought you might like that."
+        ],
+        "birthday_403": [
+            "Happy birthday, Mei Fan. I got you some ohagi from a well-reviewed shop. Michiru introduced me to it, so you can be confident in the flavor."
         ],
         "birthday_405": [
             "Happy birthday, Yachiyo. You always amaze me with your costumes—you make them not only beautiful, but even easy to perform in."
@@ -19538,6 +19745,28 @@
             "\"I know not the name of this emotion. What is it called?\""
         ]
     },
+    "UNKNOWN(4010033) Akira Yukishiro": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Perseus Akira Yukishiro (Skin)": {
         "quest_result": [
             "That was a show fit for a hero."
@@ -19614,6 +19843,28 @@
             "\"Joshua, chess again? Please go easy on me.\""
         ]
     },
+    "UNKNOWN(40100331) Akira Yukishiro": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "GENERIC Michiru Otori": {
         "loginbonus": [
             "There you are, at last! Oh, no, I didn't wait long. Let's work hard together today!"
@@ -19683,15 +19934,14 @@
             "Happy New Year.  I'm glad everyone seems to be doing well. I'll make sure it's a banner year for Akira and everyone else!",
             null
         ],
-        "birthday_404": [
-            "Happy birthday! I hope you're excited because I put extra effort into choosing the tea leaves for today that will satisfy your taste!",
-            null
-        ],
-        "birthday_403": [
-            "Happy birthday! We all looked up traditional Chinese ways to celebrate your birthday since you're so far from your hometown. Have fun!"
-        ],
         "birthday_402": [
             "I'm so happy you guys remembered what I like. The curry and the cake look great! Thanks a bunch♪"
+        ],
+        "birthday_404": [
+            "Happy birthday, Shiori! I hear there's a good tea place near this horseback riding club, so let's stop by there when we're done♪"
+        ],
+        "birthday_403": [
+            "Happy birthday! We're throwing you a party full of sweets filled with red bean paste. Me, I got you some walnut-filled mooncakes♪"
         ],
         "birthday_405": [
             "Happy birthday, Yachiyo. I filled your scrapbook as much as I could with pictures from actual performances. Isn't that great?"
@@ -20374,6 +20624,28 @@
             "\"Yorimitsu, you are the first and last to ever call me a friend.\""
         ]
     },
+    "Hierophant Encore Michiru Otori": {
+        "quest_result": [
+            "The \"Hierophant's\" commandments are the law!"
+        ],
+        "quest_dress": [
+            "\"Having the will to not lose rather than to focus on winning is the way.\""
+        ],
+        "common": [
+            "\"As the 'Hierophant', it is my life's work to protect those who believe in the same God and follow the same commandments.\"",
+            "\"Everyone becoming the person they want to be, distracted by no one... That future is what I must protect now.\"",
+            "\"May God bless the path the 'Star Girl' goes down.\"",
+            "\"Smiles on battlefields and flowers for muzzles.\"",
+            "The \"Hierophant\" who preaches rules and guides the people—a role with a big responsibility.",
+            "This staff prop has a unique shape, but it's proof of the \"Hierophant\".",
+            "Those who say rules are meant to be broken will be punished by the Hierophant!",
+            "Stage construction is different from board games. Because the goal can't be seen, you need someone to pull everyone in the right direction."
+        ],
+        "touch_normal": [
+            "The \"Hierophant\" is the 5th Major Arcana! Same as the number of \"Edels\".",
+            "The upright position of the \"Hierophant\" Arcana means empathy, compassion, wide perspective. Wide perspective... Do I actually have that?"
+        ]
+    },
     "Orihime Michiru Otori (Skin)": {
         "quest_result": [
             "Did your wish come true?"
@@ -20497,15 +20769,14 @@
             "Happy New Year! Let's go and get some New Year's grab bags! I just love wondering what's going to be inside!",
             null
         ],
-        "birthday_404": [
-            "Happy birthday, Shiori! I practiced making these animal-shaped cookies over and over again. Please try one!",
-            null
-        ],
-        "birthday_403": [
-            "Thank you, everyone...! Even though we're in the middle of rehearsals, I want to take today to just enjoy everything while remembering my hometown!"
-        ],
         "birthday_402": [
             "Happy birthday, Michiru-san! Go ahead and dig into this walnut cake like a cute little squirrel!"
+        ],
+        "birthday_404": [
+            "Happy birthday, Shiori! Who knew horseback riding could be so fun together? It's a great core workout!"
+        ],
+        "birthday_403": [
+            "Thank you, everyone! I loved the bean paste snacks. But of course, I love you all even more!"
         ],
         "birthday_405": [
             "Happy birthday! I compiled all the costumes you made into a book. I hope you like it!"
@@ -21272,18 +21543,17 @@
             "A very happy New Year to you. May the coming year be a good one. I plan to give it my all!",
             null
         ],
-        "birthday_404": [
-            "Thank you, everyone...! I have a feeling that this is going to be a great birthday filled with the aroma of tea.",
-            null
-        ],
-        "birthday_403": [
-            "Happy birthday, Mei Fan-senpai! I heard it was a sign of good luck, so I tried preparing some red boiled eggs."
-        ],
         "birthday_203": [
             "Happy birthday! I'm so happy I get to celebrate with you at the tea party. I picked some of that tea you've always liked."
         ],
         "birthday_402": [
             "Happy birthday, Michiru-senpai. I took a page out of Yachiyo-senpai's book and gave the cake some cute clothing-themed decorations."
+        ],
+        "birthday_404": [
+            "Thank you so much, everyone...! I never expected Fumi to show up, too... I'm so happy."
+        ],
+        "birthday_403": [
+            "Happy birthday, Mei Fan-senpai! I got you some panda-shaped nerikiri. ...I hope they aren't too cute to eat."
         ],
         "birthday_405": [
             "Happy birthday! I decorated the cover with that ribbon technique you taught me."
@@ -21966,26 +22236,26 @@
             "\"You fiend, take this...!\""
         ]
     },
-    "UNKNOWN(4040032) Shiori Yumeoji": {
+    "Dark Demon Shuten-doji Shiori Yumeoji": {
         "quest_result": [
-            null
+            "Hee hee, Shuten-doji gobbled everyone up...!"
         ],
         "quest_dress": [
-            null
+            "\"Aah, I'm so bored... Will you play with me?\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Whenever I see a human, my tummy rumbles. I want to bite them, tear them apart, devour them.\"",
+            "\"This world is hell. Allow me to send you to the afterlife.\"",
+            "\"Ah, how my stomach churns. I should have torn that infuriating warrior limb from limb.\"",
+            "\"Parents? I couldn't care less. All a demon wants is crimson flowers spewing from human bodies.\"",
+            "We did a demon etude during our break. I wonder who was the scariest.",
+            "Staring down the bottomless uncanniness of Yukishiro-senpai's Ashiya Doman sends a shiver up my spine.",
+            "It's so interesting to compare my Shuten-doji costume with Fumi's and see what each of us brings to the character.",
+            "Long ago, Shuten-doji and Minamoto no Yorimitsu had already met... That's an interesting hook."
         ],
         "touch_normal": [
-            null,
-            null
+            "It was hard to portray a terrifying demon, but it was also fun. It was like I was meeting a different version of myself.",
+            "In Book of Shuten-doji, we create the moon with a really big light. We show the passage of time with the phases of the moon... It's really pretty."
         ],
         "My Theater": [
             null,
@@ -22066,15 +22336,14 @@
             "Happy New Year! I'll pray for everyone's happiness and world peace.",
             null
         ],
-        "birthday_404": [
-            "Shiori, happy birthday!♪ Leave everything to us for today. All you have to do is enjoy all the delicious treats.",
-            null
-        ],
-        "birthday_403": [
-            "Mei Fan, happy birthday♪ I heard that the birthday person usually hosts their own party in China, but we're going to do that bit Japanese-style. Sit down and relax!"
-        ],
         "birthday_402": [
             "Happy birthday. Mei Fan, Shiori, and I baked a cake with walnuts in it. It's so good, your cheeks might just fall right off."
+        ],
+        "birthday_404": [
+            "Happy birthday, Shiori. I knew the horses would love you right off the bat. I think I'll do me some learning today."
+        ],
+        "birthday_403": [
+            "Happy birthday, Mei Fan. Have some fresh goma dango, on me♪ Isn't the texture to die for?"
         ],
         "birthday_405": [
             "Wow, I sure wasn't expecting such a wonderful surprise. I've got some great friends. Thanks, guys♪"
@@ -23092,18 +23361,17 @@
         "arena_lose": [
             "Hmm..."
         ],
-        "birthday_408": [
-            "Alles Gute! I heard that you like sweets, so I brought some chocolates from Germany. We can enjoy them with everyone!"
-        ],
-        "birthday_409": [
-            "Minku, Alles Gute! I heard that you like marshmallows! This is a popular marshmallow treat from Germany.",
-            null
-        ],
-        "birthday_406": [
-            "Danke! Thank you for throwing such a wonderful celebration for me! I never thought I'd be able to celebrate with everyone like this. I'm so glad I came to Japan!"
-        ],
         "birthday_407": [
             "Happy birthday! Today's a party just for you. Here's to another good year... With me, and with everyone else, too!"
+        ],
+        "birthday_409": [
+            "Happy birthday, Minku! Isn't this bread so white and fluffy? You can have it if you want! It's my favorite."
+        ],
+        "birthday_408": [
+            "Happy birthday, Ryoko! You can't have a birthday party without a cake! I did my best to make it, so I hope you like it."
+        ],
+        "birthday_406": [
+            "Danke! I'm so happy! I've never seen so many amazing pastries... I love you all so much!"
         ],
         "birthday_410": [
             "Happy birthday, Kuina! Shiro and I got you some Nikopen-chan merch! I hope you like it."
@@ -23360,18 +23628,17 @@
         "arena_lose": [
             "Too bad."
         ],
-        "birthday_408": [
-            "Happy birthday, Kobato-san. I hope that you will continue to be good friends with Miss Stella."
-        ],
-        "birthday_409": [
-            "Happy birthday, Umibe-san. Be careful not to fall when you're resting on the metal bar—Never mind.",
-            null
-        ],
-        "birthday_406": [
-            "Happy birthday, Miss Stella. I will continue to devote myself to taking care of you so that you can celebrate your birthday again next year."
-        ],
         "birthday_407": [
             "Thank you, everyone. I'm honored to receive your goodwill. I look forward to a long and fulfilling friendship with each and every one of you."
+        ],
+        "birthday_409": [
+            "Happy birthday, Minku-san. I got you some foaming body wash. It has a floral scent."
+        ],
+        "birthday_408": [
+            "Happy birthday, Ryoko! Miss Stella really wanted to make you a cake. I gave her a help, so rest easy."
+        ],
+        "birthday_406": [
+            "Happy birthday, young miss. At your request, we are throwing you a handmade pastry party. For my part, I present to you a perfectly-baked pretzel."
         ],
         "birthday_410": [
             "Happy birthday, Kuina-san. I look forward to your continued growth as Miss Stella's rival."
@@ -23690,18 +23957,17 @@
         "arena_lose": [
             "Oh..."
         ],
-        "birthday_408": [
-            "Thank you for celebrating my birthday with me. It's my first time to celebrate like this with people other than my family!"
-        ],
-        "birthday_409": [
-            "Happy birthday. When we had to take those supplementary lessons together, things magically got much easier when I heard your voice. Let's be friends forever.",
-            null
-        ],
-        "birthday_406": [
-            "Stella-chan, happy birthday! They taught me how to sing the German birthday song. I hope you'll let me sing it to you later!"
-        ],
         "birthday_407": [
             "Happy birthday! We all brainstormed ideas for flowers and table decorations that scream \"Shiro-chan.\""
+        ],
+        "birthday_409": [
+            "Happy birthday! I made you a doggo keychain. I thought you'd like something fluffy and white."
+        ],
+        "birthday_408": [
+            "Wow...! Thank you, everyone! I'm so glad I came to Siegfeld and met you all."
+        ],
+        "birthday_406": [
+            "Happy birthday, Stella-chan! I went for some good ol' Japanese anpan! I hope you like it."
         ],
         "birthday_410": [
             "Happy birthday, Kuina-chan. I made some origami Nikopen-chans to decorate for your birthday party. I really outdid myself here♪"
@@ -23927,6 +24193,28 @@
             "It's amazing how casual Minku can be with senpai from other schools... I'm kind of jealous of her."
         ]
     },
+    "Count of Monte Cristo Ryoko Kobato": {
+        "quest_result": [
+            "Have I gotten more like my idol?"
+        ],
+        "quest_dress": [
+            "\"To enact vengeance on those who wronged me... I will do anything.\""
+        ],
+        "common": [
+            "\"Let the fires of vengeance rage here and now as my greatest desires come to fruition!\"",
+            "\"When I yearn for the outside world... Can you feel it?\"",
+            "\"I hauled myself out of the depths of the earth, and I will have my revenge!\"",
+            "Dantes burned with his fixation on revenge... But even he had hope.",
+            "\"My revenge is complete... But what do I have left...?\"",
+            "\"Abbe Faria was my salvation from the darkness and solitude.\"",
+            "This play has dance scenes, so I'd better have Stella-chan take a look at my practice.",
+            "\"So long as my revenge is complete, I can walk any path, no matter how cruel.\""
+        ],
+        "touch_normal": [
+            "Minku's always giving me compliments... She always knows how to cheer me up.",
+            "Kuina-chan helped me look for reference material. She found me all kinds of things, from digest versions to unabridged versions."
+        ]
+    },
     "GENERIC Minku Umibe": {
         "loginbonus": [
             "I'll take it slow today as well!"
@@ -23989,18 +24277,17 @@
         "arena_lose": [
             "Too bad!"
         ],
-        "birthday_408": [
-            "Ryonryoooon☆ Happy birthday! Kuina and I made lots of your favorite Isobeyaki-style grilled chikuwa☆"
-        ],
-        "birthday_409": [
-            "I'm so happy to be surrounded by so much love for my birthday that my body is just moving on its own! Enjoy my happy dance☆",
-            null
-        ],
-        "birthday_406": [
-            "Happy birthday!☆ Since you love comedy, I've prepared a series of 100 jokes! I hope you enjoy them☆"
-        ],
         "birthday_407": [
             "Haaappy biiirthdaaay, Shirorin☆ What music do you like? Let's play it at the party and get funky☆"
+        ],
+        "birthday_409": [
+            "I'm so honored you guys are celebrating me like this! I'm loving all this fluffy whiteness☆"
+        ],
+        "birthday_408": [
+            "Happy birthday, Ryonryon☆ Me and Kuina are gonna put on a show! We're gonna do a \"helping hands\" skit where we put on stage makeup. Think we can do it?"
+        ],
+        "birthday_406": [
+            "Haaaaappy birthday, Su-chan! I made you some fluffy white bread filled with marshmallows and topped with whipped cream☆ Whaddaya think!?"
         ],
         "birthday_410": [
             "Kuuuina☆ Hippity happy birthday, my girl! It's been forever since we've gotten to celebrate your birthday together, so I'm hippity happy, too☆"
@@ -24194,26 +24481,26 @@
             "Kuina and Isurugi-senpai are kinda like sisters☆"
         ]
     },
-    "UNKNOWN(4090032) Minku Umibe": {
+    "Diaochan Minku Umibe": {
         "quest_result": [
-            null
+            "How was my Diaochan dance? I learned it from Master."
         ],
         "quest_dress": [
-            null
+            "\"No jewel shines unpolished. I know this well.\""
         ],
         "common": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Come to me, Dong Zhuo. Forget everything and show me your love.\"",
+            "\"Flowers do not bloom for anyone but themselves.\"",
+            "\"I dislike the violent... But somehow, Lu Bu alone lights a fire in my heart.\"",
+            "\"Once, I was abandoned. I will never forget the debt I owe my father for taking me in.\"",
+            "I just can't help but smile when I'm talking to Master. She's so awesome.",
+            "Rinmeikan's so quiet and dignified and gentle... That's why I like it!",
+            "Toutaku, ouin, renkan-noke... Oof, there's so many kanji!",
+            "Don't miss Diaochan's dance scene! Master and I worked really hard on it☆"
         ],
         "touch_normal": [
-            null,
-            null
+            "Diaochan's costume is this really traditional thing I borrowed from Rinmeikan! I was so happy when Tsuruhime-senpai came by and was like, \"Don't mind me, just taking notes♪\"",
+            "Tsuruhime-senpai showed me her Diaochan, too, but it was totally different from Master's. You coulda knocked me over with a feather☆"
         ],
         "My Theater": [
             null,
@@ -24287,18 +24574,17 @@
         "arena_lose": [
             "This isn't how it's supposed to be..."
         ],
-        "birthday_408": [
-            "Kobato-san, happy birthday. This is from me. It's a sweet protein drink. I recommend drinking it within 30 minutes of rehearsal."
-        ],
-        "birthday_409": [
-            "Happy birthday. Here's a water bottle and a towel to help you focus in rehearsals. Th-They're not presents!",
-            null
-        ],
-        "birthday_406": [
-            "Stella, happy birthday. This is for you. It's a keychain of Nikopen-chan travelling to Germany. Isn't it cute?"
-        ],
         "birthday_407": [
             "Happy birthday, Shiro. I picked the perfect present for someone as calm and collected as you: a chic Nikopen-chan glasses case."
+        ],
+        "birthday_409": [
+            "Happy birthday, Minku. I hear there's a new cotton candy store by the station. I happen to be free today, so I can afford to spend some time with you."
+        ],
+        "birthday_408": [
+            "Happy birthday, Ryoko. I'm always impressed by all the hard work you put in. I'm ready to knock your socks off with the \"helping hands\" skit!"
+        ],
+        "birthday_406": [
+            "Happy birthday, Stella. Can you tell what this bread is shaped like? See, isn't the beak cute? Introducing the one and only Nikopen-chan bread."
         ],
         "birthday_410": [
             "Look at all the Nikopen-chans...! Thank you, everyone. Let's all get a picture together—with the Nikopen-chans, too!"
@@ -24554,17 +24840,17 @@
         "birthday_player": [
             "Happy birthday. May this year bring great growth for you."
         ],
-        "birthday_105": [
-            "Happy birthday, Tendo-san. I got you a drink that is good for beauty as well."
-        ],
-        "birthday_502": [
-            "Happy birthday, Suzu. We're celebrating it with an original dance that we've put our energy into. Tsuyuzaki-san also helped."
-        ],
         "birthday_501": [
             "Thank you, everyone. The lipstick, the hand cream, the makeup... I had my eye on it all for a while, so I couldn't be happier."
         ],
+        "birthday_502": [
+            "Happy birthday, Suzu. I got you this dumbbell... I thought its refreshing green color was a good fit for you."
+        ],
         "birthday_503": [
             "Happy birthday, Hisame. I got tickets to that musical you wanted to see, so let's go see it together."
+        ],
+        "birthday_105": [
+            "Happy birthday, Tendo-san. I have a soy milk baumkuchen for you. I hear the isoflavone in soybeans is good for the skin."
         ]
     },
     "Koharu Yanagi Uniform": {
@@ -24891,6 +25177,28 @@
             "\"Do not fear life. Fortune favors the bold.\""
         ]
     },
+    "UNKNOWN(5010011) Koharu Yanagi": {
+        "quest_result": [
+            ""
+        ],
+        "quest_dress": [
+            ""
+        ],
+        "common": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "touch_normal": [
+            "",
+            ""
+        ]
+    },
     "Pure Snow White Koharu Yanagi": {
         "quest_result": [
             "Once she overcomes her nightmare, Snow White is stronger than anyone."
@@ -24984,11 +25292,11 @@
         "birthday_player": [
             "Happy birthday! I hope you'll have a wonderful day!"
         ],
-        "birthday_502": [
-            "Thank you, everyone! I really felt the warmth from everyone. I couldn't help but dance along."
-        ],
         "birthday_501": [
             "Happy birthday, Koharu! I got you this popular skin care thing called... Uh, how do you pronounce this... I dunno, it's foreign!"
+        ],
+        "birthday_502": [
+            "Thanks, guys! Now I can go even more ham on my workouts! How about we all hit the gym together right now!?"
         ],
         "birthday_103": [
             "Happy birthday, Mahiru! Go ahead and use this \"make me do any one thing you want\" coupon whenever you want! I'll come running."
@@ -25352,14 +25660,14 @@
         "birthday_player": [
             "Happy birthday! May this year be really special for you."
         ],
-        "birthday_107": [
-            "Happy birthday, Nana-san. I heard that you like frog-related merchandise, so I brought some for you as a present."
-        ],
-        "birthday_502": [
-            "Happy birthday, Suzu-san. Please enjoy this dance everyone has put their hearts into... Are you thinking of joining in?"
-        ],
         "birthday_501": [
             "Happy birthday, Koharu-san. I got you this lipstick... I thought it'd look good on you. Isn't it a nice color?"
+        ],
+        "birthday_502": [
+            "Happy birthday, Suzu-san. I got you a T-shirt to use when you exercise. I hear it's quite comfortable."
+        ],
+        "birthday_107": [
+            "I have a lot of things I want to do to celebrate, but let me start by singing to you. Happy birthday, Nana-san♪"
         ],
         "birthday_503": [
             "Thank you for the wonderful birthday celebration, everyone. Your feelings mean so much to me... I'll never, ever forget them."

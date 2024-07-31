@@ -5149,6 +5149,69 @@
             }
         }
     },
+    "1010035": {
+        "35": {
+            "text": {
+                "ja": "『腹黒いフックめ！ぼくがやっつけてやる！！』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『ネバーランドに行くには、朝に向かってまっすぐ飛ぶんだよ』"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "雪代さんと小春ちゃんはいつも難しい話をしてて、だけどすごく楽しそう！"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "見てみてばなな！ピーター・パンの原作に、『ナナ』ってワンちゃんがいるよ！"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "ピーター・パンって元気で無鉄砲で……少しだけ、寂しがりやなんだ。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "まひるちゃんと差し入れのお菓子を作ったの！私は味見係ですよ～♪"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "『いつでもきっと、ぼくを待っていて。一番鶏のマネして、呼びかけるから！』"
+            }
+        }
+    },
+    "1010037": {
+        "35": {
+            "text": {
+                "en": "Was the stage always...this scary?",
+                "ja": "舞台って……こんなに怖いところだったの？",
+                "ko": "무대가... 이렇게 무서운 곳이었어?",
+                "zh_hant": "原來舞台……是個那麼可怕的地方嗎？"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "I only had eyes for Hikari-chan...",
+                "ja": "私は見えてなかったんだ、ひかりちゃんしか……",
+                "ko": "내겐 보이지 않았어, 히카리밖에...",
+                "zh_hant": "而我卻一直沒有看到，因為我一直只看著小光……"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "I now understand why I'm on the stage...",
+                "ja": "わかったよ、私。どうして舞台に立っているのか……",
+                "ko": "나, 알겠어. 어째서 무대에 서 있는 건지...",
+                "zh_hant": "我明白了。我明白為什麼自己正站在舞台上……"
+            }
+        }
+    },
     "1020001": {
         "35": {
             "text": {
@@ -7004,42 +7067,66 @@
     "1020036": {
         "35": {
             "text": {
-                "ja": "これ？　ミスターホワイトのタロットカード。限定グッズ。"
+                "en": "...This? This is a deck of Mr. White tarot cards. It's a limited-time item.",
+                "ja": "これ？　ミスターホワイトのタロットカード。限定グッズ。",
+                "ko": "이거? 미스터 화이트의 타로 카드. 한정 굿즈야.",
+                "zh_hant": "你說這個嗎？這是白熊先生的塔羅牌。是限定周邊。"
             }
         },
         "36": {
             "text": {
-                "ja": "ミスターホワイトが雷を受けて塔から落ちるカード……かわいい。"
+                "en": "In this card, Mr. White gets struck by lighting and falls off a tower... It's cutely drawn.",
+                "ja": "ミスターホワイトが雷を受けて塔から落ちるカード……かわいい。",
+                "ko": "미스터 화이트가 벼락을 맞고 탑에서 떨어지는 카드... 귀여워.",
+                "zh_hant": "白熊先生被雷打到從塔上掉下來的卡片……好可愛。"
             }
         },
         "37": {
             "text": {
-                "ja": "『劇フェス』の脚本……まだ第一稿だけど、すごく厚くて、熱い。"
+                "en": "The first draft of the \"Performance Festival\" script was really thick and warm.",
+                "ja": "『劇フェス』の脚本……まだ第一稿だけど、すごく厚くて、熱い。",
+                "ko": "[극페스] 각본... 아직 초고지만 무척 두껍고 뜨거워.",
+                "zh_hant": "『戲劇慶典』的劇本……雖然只是初稿卻非常厚，而且熱騰騰的。"
             }
         },
         "38": {
             "text": {
-                "ja": "誰がどの役を演じるかがわからないのが……ドキドキする。"
+                "en": "I'm feeling nervous not knowing who's going to play which role...",
+                "ja": "誰がどの役を演じるかがわからないのが……ドキドキする。",
+                "ko": "누가 어떤 역할을 연기할지 몰라서... 가슴이 뛰어.",
+                "zh_hant": "不知道哪個角色是由誰來演出……真令人心跳加速。"
             }
         },
         "39": {
             "text": {
-                "ja": "全部のアルカナ……色々考えて配役されてるんだと思う。"
+                "en": "I think they gave it a lot of thought when matching everyone to all the Arcana.",
+                "ja": "全部のアルカナ……色々考えて配役されてるんだと思う。",
+                "ko": "모든 아르카나... 여러모로 생각해서 역할이 배정되었을 거야.",
+                "zh_hant": "全部的阿爾克那……我想應該都是經過深思熟慮後被分配角色的。"
             }
         },
         "40": {
             "text": {
-                "ja": "塔みたいな高いところは……嫌いじゃない。"
+                "en": "I'm not against high places like a tower...",
+                "ja": "塔みたいな高いところは……嫌いじゃない。",
+                "ko": "탑처럼 높은 곳은... 싫지 않아.",
+                "zh_hant": "像塔這樣高的地方……我並不討厭。"
             }
         },
         "41": {
             "text": {
-                "ja": "初参加の『劇フェス』……今までの私を壊す演技を……！"
+                "en": "This will be the first time I act in the \"Performance Festival\"... I'll perform like I've never done before...!",
+                "ja": "初参加の『劇フェス』……今までの私を壊す演技を……！",
+                "ko": "처음 참가하는 [극페스]... 여태까지의 나를 무너뜨리는 연기를...!",
+                "zh_hant": "首次參加的『戲劇慶典』……我要拿出破壞過去自己的演技……！"
             }
         },
         "42": {
             "text": {
-                "ja": "『あなたの行動は理解できません』……言いたくなる時、ある。"
+                "en": "\"I don't understand why you act like that\" is something that at times I want to say too...",
+                "ja": "『あなたの行動は理解できません』……言いたくなる時、ある。",
+                "ko": "[당신의 행동은 이해할 수 없습니다]... 그렇게 말하고 싶을 때가 있어.",
+                "zh_hant": "『我無法理解你的行為』……我也有想說這句話的時候。"
             }
         }
     },
@@ -10974,17 +11061,26 @@
     "1040037": {
         "35": {
             "text": {
-                "ja": "その魂をよこせ！！"
+                "en": "Hand that soul over!!",
+                "ja": "その魂をよこせ！！",
+                "ko": "그 영혼을 넘겨!!",
+                "zh_hant": "把妳的靈魂給我！！"
             }
         },
         "36": {
             "text": {
-                "ja": "賭けをしようじゃないか、舞台人よ。"
+                "en": "Let's make a bet, performer.",
+                "ja": "賭けをしようじゃないか、舞台人よ。",
+                "ko": "내기를 해보자고, 무대인이여.",
+                "zh_hant": "來賭吧，舞台之人。"
             }
         },
         "40": {
             "text": {
-                "ja": "俺は……あんたのライバルだ！！"
+                "en": "I...am your rival!!",
+                "ja": "俺は……あんたのライバルだ！！",
+                "ko": "난... 너의 라이벌이다!!",
+                "zh_hant": "我就是……妳的勁敵！！"
             }
         }
     },
@@ -12766,45 +12862,127 @@
             }
         }
     },
-    "1050033": {
+    "1050032": {
         "35": {
             "text": {
-                "ja": "エドワードとエチュードをされたい方はいらっしゃいますか？"
+                "en": "\"Princess Claudine... What use is my blade if it cannot protect you...?\"",
+                "ja": "『クロディーヌ姫……。あなたを守れないのなら、私の剣に意味は……』",
+                "ko": "[클로딘 공주님... 당신을 지킬 수 없다면 제 검에 의미 따윈...]",
+                "zh_hant": "『克洛迪娜公主……要是無法保護妳，那我的劍又有什麼意義……』"
             }
         },
         "36": {
             "text": {
-                "ja": "歩き方ひとつとっても魅力的でなければなりません。"
+                "en": "\"The hero is truly a dependable ally. But I will not let him best me in swordsmanship!\"",
+                "ja": "『やはり、勇者殿は頼りになる。だが、剣の腕で後れを取るつもりはない！』",
+                "ko": "[역시, 용사님은 든든하군. 하지만 검술에서 만큼은 밀리지 않겠어!]",
+                "zh_hant": "『勇者大人他果然很可靠。不過，我可沒打算在劍術上落後於他！』"
             }
         },
         "37": {
             "text": {
-                "ja": "神楽さんはエドワードよりミスターホワイトの方がいいようです。"
+                "en": "\"Now I can understand the despair the Demon King feels. Even though we are mortal enemies...\"",
+                "ja": "『今ならば、魔王の抱える絶望も理解できる。許しがたい敵だというのに……』",
+                "ko": "[마왕이 끌어안은 절망도 지금이라면 이해가 돼. 용서할 수 없는 적인데 말이야...]",
+                "zh_hant": "『現在我能明白魔王所感受到的絕望。儘管她是個不可原諒的敵人……』"
             }
         },
         "38": {
             "text": {
-                "ja": "白無垢姿でバイクに跨る石動さんの夢を見ました。"
+                "en": "It suits me well to travel from place to place, conquering them one by one.",
+                "ja": "さまざまな場所を巡りじっくり攻略していくのは、性に合っているようです。",
+                "ko": "여러 장소들을 돌면서 천천히 공략해 나가는 게 제 성격이랑 잘 맞는 거 같아요.",
+                "zh_hant": "到不同地方仔細攻略關卡的遊玩方式看來很適合我呢。"
             }
         },
         "39": {
             "text": {
-                "ja": "では、エドワードが頬を叩かれるときの練習を……『ぶへっ！』"
+                "en": "Audiences approach games and the stage very differently. I have to keep that in mind as I act.",
+                "ja": "舞台とゲームでは観客からの見え方も違います。それを考慮して演じなければ。",
+                "ko": "무대와 게임은 각각 보는 관점이 서로 달라요. 그 점을 고려해서 연기를 해야겠죠.",
+                "zh_hant": "舞台跟遊戲的呈現方式很不同，演繹時必須考慮到這一點才行。"
             }
         },
         "40": {
             "text": {
-                "ja": "私もいつか舞台衣裳としてドレスや白無垢を着てみたいですね。"
+                "en": "I wouldn't have had a chance to portray being manipulated were it not for this play. It's a good experience.",
+                "ja": "操られる演技というのも、この舞台ならではですね。いい経験になります。",
+                "ko": "조종당하는 연기도, 이런 무대가 아니면 못하겠죠. 좋은 경험이 되겠네요.",
+                "zh_hant": "能演繹被操控的角色也是這次舞台帶給我的獨特體驗。這一定會是個很寶貴的經驗吧。"
             }
         },
         "41": {
             "text": {
-                "ja": "さあ、エドワードの声を作るための声出しをしましょう。"
+                "en": "Now, how do I portray the moves the warrior uses in the game? This will truly be a test of my skills.",
+                "ja": "ゲームで剣士が使った技をどう表現するか。私の腕が試される所ですね。",
+                "ko": "게임에서 검사가 사용한 기술을 어떻게 표현할지, 제 실력이 중요하겠네요.",
+                "zh_hant": "如何表現出遊戲中劍士所使用的技能，這正是考驗我的實力的地方呢。"
+            }
+        }
+    },
+    "1050033": {
+        "35": {
+            "text": {
+                "en": "Is there anyone who would like to do an etude with Edward?",
+                "ja": "エドワードとエチュードをされたい方はいらっしゃいますか？",
+                "ko": "에드워드와 에튀드를 하고 싶은 분은 계신가요?",
+                "zh_hant": "有想要與愛德華一起跳練習曲的人嗎？"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "Even the way you walk must also be charming.",
+                "ja": "歩き方ひとつとっても魅力的でなければなりません。",
+                "ko": "걷는 방법 하나에서도 매력적이어야 해요.",
+                "zh_hant": "跨出的每一個步伐都要很有魅力才行。"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "It seems Kagura-san prefers Mr. White over Edward.",
+                "ja": "神楽さんはエドワードよりミスターホワイトの方がいいようです。",
+                "ko": "카구라는 에드워드보다 미스터 화이트를 좋아하는 것 같군요.",
+                "zh_hant": "神樂同學覺得比起愛德華，白熊先生還要更好一些。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "I had a dream about Isurugi-san wearing a white kimono and riding a motorcycle.",
+                "ja": "白無垢姿でバイクに跨る石動さんの夢を見ました。",
+                "ko": "시로무쿠 차림으로 바이크를 탄 이스루기의 꿈을 꿨어요.",
+                "zh_hant": "我夢到石動同學穿著白無垢騎機車的模樣了。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "Okay then—time to practice the part of Edward getting hit on the cheek... \"Bwargh!\"",
+                "ja": "では、エドワードが頬を叩かれるときの練習を……『ぶへっ！』",
+                "ko": "그러면 에드워드가 뺨을 맞을 때의 연습을... [푸헥!]",
+                "zh_hant": "那麼就來做愛德華被賞巴掌的練習……『噗哈！』"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "I would also like to wear a dress and a white kimono on stage someday.",
+                "ja": "私もいつか舞台衣裳としてドレスや白無垢を着てみたいですね。",
+                "ko": "저도 언젠가 무대 의상으로 드레스와 시로무쿠를 입어보고 싶군요.",
+                "zh_hant": "我也希望有天能在舞台上穿一次婚紗或是白無垢呢。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "Right, let's do some vocal training to work on Edward's voice.",
+                "ja": "さあ、エドワードの声を作るための声出しをしましょう。",
+                "ko": "자, 에드워드의 목소리를 만들기 위한 발성 연습을 해보죠.",
+                "zh_hant": "來吧，為了詮釋愛德華的聲線來做發聲練習吧"
             }
         },
         "42": {
             "text": {
-                "ja": "『糸くずがついていたかい？ありがとう、マイスイート。』"
+                "en": "\"Was there some lint on me? Thank you, my sweetheart.\"",
+                "ja": "『糸くずがついていたかい？ありがとう、マイスイート。』",
+                "ko": "[실밥이 붙어있었나? 고마워, 마이 스위트.]",
+                "zh_hant": "『我身上沾到線頭了？謝謝妳，我的小甜心。』"
             }
         }
     },
@@ -14587,17 +14765,26 @@
     "1060031": {
         "35": {
             "text": {
-                "ja": "ダメ……他人の言葉じゃダメ！！"
+                "en": "No...I need to express it in my own words!",
+                "ja": "ダメ……他人の言葉じゃダメ！！",
+                "ko": "안 돼... 다른 사람 말로는 안 돼!!",
+                "zh_hant": "不行……光靠別人的名言是不行的！！"
             }
         },
         "36": {
             "text": {
-                "ja": "言葉が背中を押してくれる。「自分の道を進む者は、誰もが英雄である」ヘルマンヘッセ。言葉が、私の力だ！"
+                "en": "\"Those who follow their own path is a hero.\" A quote by Hermann Hesse. Words give me the push on the back that I need. Words give me strength!",
+                "ja": "言葉が背中を押してくれる。「自分の道を進む者は、誰もが英雄である」ヘルマンヘッセ。言葉が、私の力だ！",
+                "ko": "말이 내 등을 밀어줘. [자기의 길을 걷는 사람은 누구나 다 영웅이다] 헤르만 헤세. 말이 내 힘이야!",
+                "zh_hant": "名言總是支持著我。赫曼‧赫塞曾說過「有勇氣承擔命運的，才算是英雄好漢」。名言就是我的力量！"
             }
         },
         "40": {
             "text": {
-                "ja": "あれがきっと、次の舞台。遠くてもあきらめず、手を伸ばす、星見純那が主役の舞台。"
+                "en": "That must be my next stage. I won't give up even if it's far. Stretch out my hand towards the stage where Junna Hoshimi is the lead.",
+                "ja": "あれがきっと、次の舞台。遠くてもあきらめず、手を伸ばす、星見純那が主役の舞台。",
+                "ko": "분명 저것이 다음 무대. 멀지만 포기하지 않고 손을 뻗는 호시미 준나가 주역인 무대.",
+                "zh_hant": "那一定就是下一個舞台。即使尚且遙遠我也不會放棄，我會伸手抓住由星見純那飾演主角的舞台。"
             }
         }
     },
@@ -16434,6 +16621,64 @@
             }
         }
     },
+    "1070032": {
+        "35": {
+            "text": {
+                "en": "Princess of the fallen kingdom—I commend your strength. If only others displayed that same courage...\"",
+                "ja": "『亡国の姫よ、その強さを称賛しよう。その強さが、他の人間にもあれば……』",
+                "ko": "[망국의 공주여, 그 강함을 칭찬하마. 그 강함이 다른 인간들에게도 있었다면...]",
+                "zh_hant": "『亡國公主，我很欣賞妳的堅強。要是其他人類都像妳那樣堅強該有多好……』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "\"That warrior's hidden regrets are the perfect tool to make him play right into my hand. I shall take full advantage of him.\"",
+                "ja": "『あの剣士の秘める無念、手駒とするのに丁度いい。存分に役立ってもらおう』",
+                "ko": "[저 검사가 가진 원한, 패로 삼기 딱 좋겠군. 잘 이용하도록 하지]",
+                "zh_hant": "『那個劍士的心底暗藏著遺憾，正適合當我的棋子。就讓他充分發揮其作用吧』"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "\"So the hero has chosen to fight me once again. Those eyes haven't changed one bit...\"",
+                "ja": "『勇者は再び、我と戦うことを選んだか。あの瞳、かつてと変わらぬな……』",
+                "ko": "[용사는 다시 나와 싸우는 길을 택한 건가. 저 눈빛은 그때와 변함이 없군...]",
+                "zh_hant": "『勇者再次選擇跟我戰鬥了嗎。那雙眼睛，還是跟以前一樣……』"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "I really like these color contacts because they're perfect for the Demon King.",
+                "ja": "このカラーコンタクト、いかにも魔王、っていう色で気に入ってるの。",
+                "ko": "이 컬러 렌즈는 마왕이랑 찰떡같이 어울리는 색상이라 마음에 들어.",
+                "zh_hant": "這款彩色隱形眼鏡的配色很有魔王的風格，我很喜歡呢。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "If I don't pay attention, I might end up stepping on my cape. That's not a fitting look for the Demon King.",
+                "ja": "油断すると、マントの裾を踏んじゃいそう。魔王としては様にならないわよね。",
+                "ko": "방심하면 망토 자락을 밟을 것 같아. 그러면 마왕으로서 위엄이 안 살겠지?",
+                "zh_hant": "感覺一不小心就會踩到披風的下擺。這樣的話魔王的面子可就掛不住了呢。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "Clau-chan and Maya-chan are fighting over the controller again. They sure are close.",
+                "ja": "またクロちゃんと真矢ちゃんがコントローラーを取り合ってる。仲いいなぁ。",
+                "ko": "또 클로랑 마야가 컨트롤러를 두고 싸우고 있어. 정말 사이가 좋네.",
+                "zh_hant": "克洛跟真矢又在搶搖桿了。她們感情真好啊。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "Does this...look dignified enough? The Demon King needs to wait with dignity.",
+                "ja": "威厳のある佇まい……こんな感じ？魔王だもの、堂々と待ち構えていないとね。",
+                "ko": "위엄 있는 모습... 이런 느낌일까? 마왕이니까 당당하게 기다리고 있어야겠지.",
+                "zh_hant": "充滿威嚴的站姿……像這樣嗎？我可是魔王喔，必須威風堂堂地迎接敵人才行呢。"
+            }
+        }
+    },
     "1080001": {
         "35": {
             "text": {
@@ -17606,40 +17851,87 @@
             }
         }
     },
-    "1080022": {
+    "1080021": {
         "35": {
             "text": {
-                "ja": "『花嫁修業はおしまい……あとは、あの方と結婚するだけですわ』"
+                "en": "We are so pathetic...",
+                "ja": "ほんと、しょうもないな、あたしたち。",
+                "ko": "정말 구제불능이네, 우리들.",
+                "zh_hant": "我們真的是無可救藥啊。"
             }
         },
         "36": {
             "text": {
-                "ja": "『一生に一度の晴れ姿……しっかりその目に焼き付けてくださいまし』"
-            }
-        },
-        "37": {
-            "text": {
-                "ja": "あの真珠のチョーカー、あいつ舞台が終わってからもよく着けてんだよな。"
-            }
-        },
-        "38": {
-            "text": {
-                "ja": "エドワードはあんなキャラだけど……天堂のタキシード姿は迫力あるよな。"
-            }
-        },
-        "39": {
-            "text": {
-                "ja": "結乃のコテコテのお嬢様口調は照れ臭かったけど、さすがにもう慣れたよ。"
+                "en": "I have to stand on the stage with my own two feet.",
+                "ja": "自分の足で舞台に立たなくちゃいけないんだ。",
+                "ko": "내 발로 무대에 서야만 해.",
+                "zh_hant": "我必須要以自己的雙腳站上舞台。"
             }
         },
         "40": {
             "text": {
-                "ja": "神楽が公演前日、「がんばってね、結乃」って声掛けてくれたんだ。"
+                "en": "This time is my turn to be selfish.",
+                "ja": "今度はあたしがわがまま言う番。",
+                "ko": "이번엔 내 멋대로 할 차례.",
+                "zh_hant": "這次輪到我任性了。"
+            }
+        }
+    },
+    "1080022": {
+        "35": {
+            "text": {
+                "en": "\"My bridal training is finished... Now all I need to do is marry him.\"",
+                "ja": "『花嫁修業はおしまい……あとは、あの方と結婚するだけですわ』",
+                "ko": "[신부 수업은 끝났어요... 남은 건 그분과 결혼하는 것뿐이에요]",
+                "zh_hant": "『新娘訓練已經結束……接下來，我只要跟他結婚就可以了』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "\"This is a once-in-a-lifetime moment for me... Do sear the image into your eyes.\"",
+                "ja": "『一生に一度の晴れ姿……しっかりその目に焼き付けてくださいまし』",
+                "ko": "[일생에 단 한 번뿐인 빛나는 순간... 그 두 눈으로 똑똑히 지켜봐 주세요]",
+                "zh_hant": "『這是我一生一次的盛裝打扮……還請好好把我的姿態烙印在腦海裡』"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "She's still wearing that pearl necklace, even now that the show's over.",
+                "ja": "あの真珠のチョーカー、あいつ舞台が終わってからもよく着けてんだよな。",
+                "ko": "그때 그 진주 초커, 카오루코 녀석 무대가 끝난 뒤에도 자주 하고 다닌단 말이지.",
+                "zh_hant": "在舞台結束後，那傢伙仍常常戴著那條珍珠項鍊呢。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "Edward's a bit of, well, a character... But man, Tendo in a tuxedo is a powerful image.",
+                "ja": "エドワードはあんなキャラだけど……天堂のタキシード姿は迫力あるよな。",
+                "ko": "에드워드의 캐릭터는 별나지만... 텐도의 턱시도 차림은 역시 박력이 있어.",
+                "zh_hant": "雖然愛德華是那種角色……但天堂的禮服身姿依然很有魄力呢。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "It was pretty embarrassing to do Yuno's prissy rich girl shtick, but I'm used to it now.",
+                "ja": "結乃のコテコテのお嬢様口調は照れ臭かったけど、さすがにもう慣れたよ。",
+                "ko": "유노의 고상한 아가씨 말투는 처음에는 꽤나 쑥스러웠지만, 역시 하다 보니 익숙해졌어.",
+                "zh_hant": "結乃的千金小姐口吻挺讓我難為情的，不過我現在已經習慣了。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "The day before the show, Kagura came up to me and was like, \"Break a leg, Yuno.\"",
+                "ja": "神楽が公演前日、「がんばってね、結乃」って声掛けてくれたんだ。",
+                "ko": "카구라가 공연 전날에 [힘내, 유노]라고 말해줬어.",
+                "zh_hant": "在公演的前一天，神樂還特意來替打氣我，說「要加油喔，結乃」呢。"
             }
         },
         "41": {
             "text": {
-                "ja": "『この……浮気者っ！』"
+                "en": "\"You...PIG!\"",
+                "ja": "『この……浮気者っ！』",
+                "ko": "[이... 바람둥이!]",
+                "zh_hant": "『你這個……花心大蘿蔔！』"
             }
         }
     },
@@ -19764,37 +20056,58 @@
     "1090031": {
         "35": {
             "text": {
-                "ja": "『ドレスが重くてもヒールが高くても、幸せな未来へ向かうわ！』"
+                "en": "\"No matter how heavy the dress or how high the heels, I'll find my happy ending!\"",
+                "ja": "『ドレスが重くてもヒールが高くても、幸せな未来へ向かうわ！』",
+                "ko": "[드레스가 무거워도, 구두굽이 높아도, 행복한 미래를 향해 나아갈 거야!]",
+                "zh_hant": "『不管婚紗有多重、高跟鞋有多高，新娘都會通往幸福的未來！』"
             }
         },
         "36": {
             "text": {
-                "ja": "『結婚式もだけど、ハネムーンも楽しみ！大切な人と世界中を回りたいの♪』"
+                "en": "\"I'm looking forward to the wedding, but the honeymoon, too! I can't wait to travel the world with the one I love♪\"",
+                "ja": "『結婚式もだけど、ハネムーンも楽しみ！大切な人と世界中を回りたいの♪』",
+                "ko": "[결혼식도 그렇지만, 허니문도 기대돼! 소중한 사람과 전 세계를 돌아다니고 싶어♪]",
+                "zh_hant": "『雖然婚禮很讓人期待，但之後的蜜月也不相上下呢！真想和心愛的人一起環遊世界♪』"
             }
         },
         "37": {
             "text": {
-                "ja": "着物が綺麗に見える姿勢と、ドレスが綺麗に見える姿勢は似てる思うんどす。"
+                "en": "Kimonos and dresses have a lot in common. The posture you have to take to make them look good is pretty similar.",
+                "ja": "着物が綺麗に見える姿勢と、ドレスが綺麗に見える姿勢は似てる思うんどす。",
+                "ko": "기모노가 예쁘게 보이는 자세와 드레스가 예쁘게 보이는 자세는 비슷하다고 생각해요.",
+                "zh_hant": "讓和服看起來更漂亮的姿勢，和讓禮服看起來更漂亮的姿勢其實很相似喔。"
             }
         },
         "38": {
             "text": {
-                "ja": "いくらばななはんでもウェディングケーキは……いや、なんや作れそうやな。"
+                "en": "Surely even Banana-han can't... Actually, no, I bet she COULD make a wedding cake.",
+                "ja": "いくらばななはんでもウェディングケーキは……いや、なんや作れそうやな。",
+                "ko": "아무리 바나나라고 해도 웨딩 케이크는... 아니, 만들 수 있을 것 같네요.",
+                "zh_hant": "就算BANANA再厲害，也無法做出婚禮蛋糕……不，似乎難不倒她耶。"
             }
         },
         "39": {
             "text": {
-                "ja": "双葉はんとクロはんと天堂はんで駄菓子屋に行ったん？なんでうち誘わんの！"
+                "en": "Futaba-han and Clau-han and Tendo-han went to a candy shop? Why didn't they invite me!?",
+                "ja": "双葉はんとクロはんと天堂はんで駄菓子屋に行ったん？なんでうち誘わんの！",
+                "ko": "후타바, 클로, 텐도, 셋이서 막과자 가게에 갔다고요? 왜 저는 안 데려갔어요!",
+                "zh_hant": "雙葉跟克洛和天堂一起去零食店了？她們怎麼不叫上我！"
             }
         },
         "40": {
             "text": {
-                "ja": "このブーケ、うちが欲しいわ……花嫁は投げたブーケ取りに行ったらあかんの？"
+                "en": "Ooh, I want this bouquet... Is the bride allowed to go chase the bouquet after she throws it?",
+                "ja": "このブーケ、うちが欲しいわ……花嫁は投げたブーケ取りに行ったらあかんの？",
+                "ko": "이 부케, 제가 갖고 싶네요... 신부는 던진 부케를 받으러 가면 안 되는 거예요?",
+                "zh_hant": "我挺想要這束捧花的……難道新娘就不能去接自己拋的捧花嗎？"
             }
         },
         "41": {
             "text": {
-                "ja": "『ほんとは結乃と一緒に花嫁になりたい……それってやっぱりダメかしら？』"
+                "en": "\"Really, I wish Yuno and I could both be brides... Is there no way to make that happen?\"",
+                "ja": "『ほんとは結乃と一緒に花嫁になりたい……それってやっぱりダメかしら？』",
+                "ko": "[사실은 유노와 함께 신부가 되고 싶어... 그건 역시 안 되는 걸까?]",
+                "zh_hant": "『可以的話，我想跟結乃一起當新娘……但這果然是不行的吧？』"
             }
         }
     },
@@ -19853,6 +20166,32 @@
                 "ja": "はあ、ゲームやってると目が疲れるなあ。双葉はん、休憩するからお茶淹れてー。",
                 "ko": "하아, 게임을 하다 보니 눈이 피곤하네요. 후타바, 잠시 쉴 테니까 차 좀 끓여줘~.",
                 "zh_hant": "呼～遊戲玩久了眼睛好痠啊。雙葉，我想休息了，妳快幫我泡杯茶～"
+            }
+        }
+    },
+    "1090033": {
+        "35": {
+            "text": {
+                "en": "What's with that attitude? Acting as if it's for my own good...",
+                "ja": "なんやその『お前のため』感。うっと……",
+                "ko": "뭐예요, 그 [널 위해서]한다는 식. 짜증 나네요...",
+                "zh_hant": "那種『都是為妳好』的感覺算什麼。煩死了……"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "You're always spouting out your ideals, generalizations, and reasonings.",
+                "ja": "理想論に一般論、正論ばっかの垂れ流し。",
+                "ko": "이상론에 일반론, 정론뿐이잖아요.",
+                "zh_hant": "說完理想論就說一般論，就只會人云亦云地講這種大道理。"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "You big, fat liar!",
+                "ja": "大ウソつき！",
+                "ko": "거짓말쟁이!",
+                "zh_hant": "妳這個大騙子！"
             }
         }
     },
@@ -21326,6 +21665,43 @@
             }
         }
     },
+    "2010034": {
+        "35": {
+            "text": {
+                "ja": "『ふんっ。みんなに島を案内しろだなんて、どうしてあたしが！』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『何よっ、ウェンディなんて子、さっさといなくなっちゃえばいいのに！』"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "『おばかさんね、ピーター。あたしは、あなたのためなら猛毒だって怖くないの』"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "呉服店の店主の方が、雪代さんは着物が映えそうだって。私もそう思うわ。"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "ティンカー・ベルはちょっぴり焼きもちやきなだけで、とっても素敵な女の子。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "『ピーターがあたしを追放するなんてありえないわ！ウェンディのせいよ！』"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "ティンクはピーターのことが大好きだからこそ、いつも全力で感情表現するの。"
+            }
+        }
+    },
     "2020001": {
         "35": {
             "text": {
@@ -22529,6 +22905,72 @@
                 "ja": "『ハデス様のよしよしもペルセポネー様のなでなでも、どっちも大好き！』",
                 "ko": "[하데스 님의 칭찬과 페르세포네 님의 쓰다듬, 둘 다 정말 좋아!]",
                 "zh_hant": "『不論是哈帝斯大人的獎勵摸摸，還是珀耳塞福涅的愛憐摸摸我都好喜歡！』"
+            }
+        }
+    },
+    "2020036": {
+        "35": {
+            "text": {
+                "en": "Here's the \"Sun\" costume! It's like a stage outfit. Isn't it adorable?!",
+                "ja": "これが『太陽』の衣裳！ステージ衣裳みたいで超可愛くない！？",
+                "ko": "이게 [태양] 의상이야! 스테이지 의상 같아서 엄청 예쁘지 않아!?",
+                "zh_hant": "這套就是『太陽』的服裝！就像舞台服裝一樣超級可愛的對吧！？"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "I want a singing part for \"Sun\" in the Performance Festival☆",
+                "ja": "劇フェスに『太陽』の歌唱パートが欲しいなぁ～☆",
+                "ko": "극페스에 [태양]의 가창 파트가 있었으면 좋겠어~☆",
+                "zh_hant": "真希望戲劇慶典裡能有『太陽』的歌唱橋段呢～☆"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "Yuyuko and Rui are growing up during the Performance Festival too.",
+                "ja": "ゆゆ子も塁も、ちゃんと成長してるんだよね。劇フェスの中で。",
+                "ko": "유유코도 루이도 극페스를 통해 제대로 성장하고 있어. ",
+                "zh_hant": "悠悠子和壘都在這個戲劇慶典中一步步地著實成長著呢。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "I'm Rinmeikan's \"sun\"? Right? Say it again!",
+                "ja": "あたしが凛明館の『太陽』？でしょでしょ、もっと言って！",
+                "ko": "내가 린메이칸의 [태양]? 그래그래, 더 말해줘!",
+                "zh_hant": "你說我就是凜明館的『太陽』？對吧對吧？再多說一點！"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "There are things that only I can say. So, Fumi...",
+                "ja": "あたしだから言えることがあるんだ。だからあたしが、文に――",
+                "ko": "나니까 말할 수 있는 게 있어. 그러니까 내가 후미한테──",
+                "zh_hant": "有些話是只有我才能傳達的。所以必須由我，來向文——"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "Burning herself to emit light—that's the kind of star the \"Sun\" is!",
+                "ja": "自ら燃えて、光を放つ――それが『太陽』って星なんだよね！",
+                "ko": "스스로 불타며 빛을 낸다── 그게 [태양]이라는 별이지!",
+                "zh_hant": "燃燒自我來綻放光芒——『太陽』就應該要是這樣的星星呢！"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "Brightly lighting up the entire stage – that's the kind of \"Sun\" I want to play!",
+                "ja": "舞台の全てを明るく照らす。そんな『太陽』が演じたいな！",
+                "ko": "무대의 모든 부분을 밝게 비추는 [태양]을 연기하고 싶어!",
+                "zh_hant": "我想演繹的是能夠照亮整個舞台的『太陽』！"
+            }
+        },
+        "42": {
+            "text": {
+                "en": "\"I won't stop singing even when I sink into darkness. Because light will rise once again!\"",
+                "ja": "『闇に沈んでも歌うことをやめない。陽はまたきっと昇るから！』",
+                "ko": "[어둠에 잠겨도 노래를 그치지 않아. 해는 분명 다시 뜰 테니까!]",
+                "zh_hant": "『即使沉淪於黑暗之中，歌聲也不會停息。因為太陽一定還會再次升起！』"
             }
         }
     },
@@ -27446,6 +27888,43 @@
             }
         }
     },
+    "3010035": {
+        "35": {
+            "text": {
+                "ja": "『ねえ、ティンクはどうしていつも怒っているの？仲よくなりたいのに……』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『私がおかあさんなら、ピーター・パンはおとうさんね！』"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "晶ちゃんと珠緒ちゃん、よく文ちゃんの話してる……きっと大好きなんだね！"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "華恋ちゃんと遊んでいると、すぐに小春ちゃんが来てくれるの！優しいよね♪"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "ウェンディがみんなのおかあさんになりたがったその気持ち、ちょっとわかるなあ。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "わっ、この差し入れおいしー！美空にも食べさせてあげたい……！"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "『さあみんな、いい子でおやすみなさい。寝る前にお話をしてあげるから』"
+            }
+        }
+    },
     "3020001": {
         "35": {
             "text": {
@@ -31888,6 +32367,72 @@
             }
         }
     },
+    "3050036": {
+        "35": {
+            "text": {
+                "en": "\"Judgement's\" costume features the same design as the costumes for Frontier.",
+                "ja": "『審判』の衣裳、フロンティアの皆と同じ意匠が入っているの。",
+                "ko": "[심판]의 의상, 프론티어의 모두와 같은 디자인이 들어가 있어.",
+                "zh_hant": "『審判』的服裝也加入了跟芙羅提亞的大家相同的設計元素。"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "I feel so happy when I'm surrounded by my favorite consoles, and I can play my favorite games...",
+                "ja": "大切なゲーム機に囲まれて、大好きなゲームが出来る幸せ……",
+                "ko": "소중한 게임기에 둘러싸여서 정말 좋아하는 게임을 할 수 있는 행복...",
+                "zh_hant": "能置身於眾多重要的遊戲機之中，遊玩著最喜歡的遊戲，太幸福了……"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "As long as Aruru-chan and Misora-chan are around, Frontier is in fine hands.",
+                "ja": "あるるちゃんと美空ちゃんがいればフロンティアはもう大丈夫ね。",
+                "ko": "아루루와 미소라가 있으면 프론티어는 이제 괜찮아.",
+                "zh_hant": "既然有艾露露跟美空在，芙羅提亞應該已經沒問題了吧。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "W-What are you suggesting, Tsukasa? I-I only play games for an hour a day, you know...!",
+                "ja": "な、なに、つかさ？ゲームは１日１時間しかして、ない、わよ？",
+                "ko": "뭐, 뭐야, 츠카사? 게임은 하루에 1시간 밖에 안... 한다니까?",
+                "zh_hant": "司，怎、怎麼了嗎？我每天只玩……一小時遊戲喔……？"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "I've finally completed the special drink for the Performance Festival. ...? Where has everyone gone?!",
+                "ja": "劇フェス用特製ドリンクが完成したの。あら……みんな、どこに？",
+                "ko": "극페스용 특제 드링크가 완성됐어. 어라... 다들 어디 갔어?",
+                "zh_hant": "戲劇慶典用的特製飲料完成了。咦……大家到哪裡去了？"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "We'll show everyone our renewed brilliance at the Performance Festival.",
+                "ja": "生まれ変わった私たちのキラめき、劇フェスで全てお見せするわ。",
+                "ko": "다시 태어난 우리들의 반짝임, 극페스에서 전부 보여 주겠어.",
+                "zh_hant": "要在戲劇慶典中，完全地展示出重獲新生的我們的光芒。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "All the co-performers will feel reborn once they see my \"Judgement\"!",
+                "ja": "私の『審判』で、共演者のみんなを生まれ変わらせてみせるわ！",
+                "ko": "내 [심판]으로 합동 공연자 모두를 다시 태어나게 해 주겠어!",
+                "zh_hant": "我要以我的『審判』，讓所有共演者都重獲新生！"
+            }
+        },
+        "42": {
+            "text": {
+                "en": "\"I will lead everyone...to the Paradise beyond \"judgement\".\"",
+                "ja": "『導くの……【審判】の果てにある楽園に、みんなを』",
+                "ko": "[이끌 거야... '심판'의 끝에 있는 낙원으로, 모두를]",
+                "zh_hant": "『我要將大家……引領到【審判】盡頭的那個樂園』"
+            }
+        }
+    },
     "4010001": {
         "35": {
             "text": {
@@ -33226,6 +33771,43 @@
             }
         }
     },
+    "4010033": {
+        "35": {
+            "text": {
+                "ja": "『ひいっ、時計ワニだ！儂は時計ワニが怖いんだ……スミー、助けてくれ！』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "ミチルとは、公園で様々な物語を演じた……そのどれもが今に繋がっている。"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "『ピーターの居場所を吐け、タイガー・リリー！さもなくば海へ落とすぞ！』"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "大人は子供に戻れない。しかし、子供の頃の片鱗を思い出させてくれる物語だ。"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "『なあティンカー・ベル、ピーターと君の仲が裂かれ、彼女が恨めしいだろう？』"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "『フハハ、儂は約束は破らん男だ。しかし、約束にないことであれば……』"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "巴の作ったおかず……後でレシピを教えてもらえないだろうか。"
+            }
+        }
+    },
     "4020001": {
         "35": {
             "text": {
@@ -34421,6 +35003,72 @@
                 "ja": "『頼光よ。こんな私を友と呼ぶのは、後にも先にもお前だけさ』",
                 "ko": "[요리미츠여. 이런 나를 친구라 부르는 것은 이전에도 이후에도 너뿐이야]",
                 "zh_hant": "『賴光。不管過去還是未來，就只有你會稱這樣的我為朋友呢』"
+            }
+        }
+    },
+    "4020036": {
+        "35": {
+            "text": {
+                "en": "Even among all the amazing members of the Performance Festival, Akira is still Akira. Yeah!",
+                "ja": "劇フェスのすごいメンバーの中でも、晶はいつもの晶。うんうん！",
+                "ko": "극페스의 대단한 멤버들 중에서도 아키라는 평소의 아키라야. 응응!",
+                "zh_hant": "即使置身戲劇慶典這群厲害的成員之中，晶還是那個平常的晶。嗯嗯！"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "I can't wait to see what kind of performance all the \"Edels\" will give at the Performance Festival!",
+                "ja": "『エーデル』のみんなが劇フェスでどんな演技をするのか楽しみ！",
+                "ko": "[에델] 모두가 극페스에서 어떤 연기를 할지 기대돼!",
+                "zh_hant": "真期待『高貴皇君』的大家會在戲劇慶典中呈現怎麼樣的演技！"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "I was able to see all kinds of things after talking to Nana-chan.",
+                "ja": "ななちゃんと話せて、いろんな事が見えた気がするよ。",
+                "ko": "나나와 이야기해서 여러 가지를 알게 된 것 같아.",
+                "zh_hant": "未知留和奈奈商量之後，開始看清了許多事情。"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "Shiori was such a frail child... She's gotten stronger.",
+                "ja": "あんなに儚げだった子が……強くなったね、栞。",
+                "ko": "그렇게 연약하던 아이가... 강해졌구나, 시오리.",
+                "zh_hant": "之前還那麼柔弱的孩子，現在卻……栞真的變得堅強了呢。"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "Mei Fan, you have to follow the lights-out time!",
+                "ja": "もう、消灯時間はちゃんと守らないとダメでしょ、メイファン！",
+                "ko": "정말, 소등시간은 잘 지켜야지, 메이팡!",
+                "zh_hant": "真是的，要好好遵守熄燈時間才行喔，美帆！"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "The \"Hierophant\" sets the rules and guides everyone toward the stage of the future...",
+                "ja": "『法王』がルールを定め、みんなを未来の舞台に導く……か。",
+                "ko": "[교황]이 규칙을 정하고 모두를 미래의 무대로 이끈다고...",
+                "zh_hant": "由『教皇』來制定規則，並指引大家邁向未來的舞台劇……嗎。"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "I've always been interested in directing and producing plays... I gotta work hard!",
+                "ja": "ずっと興味あった舞台の演出、プロデュース……頑張らなくちゃ！",
+                "ko": "계속 흥미가 있었던 무대 연출, 프로듀스... 열심히 해야지!",
+                "zh_hant": "自己一直都很感興趣的舞台劇的導演、製作人……未知留要加油才行！"
+            }
+        },
+        "42": {
+            "text": {
+                "en": "\"Let's go together with His teachings in mind. To the end of this path—to that paradise.\"",
+                "ja": "『教えを胸に、共に往きましょう。この道の果て、あの楽園まで』",
+                "ko": "[가르침을 가슴에 담고 함께 갑시다. 이 길 끝에 있는 그 낙원까지]",
+                "zh_hant": "『謹記教義於心，一同前往吧。直到這條道路的盡頭——那片樂園為止』"
             }
         }
     },
@@ -36789,37 +37437,58 @@
     "4040032": {
         "35": {
             "text": {
-                "ja": "『ああ腹が煮え返る。あの小うるさい武士、滅茶苦茶にしてやればよかった』"
+                "en": "\"Ah, how my stomach churns. I should have torn that infuriating warrior limb from limb.\"",
+                "ja": "『ああ腹が煮え返る。あの小うるさい武士、滅茶苦茶にしてやればよかった』",
+                "ko": "[아아, 속이 끓는군. 저 귀찮은 무사들, 엉망진창으로 만들어버릴 걸 그랬군]",
+                "zh_hant": "『啊啊，想起就一肚子氣。妾身應該要把那個話癆武士暴揍一頓才對』"
             }
         },
         "36": {
             "text": {
-                "ja": "『父と母？そんなの知らない。鬼が求めるのは、人から噴き出す赤い花だけ』"
+                "en": "\"Parents? I couldn't care less. All a demon wants is crimson flowers spewing from human bodies.\"",
+                "ja": "『父と母？そんなの知らない。鬼が求めるのは、人から噴き出す赤い花だけ』",
+                "ko": "[아버지랑 어머니? 그딴 건 모른다. 오니가 원하는 것은 오직 사람이 내뿜는 붉은 꽃뿐]",
+                "zh_hant": "『父母？妾身才不管。惡鬼想要的就只有在人類身上綻放的血花』"
             }
         },
         "37": {
             "text": {
-                "ja": "休憩中、みなさんで鬼のエチュードをしたんです。誰が一番怖かったでしょう？"
+                "en": "We did a demon etude during our break. I wonder who was the scariest.",
+                "ja": "休憩中、みなさんで鬼のエチュードをしたんです。誰が一番怖かったでしょう？",
+                "ko": "휴식 중에 다 같이 오니 에튀드를 했어요. 누가 가장 무서웠을 거 같아요?",
+                "zh_hant": "大家都在休息時即興扮演了惡鬼。不知道誰演得最可怕呢？"
             }
         },
         "38": {
             "text": {
-                "ja": "雪代先輩の演じる蘆屋道満の底知れぬ妖しさ、対峙するとゾクゾクするんです。"
+                "en": "Staring down the bottomless uncanniness of Yukishiro-senpai's Ashiya Doman sends a shiver up my spine.",
+                "ja": "雪代先輩の演じる蘆屋道満の底知れぬ妖しさ、対峙するとゾクゾクするんです。",
+                "ko": "유키시로 선배가 연기하는 아시야 도만의 끝을 알 수 없는 요사스러움, 마주하면 온몸이 오싹해져요.",
+                "zh_hant": "雪代學姐飾演的蘆屋道滿有一股前所未有的妖異氛圍，跟她對戲時會讓人感到毛骨悚然呢。"
             }
         },
         "39": {
             "text": {
-                "ja": "姉と私の酒呑童子の衣裳、比べてみるとそれぞれに個性があって面白いんです。"
+                "en": "It's so interesting to compare my Shuten-doji costume with Fumi's and see what each of us brings to the character.",
+                "ja": "姉と私の酒呑童子の衣裳、比べてみるとそれぞれに個性があって面白いんです。",
+                "ko": "언니랑 제 슈텐도지 의상을 비교해 보면 각각 개성이 있어서 재밌어요.",
+                "zh_hant": "姊姊飾演酒吞童子時的服裝與我的服裝並不一樣，比較起來會發現它們各有獨特的個性，很有趣呢。"
             }
         },
         "40": {
             "text": {
-                "ja": "実は昔、酒呑童子と源頼光は出会っていた……魅力的な導入ですよね。"
+                "en": "Long ago, Shuten-doji and Minamoto no Yorimitsu had already met... That's an interesting hook.",
+                "ja": "実は昔、酒呑童子と源頼光は出会っていた……魅力的な導入ですよね。",
+                "ko": "먼 옛날 슈텐도지와 미나모토노 요리미츠는 사실 만난 적이 있었다... 정말 매력적인 도입부인 거 같아요.",
+                "zh_hant": "其實酒吞童子跟源賴光很久以前就認識了……這樣的開場很引人入勝吧。"
             }
         },
         "41": {
             "text": {
-                "ja": "『優しさは牙、温もりは血、抱く腕はほどけぬ檻……それが鬼じゃ』"
+                "en": "\"Our kindness is our fangs, our warmth is our blood, and our arms are an unescapable cage... That is what demons are.\"",
+                "ja": "『優しさは牙、温もりは血、抱く腕はほどけぬ檻……それが鬼じゃ』",
+                "ko": "[다정함은 이빨, 따뜻함은 피, 끌어안을 팔은 나올 수 없는 감옥... 그것이 오니니라]",
+                "zh_hant": "『柔情似牙、溫情如血，擁抱你的雙臂是解不開的牢籠……這就是惡鬼』"
             }
         }
     },
@@ -38346,37 +39015,58 @@
     "4050028": {
         "35": {
             "text": {
-                "ja": "『なんだ、ノノウの里が気になるのか？地獄を見たいなら、おいで』"
+                "en": "\"Oh, are you curious about the village of the nonou? If you wish to see hell on earth, then follow me.\"",
+                "ja": "『なんだ、ノノウの里が気になるのか？地獄を見たいなら、おいで』",
+                "ko": "[뭐야, 노노 마을이 신경 쓰여? 지옥을 보고 싶다면 와]",
+                "zh_hant": "『怎麼了，妳對野乃宇村有興趣嗎？想見識什麼是地獄的話，就過來吧』"
             }
         },
         "36": {
             "text": {
-                "ja": "『……私を母と呼ぶな。親愛の情など、とうに捨てた』"
+                "en": "\"...Do not call me your mother. I have long abandoned the emotion of love.\"",
+                "ja": "『……私を母と呼ぶな。親愛の情など、とうに捨てた』",
+                "ko": "[......날 어머니라 부르지 마. 애틋한 정 따위 이미 버렸어]",
+                "zh_hant": "『……別叫我母親。我早就把骨肉之情給捨棄掉了』"
             }
         },
         "37": {
             "text": {
-                "ja": "は～……メイファンから、客演についてこんこんと諭されちゃった。"
+                "en": "Haah... Mei Fan lectured me up, down, and sideways about this guest performance thing.",
+                "ja": "は～……メイファンから、客演についてこんこんと諭されちゃった。",
+                "ko": "하~... 메이팡한테 객원 출연에 대한 설교를 잔뜩 들었어.",
+                "zh_hant": "唉……剛才被美帆唸了一頓有關去當客串演出的事呢。"
             }
         },
         "38": {
             "text": {
-                "ja": "よいしょっ……と。栞から凛明館への差し入れ、さすがに多くないかなあ？"
+                "en": "Hup... Is it just me, or did Shiori make a bit too many snacks for me to take to Rinmeikan?",
+                "ja": "よいしょっ……と。栞から凛明館への差し入れ、さすがに多くないかなあ？",
+                "ko": "영차... 시오리가 린메이칸에 보내는 간식, 역시 좀 많은 것 같지 않아?",
+                "zh_hant": "嘿咻……呼。栞要送去凜明館的慰勞品是不是有點太多了？"
             }
         },
         "39": {
             "text": {
-                "ja": "今回の演目では、文さんが『望月盛時』役……あたしの夫なんです♪"
+                "en": "In this play, Fumi-san's playing Mochizuki Moritoki... That's my hubby♪",
+                "ja": "今回の演目では、文さんが『望月盛時』役……あたしの夫なんです♪",
+                "ko": "이번 작품에서는 후미 선배가 [모치즈키 모리토키] 역할... 제 남편이에요♪",
+                "zh_hant": "在這次戲碼中，文同學飾演的角色是『望月盛時』……也就是我的丈夫喔♪"
             }
         },
         "40": {
             "text": {
-                "ja": "珠緒さんの膝枕、サイコーだったなあ♪次は文さんにおねだりしちゃお！"
+                "en": "Ahh, Tamao-san's lap was to die for♪ Next target, Fumi-san!",
+                "ja": "珠緒さんの膝枕、サイコーだったなあ♪次は文さんにおねだりしちゃお！",
+                "ko": "타마오 선배의 무릎베개, 최고였어♪ 다음엔 후미 선배한테 졸라봐야지!",
+                "zh_hant": "珠緒同學的大腿躺起來超級舒服的♪下次我得拜託文同學也讓我躺躺看才行！"
             }
         },
         "41": {
             "text": {
-                "ja": "『ついてくるなら遅れるな。私は二度と振り返らぬ』"
+                "en": "\"If you intend to come with me, then do not dally. I will never look back again.\"",
+                "ja": "『ついてくるなら遅れるな。私は二度と振り返らぬ』",
+                "ko": "[따라올 거라면 늦지 마. 나는 다시는 뒤돌아보지 않을 거니까]",
+                "zh_hant": "『要跟著我的話動作快點。我可不會回頭等妳』"
             }
         }
     },
@@ -39442,6 +40132,64 @@
             }
         }
     },
+    "4080032": {
+        "35": {
+            "text": {
+                "en": "\"I hauled myself out of the depths of the earth, and I will have my revenge!\"",
+                "ja": "『僕は地の底から這い上がってきた。必ずや復讐を果たすために！』",
+                "ko": "[나는 밑바닥에서 기어올라왔다. 반드시 복수하기 위해!]",
+                "zh_hant": "『我千辛萬苦從地底爬上來，就是為了復仇！』"
+            }
+        },
+        "36": {
+            "text": {
+                "en": "Dantes burned with his fixation on revenge... But even he had hope.",
+                "ja": "復讐に執念を燃やし続けたダンテス……そんな彼にも、希望はあったんだね。",
+                "ko": "복수에 대한 집념을 불태우던 당테스... 그런 그에게도 희망은 있었구나.",
+                "zh_hant": "即使唐泰斯一心執著於復仇……他也曾抱有過希望。"
+            }
+        },
+        "37": {
+            "text": {
+                "en": "\"My revenge is complete... But what do I have left...?\"",
+                "ja": "『復讐は遂げた……。しかし僕には、何が残ったのだろうか……』",
+                "ko": "[복수는 이루었다... 하지만 나에게는 무엇이 남은 걸까...]",
+                "zh_hant": "『我終於成功復仇了……但我現在還剩下什麼……』"
+            }
+        },
+        "38": {
+            "text": {
+                "en": "\"Abbe Faria was my salvation from the darkness and solitude.\"",
+                "ja": "『暗く、孤独だった時間を救ってくれたのは、ファリア司祭の存在なんです』",
+                "ko": "[어둡고 고독했던 시간을 견딜 수 있었던 건 파리아 사제 덕분이었어요]",
+                "zh_hant": "『在那段黑暗、孤獨的時光裡，法利亞神父便是我唯一的救贖』"
+            }
+        },
+        "39": {
+            "text": {
+                "en": "This play has dance scenes, so I'd better have Stella-chan take a look at my practice.",
+                "ja": "この演目にはダンスシーンもあるから、ステラちゃんにも練習見てもらおうかな。",
+                "ko": "이 작품에는 댄스 장면도 있으니까 스텔라한테 연습을 봐달라고 해볼까?",
+                "zh_hant": "這齣戲碼還有一些跳舞場景。要不要請小黛拉來陪我練習呢？"
+            }
+        },
+        "40": {
+            "text": {
+                "en": "\"So long as my revenge is complete, I can walk any path, no matter how cruel.\"",
+                "ja": "『復讐を成し遂げた事実があれば、どんな過酷な道であろうと、生きていける』",
+                "ko": "[복수에 성공한다면 어떤 험난한 길을 걷게 될지라도 살아갈 수 있어]",
+                "zh_hant": "『只要能成功復仇，無論前路有多艱難，我都一定能活下去』"
+            }
+        },
+        "41": {
+            "text": {
+                "en": "Shizuha-senpai's so mature and pretty! Talk about life goals...",
+                "ja": "静羽先輩、大人っぽくてとっても素敵！いつか私も、あんな風に……。",
+                "ko": "시즈하 선배, 어른스럽고 정말 멋져! 언젠간 나도 저렇게...",
+                "zh_hant": "靜羽前輩看起來非常成熟，真的很有魅力！希望有一天我也能像她那樣……"
+            }
+        }
+    },
     "4090001": {
         "35": {
             "text": {
@@ -39711,37 +40459,58 @@
     "4090032": {
         "35": {
             "text": {
-                "ja": "『乱暴な方は嫌い……だけど呂布様だけは、なぜか私の心に火を灯す』"
+                "en": "\"I dislike the violent... But somehow, Lu Bu alone lights a fire in my heart.\"",
+                "ja": "『乱暴な方は嫌い……だけど呂布様だけは、なぜか私の心に火を灯す』",
+                "ko": "[난폭한 분은 싫어요... 하지만 여포 님만은 왠지 모르게 제 마음에 불을 지피시네요]",
+                "zh_hant": "『我很討厭粗暴的人……但不知何解，呂布大人卻點燃了我內心的激情』"
             }
         },
         "36": {
             "text": {
-                "ja": "『いちどは捨てられた身。お父様に拾われた御恩は、決して忘れません』"
+                "en": "\"Once, I was abandoned. I will never forget the debt I owe my father for taking me in.\"",
+                "ja": "『いちどは捨てられた身。お父様に拾われた御恩は、決して忘れません』",
+                "ko": "[한 번은 버려진 몸. 아버지가 저를 주워 길러주신 은혜는 결코 잊지 않을 거예요]",
+                "zh_hant": "『我自小就被遺棄，這條命是父親大人撿回來的。因此我絕不會忘記父親大人的救命之恩』"
             }
         },
         "37": {
             "text": {
-                "ja": "ししょーとお話してると自然と笑顔になっちゃう。ししょーってすごいよねえ。"
+                "en": "I just can't help but smile when I'm talking to Master. She's so awesome.",
+                "ja": "ししょーとお話してると自然と笑顔になっちゃう。ししょーってすごいよねえ。",
+                "ko": "스승님이랑 대화하면 자연스럽게 웃음이 나. 스승님은 정말 대단한 거 같아.",
+                "zh_hant": "只要跟師傅聊天，明久就自然會笑起來。師傅真的好厲害啊。"
             }
         },
         "38": {
             "text": {
-                "ja": "凛明館って静かでどっしりで優しい空気でいっぱい……だからみんくスキなんだ！"
+                "en": "Rinmeikan's so quiet and dignified and gentle... That's why I like it!",
+                "ja": "凛明館って静かでどっしりで優しい空気でいっぱい……だからみんくスキなんだ！",
+                "ko": "린메이칸은 조용하고 차분하면서도 다정한 분위기로 가득해... 그래서 밍크 마음에 들어!",
+                "zh_hant": "凜明館充滿了恬靜、凝重卻又溫柔的氛圍……所以明久超喜歡的！"
             }
         },
         "39": {
             "text": {
-                "ja": "とーたく、おういん、れんかんのけー……ふい～、漢字がいっぱいで大変だ！"
+                "en": "Toutaku, ouin, renkan-noke... Oof, there's so many kanji!",
+                "ja": "とーたく、おういん、れんかんのけー……ふい～、漢字がいっぱいで大変だ！",
+                "ko": "동탁, 왕윤, 연환계... 히잉~ 한자가 너무 많아서 힘들어!",
+                "zh_hant": "董卓、王允、連環計……呼～台詞裡有很多漢字，好難唸啊！"
             }
         },
         "40": {
             "text": {
-                "ja": "貂蝉の舞……ダンスのシーンは必見だよ！みんくとししょーの集大成なんだ☆"
+                "en": "Don't miss Diaochan's dance scene! Master and I worked really hard on it☆",
+                "ja": "貂蝉の舞……ダンスのシーンは必見だよ！みんくとししょーの集大成なんだ☆",
+                "ko": "초선의 춤... 댄스 장면은 꼭 봐야해! 밍크랑 스승님의 집대성이니까☆",
+                "zh_hant": "一定要看貂蟬之舞這個舞蹈場面！那可是集明久和師傅之大成的一幕喔☆"
             }
         },
         "41": {
             "text": {
-                "ja": "『フフッ、董卓は月の光に惑わされ、暗闇にいることにも気づかない……』"
+                "en": "\"Hee hee, Dong Zhuo is so bedazzled by the moonlight that he doesn't realize the darkness he finds himself in...\"",
+                "ja": "『フフッ、董卓は月の光に惑わされ、暗闇にいることにも気づかない……』",
+                "ko": "[후훗, 동탁은 달빛에 현혹되어 어둠 속에 있는 줄도 모르지...]",
+                "zh_hant": "『呵呵，董卓被月光迷惑，連自己正身處於黑暗也不知曉……』"
             }
         }
     },
@@ -40562,6 +41331,43 @@
                 "ja": "『生きることを恐れるな。運命とは、挑む者に微笑むのだ』",
                 "ko": "[살아가는 것을 두려워 마라. 운명이란 도전하는 자에게 미소를 짓는 법]",
                 "zh_hant": "『無須畏懼生命。命運總會向挑戰者微笑』"
+            }
+        }
+    },
+    "5010011": {
+        "35": {
+            "text": {
+                "ja": "『一番危険なしんがりこそが、私の立つ場所。恐れはない』"
+            }
+        },
+        "36": {
+            "text": {
+                "ja": "『戦士たちよ、血を流すことを恐れるな！誇りを胸に立ちあがれ！！』"
+            }
+        },
+        "37": {
+            "text": {
+                "ja": "愛城さんと大月さんとの会話は私と観点が違って、とても勉強になる。"
+            }
+        },
+        "38": {
+            "text": {
+                "ja": "雪代さんと討論を始めると、すぐに時間が経ってしまう……気をつけなきゃ。"
+            }
+        },
+        "39": {
+            "text": {
+                "ja": "巴さんに食事作法が綺麗と褒められた。あの人に言われると少し誇らしい。"
+            }
+        },
+        "40": {
+            "text": {
+                "ja": "美とは前を向く瞳から生まれる。これが私のタイガー・リリーを好きな理由よ。"
+            }
+        },
+        "41": {
+            "text": {
+                "ja": "『助けてくれた恩を忘れはしない。これより我が刃は、お前のものだ』"
             }
         }
     },

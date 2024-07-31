@@ -3775,6 +3775,38 @@
             "zh_hant": "烏列爾 愛城華戀"
         }
     },
+    "1010035": {
+        "chara_id": 101,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ピーター・パン 愛城華恋",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
+    "1010037": {
+        "chara_id": 101,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "The Last Line Encore Karen Aijo",
+            "ja": "最後のセリフ Encore 愛城華恋",
+            "ko": "마지막 대사 Encore 아이조 카렌",
+            "zh_hant": "最後的台詞 Encore 愛城華戀"
+        }
+    },
     "1020001": {
         "chara_id": 102,
         "description": {
@@ -4290,11 +4322,17 @@
     "1020036": {
         "chara_id": 102,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "塔 Encore 神楽ひかり"
+            "en": "Tower Encore Hikari Kagura",
+            "ja": "塔 Encore 神楽ひかり",
+            "ko": "탑 Encore 카구라 히카리",
+            "zh_hant": "塔 Encore 神樂光"
         }
     },
     "1030001": {
@@ -5897,6 +5935,22 @@
             "zh_hant": "靈魂的Revue Encore 天堂真矢"
         }
     },
+    "1050032": {
+        "chara_id": 105,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Warrior Maya Tendo",
+            "ja": "剣士マヤ 天堂真矢",
+            "ko": "검사 텐도 마야",
+            "zh_hant": "劍士 天堂真矢"
+        }
+    },
     "1050033": {
         "chara_id": 105,
         "description": {
@@ -6403,10 +6457,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Hunting Revue Encore Junna Hoshimi",
             "ja": "狩りのレヴュー Encore 星見純那",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "사냥의 레뷰 Encore 호시미 준나",
+            "zh_hant": "狩獵的Revue Encore 星見純那"
         }
     },
     "1060036": {
@@ -6921,6 +6975,22 @@
             "zh_hant": "皆殺的Revue 大場奈奈"
         }
     },
+    "1070032": {
+        "chara_id": 107,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Demon King Nana Nana Daiba",
+            "ja": "魔王ナナ 大場なな",
+            "ko": "마왕 나나 다이바 나나",
+            "zh_hant": "魔王奈奈 大場奈奈"
+        }
+    },
     "1080001": {
         "chara_id": 108,
         "description": {
@@ -7241,6 +7311,22 @@
             "zh_hant": "加拉哈德 Encore 石動雙葉"
         }
     },
+    "1080021": {
+        "chara_id": 108,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Resentment Revue Encore Futaba Isurugi",
+            "ja": "怨みのレヴュー Encore 石動双葉",
+            "ko": "원한의 레뷰 Encore 이스루기 후타바",
+            "zh_hant": "怨恨的Revue Encore 石動雙葉"
+        }
+    },
     "1080022": {
         "chara_id": 108,
         "description": {
@@ -7251,10 +7337,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Determined Bride Yuno Futaba Isurugi",
             "ja": "覚悟の花嫁 結乃 石動双葉",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "결연한 신부 유노 이스루기 후타바",
+            "zh_hant": "覺悟的新娘 結乃 石動雙葉"
         }
     },
     "1080023": {
@@ -7881,6 +7967,22 @@
             "zh_hant": "商人香子 花柳香子"
         }
     },
+    "1090033": {
+        "chara_id": 109,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Resentment Revue Encore Kaoruko Hanayagi",
+            "ja": "怨みのレヴュー Encore 花柳香子",
+            "ko": "원한의 레뷰 Encore 하나야기 카오루코",
+            "zh_hant": "怨恨的Revue Encore 花柳香子"
+        }
+    },
     "2010001": {
         "chara_id": 201,
         "description": {
@@ -8281,6 +8383,22 @@
             "zh_hant": "克麗奧佩脫拉 巴珠緒"
         }
     },
+    "2010034": {
+        "chara_id": 201,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ティンカー・ベル 巴珠緒",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "2020001": {
         "chara_id": 202,
         "description": {
@@ -8615,6 +8733,22 @@
             "ja": "地獄の番犬ケルベロス 音無いちえ",
             "ko": "지옥의 파수견 케르베로스 오토나시 이치에",
             "zh_hant": "地獄看門犬 克爾柏洛斯 音無一愛"
+        }
+    },
+    "2020036": {
+        "chara_id": 202,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Sun Encore Ichie Otonashi",
+            "ja": "太陽 Encore 音無いちえ",
+            "ko": "태양 Encore 오토나시 이치에",
+            "zh_hant": "太陽 Encore 音無一愛"
         }
     },
     "2030001": {
@@ -9993,6 +10127,22 @@
             "zh_hant": "桃樂西船長 大月艾露露"
         }
     },
+    "3010035": {
+        "chara_id": 301,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ウェンディ 大月あるる",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "3020001": {
         "chara_id": 302,
         "description": {
@@ -11225,6 +11375,22 @@
             "zh_hant": "魔女 胡蝶靜羽"
         }
     },
+    "3050036": {
+        "chara_id": 305,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Judgement Encore Shizuha Kocho",
+            "ja": "審判 Encore 胡蝶静羽",
+            "ko": "심판 Encore 코쵸 시즈하",
+            "zh_hant": "審判 Encore 胡蝶靜羽"
+        }
+    },
     "4010001": {
         "chara_id": 401,
         "description": {
@@ -11609,6 +11775,22 @@
             "zh_hant": "天之神 埃德爾 雪代晶"
         }
     },
+    "4010033": {
+        "chara_id": 401,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "フック船長 雪代晶",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "4020001": {
         "chara_id": 402,
         "description": {
@@ -11943,6 +12125,22 @@
             "ja": "稀代の陰陽師 安倍晴明 鳳ミチル",
             "ko": "희대의 음양사 아베노 세이메이 오토리 미치루",
             "zh_hant": "稀世陰陽師 安倍晴明 鳳未知留"
+        }
+    },
+    "4020036": {
+        "chara_id": 402,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Hierophant Encore Michiru Otori",
+            "ja": "法王 Encore 鳳ミチル",
+            "ko": "교황 Encore 오토리 미치루",
+            "zh_hant": "教皇 Encore 鳳未知留"
         }
     },
     "4030001": {
@@ -12604,11 +12802,17 @@
     "4040032": {
         "chara_id": 404,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "闇夜の悪鬼 酒呑童子 夢大路栞"
+            "en": "Dark Demon Shuten-doji Shiori Yumeoji",
+            "ja": "闇夜の悪鬼 酒呑童子 夢大路栞",
+            "ko": "어두운 밤의 악귀 슈텐도지 유메오지 시오리",
+            "zh_hant": "暗夜惡鬼 酒吞童子 夢大路栞"
         }
     },
     "4050001": {
@@ -13039,7 +13243,7 @@
         "name": {
             "en": "Mochizuki Chiyojo Yachiyo Tsuruhime",
             "ja": "望月千代女 鶴姫やちよ",
-            "ko": "모치즈키 치요메 츠루히메 야치요",
+            "ko": "모치즈키 치요죠 츠루히메 야치요",
             "zh_hant": "望月千代女 鶴姬八千代"
         }
     },
@@ -13347,6 +13551,22 @@
             "zh_hant": "騎士菲歐娜 小鳩良子"
         }
     },
+    "4080032": {
+        "chara_id": 408,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "Count of Monte Cristo Ryoko Kobato",
+            "ja": "モンテ・クリスト伯 小鳩良子",
+            "ko": "몬테 크리스토 백작 코바토 료코",
+            "zh_hant": "基度山伯爵 小鳩良子"
+        }
+    },
     "4090001": {
         "chara_id": 409,
         "description": {
@@ -13430,11 +13650,17 @@
     "4090032": {
         "chara_id": 409,
         "description": {
-            "ja": ""
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
         },
         "is_display_only": 0,
         "name": {
-            "ja": "貂蝉 海辺みんく"
+            "en": "Diaochan Minku Umibe",
+            "ja": "貂蝉 海辺みんく",
+            "ko": "초선 우미베 밍크",
+            "zh_hant": "貂蟬 海邊明久"
         }
     },
     "4100001": {
@@ -13675,6 +13901,22 @@
             "ja": "オフィウクス 柳小春",
             "ko": "오피우쿠스 야나기 코하루",
             "zh_hant": "蛇夫座 柳小春"
+        }
+    },
+    "5010011": {
+        "chara_id": 501,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "タイガー・リリー 柳小春",
+            "ko": "",
+            "zh_hant": ""
         }
     },
     "5010032": {
@@ -14125,6 +14367,22 @@
             "zh_hant": "烏列爾 愛城華戀"
         }
     },
+    "10100351": {
+        "chara_id": 101,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "ピーター・パン 愛城華恋",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "10200051": {
         "chara_id": 102,
         "description": {
@@ -14503,10 +14761,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Groom Edward Encore Maya Tendo",
             "ja": "花婿 エドワード Encore 天堂真矢",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "신랑 에드워드 Encore 텐도 마야",
+            "zh_hant": "新郎 愛德華 Encore 天堂真矢"
         }
     },
     "10600061": {
@@ -14759,10 +15017,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Determined Bride Yuno Futaba Isurugi",
             "ja": "覚悟の花嫁 結乃 石動双葉",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "결연한 신부 유노 이스루기 후타바",
+            "zh_hant": "覺悟的新娘 結乃 石動雙葉"
         }
     },
     "10900031": {
@@ -14839,10 +15097,10 @@
         },
         "is_display_only": 0,
         "name": {
-            "en": "",
+            "en": "Dreamy Bride June Kaoruko Hanayagi",
             "ja": "夢見る花嫁 ジューン 花柳香子",
-            "ko": "",
-            "zh_hant": ""
+            "ko": "꿈꾸는 신부 준 하나야기 카오루코",
+            "zh_hant": "追夢的新娘 六月 花柳香子"
         }
     },
     "20100051": {
@@ -15341,6 +15599,22 @@
             "zh_hant": "深藏不露 克勞斯上尉 雪代晶"
         }
     },
+    "40100331": {
+        "chara_id": 401,
+        "description": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh_hant": ""
+        },
+        "is_display_only": 0,
+        "name": {
+            "en": "",
+            "ja": "フック船長 雪代晶",
+            "ko": "",
+            "zh_hant": ""
+        }
+    },
     "40200061": {
         "chara_id": 402,
         "description": {
@@ -15497,7 +15771,7 @@
         "name": {
             "en": "Mochizuki Chiyojo Yachiyo Tsuruhime",
             "ja": "望月千代女 鶴姫やちよ",
-            "ko": "모치즈키 치요메 츠루히메 야치요",
+            "ko": "모치즈키 치요죠 츠루히메 야치요",
             "zh_hant": "望月千代女 鶴姬八千代"
         }
     },
