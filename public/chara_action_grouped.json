@@ -1213,6 +1213,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "The Last Line Encore Karen Aijo": {
@@ -1228,6 +1237,11 @@
         ],
         "touch_normal": [
             "Hikari-chan, you're so pretty...and yet...so scary."
+        ],
+        "My Theater": [
+            "Was the stage always...this scary?",
+            "I only had eyes for Hikari-chan...",
+            "I now understand why I'm on the stage..."
         ]
     },
     "Da Vinci Karen Aijo (Skin)": {
@@ -2474,14 +2488,14 @@
             "The Tower's upright position means adversity, collapse, destruction and failure."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "...This? This is a deck of Mr. White tarot cards. It's a limited-time item.",
+            "In this card, Mr. White gets struck by lighting and falls off a tower... It's cutely drawn.",
+            "The first draft of the \"Performance Festival\" script was really thick and warm.",
+            "I'm feeling nervous not knowing who's going to play which role...",
+            "I think they gave it a lot of thought when matching everyone to all the Arcana.",
+            "I'm not against high places like a tower...",
+            "This will be the first time I act in the \"Performance Festival\"... I'll perform like I've never done before...!",
+            "\"I don't understand why you act like that\" is something that at times I want to say too..."
         ]
     },
     "Amaterasu Hikari Kagura (Skin)": {
@@ -5064,9 +5078,9 @@
             "The moment you see that brilliance...I'll have your soul in my hand."
         ],
         "My Theater": [
-            null,
-            null,
-            null
+            "Hand that soul over!!",
+            "Let's make a bet, performer.",
+            "I...am your rival!!"
         ]
     },
     "Aladdin Claudine Saijo (Skin)": {
@@ -6258,14 +6272,13 @@
             "For the scene where the Demon King controls the warrior, I kept the Demon King's imposing demeanor in mind, so as not to be overshadowed by Daiba-san's lines."
         ],
         "My Theater": [
-            "Do the buttons on game controllers increase as the consoles evolve?",
-            "I didn't know you could play games on your smartphone.",
-            "I need to further improve my action scenes... They need to be perfect.",
-            "I want to go over the scene in act 3 where Saijo-san and I reunite again.",
-            "They cleared it with such low level characters. There are all kinds of masters in this world.",
-            "Sorrow of a ruined nation... It must feel as painful as losing your stage.",
-            "Hard work always pays off. This has really been hitting home for me recently.",
-            "\"I've given up on defense...It's my turn to attack!!\""
+            "\"Princess Claudine... What use is my blade if it cannot protect you...?\"",
+            "\"The hero is truly a dependable ally. But I will not let him best me in swordsmanship!\"",
+            "\"Now I can understand the despair the Demon King feels. Even though we are mortal enemies...\"",
+            "It suits me well to travel from place to place, conquering them one by one.",
+            "Audiences approach games and the stage very differently. I have to keep that in mind as I act.",
+            "I wouldn't have had a chance to portray being manipulated were it not for this play. It's a good experience.",
+            "Now, how do I portray the moves the warrior uses in the game? This will truly be a test of my skills."
         ]
     },
     "Groom Edward Encore Maya Tendo": {
@@ -6293,14 +6306,14 @@
             "\"I won't belong to anyone, but I will always be in your heart.\""
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Is there anyone who would like to do an etude with Edward?",
+            "Even the way you walk must also be charming.",
+            "It seems Kagura-san prefers Mr. White over Edward.",
+            "I had a dream about Isurugi-san wearing a white kimono and riding a motorcycle.",
+            "Okay then—time to practice the part of Edward getting hit on the cheek... \"Bwargh!\"",
+            "I would also like to wear a dress and a white kimono on stage someday.",
+            "Right, let's do some vocal training to work on Edward's voice.",
+            "\"Was there some lint on me? Thank you, my sweetheart.\""
         ]
     },
     "Maid Melissa Maya Tendo (Skin)": {
@@ -7478,9 +7491,9 @@
             "You're the one who's been blinded! Because the me on this stage—the one on this stage—is the dazzling lead, Junna Hoshimi!"
         ],
         "My Theater": [
-            null,
-            null,
-            null
+            "No...I need to express it in my own words!",
+            "\"Those who follow their own path is a hero.\" A quote by Hermann Hesse. Words give me the push on the back that I need. Words give me strength!",
+            "That must be my next stage. I won't give up even if it's far. Stretch out my hand towards the stage where Junna Hoshimi is the lead."
         ]
     },
     "High Priestess Encore Junna Hoshimi": {
@@ -8656,6 +8669,15 @@
         "touch_normal": [
             "In the scene where the Demon King controls the warrior, Maya-chan and I have to say some of our lines at the same time. Heh heh, I'm excited because it really does feel like I'm controlling her.",
             "I haven't played since the last time we did Epic of Bravery, but I picked up another installment to try. This one is really difficult, too."
+        ],
+        "My Theater": [
+            "Princess of the fallen kingdom—I commend your strength. If only others displayed that same courage...\"",
+            "\"That warrior's hidden regrets are the perfect tool to make him play right into my hand. I shall take full advantage of him.\"",
+            "\"So the hero has chosen to fight me once again. Those eyes haven't changed one bit...\"",
+            "I really like these color contacts because they're perfect for the Demon King.",
+            "If I don't pay attention, I might end up stepping on my cape. That's not a fitting look for the Demon King.",
+            "Clau-chan and Maya-chan are fighting over the controller again. They sure are close.",
+            "Does this...look dignified enough? The Demon King needs to wait with dignity."
         ]
     },
     "Phantom Nana Daiba (Skin)": {
@@ -9502,6 +9524,11 @@
         ],
         "touch_normal": [
             "I want to stand on the peak stage and become someone worthy of you."
+        ],
+        "My Theater": [
+            "We are so pathetic...",
+            "I have to stand on the stage with my own two feet.",
+            "This time is my turn to be selfish."
         ]
     },
     "Determined Bride Yuno Futaba Isurugi": {
@@ -9526,13 +9553,13 @@
             "You know, the night after I taught Banana how to give foot massages, I think I heard Hoshimi's screams coming from their room..."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"My bridal training is finished... Now all I need to do is marry him.\"",
+            "\"This is a once-in-a-lifetime moment for me... Do sear the image into your eyes.\"",
+            "She's still wearing that pearl necklace, even now that the show's over.",
+            "Edward's a bit of, well, a character... But man, Tendo in a tuxedo is a powerful image.",
+            "It was pretty embarrassing to do Yuno's prissy rich girl shtick, but I'm used to it now.",
+            "The day before the show, Kagura came up to me and was like, \"Break a leg, Yuno.\"",
+            "\"You...PIG!\""
         ]
     },
     "Martial Artist Futaba Isurugi": {
@@ -10811,13 +10838,13 @@
             "When I told Kagura-han I won the audition for June, she was really happy for me. Now I really gotta make her proud."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"No matter how heavy the dress or how high the heels, I'll find my happy ending!\"",
+            "\"I'm looking forward to the wedding, but the honeymoon, too! I can't wait to travel the world with the one I love♪\"",
+            "Kimonos and dresses have a lot in common. The posture you have to take to make them look good is pretty similar.",
+            "Surely even Banana-han can't... Actually, no, I bet she COULD make a wedding cake.",
+            "Futaba-han and Clau-han and Tendo-han went to a candy shop? Why didn't they invite me!?",
+            "Ooh, I want this bouquet... Is the bride allowed to go chase the bouquet after she throws it?",
+            "\"Really, I wish Yuno and I could both be brides... Is there no way to make that happen?\""
         ]
     },
     "Merchant Kaoruko Kaoruko Hanayagi": {
@@ -10864,6 +10891,11 @@
         ],
         "touch_normal": [
             "Tell me how you really feel. You were annoyed, right? Show it."
+        ],
+        "My Theater": [
+            "What's with that attitude? Acting as if it's for my own good...",
+            "You're always spouting out your ideals, generalizations, and reasonings.",
+            "You big, fat liar!"
         ]
     },
     "Mischievous Bat Witch Kaoruko Hanayagi (Skin)": {
@@ -11884,6 +11916,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Hijikata Toshizo Tamao Tomoe (Skin)": {
@@ -12688,6 +12729,16 @@
         "touch_normal": [
             "Here I am! The nineteenth Arcana, \"Sun\"!",
             "The \"Sun\" Arcana! Its upright position means things like success, satisfaction, and birth!"
+        ],
+        "My Theater": [
+            "Here's the \"Sun\" costume! It's like a stage outfit. Isn't it adorable?!",
+            "I want a singing part for \"Sun\" in the Performance Festival☆",
+            "Yuyuko and Rui are growing up during the Performance Festival too.",
+            "I'm Rinmeikan's \"sun\"? Right? Say it again!",
+            "There are things that only I can say. So, Fumi...",
+            "Burning herself to emit light—that's the kind of star the \"Sun\" is!",
+            "Brightly lighting up the entire stage – that's the kind of \"Sun\" I want to play!",
+            "\"I won't stop singing even when I sink into darkness. Because light will rise once again!\""
         ]
     },
     "GENERIC Fumi Yumeoji": {
@@ -15912,6 +15963,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Easter Bunny Aruru Otsuki (Skin)": {
@@ -18834,6 +18894,16 @@
         "touch_normal": [
             "\"Judgement\" is the twenty-second Major Arcana. It depicts the \"last judgement\", and the end of the story.",
             "\"Judgement's\" upright position means \"development\", \"awakening\", \"rebirth\". I feel like it represents us Stage Girls."
+        ],
+        "My Theater": [
+            "\"Judgement's\" costume features the same design as the costumes for Frontier.",
+            "I feel so happy when I'm surrounded by my favorite consoles, and I can play my favorite games...",
+            "As long as Aruru-chan and Misora-chan are around, Frontier is in fine hands.",
+            "W-What are you suggesting, Tsukasa? I-I only play games for an hour a day, you know...!",
+            "I've finally completed the special drink for the Performance Festival. ...? Where has everyone gone?!",
+            "We'll show everyone our renewed brilliance at the Performance Festival.",
+            "All the co-performers will feel reborn once they see my \"Judgement\"!",
+            "\"I will lead everyone...to the Paradise beyond \"judgement\".\""
         ]
     },
     "Easter Bunny Shizuha Kocho (Skin)": {
@@ -19765,6 +19835,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Perseus Akira Yukishiro (Skin)": {
@@ -20644,6 +20723,16 @@
         "touch_normal": [
             "The \"Hierophant\" is the 5th Major Arcana! Same as the number of \"Edels\".",
             "The upright position of the \"Hierophant\" Arcana means empathy, compassion, wide perspective. Wide perspective... Do I actually have that?"
+        ],
+        "My Theater": [
+            "Even among all the amazing members of the Performance Festival, Akira is still Akira. Yeah!",
+            "I can't wait to see what kind of performance all the \"Edels\" will give at the Performance Festival!",
+            "I was able to see all kinds of things after talking to Nana-chan.",
+            "Shiori was such a frail child... She's gotten stronger.",
+            "Mei Fan, you have to follow the lights-out time!",
+            "The \"Hierophant\" sets the rules and guides everyone toward the stage of the future...",
+            "I've always been interested in directing and producing plays... I gotta work hard!",
+            "\"Let's go together with His teachings in mind. To the end of this path—to that paradise.\""
         ]
     },
     "Orihime Michiru Otori (Skin)": {
@@ -22258,13 +22347,13 @@
             "In Book of Shuten-doji, we create the moon with a really big light. We show the passage of time with the phases of the moon... It's really pretty."
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Ah, how my stomach churns. I should have torn that infuriating warrior limb from limb.\"",
+            "\"Parents? I couldn't care less. All a demon wants is crimson flowers spewing from human bodies.\"",
+            "We did a demon etude during our break. I wonder who was the scariest.",
+            "Staring down the bottomless uncanniness of Yukishiro-senpai's Ashiya Doman sends a shiver up my spine.",
+            "It's so interesting to compare my Shuten-doji costume with Fumi's and see what each of us brings to the character.",
+            "Long ago, Shuten-doji and Minamoto no Yorimitsu had already met... That's an interesting hook.",
+            "\"Our kindness is our fangs, our warmth is our blood, and our arms are an unescapable cage... That is what demons are.\""
         ]
     },
     "GENERIC Yachiyo Tsuruhime": {
@@ -23204,13 +23293,13 @@
             "Heh heh! I gotta tell Shiori what happened at practice today... I wish she could've seen how adorable Fumi-san was being♪"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"Oh, are you curious about the village of the nonou? If you wish to see hell on earth, then follow me.\"",
+            "\"...Do not call me your mother. I have long abandoned the emotion of love.\"",
+            "Haah... Mei Fan lectured me up, down, and sideways about this guest performance thing.",
+            "Hup... Is it just me, or did Shiori make a bit too many snacks for me to take to Rinmeikan?",
+            "In this play, Fumi-san's playing Mochizuki Moritoki... That's my hubby♪",
+            "Ahh, Tamao-san's lap was to die for♪ Next target, Fumi-san!",
+            "\"If you intend to come with me, then do not dally. I will never look back again.\""
         ]
     },
     "Fool Encore Yachiyo Tsuruhime": {
@@ -24213,6 +24302,15 @@
         "touch_normal": [
             "Minku's always giving me compliments... She always knows how to cheer me up.",
             "Kuina-chan helped me look for reference material. She found me all kinds of things, from digest versions to unabridged versions."
+        ],
+        "My Theater": [
+            "\"I hauled myself out of the depths of the earth, and I will have my revenge!\"",
+            "Dantes burned with his fixation on revenge... But even he had hope.",
+            "\"My revenge is complete... But what do I have left...?\"",
+            "\"Abbe Faria was my salvation from the darkness and solitude.\"",
+            "This play has dance scenes, so I'd better have Stella-chan take a look at my practice.",
+            "\"So long as my revenge is complete, I can walk any path, no matter how cruel.\"",
+            "Shizuha-senpai's so mature and pretty! Talk about life goals..."
         ]
     },
     "GENERIC Minku Umibe": {
@@ -24503,13 +24601,13 @@
             "Tsuruhime-senpai showed me her Diaochan, too, but it was totally different from Master's. You coulda knocked me over with a feather☆"
         ],
         "My Theater": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "\"I dislike the violent... But somehow, Lu Bu alone lights a fire in my heart.\"",
+            "\"Once, I was abandoned. I will never forget the debt I owe my father for taking me in.\"",
+            "I just can't help but smile when I'm talking to Master. She's so awesome.",
+            "Rinmeikan's so quiet and dignified and gentle... That's why I like it!",
+            "Toutaku, ouin, renkan-noke... Oof, there's so many kanji!",
+            "Don't miss Diaochan's dance scene! Master and I worked really hard on it☆",
+            "\"Hee hee, Dong Zhuo is so bedazzled by the moonlight that he doesn't realize the darkness he finds himself in...\""
         ]
     },
     "GENERIC Kuina Moriyasu": {
@@ -25197,6 +25295,15 @@
         "touch_normal": [
             "",
             ""
+        ],
+        "My Theater": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "Pure Snow White Koharu Yanagi": {
